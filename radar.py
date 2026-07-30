@@ -577,7 +577,7 @@ def build_message(
     )
 
 
-def send_to_telegram(message: str) -> None:
+def send_to_telegram(message: str, link: str) -> None:
     endpoint = (
         "https://api.telegram.org/"
         f"bot{BOT_TOKEN}/sendMessage"
@@ -592,7 +592,13 @@ def send_to_telegram(message: str) -> None:
 
             # Keep Telegram posts compact by removing
             # the large image and article preview card.
-            "disable_web_page_preview": True,
+            "link_preview_options": {
+    "is_disabled": False,
+    "url": link,
+    "prefer_small_media": True,
+    "prefer_large_media": False,
+    "show_above_text": False,
+},
         },
         timeout=30,
     )
@@ -717,9 +723,10 @@ def main() -> None:
             f"{article['headline']}"
         )
 
-        send_to_telegram(
-            build_message(article)
-        )
+       send_to_telegram(
+    build_message(article),
+    article["link"],
+)
 
         published += 1
         time.sleep(2)
