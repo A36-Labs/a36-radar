@@ -4,9 +4,14 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Runs every 3 hours at 20 minutes past the hour.
-    # GitHub scheduled workflows use UTC by default.
-    - cron: "20 */3 * * *"
+    - cron: "30 1 * * *"
+      timezone: "UTC"
+
+    - cron: "30 9 * * *"
+      timezone: "UTC"
+
+    - cron: "30 17 * * *"
+      timezone: "UTC"
 
 permissions:
   contents: write
