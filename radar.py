@@ -2,6 +2,7 @@ import hashlib
 import html
 import json
 import os
+import re
 import time
 from pathlib import Path
 from typing import Any
@@ -14,9 +15,11 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 
 STATE_FILE = Path("seen_articles.json")
-MAX_POSTS_PER_RUN = 3
 
-# Start with reliable, broad sources. More can be added later.
+MAX_POSTS_PER_RUN = 2
+MAX_HISTORY = 5000
+ARTICLE_MAX_AGE_HOURS = 36
+
 FEEDS = [
     {
         "name": "TechCrunch Startups",
@@ -29,23 +32,161 @@ FEEDS = [
         "category": "Web3 & Crypto",
     },
     {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/rss/index.xml",
-        "category": "Technology",
+        "name": "Cointelegraph",
+        "url": "https://cointelegraph.com/rss",
+        "category": "Web3 & Crypto",
+    },
+    {
+        "name": "Decrypt",
+        "url": "https://decrypt.co/feed",
+        "category": "Web3 & Crypto",
     },
 ]
 
+IMPORTANT_KEYWORDS = {
+    # Funding and startups
+    "raises",
+    "raised",
+    "funding",
+    "fundraise",
+    "fundraising",
+    "seed round",
+    "series a",
+    "series b",
+    "series c",
+    "venture capital",
+    "valuation",
+    "invests",
+    "investment",
+    "backed by",
+    "acquires",
+    "acquisition",
+    "merger",
+    "launches",
+    "startup",
+
+    # Public markets and IPOs
+    "ipo",
+    "initial public offering",
+    "public listing",
+    "files for ipo",
+    "stock exchange",
+    "nasdaq",
+    "nyse",
+    "earnings",
+    "market cap",
+
+    # AI and frontier technology
+    "artificial intelligence",
+    "generative ai",
+    "foundation model",
+    "large language model",
+    "open source",
+    "developer tools",
+    "developer platform",
+    "robotics",
+    "semiconductor",
+    "quantum",
+    "cloud infrastructure",
+
+    # Web3 and crypto
+    "bitcoin",
+    "ethereum",
+    "crypto",
+    "cryptocurrency",
+    "blockchain",
+    "web3",
+    "stablecoin",
+    "tokenization",
+    "defi",
+    "layer 2",
+    "layer-2",
+    "mainnet",
+    "protocol",
+    "wallet",
+    "exchange",
+    "digital assets",
+    "institutional adoption",
+    "crypto regulation",
+    "sec",
+    "etf",
+}
+
+HIGH_PRIORITY_KEYWORDS = {
+    "raises",
+    "raised",
+    "funding",
+    "acquisition",
+    "acquires",
+    "merger",
+    "ipo",
+    "files for ipo",
+    "valuation",
+    "bitcoin",
+    "ethereum",
+    "stablecoin",
+    "regulation",
+    "developer platform",
+    "open source",
+    "artificial intelligence",
+    "foundation model",
+}
+
+BLOCKED_KEYWORDS = {
+    # Consumer product noise
+    "keyboard",
+    "mouse",
+    "headphones",
+    "earbuds",
+    "smartwatch",
+    "gaming chair",
+    "phone case",
+    "laptop review",
+    "product review",
+    "buying guide",
+    "discount",
+    "coupon",
+    "deal of the day",
+    "best price",
+
+    # Entertainment and lifestyle
+    "celebrity",
+    "movie review",
+    "tv show",
+    "streaming series",
+    "trailer",
+    "gaming review",
+    "video game review",
+
+    # Low-quality crypto content
+    "price prediction",
+    "could reach",
+    "next 100x",
+    "moonshot",
+    "presale",
+    "airdrop guide",
+    "buy now",
+    "sponsored",
+    "partner content",
+}
+
+SOURCE_PRIORITY = {
+    "TechCrunch Startups": 4,
+    "CoinDesk": 5,
+    "Cointelegraph": 3,
+    "Decrypt": 3,
+}
+
 
 def validate_environment() -> None:
-    """Stop safely when required GitHub Secrets are missing."""
     if not BOT_TOKEN:
         raise RuntimeError("TELEGRAM_BOT_TOKEN is missing.")
+
     if not CHAT_ID:
         raise RuntimeError("TELEGRAM_CHAT_ID is missing.")
 
 
 def load_seen_articles() -> set[str]:
-    """Load IDs of previously processed articles."""
     if not STATE_FILE.exists():
         return set()
 
@@ -57,8 +198,8 @@ def load_seen_articles() -> set[str]:
 
 
 def save_seen_articles(seen: set[str]) -> None:
-    """Keep a limited history so the state file stays small."""
-    limited_seen = list(seen)[-3000:]
+    limited_seen = list(seen)[-MAX_HISTORY:]
+
     STATE_FILE.write_text(
         json.dumps({"seen": limited_seen}, indent=2),
         encoding="utf-8",
@@ -66,41 +207,40 @@ def save_seen_articles(seen: set[str]) -> None:
 
 
 def article_id(entry: Any) -> str:
-    """Create a stable ID from the article link or title."""
-    value = entry.get("link") or entry.get("id") or entry.get("title", "")
+    value = (
+        entry.get("link")
+        or entry.get("id")
+        or entry.get("title", "")
+    )
+
     return hashlib.sha256(value.encode("utf-8")).hexdigest()
 
 
 def publication_timestamp(entry: Any) -> float:
-    """Return the article publication timestamp when available."""
-    parsed_time = entry.get("published_parsed") or entry.get("updated_parsed")
+    parsed_time = (
+        entry.get("published_parsed")
+        or entry.get("updated_parsed")
+    )
 
     if parsed_time:
         return time.mktime(parsed_time)
 
-    return 0.0
+    return time.time()
 
 
-def clean_summary(entry: Any, maximum_length: int = 260) -> str:
-    """Create a short plain-text summary from an RSS entry."""
-    raw_summary = entry.get("summary", "") or entry.get("description", "")
+def strip_html(value: str) -> str:
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = html.unescape(value)
+    return " ".join(value.split())
 
-    # Basic removal of HTML tags without adding another dependency.
-    inside_tag = False
-    characters: list[str] = []
 
-    for character in raw_summary:
-        if character == "<":
-            inside_tag = True
-            continue
-        if character == ">":
-            inside_tag = False
-            continue
-        if not inside_tag:
-            characters.append(character)
+def clean_summary(entry: Any, maximum_length: int = 230) -> str:
+    raw_summary = (
+        entry.get("summary", "")
+        or entry.get("description", "")
+    )
 
-    summary = html.unescape("".join(characters))
-    summary = " ".join(summary.split())
+    summary = strip_html(raw_summary)
 
     if len(summary) > maximum_length:
         summary = summary[: maximum_length - 1].rstrip() + "…"
@@ -108,8 +248,67 @@ def clean_summary(entry: Any, maximum_length: int = 260) -> str:
     return summary
 
 
+def article_text(article: dict[str, Any]) -> str:
+    return (
+        f"{article['title']} "
+        f"{article['summary']} "
+        f"{article['category']}"
+    ).lower()
+
+
+def calculate_relevance(article: dict[str, Any]) -> int:
+    text = article_text(article)
+
+    if any(keyword in text for keyword in BLOCKED_KEYWORDS):
+        return -100
+
+    matches = {
+        keyword
+        for keyword in IMPORTANT_KEYWORDS
+        if keyword in text
+    }
+
+    if not matches:
+        return -100
+
+    score = len(matches) * 2
+    score += SOURCE_PRIORITY.get(article["source"], 0)
+
+    for keyword in HIGH_PRIORITY_KEYWORDS:
+        if keyword in text:
+            score += 4
+
+    # Prioritise clearly reported deals with numbers.
+    if re.search(r"\$\s?\d+|\d+\s?(million|billion)", text):
+        score += 3
+
+    # Prefer regulation, institutional adoption and infrastructure.
+    strategic_terms = {
+        "regulation",
+        "institutional",
+        "infrastructure",
+        "developer",
+        "open source",
+        "mainnet",
+        "sec",
+        "etf",
+    }
+
+    score += sum(
+        2 for term in strategic_terms if term in text
+    )
+
+    return score
+
+
+def is_recent(article: dict[str, Any]) -> bool:
+    age_seconds = time.time() - article["timestamp"]
+    maximum_age = ARTICLE_MAX_AGE_HOURS * 60 * 60
+
+    return 0 <= age_seconds <= maximum_age
+
+
 def build_message(article: dict[str, Any]) -> str:
-    """Create the Telegram post."""
     title = html.escape(article["title"])
     source = html.escape(article["source"])
     category = html.escape(article["category"])
@@ -129,8 +328,10 @@ def build_message(article: dict[str, Any]) -> str:
 
 
 def send_to_telegram(message: str) -> None:
-    """Publish one message through the Telegram Bot API."""
-    endpoint = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+    endpoint = (
+        f"https://api.telegram.org/"
+        f"bot{BOT_TOKEN}/sendMessage"
+    )
 
     response = requests.post(
         endpoint,
@@ -146,46 +347,63 @@ def send_to_telegram(message: str) -> None:
     response.raise_for_status()
 
     result = response.json()
+
     if not result.get("ok"):
-        raise RuntimeError(f"Telegram rejected the message: {result}")
+        raise RuntimeError(
+            f"Telegram rejected the message: {result}"
+        )
 
 
 def collect_articles() -> list[dict[str, Any]]:
-    """Fetch and combine articles from all configured feeds."""
     articles: list[dict[str, Any]] = []
 
     for feed_config in FEEDS:
         print(f"Checking {feed_config['name']}...")
 
-        feed = feedparser.parse(feed_config["url"])
+        feed = feedparser.parse(
+            feed_config["url"],
+            request_headers={
+                "User-Agent": "A36Radar/1.0"
+            },
+        )
 
         if feed.bozo:
             print(
-                f"Warning: feed issue for {feed_config['name']}: "
+                f"Feed warning for {feed_config['name']}: "
                 f"{feed.bozo_exception}"
             )
 
-        for entry in feed.entries[:10]:
-            title = " ".join(entry.get("title", "Untitled").split())
+        for entry in feed.entries[:15]:
+            title = " ".join(
+                entry.get("title", "Untitled").split()
+            )
+
             link = entry.get("link", "").strip()
 
             if not link:
                 continue
 
-            articles.append(
-                {
-                    "id": article_id(entry),
-                    "title": title,
-                    "link": link,
-                    "summary": clean_summary(entry),
-                    "source": feed_config["name"],
-                    "category": feed_config["category"],
-                    "timestamp": publication_timestamp(entry),
-                }
-            )
+            article = {
+                "id": article_id(entry),
+                "title": title,
+                "link": link,
+                "summary": clean_summary(entry),
+                "source": feed_config["name"],
+                "category": feed_config["category"],
+                "timestamp": publication_timestamp(entry),
+            }
 
-    # Newest stories first.
-    articles.sort(key=lambda item: item["timestamp"], reverse=True)
+            article["score"] = calculate_relevance(article)
+            articles.append(article)
+
+    articles.sort(
+        key=lambda item: (
+            item["score"],
+            item["timestamp"],
+        ),
+        reverse=True,
+    )
+
     return articles
 
 
@@ -195,25 +413,37 @@ def main() -> None:
     seen = load_seen_articles()
     articles = collect_articles()
 
-    new_articles = [
-        article for article in articles if article["id"] not in seen
+    eligible_articles = [
+        article
+        for article in articles
+        if article["id"] not in seen
+        and article["score"] > 0
+        and is_recent(article)
     ]
 
-    print(f"Found {len(new_articles)} new article(s).")
+    print(
+        f"Found {len(eligible_articles)} "
+        "relevant new article(s)."
+    )
 
-    # Mark every fetched article as seen, including stories beyond the posting
-    # limit. This prevents an old backlog from being posted on later runs.
+    # Mark everything fetched as processed so rejected articles
+    # do not repeatedly return during future runs.
     for article in articles:
         seen.add(article["id"])
 
-    posts = new_articles[:MAX_POSTS_PER_RUN]
+    posts = eligible_articles[:MAX_POSTS_PER_RUN]
 
     for article in posts:
-        print(f"Publishing: {article['title']}")
+        print(
+            f"Publishing score {article['score']}: "
+            f"{article['title']}"
+        )
+
         send_to_telegram(build_message(article))
         time.sleep(2)
 
     save_seen_articles(seen)
+
     print(f"Published {len(posts)} article(s).")
 
 
