@@ -679,7 +679,6 @@ def collect_articles() -> list[dict[str, Any]]:
 
     return articles
 
-
 def main() -> None:
     validate_environment()
 
@@ -699,8 +698,8 @@ def main() -> None:
         "relevant new candidate(s)."
     )
 
-    # Mark fetched articles as processed so rejected stories
-    # do not return during every future workflow run.
+    # Mark fetched stories as processed so rejected stories
+    # do not return during every future run.
     for article in articles:
         seen.add(article["id"])
 
@@ -719,14 +718,13 @@ def main() -> None:
         article["short_summary"] = editorial["summary"]
 
         print(
-            f"Publishing: "
-            f"{article['headline']}"
+            f"Publishing: {article['headline']}"
         )
 
-       send_to_telegram(
-    build_message(article),
-    article["link"],
-)
+        send_to_telegram(
+            build_message(article),
+            article["link"],
+        )
 
         published += 1
         time.sleep(2)
@@ -740,3 +738,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
