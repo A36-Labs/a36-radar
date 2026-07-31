@@ -1,360 +1,213 @@
-A36 Radar
+# A36 Radar
 
-A36 Radar is a free, open-source Telegram news automation that monitors selected RSS feeds, filters low-value stories, uses GitHub Models to create compact summaries, and publishes the strongest updates to a Telegram channel.
+> Automated technology, startup, AI, Web3 and market intelligence for the A36 Labs community.
 
-It is designed for technology communities covering:
+[![A36 Radar](https://github.com/A36Labs/a36-radar/actions/workflows/radar.yml/badge.svg)](https://github.com/A36Labs/a36-radar/actions/workflows/radar.yml)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![License](https://img.shields.io/github/license/A36Labs/a36-radar)](LICENSE)
 
-AI and frontier technology
+**A36 Radar** is an open-source Telegram news automation system built by A36 Labs.
 
-Startups, venture funding, mergers and acquisitions
+It collects updates from selected RSS feeds, filters relevant stories, creates concise AI-assisted summaries and publishes them directly to Telegram.
 
-Web3, crypto infrastructure and regulation
+## Features
 
-Global stocks and public markets
+- Collects news from multiple RSS feeds
+- Filters stories using topics and keywords
+- Creates short summaries with Google Gemini
+- Prevents duplicate posts
+- Supports images and Telegram link previews
+- Runs automatically through GitHub Actions
+- Tracks previously published articles
+- Works without a dedicated server
 
-IPOs and new listings
+## Topics
 
-Major public-company and central-bank developments
+A36 Radar focuses on:
 
-How it works
+- Artificial intelligence
+- Startups and funding
+- Venture capital
+- Web3 and crypto
+- Open source
+- Developer tools
+- Public markets and IPOs
+- Global technology news
 
+## How it works
+
+```text
 RSS feeds
    ↓
-Keyword pre-filter and duplicate removal
+Story filtering
    ↓
-GitHub Models editorial selection and shortening
+Duplicate detection
    ↓
-Telegram channel
+AI-assisted summary
    ↓
-Linked Telegram discussion group, if configured
+Telegram publishing
+   ↓
+Update seen_articles.json
+```
 
-The workflow runs twice daily by default, at 07:30 UTC and 16:30 UTC, and publishes no more than two stories per run.
+## Project structure
 
-Included sources
+```text
+a36-radar/
+├── .github/
+│   └── workflows/
+│       └── radar.yml
+├── radar.py
+├── requirements.txt
+├── seen_articles.json
+├── README.md
+└── LICENSE
+```
 
-Area
+## Setup
 
-Sources
+### 1. Fork or clone the repository
 
-Startups and funding
+```bash
+git clone https://github.com/A36Labs/a36-radar.git
+cd a36-radar
+```
 
-TechCrunch Startups
+### 2. Install dependencies
 
-AI
+```bash
+pip install -r requirements.txt
+```
 
-TechCrunch AI
-
-Web3 and crypto
-
-CoinDesk, Cointelegraph, Decrypt
-
-Global business and markets
-
-BBC Business, The Guardian Business
-
-IPOs
-
-Nasdaq IPOs
-
-Markets and regulation
-
-U.S. SEC Press Releases
-
-Feed availability and publisher URLs can change. A failed feed is skipped without stopping the remaining workflow.
-
-Telegram post format
-
-📡 A36 RADAR
-
-Company raises $50M for its AI developer platform
-The round will support product expansion and international growth.
-
-Startups & Funding · TechCrunch Startups
-Read ↗
-
-The bot requests a smaller Telegram link preview when the source supports it. Telegram or the publisher may still choose a larger preview.
-
-Requirements
-
-A GitHub account
-
-A Telegram bot created with BotFather
-
-A public or private Telegram channel
-
-The bot added to the channel as an administrator with Post Messages permission
-
-No separate OpenAI API key is required when the workflow runs through GitHub Actions. GitHub-hosted workflows receive a GITHUB_TOKEN, and the workflow grants it models: read permission. GitHub Models and GitHub Actions remain subject to GitHub's current limits and terms.
-
-Installation
-
-1. Create the Telegram bot
-
-Open @BotFather.
-
-Send /newbot.
-
-Choose a name and a username ending in bot.
-
-Save the token privately.
-
-Add the bot to your Telegram channel as an administrator.
-
-Give it only Post Messages permission.
-
-Never commit the token to the repository.
-
-2. Copy this repository
-
-Fork the repository, or create a new repository and add these files:
-
-.github/workflows/radar.yml
-.gitignore
-README.md
-radar.py
-requirements.txt
-seen_articles.json
-
-Keep seen_articles.json tracked by Git. The workflow updates it to prevent duplicate posts.
-
-3. Add GitHub Actions secrets
+### 3. Add GitHub Actions secrets
 
 Open:
 
-Repository → Settings → Secrets and variables → Actions → Secrets
+```text
+Repository Settings
+→ Secrets and variables
+→ Actions
+→ New repository secret
+```
 
-Create:
+Add:
 
-Secret
-
-Value
-
+```text
 TELEGRAM_BOT_TOKEN
-
-The token generated by BotFather
-
 TELEGRAM_CHAT_ID
+GEMINI_API_KEY
+```
 
-Your channel username, such as @YourChannel
+Optional:
 
-Do not create a GITHUB_TOKEN secret. GitHub supplies it automatically to the workflow.
-
-4. Add optional repository variables
-
-Open:
-
-Repository → Settings → Secrets and variables → Actions → Variables
-
-These are optional:
-
-Variable
-
-Default
-
-Purpose
-
-AI_MODEL
-
-openai/gpt-4o-mini
-
-GitHub Models model ID
-
-MAX_POSTS_PER_RUN
-
-2
-
-Maximum Telegram posts per run
-
-MAX_AI_CANDIDATES
-
-10
-
-Maximum stories sent to the AI editor
-
-ARTICLE_MAX_AGE_HOURS
-
-36
-
-Ignore older articles
-
+```text
 RSS_USER_AGENT
+```
 
-Built-in default
+Never commit real API keys or Telegram credentials to the repository.
 
-Identifies the RSS client
+### 4. Run the workflow
 
-For SEC access, use a declared user agent that includes a real organization and contact email, for example:
+Open the repository’s **Actions** tab, select the A36 Radar workflow and click:
 
-YourCompanyName admin@yourdomain.com
+```text
+Run workflow
+```
 
-5. Confirm workflow permissions
+The workflow will also run automatically according to the schedule configured in:
 
-Open:
+```text
+.github/workflows/radar.yml
+```
 
-Repository → Settings → Actions → General → Workflow permissions
+## Run locally
 
-Select Read and write permissions, then save.
+Configure the required environment variables and run:
 
-The workflow needs write access only to update seen_articles.json.
+```bash
+python radar.py
+```
 
-6. Run a test
+Use a test Telegram bot and test channel during development.
 
-Open the repository's Actions tab.
+## Customization
 
-Select A36 Radar.
+You can customize:
 
-Choose Run workflow.
+- RSS feeds
+- Topics and keywords
+- Story filters
+- AI summary instructions
+- Posting frequency
+- Telegram formatting
+- Maximum stories per run
 
-Run it from the default branch.
+The publishing schedule can be changed inside:
 
-Open the new workflow run and check each step.
+```text
+.github/workflows/radar.yml
+```
 
-A successful run may publish zero stories when no fresh article meets the filters.
+## Duplicate prevention
 
-Customization
+Published article identifiers are stored in:
 
-Change the publishing schedule
+```text
+seen_articles.json
+```
 
-Edit .github/workflows/radar.yml:
+The GitHub Actions workflow updates this file after successful runs to prevent the same story from being published repeatedly.
 
-schedule:
-  - cron: "30 7,16 * * *"
-    timezone: "UTC"
+## Contributing
 
-GitHub Actions uses POSIX cron syntax. The example runs at 07:30 and 16:30 UTC every day.
+Community contributions are welcome.
 
-Add or remove publications
+You can contribute by:
 
-Edit the FEEDS list near the top of radar.py:
+- Adding reliable news sources
+- Improving filtering
+- Improving summary quality
+- Adding tests
+- Improving documentation
+- Optimizing performance
+- Fixing bugs
 
-FEEDS = [
-    (
-        "Publication name",
-        "https://example.com/feed.xml",
-        "Category name",
-        5,
-    ),
-]
+Open an issue before making major architectural changes.
 
-The fourth value is source priority. Higher values make the source more likely to reach the AI editorial stage.
+## Security
 
-Change the editorial focus
+Do not commit:
 
-Edit these sets in radar.py:
+```text
+TELEGRAM_BOT_TOKEN
+TELEGRAM_CHAT_ID
+GEMINI_API_KEY
+API credentials
+Private channel information
+```
 
-IMPORTANT
+Immediately rotate any credential that is accidentally exposed.
 
-HIGH_PRIORITY
+## License
 
-BLOCKED
+This project is distributed under the license included in the [LICENSE](LICENSE) file.
 
-Then update the prompt inside edit_with_ai().
+## Credits
 
-Disable article images
+An open-source project by **A36 Labs**.
 
-In send_message(), replace link_preview_options with:
+Built by **Laksh Dilliwal**  
+https://x.com/LakshDilliwal
 
-"link_preview_options": {"is_disabled": True},
+## A36 Labs
 
-Publish more or fewer stories
+- Website: https://a36labs.com
+- Telegram: https://t.me/A36Labs
+- Community: https://t.me/A36Global
+- X: https://x.com/A36Labs
+- GitHub: https://github.com/A36Labs
 
-Set the repository variable:
+---
 
-MAX_POSTS_PER_RUN
-
-A value of 1 or 2 is recommended for a curated channel.
-
-AI fallback
-
-When GitHub Models is unavailable or rate-limited, the script continues with a deterministic fallback:
-
-It chooses the highest-scoring stories.
-
-It shortens headlines to 12 words.
-
-It uses the first factual sentence as the summary.
-
-The Telegram automation therefore does not depend entirely on the AI service.
-
-Duplicate prevention
-
-seen_articles.json stores hashes of previously processed links. The workflow commits the updated file after every run.
-
-The script also compares title similarity during each run to reduce duplicate coverage of the same story across multiple publishers.
-
-To reset the history, replace the file with:
-
-{
-  "seen": {}
-}
-
-The following run may publish recent stories that were previously processed.
-
-Troubleshooting
-
-TELEGRAM_BOT_TOKEN is missing
-
-Create the Actions secret using the exact name TELEGRAM_BOT_TOKEN.
-
-TELEGRAM_CHAT_ID is missing
-
-Create the Actions secret using the exact name TELEGRAM_CHAT_ID. For a public channel, use the username with @.
-
-Telegram returns chat not found
-
-Confirm that:
-
-The bot is an administrator in the channel.
-
-The channel username is correct.
-
-The bot has permission to post messages.
-
-The workflow cannot push seen_articles.json
-
-Enable Read and write permissions under the repository's Actions settings.
-
-A feed fails
-
-Feeds can move, block automated clients, or temporarily return errors. The script logs the issue and continues checking other feeds.
-
-GitHub Models fails
-
-The workflow automatically uses the non-AI fallback. Confirm that the workflow contains:
-
-permissions:
-  models: read
-
-The same stories appear again
-
-Confirm that seen_articles.json is tracked by Git and that the final workflow step successfully commits and pushes it.
-
-Responsible use
-
-Do not present automated summaries as financial advice.
-
-Review publisher terms before redistributing content.
-
-Keep summaries short and link to the original source.
-
-Do not remove source attribution.
-
-Use a declared user agent and moderate request rates.
-
-Security
-
-Never commit bot tokens, personal access tokens or API keys.
-
-Store credentials only in GitHub Actions secrets.
-
-Give the Telegram bot only the permissions it needs.
-
-Treat all RSS content as untrusted input.
-
-License
-
-MIT License. See LICENSE.
-
-Disclaimer
-
-This project is not affiliated with Telegram, GitHub, OpenAI, TechCrunch, CoinDesk, Cointelegraph, Decrypt, BBC, The Guardian, Nasdaq or the U.S. Securities and Exchange Commission. All trademarks belong to their respective owners.
+**Build. Connect. Launch.**
