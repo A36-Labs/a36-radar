@@ -4,12 +4,9 @@ on:
   workflow_dispatch:
 
   schedule:
-    # 07:30 UTC: Asia afternoon, Europe morning
-    - cron: "30 7 * * *"
-      timezone: "UTC"
-
-    # 16:30 UTC: Europe evening, North America daytime
-    - cron: "30 16 * * *"
+    # Runs every four hours globally.
+    # Minute 23 avoids GitHub's busiest top-of-hour period.
+    - cron: "23 */4 * * *"
       timezone: "UTC"
 
 concurrency:
@@ -33,10 +30,10 @@ jobs:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-          cache: "pip"
+          cache: pip
 
       - name: Validate Python syntax
         run: python -m py_compile radar.py
@@ -54,6 +51,7 @@ jobs:
         run: python radar.py
 
       - name: Save processed article history
+        shell: bash
         run: |
           git config user.name "A36 Radar"
           git config user.email "actions@users.noreply.github.com"
@@ -66,6 +64,5 @@ jobs:
           fi
 
           git commit -m "Update A36 Radar article history"
-
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
