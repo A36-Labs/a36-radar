@@ -23,9 +23,9 @@ RSS_USER_AGENT = os.environ.get(
 
 STATE_FILE = Path("seen_articles.json")
 MAX_POSTS_PER_RUN = 2
-MAX_AI_CANDIDATES = 8
+MAX_AI_CANDIDATES = 16
 MAX_HISTORY = 6000
-ARTICLE_MAX_AGE_HOURS = 48
+ARTICLE_MAX_AGE_HOURS = 24
 REQUEST_TIMEOUT_SECONDS = 35
 AI_MODEL = "openai/gpt-4o-mini"
 AI_ENDPOINT = "https://models.github.ai/inference/chat/completions"
