@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://a36labs.com">
-    <img src="https://github.com/A36Labs.png?size=160" width="120" alt="A36 Labs">
+    <img src="https://github.com/A36Labs.png?size=160" width="110" alt="A36 Labs">
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/A36Labs/a36-radar/actions/workflows/radar.yml">
-    <img src="https://github.com/A36Labs/a36-radar/actions/workflows/radar.yml/badge.svg" alt="A36 Radar Workflow">
+    <img src="https://github.com/A36Labs/a36-radar/actions/workflows/radar.yml/badge.svg" alt="Workflow Status">
   </a>
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/GitHub_Actions-Automated-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
@@ -28,27 +28,23 @@
 
 **A36 Radar** is an open-source news automation system built by [A36 Labs](https://a36labs.com).
 
-It scans trusted global sources, filters recent high-signal stories, prevents duplicates and publishes concise updates directly to Telegram.
+It scans trusted global sources, filters recent high-signal stories, prevents duplicates, and publishes concise updates directly to Telegram.
 
-No AI API, server or Cloudflare deployment is required. The complete system runs through GitHub Actions.
+No AI API, external server, or Cloudflare deployment is required. The system runs entirely through GitHub Actions.
 
 ## Coverage
 
-A36 Radar covers:
-
-- 🤖 AI, agents and frontier technology
-- 🚀 Startups, funding and acquisitions
+- 🤖 AI, agents, and frontier technology
+- 🚀 Startups, funding, acquisitions, and IPOs
 - 🛰️ Venture capital and accelerators
 - 🧑‍💻 Open source and developer tools
-- ⛓️ Web3, blockchain and digital assets
-- 🛡️ Cybersecurity, cloud and infrastructure
-- 🤖 Robotics, chips, quantum and space
-- 💳 Fintech, payments and financial infrastructure
-- 📈 IPOs, public markets and major technology deals
+- ⛓️ Web3, blockchain, and digital assets
+- 🛡️ Cybersecurity, cloud, and infrastructure
+- 🦾 Robotics, semiconductors, quantum, and space
+- 💳 Fintech, payments, and financial infrastructure
+- 📈 Public markets and major technology deals
 - 🏛️ Technology policy and regulation
-- 🏗️ Grants, hackathons and builder ecosystems
-
-The bot rotates categories and publishers to avoid repetitive coverage.
+- 🏗️ Grants, hackathons, and builder ecosystems
 
 ## How it works
 
@@ -64,59 +60,69 @@ Category rotation
 Telegram publishing
         ↓
 History saved in seen_articles.json
+```
 
 The workflow:
 
-Scans for news every 15 minutes
-Publishes a maximum of one normal story per hour
-Publishes only one story at a time
-Can publish urgent major news between scheduled posts
-Rejects stale, promotional and low-quality stories
-Runs continuously through GitHub Actions
-Repository setup
-Required repository secrets
+- Checks for recent news every 15 minutes
+- Publishes approximately one normal story per hour
+- Publishes only one story at a time
+- Can publish major breaking news between normal posts
+- Rejects stale, promotional, and low-quality stories
+- Runs continuously through GitHub Actions
 
-Open:
+## Setup
 
-Settings → Secrets and variables → Actions → Secrets
+### Repository secrets
+
+Go to:
+
+`Settings → Secrets and variables → Actions → Secrets`
 
 Add:
 
+```text
 TELEGRAM_BOT_TOKEN
 TELEGRAM_CHAT_ID
-Repository variables
+```
 
-Open:
+### Repository variables
 
-Settings → Secrets and variables → Actions → Variables
+Go to:
+
+`Settings → Secrets and variables → Actions → Variables`
 
 Add:
 
+```text
 RSS_USER_AGENT
 TELEGRAM_DISCUSSION_CHAT_ID
+```
 
-Example user agent:
+Example RSS user agent:
 
+```text
 A36 Radar/2.0 (+https://a36labs.com; contact: hello@a36labs.com)
+```
 
-TELEGRAM_DISCUSSION_CHAT_ID is optional and is only required when the Telegram channel has a linked discussion group.
+`TELEGRAM_DISCUSSION_CHAT_ID` is optional and only needed for a linked Telegram discussion group.
 
-Run manually
+## Run manually
 
 Open:
 
-Actions → A36 Radar → Run workflow
+`Actions → A36 Radar → Run workflow`
 
-Available options:
+For a safe test:
 
-Ignore the hourly cooldown to test the best unseen story
-Build a post without publishing it for a safe dry run
+- Enable **Ignore the hourly cooldown**
+- Enable **Build a post without publishing it**
 
-For the first test, enable both options.
+For a real Telegram post, keep only the first option enabled.
 
-For a real Telegram post, enable only the first option.
+## Project structure
 
-Project structure
+```text
 a36-radar/
 ├── .github/
 │   └── workflows/
@@ -126,31 +132,31 @@ a36-radar/
 ├── seen_articles.json
 ├── LICENSE
 └── README.md
-Link previews
+```
 
-Telegram generates article previews using the source page’s Open Graph metadata.
+## Article previews
 
-A preview image may not appear when:
+Telegram generates previews from each article page’s Open Graph metadata.
 
-The publisher blocks Telegram
-The article has no accessible og:image
-The image URL has expired
-Telegram has cached an older preview
-The source only provides text in its feed
+A preview image may not appear when the publisher blocks Telegram, has no accessible `og:image`, or Telegram has cached an older preview.
 
-The article link will still work normally.
+## Security
 
-Security
+Never commit Telegram bot tokens or private credentials.
 
-Never commit Telegram bot tokens or private credentials to the repository.
+Store all sensitive values in GitHub Actions repository secrets.
 
-Store sensitive values only in GitHub Actions repository secrets.
+## Community
 
-Community
-🌐 Website
-📡 Telegram Channel
-💬 Global Community
-𝕏 X / Twitter
-💼 LinkedIn
-📸 Instagram
-<p align="center"> Built, connected and launched by <strong>A36 Labs</strong>. </p> ```
+- 🌐 [Website](https://a36labs.com)
+- 📡 [Telegram Channel](https://t.me/A36Labs)
+- 💬 [Global Community](https://t.me/A36Global)
+- 𝕏 [X](https://x.com/A36Labs)
+- 💼 [LinkedIn](https://www.linkedin.com/company/a36labs)
+- 📸 [Instagram](https://www.instagram.com/a36labs)
+
+---
+
+<p align="center">
+  Built, connected, and launched by <strong>A36 Labs</strong>.
+</p>
