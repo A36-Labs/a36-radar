@@ -1,8 +1,16 @@
 {
-  "last_post_at": 0.0,
+  "last_post_at": 1785683431.0342455,
   "last_urgent_at": 0.0,
-  "recent_categories": [],
-  "recent_sources": [],
-  "recent_titles": [],
-  "seen": {}
+  "recent_categories": [
+    "Startups & Funding"
+  ],
+  "recent_sources": [
+    "calcalistech.com"
+  ],
+  "recent_titles": [
+    "Israeli startups raised $1.5 billion in July as investors doubled down on enterprise AI"
+  ],
+  "seen": {
+    "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455
+  }
 }
