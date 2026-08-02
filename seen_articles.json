@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785704857.7401912,
+  "last_post_at": 1785708853.600184,
   "last_urgent_at": 0.0,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
@@ -10,6 +11,7 @@
     "Startups & Funding"
   ],
   "recent_sources": [
+    "calcalistech.com",
     "simplywall.st",
     "Tekedia",
     "Pulse 2.0",
@@ -18,6 +20,7 @@
     "calcalistech.com"
   ],
   "recent_titles": [
+    "Index Ventures raises $3.5 billion to expand AI and Israeli startup investments",
     "UKGI Data Breach Puts Cellebrite Stock And Cybersecurity Shares In Focus",
     "AMD Raises AI Accelerator Market Forecast to $1.4 Trillion as Investors Brace for Market Swings",
     "IonQ Completes Acquisition Of SkyWater Technology To Create Vertically Integrated Quantum Platform",
@@ -31,6 +34,7 @@
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
+    "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595
   }
 }
