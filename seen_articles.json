@@ -1,19 +1,22 @@
 {
-  "last_post_at": 1785696320.3534908,
+  "last_post_at": 1785700889.9548657,
   "last_urgent_at": 0.0,
   "recent_categories": [
+    "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Frontier Tech",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Tekedia",
     "Pulse 2.0",
     "Decrypt",
     "AD HOC NEWS",
     "calcalistech.com"
   ],
   "recent_titles": [
+    "AMD Raises AI Accelerator Market Forecast to $1.4 Trillion as Investors Brace for Market Swings",
     "IonQ Completes Acquisition Of SkyWater Technology To Create Vertically Integrated Quantum Platform",
     "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
     "Kraken Robotics: A $327 Million Order Book Meets a Share Price in the Doldrums",
@@ -21,6 +24,7 @@
   ],
   "seen": {
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
+    "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595
