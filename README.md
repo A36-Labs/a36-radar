@@ -1,213 +1,302 @@
-# A36 Radar
+A36 Radar
 
-> Automated technology, startup, AI, Web3 and market intelligence for the A36 Labs community.
+A36 Radar is an open-source Telegram news automation system for the A36 Labs community. It monitors global technology news, filters weak or stale stories, rotates coverage across A36 Labs topics, and publishes one concise post at a time.
 
-[![A36 Radar](https://github.com/A36Labs/a36-radar/actions/workflows/radar.yml/badge.svg)](https://github.com/A36Labs/a36-radar/actions/workflows/radar.yml)
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![License](https://img.shields.io/github/license/A36Labs/a36-radar)](LICENSE)
+What version 2 fixes
 
-**A36 Radar** is an open-source Telegram news automation system built by A36 Labs.
+Checks for news every 15 minutes, 24/7.
 
-It collects updates from selected RSS feeds, filters relevant stories, creates concise AI-assisted summaries and publishes them directly to Telegram.
+Publishes at most one story per run.
 
-## Features
+Limits normal publishing to roughly one post per hour.
 
-- Collects news from multiple RSS feeds
-- Filters stories using topics and keywords
-- Creates short summaries with Google Gemini
-- Prevents duplicate posts
-- Supports images and Telegram link previews
-- Runs automatically through GitHub Actions
-- Tracks previously published articles
-- Works without a dedicated server
+Allows a genuinely urgent story to publish between normal hourly posts.
 
-## Topics
+Rotates categories and publishers so the feed does not become crypto-only.
 
-A36 Radar focuses on:
+Rejects entries that do not provide a trustworthy publication time.
 
-- Artificial intelligence
-- Startups and funding
-- Venture capital
-- Web3 and crypto
-- Open source
-- Developer tools
-- Public markets and IPOs
-- Global technology news
+Uses multi-source coverage as a signal for major news.
 
-## How it works
+Keeps working when optional AI editing is unavailable.
 
-```text
-RSS feeds
-   ↓
-Story filtering
-   ↓
-Duplicate detection
-   ↓
-AI-assisted summary
-   ↓
-Telegram publishing
-   ↓
-Update seen_articles.json
-```
+Removes broken a16z and HKEX RSS endpoints used by the earlier version.
 
-## Project structure
+Serializes workflow runs and retries state pushes to reduce seen_articles.json conflicts.
 
-```text
+A36 Labs coverage
+
+A36 Radar covers:
+
+AI, models and agents
+
+Startups and funding
+
+Venture capital and accelerators
+
+Open source and developer tools
+
+Web3 and digital assets
+
+Cybersecurity and cloud
+
+Robotics, semiconductors, quantum, space, biotech and climate tech
+
+Fintech and payments
+
+Public markets, IPOs, earnings and M&A
+
+Technology policy and regulation
+
+Builder programs, grants, hackathons and developer ecosystems
+
+Publishing logic
+
+The GitHub Actions workflow runs at minutes 07, 22, 37 and 52 of every hour.
+
+Routine story: no more than one about every 55 minutes.
+
+Urgent story: may bypass the routine cooldown, but the bot still enforces a minimum gap, limits urgent bursts, and publishes only one story in that run.
+
+Freshness: routine stories must normally be under 14 hours old; urgent stories must be under 4 hours old.
+
+No filler: when nothing current and credible passes the filters, the bot publishes nothing instead of recycling stale news.
+
+This is near-real-time monitoring, not guaranteed instant delivery. GitHub Actions schedules can occasionally be delayed.
+
+Project structure
+
 a36-radar/
 ├── .github/
 │   └── workflows/
 │       └── radar.yml
+├── .env.example
+├── .gitignore
+├── LICENSE
+├── README.md
 ├── radar.py
 ├── requirements.txt
-├── seen_articles.json
-├── README.md
-└── LICENSE
-```
+└── seen_articles.json
 
-## Setup
+Setup
 
-### 1. Fork or clone the repository
+1. Replace old files
 
-```bash
-git clone https://github.com/A36Labs/a36-radar.git
-cd a36-radar
-```
+Keep only one A36 Radar workflow:
 
-### 2. Install dependencies
+.github/workflows/radar.yml
 
-```bash
-pip install -r requirements.txt
-```
+Delete older Radar YAML files so two workflows cannot publish or update state at the same time.
 
-### 3. Add GitHub Actions secrets
+Replace these files with the version in this package:
+
+radar.py
+.github/workflows/radar.yml
+requirements.txt
+seen_articles.json
+README.md
+.gitignore
+.env.example
+
+2. Add required GitHub Actions secrets
 
 Open:
 
-```text
 Repository Settings
 → Secrets and variables
 → Actions
-→ New repository secret
-```
+→ Secrets
 
 Add:
 
-```text
 TELEGRAM_BOT_TOKEN
 TELEGRAM_CHAT_ID
+
+TELEGRAM_CHAT_ID is normally the A36 Labs channel ID, such as a value beginning with -100.
+
+3. Add optional AI editing
+
+A36 Radar does not require AI to run. It has a deterministic headline and summary fallback.
+
+For optional Gemini editing, add this repository secret:
+
 GEMINI_API_KEY
-```
 
-Optional:
+Optionally add this repository variable:
 
-```text
+GEMINI_MODEL=gemini-3.1-flash-lite
+
+Never commit API keys or Telegram credentials into the repository.
+
+4. Add optional repository variables
+
+Open:
+
+Repository Settings
+→ Secrets and variables
+→ Actions
+→ Variables
+
+Optional variables:
+
+TELEGRAM_DISCUSSION_CHAT_ID
 RSS_USER_AGENT
-```
+GEMINI_MODEL
 
-Never commit real API keys or Telegram credentials to the repository.
+Recommended RSS_USER_AGENT:
 
-### 4. Run the workflow
+A36 Radar/2.0 (+https://a36labs.com; contact: hello@a36labs.com)
 
-Open the repository’s **Actions** tab, select the A36 Radar workflow and click:
+TELEGRAM_DISCUSSION_CHAT_ID is needed only when the channel is linked to a discussion group and the bot should remove Telegram's automatic forward pin while preserving manual pins.
 
-```text
-Run workflow
-```
+5. Check workflow permissions
 
-The workflow will also run automatically according to the schedule configured in:
+The workflow requests:
 
-```text
+permissions:
+  contents: write
+
+This is needed only to update seen_articles.json. If an organization policy blocks write access, open:
+
+Repository Settings
+→ Actions
+→ General
+→ Workflow permissions
+
+Allow the workflow to write repository contents.
+
+6. Test safely
+
+Open the repository's Actions tab, choose A36 Radar, and click Run workflow.
+
+Recommended first test:
+
+force_post: true
+dry_run: true
+
+The workflow will show the selected Telegram message in the logs without publishing it or changing state.
+
+Second test:
+
+force_post: true
+dry_run: false
+
+This publishes the best unseen current story immediately.
+
+After the manual test succeeds, scheduled runs continue automatically.
+
+Local test
+
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+
+Export the environment variables, then run:
+
+DRY_RUN=true FORCE_POST=true python radar.py
+
+Telegram permissions
+
+The bot needs permission to post messages in the channel.
+
+For automatic discussion-post unpinning, the bot also needs permission to manage or pin messages in the linked discussion group. Failure to unpin is logged but does not stop publishing.
+
+State and duplicate prevention
+
+seen_articles.json stores:
+
+published article IDs
+
+the last normal or urgent publishing time
+
+recent categories
+
+recent publishers
+
+recent headlines
+
+Only successfully published stories are marked as seen. Unselected stories remain eligible until they become too old.
+
+Do not manually edit this file while a workflow is running. The workflow uses concurrency and retry logic to reduce merge conflicts.
+
+Customization
+
+Main controls are near the top of radar.py:
+
+ROUTINE_MAX_AGE_HOURS = 14
+URGENT_MAX_AGE_HOURS = 4
+ROUTINE_COOLDOWN_SECONDS = 55 * 60
+MINIMUM_POST_GAP_SECONDS = 10 * 60
+MIN_ROUTINE_SCORE = 34
+MIN_URGENT_SCORE = 72
+
+Feeds are defined in FEEDS. Categories and topic keywords are defined in CATEGORY_RULES.
+
+Troubleshooting
+
+The workflow does not appear
+
+The workflow file must exist on the repository's default branch at:
+
 .github/workflows/radar.yml
-```
 
-## Run locally
+The run succeeds but publishes zero stories
 
-Configure the required environment variables and run:
+Read the final log message. Common reasons:
 
-```bash
-python radar.py
-```
+the hourly cooldown is active
 
-Use a test Telegram bot and test channel during development.
+every story is already seen
 
-## Customization
+feeds returned no recent entries
 
-You can customize:
+available stories failed the quality filter
 
-- RSS feeds
-- Topics and keywords
-- Story filters
-- AI summary instructions
-- Posting frequency
-- Telegram formatting
-- Maximum stories per run
+Use a manual run with force_post: true to ignore only the cooldown. It does not disable freshness or duplicate checks.
 
-The publishing schedule can be changed inside:
+403 or 404 from a feed
 
-```text
-.github/workflows/radar.yml
-```
+A single broken feed is skipped. The remaining direct feeds and Google News topic feeds continue working. Remove or replace a source only when it fails consistently.
 
-## Duplicate prevention
+Gemini fails
 
-Published article identifiers are stored in:
+The bot automatically uses deterministic editing. Publishing should continue. Check the API key, model variable and quota separately.
 
-```text
-seen_articles.json
-```
+State push conflict
 
-The GitHub Actions workflow updates this file after successful runs to prevent the same story from being published repeatedly.
+Confirm that only one Radar workflow exists. The included workflow serializes runs and retries a rebase before pushing state.
 
-## Contributing
-
-Community contributions are welcome.
-
-You can contribute by:
-
-- Adding reliable news sources
-- Improving filtering
-- Improving summary quality
-- Adding tests
-- Improving documentation
-- Optimizing performance
-- Fixing bugs
-
-Open an issue before making major architectural changes.
-
-## Security
+Security
 
 Do not commit:
 
-```text
 TELEGRAM_BOT_TOKEN
 TELEGRAM_CHAT_ID
 GEMINI_API_KEY
-API credentials
-Private channel information
-```
+private group IDs
+other API credentials
 
-Immediately rotate any credential that is accidentally exposed.
+Rotate any credential that is accidentally exposed.
 
-## License
+License
 
-This project is distributed under the license included in the [LICENSE](LICENSE) file.
+This project uses the license included in the repository.
 
-## Credits
+Credits
 
-An open-source project by **A36 Labs**.
+An open-source project by A36 Labs.
 
-Built by **Laksh Dilliwal**  
-https://x.com/LakshDilliwal
+Built by Laksh Dilliwal.
 
-## A36 Labs
+Website: https://a36labs.com
 
-- Website: https://a36labs.com
-- Telegram: https://t.me/A36Labs
-- Community: https://t.me/A36Global
-- X: https://x.com/A36Labs
-- GitHub: https://github.com/A36Labs
+Telegram: https://t.me/A36Labs
 
----
+Community: https://t.me/A36Global
 
-**Build. Connect. Launch.**
+X: https://x.com/A36Labs
+
+GitHub: https://github.com/A36Labs
+
+Build. Connect. Launch.
