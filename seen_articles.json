@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785744952.127454,
-  "last_urgent_at": 0.0,
+  "last_post_at": 1785757826.9026768,
+  "last_urgent_at": 1785757826.9026768,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -15,6 +16,7 @@
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Data Center Dynamics",
     "PANews",
     "Bloomberg.com",
     "BleepingComputer",
@@ -28,6 +30,7 @@
     "calcalistech.com"
   ],
   "recent_titles": [
+    "Chip startup Olix raises $312m at $3.3bn valuation, backed by UK gov’t Sovereign AI venture fund",
     "Funding Weekly | Amazon has invested $50 billion in OpenAI; Axis Robotics completes $12 million seed round financing",
     "AstraZeneca Is Said to Have Explored Bristol Myers Merger",
     "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
@@ -48,6 +51,7 @@
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
+    "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
