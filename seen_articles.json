@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785788216.2395058,
-  "last_urgent_at": 1785781776.1543922,
+  "last_post_at": 1785792866.548016,
+  "last_urgent_at": 1785792866.548016,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -20,6 +21,7 @@
     "Startups & Funding"
   ],
   "recent_sources": [
+    "genfinity.io",
     "Decrypt",
     "Bloomberg.com",
     "Manufacturing Dive",
@@ -38,6 +40,7 @@
     "calcalistech.com"
   ],
   "recent_titles": [
+    "Mastercard Completes $1.8 Billion BVNK Acquisition, Adding $30 Billion in Annual Stablecoin Volume",
     "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
     "Sequoia Leads $1 Billion Funding Round for Nuclear Startup Valar",
     "Eric Trump backs $638M Space-Eyes, McKinley Acquisition merger",
@@ -57,6 +60,7 @@
   ],
   "seen": {
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
+    "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
     "4d71a14a73fb71b8e70683664260a411222bd882e235578c3b6eb544a21eadda": 1785732043.9635842,
     "510a20545ea61ca34bda6b630a51fae0b45b9d0e00db74bc47db8ed4f1c7fb36": 1785704857.7401912,
