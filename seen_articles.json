@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785870641.104463,
+  "last_post_at": 1785876414.5665753,
   "last_urgent_at": 1785849728.42867,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "AI & Agents",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Reuters",
     "Cointelegraph",
     "SiliconANGLE",
     "The420.in",
@@ -38,10 +39,10 @@
     "Manufacturing Dive",
     "AiThority",
     "Data Center Dynamics",
-    "PANews",
-    "Bloomberg.com"
+    "PANews"
   ],
   "recent_titles": [
+    "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
     "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
     "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
     "IBM Report: Average Data Breach Cost in India Reaches Record ₹25.5 Crore in 2026",
@@ -89,6 +90,7 @@
     "9c150af82d9e26bfc3ca470b48458de9bbdc54274cc85ef68059736393e08b05": 1785814308.692388,
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
+    "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
     "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
     "cdd25898f00e5aaa0fb9eac791ede5c6b2a4b4e2ec9e800fc14c313f0ad96efb": 1785870641.104463,
