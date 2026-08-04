@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785824012.848577,
-  "last_urgent_at": 1785792866.548016,
+  "last_post_at": 1785835003.158353,
+  "last_urgent_at": 1785835003.158353,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Policy & Regulation",
     "Builder Ecosystem",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "VC & Accelerators",
-    "Markets, IPOs & M&A"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "fstech.co.uk",
     "Tech in Asia",
     "Modern Ghana",
     "TechBuzz News",
@@ -38,10 +39,10 @@
     "Modern Ghana",
     "calcalistech.com",
     "simplywall.st",
-    "Tekedia",
-    "Pulse 2.0"
+    "Tekedia"
   ],
   "recent_titles": [
+    "Mastercard agrees $1.8bn BVNK acquisition to strengthen stablecoin payments strategy",
     "AI security startup Zenity raises $125m series C",
     "Coinbase vice chair says he's hopeful Senate will pass crypto regulation bill ahead of recess",
     "Meet the Utah Hackathon Winner Taking On the $10 Billion Dating Industry",
@@ -84,6 +85,7 @@
     "db3066ba7b5c357bbf77713f42f07af8fc1a43b4c36faf3fdd7bddf6528153a5": 1785781776.1543922,
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
+    "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595
   }
