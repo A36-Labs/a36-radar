@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785876414.5665753,
+  "last_post_at": 1785880829.87872,
   "last_urgent_at": 1785849728.42867,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "JD Supra",
     "Reuters",
     "Cointelegraph",
     "SiliconANGLE",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Manufacturing Dive",
     "AiThority",
-    "Data Center Dynamics",
-    "PANews"
+    "Data Center Dynamics"
   ],
   "recent_titles": [
+    "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
     "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
     "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
     "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
@@ -73,6 +74,7 @@
   ],
   "seen": {
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
+    "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
     "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
