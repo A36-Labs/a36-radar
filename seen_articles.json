@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785956301.9283216,
-  "last_urgent_at": 1785849728.42867,
+  "last_post_at": 1785962284.7850716,
+  "last_urgent_at": 1785962284.7850716,
   "recent_categories": [
+    "VC & Accelerators",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "BleepingComputer",
     "PYMNTS.com",
     "Ventureburn",
@@ -38,10 +39,10 @@
     "SiliconANGLE",
     "The420.in",
     "Tech Times",
-    "TechCrunch Startups",
-    "fstech.co.uk"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era",
     "COLDCARD security audit phishing attack installs remote access tool",
     "Colorado Pares Back AI Law as FTC Raises New Questions About State Regulation",
     "HappyRobot Raises $150 Million At $1.2B To Fix Enterprise AI Agents",
@@ -90,6 +91,7 @@
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
     "3ee0b841980729eb49e976da0b6808eef405dbc1b00a15f336a2f4b338644db2": 1785891079.6105769,
     "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
+    "41f519ea8abda45f443e17e133b6408f046afcc62c2d18638dcb5ef23a400ea1": 1785962284.7850716,
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
