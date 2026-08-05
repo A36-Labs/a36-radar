@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785911922.2202103,
+  "last_post_at": 1785922115.336685,
   "last_urgent_at": 1785849728.42867,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Frontier Tech",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Builder Ecosystem",
     "VC & Accelerators",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "YourStory.com",
     "CoinDesk",
     "KXII",
     "Energy Source & Distribution",
@@ -38,10 +39,10 @@
     "Modern Ghana",
     "TechBuzz News",
     "The Defiant",
-    "genfinity.io",
-    "Decrypt"
+    "genfinity.io"
   ],
   "recent_titles": [
+    "Insuretech startup InRisk Labs raises $27M in Series A",
     "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
     "Texas Instruments announces semiconductor partnership with GE",
     "2026 Climate Solutions Accelerator startups announced",
@@ -77,6 +78,7 @@
     "Israeli startups raised $1.5 billion in July as investors doubled down on enterprise AI"
   ],
   "seen": {
+    "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "1f4f84568005815b241dee2dc14f367068ecdece16fbb955729af479bcfa959d": 1785911922.2202103,
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
     "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
