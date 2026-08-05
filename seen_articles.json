@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1785967246.5060616,
+  "last_post_at": 1785971669.730236,
   "last_urgent_at": 1785962284.7850716,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "VC & Accelerators",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "AI & Agents",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Tech Labari",
     "Utah State University",
     "Bloomberg.com",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Reuters",
     "Cointelegraph",
     "SiliconANGLE",
-    "The420.in",
-    "Tech Times"
+    "The420.in"
   ],
   "recent_titles": [
+    "Nigerian Mobility Startup Moove Raises $250 Million to Bet Big on Robotaxis",
     "USU Launches New Robotics Degree in Partnership with Tech Colleges",
     "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era",
     "COLDCARD security audit phishing attack installs remote access tool",
@@ -87,6 +88,7 @@
   "seen": {
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "1f4f84568005815b241dee2dc14f367068ecdece16fbb955729af479bcfa959d": 1785911922.2202103,
+    "1ff1ca762979c1e7b111851989827c475ab5e2d515d1e01b90ebc5c8870c6487": 1785971669.730236,
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
     "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
