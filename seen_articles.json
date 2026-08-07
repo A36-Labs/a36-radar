@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786134009.721828,
+  "last_post_at": 1786139578.7538576,
   "last_urgent_at": 1786134009.721828,
   "recent_categories": [
+    "Policy & Regulation",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "AI & Agents",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Open Source & DevTools"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "BleepingComputer",
     "The Business Journals",
     "The Futurum Group",
@@ -38,10 +39,10 @@
     "Yahoo News UK",
     "WUSA9",
     "TechCrunch Startups",
-    "Reuters",
-    "techgenyz.com"
+    "Reuters"
   ],
   "recent_titles": [
+    "US Banking Regulator Rejects Fintech Bunq’s Charter Application",
     "Metabase SQLi zero-day exploited in customer data-theft attacks",
     "The Beat: Base Power raises $1B following IL expansion, local robotics startup expands",
     "Lattice Semiconductor Q2 FY 2026: AMI Acquisition Pulls $1 Billion Revenue Rate Up to Q3 2026",
@@ -111,6 +112,7 @@
   "seen": {
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
+    "1a90c36379a31994a727f9b38da11246ca77968b7d6356c46c651a084607981d": 1786139578.7538576,
     "1d9b2431dc92d7c7a623245a912993be7f8de20925e209a74ddf004e34a9064a": 1786062886.7949288,
     "1f4f84568005815b241dee2dc14f367068ecdece16fbb955729af479bcfa959d": 1785911922.2202103,
     "1ff1ca762979c1e7b111851989827c475ab5e2d515d1e01b90ebc5c8870c6487": 1785971669.730236,
