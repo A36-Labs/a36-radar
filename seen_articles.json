@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786120186.3708677,
+  "last_post_at": 1786123744.3721159,
   "last_urgent_at": 1785962284.7850716,
   "recent_categories": [
+    "Fintech & Payments",
     "AI & Agents",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "VC & Accelerators",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "The Defiant",
     "TechCrunch AI",
     "Tech.eu",
     "Decrypt",
@@ -38,10 +39,10 @@
     "techgenyz.com",
     "Tech Funding News",
     "Disrupt Africa",
-    "CoinDesk",
-    "Cryptonews.net"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Movement, El Vecino and RISE Partner to Launch First Digital Dollar Wallet for Mexican Remittances",
     "Cloudflare launches Kitesurf, a browser built for AI agents",
     "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
     "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
@@ -130,6 +131,7 @@
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "81b5feb85654e1b6bc34cba1dd5dd7861d84269471cb24d17d6dc09b579c3a54": 1786030521.92436,
+    "83f9439335c4d4d51e1a7317bf40285fb76aed3a31aae859fa5e987473c4a2b6": 1786123744.3721159,
     "89597237bc5be98a28d9a8e4590ed3cc6388dd84c95b4be83b593914b5c45e51": 1785975247.2482498,
     "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
