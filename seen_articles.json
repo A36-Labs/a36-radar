@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786062886.7949288,
+  "last_post_at": 1786073769.2423925,
   "last_urgent_at": 1785962284.7850716,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "WUSA9",
     "TechCrunch Startups",
     "Reuters",
     "techgenyz.com",
@@ -38,10 +39,10 @@
     "Ventureburn",
     "San Antonio Express-News",
     "TechCrunch",
-    "YourStory.com",
-    "CoinDesk"
+    "YourStory.com"
   ],
   "recent_titles": [
+    "Bowie State University to launch bachelor's degree in artificial intelligence this fall",
     "Defense tech Hadrian raises $1.37B at $8B valuation",
     "DeepSeek invests $20.8 million in Unitree's Shanghai IPO",
     "AWS Kiro Crew Open Source Release: Key Facts Developers Must Know",
@@ -124,6 +125,7 @@
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
     "9c150af82d9e26bfc3ca470b48458de9bbdc54274cc85ef68059736393e08b05": 1785814308.692388,
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
+    "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
     "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
     "bb1094eaa7c0389ffde9e047eb003202cd6f61fb3be81d80123fb78c11cbb98b": 1785967246.5060616,
