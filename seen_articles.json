@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786084979.7290184,
+  "last_post_at": 1786089736.4309726,
   "last_urgent_at": 1785962284.7850716,
   "recent_categories": [
+    "Policy & Regulation",
     "Web3 & Digital Assets",
     "Frontier Tech",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Third Sector",
     "CoinDesk",
     "Yahoo News UK",
     "WUSA9",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "BleepingComputer",
     "PYMNTS.com",
-    "Ventureburn",
-    "San Antonio Express-News"
+    "Ventureburn"
   ],
   "recent_titles": [
+    "Charities alert regulators following widespread data breach",
     "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
     "Cumbrian technology firm extends partnership with global robotics giant",
     "Bowie State University to launch bachelor's degree in artificial intelligence this fall",
@@ -143,6 +144,7 @@
     "da980a19a843bfa0806961f8a5d641dec05ecc27e00d594d83ba658de147bcdc": 1786007813.7413337,
     "db3066ba7b5c357bbf77713f42f07af8fc1a43b4c36faf3fdd7bddf6528153a5": 1785781776.1543922,
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
+    "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
