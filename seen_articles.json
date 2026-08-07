@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786131387.7262907,
-  "last_urgent_at": 1786127247.2719388,
+  "last_post_at": 1786134009.721828,
+  "last_urgent_at": 1786134009.721828,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "VC & Accelerators"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "The Business Journals",
     "The Futurum Group",
     "The Defiant",
@@ -38,10 +39,10 @@
     "WUSA9",
     "TechCrunch Startups",
     "Reuters",
-    "techgenyz.com",
-    "Tech Funding News"
+    "techgenyz.com"
   ],
   "recent_titles": [
+    "Metabase SQLi zero-day exploited in customer data-theft attacks",
     "The Beat: Base Power raises $1B following IL expansion, local robotics startup expands",
     "Lattice Semiconductor Q2 FY 2026: AMI Acquisition Pulls $1 Billion Revenue Rate Up to Q3 2026",
     "Movement, El Vecino and RISE Partner to Launch First Digital Dollar Wallet for Mexican Remittances",
@@ -144,6 +145,7 @@
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
     "9c150af82d9e26bfc3ca470b48458de9bbdc54274cc85ef68059736393e08b05": 1785814308.692388,
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
+    "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
     "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
