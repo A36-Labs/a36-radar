@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786073769.2423925,
+  "last_post_at": 1786080123.5102007,
   "last_urgent_at": 1785962284.7850716,
   "recent_categories": [
+    "Frontier Tech",
     "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "AI & Agents",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Yahoo News UK",
     "WUSA9",
     "TechCrunch Startups",
     "Reuters",
@@ -38,10 +39,10 @@
     "PYMNTS.com",
     "Ventureburn",
     "San Antonio Express-News",
-    "TechCrunch",
-    "YourStory.com"
+    "TechCrunch"
   ],
   "recent_titles": [
+    "Cumbrian technology firm extends partnership with global robotics giant",
     "Bowie State University to launch bachelor's degree in artificial intelligence this fall",
     "Defense tech Hadrian raises $1.37B at $8B valuation",
     "DeepSeek invests $20.8 million in Unitree's Shanghai IPO",
@@ -145,6 +146,7 @@
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
+    "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
   }
 }
