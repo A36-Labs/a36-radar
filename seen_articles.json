@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786116787.607707,
+  "last_post_at": 1786120186.3708677,
   "last_urgent_at": 1785962284.7850716,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Tech.eu",
     "Decrypt",
     "Bloomberg Law News",
@@ -38,10 +39,10 @@
     "Tech Funding News",
     "Disrupt Africa",
     "CoinDesk",
-    "Cryptonews.net",
-    "The Quantum Insider"
+    "Cryptonews.net"
   ],
   "recent_titles": [
+    "Cloudflare launches Kitesurf, a browser built for AI agents",
     "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
     "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
     "Voyager Digital Ruling Further Curbs Bankruptcy Legal Shields",
@@ -122,6 +123,7 @@
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
     "4d71a14a73fb71b8e70683664260a411222bd882e235578c3b6eb544a21eadda": 1785732043.9635842,
     "4da369f1bd5bbb6b8763be9e7b35b0faede3979073bc676f74804647d087978f": 1786109551.9494088,
+    "4fea26894126d71cb2207cc77254dbfcaf76e1286d21a4b7cdd0fcda07b49530": 1786120186.3708677,
     "510a20545ea61ca34bda6b630a51fae0b45b9d0e00db74bc47db8ed4f1c7fb36": 1785704857.7401912,
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
