@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786123744.3721159,
-  "last_urgent_at": 1785962284.7850716,
+  "last_post_at": 1786127247.2719388,
+  "last_urgent_at": 1786127247.2719388,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Fintech & Payments",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "VC & Accelerators",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Futurum Group",
     "The Defiant",
     "TechCrunch AI",
     "Tech.eu",
@@ -38,10 +39,10 @@
     "Reuters",
     "techgenyz.com",
     "Tech Funding News",
-    "Disrupt Africa",
-    "CoinDesk"
+    "Disrupt Africa"
   ],
   "recent_titles": [
+    "Lattice Semiconductor Q2 FY 2026: AMI Acquisition Pulls $1 Billion Revenue Rate Up to Q3 2026",
     "Movement, El Vecino and RISE Partner to Launch First Digital Dollar Wallet for Mexican Remittances",
     "Cloudflare launches Kitesurf, a browser built for AI agents",
     "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
@@ -144,6 +145,7 @@
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
+    "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
     "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
     "bb1094eaa7c0389ffde9e047eb003202cd6f61fb3be81d80123fb78c11cbb98b": 1785967246.5060616,
     "bcd00c19571fc700155ef6aa10daee90784b6e6be6be382470160edc72ee0f10": 1785944958.4138012,
