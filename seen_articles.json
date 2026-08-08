@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786174378.2247891,
+  "last_post_at": 1786179953.2635164,
   "last_urgent_at": 1786143053.683319,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "AI & Agents",
     "VC & Accelerators",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Global South Opportunities",
     "techinasia.com",
     "Linuxiac",
@@ -38,10 +39,10 @@
     "Decrypt",
     "Bloomberg Law News",
     "The Hacker News",
-    "Startup Daily",
-    "Silicon Republic"
+    "Startup Daily"
   ],
   "recent_titles": [
+    "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
     "Humanity AI Announces $18 Million in Grants to Advance People-Centered Artificial Intelligence",
     "Sequoia China joins $297m round for Space Star Technology",
     "ClamAV 1.5.4 Open-Source Antivirus Fixes Eight Security Vulnerabilities",
@@ -186,6 +187,7 @@
     "f1283ca226e4733cb1013fa70e9488ea2337c89e77054f09ff6a72ec28d6627d": 1786101168.1932325,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
+    "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
   }
