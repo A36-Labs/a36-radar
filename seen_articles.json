@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786282424.4139445,
+  "last_post_at": 1786287399.0847654,
   "last_urgent_at": 1786143053.683319,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Notebookcheck",
     "CoinMarketCap",
     "WSJ",
     "Yahoo! Finance Canada",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "instagram.com",
     "foreignpolicyjournal.com",
-    "Coinpedia",
-    "Indian Startup News"
+    "Coinpedia"
   ],
   "recent_titles": [
+    "Laptop maker Framework discloses data breach after zero-day hits analytics vendor Metabase",
     "Strategy Buys $1.28B in Bitcoin, Holdings Top 738K",
     "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
     "Trump Media & Technology Group (DJT) Faces A Fresh Valuation Test Following Its Crypto Pullback And TAE Merger Focus",
@@ -137,6 +138,7 @@
   ],
   "seen": {
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
+    "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
