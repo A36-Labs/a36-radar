@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786287399.0847654,
+  "last_post_at": 1786292153.72319,
   "last_urgent_at": 1786143053.683319,
   "recent_categories": [
+    "Fintech & Payments",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "AOL.com",
     "Notebookcheck",
     "CoinMarketCap",
     "WSJ",
@@ -38,10 +39,10 @@
     "The Fintech Times",
     "Cointelegraph",
     "instagram.com",
-    "foreignpolicyjournal.com",
-    "Coinpedia"
+    "foreignpolicyjournal.com"
   ],
   "recent_titles": [
+    "Filene Research Institute and Money20/20 Announce Strategic Partnership to Connect Credit Unions with the Global Fintech Ecosystem",
     "Laptop maker Framework discloses data breach after zero-day hits analytics vendor Metabase",
     "Strategy Buys $1.28B in Bitcoin, Holdings Top 738K",
     "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
@@ -228,6 +229,7 @@
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
+    "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
   }
