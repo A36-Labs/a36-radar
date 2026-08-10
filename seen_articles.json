@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786389942.8108015,
+  "last_post_at": 1786396005.148272,
   "last_urgent_at": 1786382038.9873805,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Policy & Regulation",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "AI & Agents"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "benzinga.com",
     "Linuxiac",
     "ventureburn.com",
     "Reuters",
@@ -38,10 +39,10 @@
     "todayville.com",
     "Seeking Alpha",
     "Pulse 2.0",
-    "CoinDesk",
-    "TechCrunch AI"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Rumble Parent Reports Record Revenue, Closes AI Acquisition: What Investors Should Know",
     "Cloudflare Releases Cloudflare OS as Open Source for AI Agents and App Building",
     "Cambridge Aerospace Raises $300M At $3.4B Valuation",
     "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs",
@@ -160,6 +161,7 @@
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
+    "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
     "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
