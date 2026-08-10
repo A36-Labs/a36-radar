@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786396005.148272,
+  "last_post_at": 1786402328.2573574,
   "last_urgent_at": 1786382038.9873805,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "benzinga.com",
     "Linuxiac",
     "ventureburn.com",
@@ -38,10 +39,10 @@
     "simplywall.st",
     "todayville.com",
     "Seeking Alpha",
-    "Pulse 2.0",
-    "CoinDesk"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
     "Rumble Parent Reports Record Revenue, Closes AI Acquisition: What Investors Should Know",
     "Cloudflare Releases Cloudflare OS as Open Source for AI Agents and App Building",
     "Cambridge Aerospace Raises $300M At $3.4B Valuation",
@@ -261,6 +262,7 @@
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
+    "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f1283ca226e4733cb1013fa70e9488ea2337c89e77054f09ff6a72ec28d6627d": 1786101168.1932325,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
