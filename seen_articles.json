@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786441521.5519352,
-  "last_urgent_at": 1786382038.9873805,
+  "last_post_at": 1786444684.7163203,
+  "last_urgent_at": 1786444684.7163203,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "bitcoinfoundation.org",
     "CoinDesk",
     "Cybersecurity Insiders",
@@ -38,10 +39,10 @@
     "Reuters",
     "teiss",
     "BleepingComputer",
-    "Mshale",
-    "CoinDesk"
+    "Mshale"
   ],
   "recent_titles": [
+    "US and South Korea warn of Gunra ransomware targeting govt agencies",
     "SEC Moves Toward Landmark ‘Regulation Crypto’ Framework for Digital Asset Offerings",
     "A $2 trillion asset class is getting a new blockchain rail",
     "Ransomware Attack disrupts Hospital Doors, Elevators, Ventilation and Air Conditioning in Canada",
@@ -160,8 +161,7 @@
     "UKGI Data Breach Puts Cellebrite Stock And Cybersecurity Shares In Focus",
     "AMD Raises AI Accelerator Market Forecast to $1.4 Trillion as Investors Brace for Market Swings",
     "IonQ Completes Acquisition Of SkyWater Technology To Create Vertically Integrated Quantum Platform",
-    "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
-    "Kraken Robotics: A $327 Million Order Book Meets a Share Price in the Doldrums"
+    "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets"
   ],
   "seen": {
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
@@ -209,6 +209,7 @@
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
     "5f353926bfe5a425532177da7474823736f9583ccf69e6cb9521324a605db2f3": 1786167143.9328957,
+    "5f41e60d862b9777734b08015ee5c4ca26781d8543f76fe57a81207a938130fa": 1786444684.7163203,
     "60e671d8a0c1b88bb32abb99aa0a9dd89bc0d63550011c8481672487e179b3e6": 1786155642.4968526,
     "644f9be3884b61cba84c37298ac78c5cdcbbb35bccf39dfde4c564d62cf30cab": 1786282424.4139445,
     "65c0ed43a1e6e47cf8cb5a889745e158e37b719f90d6aaf7620ec4043823b0b9": 1786378373.3468823,
