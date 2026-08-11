@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786402328.2573574,
+  "last_post_at": 1786406674.6662803,
   "last_urgent_at": 1786382038.9873805,
   "recent_categories": [
+    "Policy & Regulation",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "SEC Press Releases",
     "CoinDesk",
     "benzinga.com",
     "Linuxiac",
@@ -38,10 +39,10 @@
     "Space Daily",
     "simplywall.st",
     "todayville.com",
-    "Seeking Alpha",
-    "Pulse 2.0"
+    "Seeking Alpha"
   ],
   "recent_titles": [
+    "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud",
     "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
     "Rumble Parent Reports Record Revenue, Closes AI Acquisition: What Investors Should Know",
     "Cloudflare Releases Cloudflare OS as Open Source for AI Agents and App Building",
@@ -269,6 +270,7 @@
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
+    "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
