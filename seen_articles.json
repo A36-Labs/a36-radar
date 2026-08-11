@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786468641.0434864,
-  "last_urgent_at": 1786461162.0164704,
+  "last_post_at": 1786471881.8774054,
+  "last_urgent_at": 1786471881.8774054,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Startups & Funding"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "ABC15 Arizona",
     "calcalistech.com",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "SEC Press Releases",
     "CoinDesk",
     "benzinga.com",
-    "Linuxiac",
-    "ventureburn.com"
+    "Linuxiac"
   ],
   "recent_titles": [
+    "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
     "Phoenix garage startup Whatnot raises $545M, pushing valuation to nearly $20B",
     "OpenAI lets employees cash out $7 billion as IPO plans remain uncertain",
     "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
@@ -160,8 +161,7 @@
     "Yellow.ai, a Global Leader in Enterprise Agentic AI, to Go Public via $550 Million Merger with Bluerock Acquisition Corp.",
     "Chip startup Olix raises $312m at $3.3bn valuation, backed by UK gov’t Sovereign AI venture fund",
     "Funding Weekly | Amazon has invested $50 billion in OpenAI; Axis Robotics completes $12 million seed round financing",
-    "AstraZeneca Is Said to Have Explored Bristol Myers Merger",
-    "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft"
+    "AstraZeneca Is Said to Have Explored Bristol Myers Merger"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -221,6 +221,7 @@
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
+    "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
     "81b5feb85654e1b6bc34cba1dd5dd7861d84269471cb24d17d6dc09b579c3a54": 1786030521.92436,
