@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786486152.2859004,
+  "last_post_at": 1786489684.9943585,
   "last_urgent_at": 1786486152.2859004,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Fintech & Payments",
-    "Policy & Regulation"
+    "Fintech & Payments"
   ],
   "recent_sources": [
+    "marketscreener.com",
     "Bloomberg.com",
     "Межа. Новини України.",
     "TechCrunch",
@@ -38,10 +39,10 @@
     "Cybersecurity Insiders",
     "Retail Technology Innovation Hub",
     "finance.biggo.com",
-    "The Manila Times",
-    "SEC Press Releases"
+    "The Manila Times"
   ],
   "recent_titles": [
+    "Earnings Flash (CSU.TO) Constellation Software Inc. Reports Q2 Revenue $3.33B, vs. FactSet Est of $3.36B",
     "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
     "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain",
     "General Catalyst leads $1.1B round into 2-month-old River AI",
@@ -160,12 +161,12 @@
     "Mastercard Completes $1.8 Billion BVNK Acquisition, Adding $30 Billion in Annual Stablecoin Volume",
     "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
     "Sequoia Leads $1 Billion Funding Round for Nuclear Startup Valar",
-    "Eric Trump backs $638M Space-Eyes, McKinley Acquisition merger",
-    "Yellow.ai, a Global Leader in Enterprise Agentic AI, to Go Public via $550 Million Merger with Bluerock Acquisition Corp."
+    "Eric Trump backs $638M Space-Eyes, McKinley Acquisition merger"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
+    "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
