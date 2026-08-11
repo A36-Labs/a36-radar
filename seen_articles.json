@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786437608.4053264,
+  "last_post_at": 1786441521.5519352,
   "last_urgent_at": 1786382038.9873805,
   "recent_categories": [
+    "Policy & Regulation",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "bitcoinfoundation.org",
     "CoinDesk",
     "Cybersecurity Insiders",
     "Retail Technology Innovation Hub",
@@ -38,10 +39,10 @@
     "teiss",
     "BleepingComputer",
     "Mshale",
-    "CoinDesk",
-    "The Business Journals"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "SEC Moves Toward Landmark ‘Regulation Crypto’ Framework for Digital Asset Offerings",
     "A $2 trillion asset class is getting a new blockchain rail",
     "Ransomware Attack disrupts Hospital Doors, Elevators, Ventilation and Air Conditioning in Canada",
     "AI powered market research startup Echovane pulls in $1 million as it announces first funding round",
@@ -160,8 +161,7 @@
     "AMD Raises AI Accelerator Market Forecast to $1.4 Trillion as Investors Brace for Market Swings",
     "IonQ Completes Acquisition Of SkyWater Technology To Create Vertically Integrated Quantum Platform",
     "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
-    "Kraken Robotics: A $327 Million Order Book Meets a Share Price in the Doldrums",
-    "Israeli startups raised $1.5 billion in July as investors doubled down on enterprise AI"
+    "Kraken Robotics: A $327 Million Order Book Meets a Share Price in the Doldrums"
   ],
   "seen": {
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
@@ -268,6 +268,7 @@
     "da980a19a843bfa0806961f8a5d641dec05ecc27e00d594d83ba658de147bcdc": 1786007813.7413337,
     "dadb1079a8ad681dbbc051690eda367f3253f3bbddb029618681d4904b0ca5ed": 1786253497.6184828,
     "db3066ba7b5c357bbf77713f42f07af8fc1a43b4c36faf3fdd7bddf6528153a5": 1785781776.1543922,
+    "db31e89f5956bd597de9ff439615f60a3ebd54bc2969b2767254c55377edf9b3": 1786441521.5519352,
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
