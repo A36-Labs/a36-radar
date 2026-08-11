@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786456979.1419697,
-  "last_urgent_at": 1786456979.1419697,
+  "last_post_at": 1786461162.0164704,
+  "last_urgent_at": 1786461162.0164704,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Frontier Tech",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Reuters",
     "BleepingComputer",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "Linuxiac",
     "ventureburn.com",
     "Reuters",
-    "Axios",
-    "Reuters"
+    "Axios"
   ],
   "recent_titles": [
+    "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
     "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools",
     "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
     "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
@@ -160,8 +161,7 @@
     "AstraZeneca Is Said to Have Explored Bristol Myers Merger",
     "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
     "Former OpenAI board member on concerns with AI regulation",
-    "Index Ventures raises $3.5 billion to expand AI and Israeli startup investments",
-    "UKGI Data Breach Puts Cellebrite Stock And Cybersecurity Shares In Focus"
+    "Index Ventures raises $3.5 billion to expand AI and Israeli startup investments"
   ],
   "seen": {
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
@@ -247,6 +247,7 @@
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
     "aa3fe482cb711f8ddaff1a25c156356b7f690c046507cc87252f631ed1382d09": 1786204284.2487767,
     "ab504c212c1956cd0edc49ed8cf18b2e8c99a77d49efe30e9d884f6ade5de8fb": 1786249980.177544,
+    "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
     "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
     "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
