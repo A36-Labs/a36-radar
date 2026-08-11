@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786461162.0164704,
+  "last_post_at": 1786464874.5035574,
   "last_urgent_at": 1786461162.0164704,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "calcalistech.com",
     "CoinDesk",
     "Reuters",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "benzinga.com",
     "Linuxiac",
     "ventureburn.com",
-    "Reuters",
-    "Axios"
+    "Reuters"
   ],
   "recent_titles": [
+    "OpenAI lets employees cash out $7 billion as IPO plans remain uncertain",
     "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
     "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools",
     "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
@@ -160,8 +161,7 @@
     "Funding Weekly | Amazon has invested $50 billion in OpenAI; Axis Robotics completes $12 million seed round financing",
     "AstraZeneca Is Said to Have Explored Bristol Myers Merger",
     "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-    "Former OpenAI board member on concerns with AI regulation",
-    "Index Ventures raises $3.5 billion to expand AI and Israeli startup investments"
+    "Former OpenAI board member on concerns with AI regulation"
   ],
   "seen": {
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
@@ -195,6 +195,7 @@
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
     "3ee0b841980729eb49e976da0b6808eef405dbc1b00a15f336a2f4b338644db2": 1785891079.6105769,
     "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
+    "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
     "41f519ea8abda45f443e17e133b6408f046afcc62c2d18638dcb5ef23a400ea1": 1785962284.7850716,
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
