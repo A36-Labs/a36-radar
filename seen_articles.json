@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786482653.2280223,
-  "last_urgent_at": 1786471881.8774054,
+  "last_post_at": 1786486152.2859004,
+  "last_urgent_at": 1786486152.2859004,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "VC & Accelerators",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Fintech & Payments",
-    "Policy & Regulation",
-    "Web3 & Digital Assets"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Межа. Новини України.",
     "TechCrunch",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Retail Technology Innovation Hub",
     "finance.biggo.com",
     "The Manila Times",
-    "SEC Press Releases",
-    "CoinDesk"
+    "SEC Press Releases"
   ],
   "recent_titles": [
+    "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
     "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain",
     "General Catalyst leads $1.1B round into 2-month-old River AI",
     "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
@@ -160,8 +161,7 @@
     "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
     "Sequoia Leads $1 Billion Funding Round for Nuclear Startup Valar",
     "Eric Trump backs $638M Space-Eyes, McKinley Acquisition merger",
-    "Yellow.ai, a Global Leader in Enterprise Agentic AI, to Go Public via $550 Million Merger with Bluerock Acquisition Corp.",
-    "Chip startup Olix raises $312m at $3.3bn valuation, backed by UK gov’t Sovereign AI venture fund"
+    "Yellow.ai, a Global Leader in Enterprise Agentic AI, to Go Public via $550 Million Merger with Bluerock Acquisition Corp."
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -267,6 +267,7 @@
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
+    "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
     "cdc1c1c90291460ace2970bf93f1f419718d4f8ba6749944478cd25975639762": 1786200262.4983444,
     "cdd25898f00e5aaa0fb9eac791ede5c6b2a4b4e2ec9e800fc14c313f0ad96efb": 1785870641.104463,
