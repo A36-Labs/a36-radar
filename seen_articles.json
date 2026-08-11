@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786451249.6498172,
-  "last_urgent_at": 1786451249.6498172,
+  "last_post_at": 1786456979.1419697,
+  "last_urgent_at": 1786456979.1419697,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Cybersecurity & Cloud"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Reuters",
     "BleepingComputer",
     "The Hacker News",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "ventureburn.com",
     "Reuters",
     "Axios",
-    "Reuters",
-    "teiss"
+    "Reuters"
   ],
   "recent_titles": [
+    "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools",
     "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
     "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
     "US and South Korea warn of Gunra ransomware targeting govt agencies",
@@ -160,8 +161,7 @@
     "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
     "Former OpenAI board member on concerns with AI regulation",
     "Index Ventures raises $3.5 billion to expand AI and Israeli startup investments",
-    "UKGI Data Breach Puts Cellebrite Stock And Cybersecurity Shares In Focus",
-    "AMD Raises AI Accelerator Market Forecast to $1.4 Trillion as Investors Brace for Market Swings"
+    "UKGI Data Breach Puts Cellebrite Stock And Cybersecurity Shares In Focus"
   ],
   "seen": {
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
@@ -256,6 +256,7 @@
     "bbd027ea3c064ab94003267b4296cae76de0838d957ad2b354422380f82a4a29": 1786227161.3109221,
     "bcd00c19571fc700155ef6aa10daee90784b6e6be6be382470160edc72ee0f10": 1785944958.4138012,
     "bd1cb110aa55a1442b7766ac3443a02007834c0431a4c11e7d29e4454f1f6f29": 1786322348.0038161,
+    "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
