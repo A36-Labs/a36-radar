@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786536228.4634604,
-  "last_urgent_at": 1786536228.4634604,
+  "last_post_at": 1786541990.0569823,
+  "last_urgent_at": 1786541990.0569823,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Axios",
     "CXO Digitalpulse",
     "Crunchbase News",
     "Indian Startup News",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "ABC15 Arizona",
     "calcalistech.com",
-    "CoinDesk",
-    "Reuters"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Exclusive: Code review startup CodeRabbit hits $1.5B valuation",
     "Accel Raises $550 Million for Ninth India Fund as AI Reshapes Early-Stage Investing",
     "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
     "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups",
@@ -160,8 +161,7 @@
     "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
     "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
     "IBM Report: Average Data Breach Cost in India Reaches Record ₹25.5 Crore in 2026",
-    "Mastercard Closes BVNK Acquisition: Card Network Now Owns $30B Stablecoin Rail",
-    "Bending Spoons to buy Airtable for $1.28B"
+    "Mastercard Closes BVNK Acquisition: Card Network Now Owns $30B Stablecoin Rail"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -251,6 +251,7 @@
     "9c150af82d9e26bfc3ca470b48458de9bbdc54274cc85ef68059736393e08b05": 1785814308.692388,
     "9d86f4cea914235e4110b2c9949cd88e04fee547f6a59b6bb8f437a0c59dd77a": 1786195060.0851758,
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
+    "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
