@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786514585.5112865,
+  "last_post_at": 1786520843.0347414,
   "last_urgent_at": 1786508986.5569785,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
-    "Policy & Regulation",
-    "Web3 & Digital Assets"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Storyboard18",
     "Bloomberg.com",
     "CryptoRank",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "The Hacker News",
     "BleepingComputer",
-    "bitcoinfoundation.org",
-    "CoinDesk"
+    "bitcoinfoundation.org"
   ],
   "recent_titles": [
+    "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
     "Accel expands AI bet with $3.5 billion across four new funds",
     "AI Startup Cognition in New Funding Talks at $40 Billion Value",
     "Bitcoin miner Bitdeer unlocks a $1B cash tap that dilutes shareholders by up to 30% to build its AI empire",
@@ -160,8 +161,7 @@
     "Mastercard agrees $1.8bn BVNK acquisition to strengthen stablecoin payments strategy",
     "AI security startup Zenity raises $125m series C",
     "Coinbase vice chair says he's hopeful Senate will pass crypto regulation bill ahead of recess",
-    "Meet the Utah Hackathon Winner Taking On the $10 Billion Dating Industry",
-    "Robinhood's Second Venture Fund Targets Y Combinator Startups in $200 Million IPO"
+    "Meet the Utah Hackathon Winner Taking On the $10 Billion Dating Industry"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -286,6 +286,7 @@
     "db31e89f5956bd597de9ff439615f60a3ebd54bc2969b2767254c55377edf9b3": 1786441521.5519352,
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
+    "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
