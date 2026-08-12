@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786568298.216912,
+  "last_post_at": 1786571853.787843,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "CNBC",
     "BleepingComputer",
     "CoinDesk",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "Storyboard18",
     "Bloomberg.com",
     "CryptoRank",
-    "Law360",
-    "marketscreener.com"
+    "Law360"
   ],
   "recent_titles": [
+    "Cerebras stock plunges 14% after second earnings report following IPO",
     "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
     "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
     "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
@@ -160,8 +161,7 @@
     "Indian EV startup River raises $120M Series C to scale production, launch more models",
     "Insuretech startup InRisk Labs raises $27M in Series A",
     "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-    "Texas Instruments announces semiconductor partnership with GE",
-    "2026 Climate Solutions Accelerator startups announced"
+    "Texas Instruments announces semiconductor partnership with GE"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -218,6 +218,7 @@
     "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
     "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
+    "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
     "5f353926bfe5a425532177da7474823736f9583ccf69e6cb9521324a605db2f3": 1786167143.9328957,
