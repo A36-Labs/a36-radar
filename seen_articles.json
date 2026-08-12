@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786556758.451714,
-  "last_urgent_at": 1786556758.451714,
+  "last_post_at": 1786560091.9236777,
+  "last_urgent_at": 1786560091.9236777,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Frontier Tech",
-    "VC & Accelerators"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "TechCrunch AI",
     "TechCrunch Startups",
     "Reuters",
@@ -38,10 +39,10 @@
     "Law360",
     "marketscreener.com",
     "Bloomberg.com",
-    "Межа. Новини України.",
-    "TechCrunch"
+    "Межа. Новини України."
   ],
   "recent_titles": [
+    "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
     "Lovable confirms new $13.3B valuation, raises another $400M",
     "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round",
@@ -160,8 +161,7 @@
     "Texas Instruments announces semiconductor partnership with GE",
     "2026 Climate Solutions Accelerator startups announced",
     "SpaceX tops revenue expectations in first earnings report after IPO",
-    "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
-    "Obsidian Security raises funding at $1.1 billion valuation on AI security demand"
+    "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -172,6 +172,7 @@
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
     "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
+    "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
