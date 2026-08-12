@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786489684.9943585,
+  "last_post_at": 1786492996.5886555,
   "last_urgent_at": 1786486152.2859004,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Fintech & Payments"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Law360",
     "marketscreener.com",
     "Bloomberg.com",
     "Межа. Новини України.",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "Cybersecurity Insiders",
     "Retail Technology Innovation Hub",
-    "finance.biggo.com",
-    "The Manila Times"
+    "finance.biggo.com"
   ],
   "recent_titles": [
+    "SEC, CFTC Sue Goliath Over $400M Crypto Ponzi Scheme",
     "Earnings Flash (CSU.TO) Constellation Software Inc. Reports Q2 Revenue $3.33B, vs. FactSet Est of $3.36B",
     "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
     "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain",
@@ -160,8 +161,7 @@
     "Robinhood's Second Venture Fund Targets Y Combinator Startups in $200 Million IPO",
     "Mastercard Completes $1.8 Billion BVNK Acquisition, Adding $30 Billion in Annual Stablecoin Volume",
     "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-    "Sequoia Leads $1 Billion Funding Round for Nuclear Startup Valar",
-    "Eric Trump backs $638M Space-Eyes, McKinley Acquisition merger"
+    "Sequoia Leads $1 Billion Funding Round for Nuclear Startup Valar"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -295,6 +295,7 @@
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
+    "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
   }
