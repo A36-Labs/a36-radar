@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786549445.1848931,
-  "last_urgent_at": 1786549445.1848931,
+  "last_post_at": 1786552904.4122183,
+  "last_urgent_at": 1786552904.4122183,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "VC & Accelerators",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "Reuters",
     "Yahoo Finance UK",
     "Axios",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Межа. Новини України.",
     "TechCrunch",
-    "BleepingComputer",
-    "ABC15 Arizona"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Lovable confirms new $13.3B valuation, raises another $400M",
     "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round",
     "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
     "Exclusive: Code review startup CodeRabbit hits $1.5B valuation",
@@ -160,8 +161,7 @@
     "SpaceX tops revenue expectations in first earnings report after IPO",
     "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
     "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
-    "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
-    "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface"
+    "Bitdeer expands AI infrastructure with long-term $4.7B data center lease"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -295,6 +295,7 @@
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
+    "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
