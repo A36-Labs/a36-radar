@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786533231.2636273,
-  "last_urgent_at": 1786533231.2636273,
+  "last_post_at": 1786536228.4634604,
+  "last_urgent_at": 1786536228.4634604,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CXO Digitalpulse",
     "Crunchbase News",
     "Indian Startup News",
     "helpnetsecurity.com",
@@ -38,10 +39,10 @@
     "ABC15 Arizona",
     "calcalistech.com",
     "CoinDesk",
-    "Reuters",
-    "BleepingComputer"
+    "Reuters"
   ],
   "recent_titles": [
+    "Accel Raises $550 Million for Ninth India Fund as AI Reshapes Early-Stage Investing",
     "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
     "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups",
     "PentestGPT: Open-source automated penetration testing agentic framework",
@@ -160,8 +161,7 @@
     "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
     "IBM Report: Average Data Breach Cost in India Reaches Record ₹25.5 Crore in 2026",
     "Mastercard Closes BVNK Acquisition: Card Network Now Owns $30B Stablecoin Rail",
-    "Bending Spoons to buy Airtable for $1.28B",
-    "Mastercard agrees $1.8bn BVNK acquisition to strengthen stablecoin payments strategy"
+    "Bending Spoons to buy Airtable for $1.28B"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -176,6 +176,7 @@
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
     "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
+    "19d74ba56c7689852eff4c4ad45d36d8d99afef161ca413b8d61e652fd5c56f4": 1786536228.4634604,
     "1a90c36379a31994a727f9b38da11246ca77968b7d6356c46c651a084607981d": 1786139578.7538576,
     "1abc932309b497f3f0b56cc7dd2bffbb2228a245173e11ec76a9f871541b7710": 1786359114.2255287,
     "1b7f631efc5896ca356f1fe61b4d101d1006bd8b9297d5e1b06f24c93e6e76f7": 1786147412.6299539,
