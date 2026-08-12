@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786502372.541836,
-  "last_urgent_at": 1786486152.2859004,
+  "last_post_at": 1786508986.5569785,
+  "last_urgent_at": 1786508986.5569785,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "CryptoRank",
     "Law360",
     "marketscreener.com",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "bitcoinfoundation.org",
     "CoinDesk",
-    "Cybersecurity Insiders",
-    "Retail Technology Innovation Hub"
+    "Cybersecurity Insiders"
   ],
   "recent_titles": [
+    "AI Startup Cognition in New Funding Talks at $40 Billion Value",
     "Bitcoin miner Bitdeer unlocks a $1B cash tap that dilutes shareholders by up to 30% to build its AI empire",
     "SEC, CFTC Sue Goliath Over $400M Crypto Ponzi Scheme",
     "Earnings Flash (CSU.TO) Constellation Software Inc. Reports Q2 Revenue $3.33B, vs. FactSet Est of $3.36B",
@@ -160,8 +161,7 @@
     "Coinbase vice chair says he's hopeful Senate will pass crypto regulation bill ahead of recess",
     "Meet the Utah Hackathon Winner Taking On the $10 Billion Dating Industry",
     "Robinhood's Second Venture Fund Targets Y Combinator Startups in $200 Million IPO",
-    "Mastercard Completes $1.8 Billion BVNK Acquisition, Adding $30 Billion in Annual Stablecoin Volume",
-    "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum"
+    "Mastercard Completes $1.8 Billion BVNK Acquisition, Adding $30 Billion in Annual Stablecoin Volume"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -276,6 +276,7 @@
     "ce7f898821cca66b32343bc919fa1770c37e15df1d9b363e5345337c2d47f102": 1786084979.7290184,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
+    "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
     "d9156228b8ae12196dc10d981d277543f7ad761aa0fc9523c51734e8d6596a92": 1785885307.6824715,
     "d943d4a8308a85a5ba52402b7da4b6a80bf667bd7b899c2e447516d856da5787": 1786218061.6023836,
     "da980a19a843bfa0806961f8a5d641dec05ecc27e00d594d83ba658de147bcdc": 1786007813.7413337,
