@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786529846.702828,
-  "last_urgent_at": 1786508986.5569785,
+  "last_post_at": 1786533231.2636273,
+  "last_urgent_at": 1786533231.2636273,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "Indian Startup News",
     "helpnetsecurity.com",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "calcalistech.com",
     "CoinDesk",
     "Reuters",
-    "BleepingComputer",
-    "The Hacker News"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
     "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups",
     "PentestGPT: Open-source automated penetration testing agentic framework",
     "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
@@ -160,8 +161,7 @@
     "IBM Report: Average Data Breach Cost in India Reaches Record ₹25.5 Crore in 2026",
     "Mastercard Closes BVNK Acquisition: Card Network Now Owns $30B Stablecoin Rail",
     "Bending Spoons to buy Airtable for $1.28B",
-    "Mastercard agrees $1.8bn BVNK acquisition to strengthen stablecoin payments strategy",
-    "AI security startup Zenity raises $125m series C"
+    "Mastercard agrees $1.8bn BVNK acquisition to strengthen stablecoin payments strategy"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -300,6 +300,7 @@
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
+    "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
