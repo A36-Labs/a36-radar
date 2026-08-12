@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786541990.0569823,
-  "last_urgent_at": 1786541990.0569823,
+  "last_post_at": 1786546060.625501,
+  "last_urgent_at": 1786546060.625501,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Cybersecurity & Cloud",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Yahoo Finance UK",
     "Axios",
     "CXO Digitalpulse",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "TechCrunch",
     "BleepingComputer",
     "ABC15 Arizona",
-    "calcalistech.com",
-    "CoinDesk"
+    "calcalistech.com"
   ],
   "recent_titles": [
+    "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
     "Exclusive: Code review startup CodeRabbit hits $1.5B valuation",
     "Accel Raises $550 Million for Ninth India Fund as AI Reshapes Early-Stage Investing",
     "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
@@ -160,8 +161,7 @@
     "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
     "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
     "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
-    "IBM Report: Average Data Breach Cost in India Reaches Record ₹25.5 Crore in 2026",
-    "Mastercard Closes BVNK Acquisition: Card Network Now Owns $30B Stablecoin Rail"
+    "IBM Report: Average Data Breach Cost in India Reaches Record ₹25.5 Crore in 2026"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -247,6 +247,7 @@
     "951ec9b3501dc9ea6bf29c7ac5cf3214e8237bcb4db4c154efad6e76f0b7285c": 1785987960.9926963,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
+    "9b07eb5cea15b090013f163827609ca43a47df77d20849fb698e44bcb206f8d7": 1786546060.625501,
     "9bf9b515e19ac444294f048b5b59e0e4c39d31eb91c122139852685fe2941424": 1786370632.234835,
     "9c150af82d9e26bfc3ca470b48458de9bbdc54274cc85ef68059736393e08b05": 1785814308.692388,
     "9d86f4cea914235e4110b2c9949cd88e04fee547f6a59b6bb8f437a0c59dd77a": 1786195060.0851758,
