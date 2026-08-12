@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786564393.766864,
-  "last_urgent_at": 1786560091.9236777,
+  "last_post_at": 1786568298.216912,
+  "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "CoinDesk",
     "TechCrunch Startups",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "CryptoRank",
     "Law360",
-    "marketscreener.com",
-    "Bloomberg.com"
+    "marketscreener.com"
   ],
   "recent_titles": [
+    "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
     "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
     "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -160,8 +161,7 @@
     "Insuretech startup InRisk Labs raises $27M in Series A",
     "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
     "Texas Instruments announces semiconductor partnership with GE",
-    "2026 Climate Solutions Accelerator startups announced",
-    "SpaceX tops revenue expectations in first earnings report after IPO"
+    "2026 Climate Solutions Accelerator startups announced"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -232,6 +232,7 @@
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
     "6be677a52f10a385ea7c3754a04cf36a43def80f5f20cde9a11d7bec5516ca67": 1786529846.702828,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
+    "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
     "7cc494b6780f0c072957c8107701c1d40e2d94010c07e1748558e7949f3ff84a": 1786482653.2280223,
