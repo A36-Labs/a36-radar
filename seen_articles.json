@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786552904.4122183,
-  "last_urgent_at": 1786552904.4122183,
+  "last_post_at": 1786556758.451714,
+  "last_urgent_at": 1786556758.451714,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
-    "VC & Accelerators",
-    "Cybersecurity & Cloud"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "TechCrunch Startups",
     "Reuters",
     "Yahoo Finance UK",
@@ -38,10 +39,10 @@
     "marketscreener.com",
     "Bloomberg.com",
     "Межа. Новини України.",
-    "TechCrunch",
-    "BleepingComputer"
+    "TechCrunch"
   ],
   "recent_titles": [
+    "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
     "Lovable confirms new $13.3B valuation, raises another $400M",
     "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round",
     "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
@@ -160,8 +161,7 @@
     "2026 Climate Solutions Accelerator startups announced",
     "SpaceX tops revenue expectations in first earnings report after IPO",
     "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
-    "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
-    "Bitdeer expands AI infrastructure with long-term $4.7B data center lease"
+    "Obsidian Security raises funding at $1.1 billion valuation on AI security demand"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -196,6 +196,7 @@
     "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
     "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
+    "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
     "3c3c516cbebe3c078b5eda080ad6768cf55cc8f0b45f9985fc508c0ec766b452": 1786374769.9398928,
     "3dacf551e153ce76cb6b9f9d6e3182089f2de7fd70eeacedfb8d2a2ae7922de9": 1786448049.2839653,
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
