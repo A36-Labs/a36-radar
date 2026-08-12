@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786571853.787843,
+  "last_post_at": 1786575301.8381763,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "PYMNTS.com",
     "CNBC",
     "BleepingComputer",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "Storyboard18",
     "Bloomberg.com",
-    "CryptoRank",
-    "Law360"
+    "CryptoRank"
   ],
   "recent_titles": [
+    "Flywire and Trustly Bring Open Banking Partnership to US",
     "Cerebras stock plunges 14% after second earnings report following IPO",
     "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
     "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
@@ -160,8 +161,7 @@
     "In first post-IPO earnings, Starlink drives SpaceX revenue as AI, launches lag",
     "Indian EV startup River raises $120M Series C to scale production, launch more models",
     "Insuretech startup InRisk Labs raises $27M in Series A",
-    "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-    "Texas Instruments announces semiconductor partnership with GE"
+    "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -311,6 +311,7 @@
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
+    "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
