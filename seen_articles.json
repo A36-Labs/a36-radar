@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786624153.8507273,
+  "last_post_at": 1786629900.2007694,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Frontier Tech",
     "Policy & Regulation",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "AI Insider",
     "Live 5 News",
     "Indian Startup News",
     "CryptoRank",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "TechCrunch Startups",
     "Reuters",
-    "Yahoo Finance UK",
-    "Axios"
+    "Yahoo Finance UK"
   ],
   "recent_titles": [
+    "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
     "How AI Cameras are helping north Charleston police solve crimes, push for regulation",
     "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand",
     "Accel closes $3.5B in new funds to back early-stage AI startups globally",
@@ -160,8 +161,7 @@
     "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
     "Putin signs landmark crypto regulation into law",
     "IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition",
-    "Nigerian Mobility Startup Moove Raises $250 Million to Bet Big on Robotaxis",
-    "USU Launches New Robotics Degree in Partnership with Tech Colleges"
+    "Nigerian Mobility Startup Moove Raises $250 Million to Bet Big on Robotaxis"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -293,6 +293,7 @@
     "ce7f898821cca66b32343bc919fa1770c37e15df1d9b363e5345337c2d47f102": 1786084979.7290184,
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
+    "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
     "d9156228b8ae12196dc10d981d277543f7ad761aa0fc9523c51734e8d6596a92": 1785885307.6824715,
