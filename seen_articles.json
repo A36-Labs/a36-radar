@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786629900.2007694,
-  "last_urgent_at": 1786568298.216912,
+  "last_post_at": 1786633890.6676998,
+  "last_urgent_at": 1786633890.6676998,
   "recent_categories": [
+    "VC & Accelerators",
     "Frontier Tech",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "AI Insider",
     "Live 5 News",
     "Indian Startup News",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "TechCrunch AI",
     "TechCrunch Startups",
-    "Reuters",
-    "Yahoo Finance UK"
+    "Reuters"
   ],
   "recent_titles": [
+    "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
     "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
     "How AI Cameras are helping north Charleston police solve crimes, push for regulation",
     "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand",
@@ -160,8 +161,7 @@
     "Nigerian mobility startup Moove raises $250m Series C funding round -",
     "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
     "Putin signs landmark crypto regulation into law",
-    "IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition",
-    "Nigerian Mobility Startup Moove Raises $250 Million to Bet Big on Robotaxis"
+    "IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -172,6 +172,7 @@
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
+    "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
     "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
