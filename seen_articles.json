@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786588865.3434782,
+  "last_post_at": 1786596080.4139109,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Policy & Regulation",
     "Frontier Tech",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Open Source & DevTools",
-    "Cybersecurity & Cloud",
-    "VC & Accelerators"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "The Fast Mode",
     "TribLIVE.com",
     "PYMNTS.com",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "Indian Startup News",
     "helpnetsecurity.com",
-    "The Hacker News",
-    "Storyboard18"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
     "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service",
     "Robinson bill would provide funding stream for K-12 STEM, robotics programs",
     "Flywire and Trustly Bring Open Banking Partnership to US",
@@ -160,11 +161,11 @@
     "COLDCARD security audit phishing attack installs remote access tool",
     "Colorado Pares Back AI Law as FTC Raises New Questions About State Regulation",
     "HappyRobot Raises $150 Million At $1.2B To Fix Enterprise AI Agents",
-    "In first post-IPO earnings, Starlink drives SpaceX revenue as AI, launches lag",
-    "Indian EV startup River raises $120M Series C to scale production, launch more models"
+    "In first post-IPO earnings, Starlink drives SpaceX revenue as AI, launches lag"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
+    "04b014fb3d9e588a1e59e6ec6a89532c7d8b445472f8e171a6d6fbebe0a0ecbb": 1786596080.4139109,
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
     "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
