@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786578827.714459,
+  "last_post_at": 1786588865.3434782,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Policy & Regulation",
     "Frontier Tech",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
-    "VC & Accelerators",
-    "Startups & Funding"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "The Fast Mode",
     "TribLIVE.com",
     "PYMNTS.com",
     "CNBC",
@@ -38,10 +39,10 @@
     "Indian Startup News",
     "helpnetsecurity.com",
     "The Hacker News",
-    "Storyboard18",
-    "Bloomberg.com"
+    "Storyboard18"
   ],
   "recent_titles": [
+    "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service",
     "Robinson bill would provide funding stream for K-12 STEM, robotics programs",
     "Flywire and Trustly Bring Open Banking Partnership to US",
     "Cerebras stock plunges 14% after second earnings report following IPO",
@@ -160,8 +161,7 @@
     "Colorado Pares Back AI Law as FTC Raises New Questions About State Regulation",
     "HappyRobot Raises $150 Million At $1.2B To Fix Enterprise AI Agents",
     "In first post-IPO earnings, Starlink drives SpaceX revenue as AI, launches lag",
-    "Indian EV startup River raises $120M Series C to scale production, launch more models",
-    "Insuretech startup InRisk Labs raises $27M in Series A"
+    "Indian EV startup River raises $120M Series C to scale production, launch more models"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -180,6 +180,7 @@
     "19d74ba56c7689852eff4c4ad45d36d8d99afef161ca413b8d61e652fd5c56f4": 1786536228.4634604,
     "1a90c36379a31994a727f9b38da11246ca77968b7d6356c46c651a084607981d": 1786139578.7538576,
     "1abc932309b497f3f0b56cc7dd2bffbb2228a245173e11ec76a9f871541b7710": 1786359114.2255287,
+    "1b219d6a51189a7553552a96413594603681fb6c8fea3f04e5bbc7c4f8a42b95": 1786588865.3434782,
     "1b7f631efc5896ca356f1fe61b4d101d1006bd8b9297d5e1b06f24c93e6e76f7": 1786147412.6299539,
     "1cdc326e0cab149f5f70dab13bc811e1e678b9e4edf759354e9976917796dab0": 1786276233.3103006,
     "1d9b2431dc92d7c7a623245a912993be7f8de20925e209a74ddf004e34a9064a": 1786062886.7949288,
