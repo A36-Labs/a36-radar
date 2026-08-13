@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786601276.2777438,
+  "last_post_at": 1786607902.4434588,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Web3 & Digital Assets",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "헤럴드경제",
     "The Economic Times",
     "Cointelegraph",
     "The Fast Mode",
@@ -38,10 +39,10 @@
     "Axios",
     "CXO Digitalpulse",
     "Crunchbase News",
-    "Indian Startup News",
-    "helpnetsecurity.com"
+    "Indian Startup News"
   ],
   "recent_titles": [
+    "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO",
     "Anthropic in talks to buy startup Decart AI for $6 billion",
     "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
     "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service",
@@ -160,8 +161,7 @@
     "USU Launches New Robotics Degree in Partnership with Tech Colleges",
     "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era",
     "COLDCARD security audit phishing attack installs remote access tool",
-    "Colorado Pares Back AI Law as FTC Raises New Questions About State Regulation",
-    "HappyRobot Raises $150 Million At $1.2B To Fix Enterprise AI Agents"
+    "Colorado Pares Back AI Law as FTC Raises New Questions About State Regulation"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -290,6 +290,7 @@
     "cdc1c1c90291460ace2970bf93f1f419718d4f8ba6749944478cd25975639762": 1786200262.4983444,
     "cdd25898f00e5aaa0fb9eac791ede5c6b2a4b4e2ec9e800fc14c313f0ad96efb": 1785870641.104463,
     "ce7f898821cca66b32343bc919fa1770c37e15df1d9b363e5345337c2d47f102": 1786084979.7290184,
+    "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
