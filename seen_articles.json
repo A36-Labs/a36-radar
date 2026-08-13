@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786633890.6676998,
+  "last_post_at": 1786637639.1537044,
   "last_urgent_at": 1786633890.6676998,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Frontier Tech",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Reuters",
     "CoinDesk",
     "AI Insider",
     "Live 5 News",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "TechCrunch Startups",
     "TechCrunch AI",
-    "TechCrunch Startups",
-    "Reuters"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "EXCLUSIVE: Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
     "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
     "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
     "How AI Cameras are helping north Charleston police solve crimes, push for regulation",
@@ -160,8 +161,7 @@
     "Sequoia doubles down on AI with $10B fund under new leadership",
     "Nigerian mobility startup Moove raises $250m Series C funding round -",
     "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-    "Putin signs landmark crypto regulation into law",
-    "IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition"
+    "Putin signs landmark crypto regulation into law"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -288,6 +288,7 @@
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
+    "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
     "cdc1c1c90291460ace2970bf93f1f419718d4f8ba6749944478cd25975639762": 1786200262.4983444,
     "cdd25898f00e5aaa0fb9eac791ede5c6b2a4b4e2ec9e800fc14c313f0ad96efb": 1785870641.104463,
