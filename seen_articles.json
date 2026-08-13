@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786658823.285808,
+  "last_post_at": 1786665181.9794347,
   "last_urgent_at": 1786655326.0515604,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Policy & Regulation",
     "Startups & Funding",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Frontier Tech",
     "Fintech & Payments",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CoinDesk",
     "SEC Press Releases",
     "TechCrunch Startups",
     "GitHub Blog",
@@ -38,10 +39,10 @@
     "The Fast Mode",
     "TribLIVE.com",
     "PYMNTS.com",
-    "CNBC",
-    "BleepingComputer"
+    "CNBC"
   ],
   "recent_titles": [
+    "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
     "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
     "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
@@ -160,8 +161,7 @@
     "Cumbrian technology firm extends partnership with global robotics giant",
     "Bowie State University to launch bachelor's degree in artificial intelligence this fall",
     "Defense tech Hadrian raises $1.37B at $8B valuation",
-    "DeepSeek invests $20.8 million in Unitree's Shanghai IPO",
-    "AWS Kiro Crew Open Source Release: Key Facts Developers Must Know"
+    "DeepSeek invests $20.8 million in Unitree's Shanghai IPO"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -198,6 +198,7 @@
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
     "2e449710995ae0bacf3586fcce63651cfd596a8a44f2f314cf0938e2d2c7d75a": 1786330943.9278576,
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
+    "2f8a9a6206f96b97d0cc4bca93ac68d074bd528bef4cd42c9dc90b5a32f3b2cc": 1786665181.9794347,
     "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
     "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
