@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786607902.4434588,
+  "last_post_at": 1786612896.7220361,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "VC & Accelerators",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "CryptoRank",
     "헤럴드경제",
     "The Economic Times",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "Yahoo Finance UK",
     "Axios",
     "CXO Digitalpulse",
-    "Crunchbase News",
-    "Indian Startup News"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Accel closes $3.5B in new funds to back early-stage AI startups globally",
     "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO",
     "Anthropic in talks to buy startup Decart AI for $6 billion",
     "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
@@ -160,8 +161,7 @@
     "Nigerian Mobility Startup Moove Raises $250 Million to Bet Big on Robotaxis",
     "USU Launches New Robotics Degree in Partnership with Tech Colleges",
     "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era",
-    "COLDCARD security audit phishing attack installs remote access tool",
-    "Colorado Pares Back AI Law as FTC Raises New Questions About State Regulation"
+    "COLDCARD security audit phishing attack installs remote access tool"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -307,6 +307,7 @@
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
+    "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
     "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f1283ca226e4733cb1013fa70e9488ea2337c89e77054f09ff6a72ec28d6627d": 1786101168.1932325,
