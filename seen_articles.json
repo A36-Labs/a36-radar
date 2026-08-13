@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786612896.7220361,
+  "last_post_at": 1786617243.2745974,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Indian Startup News",
     "CryptoRank",
     "헤럴드경제",
     "The Economic Times",
@@ -38,10 +39,10 @@
     "Reuters",
     "Yahoo Finance UK",
     "Axios",
-    "CXO Digitalpulse",
-    "Crunchbase News"
+    "CXO Digitalpulse"
   ],
   "recent_titles": [
+    "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand",
     "Accel closes $3.5B in new funds to back early-stage AI startups globally",
     "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO",
     "Anthropic in talks to buy startup Decart AI for $6 billion",
@@ -160,8 +161,7 @@
     "IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition",
     "Nigerian Mobility Startup Moove Raises $250 Million to Bet Big on Robotaxis",
     "USU Launches New Robotics Degree in Partnership with Tech Colleges",
-    "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era",
-    "COLDCARD security audit phishing attack installs remote access tool"
+    "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -303,6 +303,7 @@
     "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
+    "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
