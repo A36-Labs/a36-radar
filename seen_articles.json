@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786596080.4139109,
+  "last_post_at": 1786601276.2777438,
   "last_urgent_at": 1786568298.216912,
   "recent_categories": [
+    "AI & Agents",
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Open Source & DevTools",
-    "Cybersecurity & Cloud"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "The Economic Times",
     "Cointelegraph",
     "The Fast Mode",
     "TribLIVE.com",
@@ -38,10 +39,10 @@
     "CXO Digitalpulse",
     "Crunchbase News",
     "Indian Startup News",
-    "helpnetsecurity.com",
-    "The Hacker News"
+    "helpnetsecurity.com"
   ],
   "recent_titles": [
+    "Anthropic in talks to buy startup Decart AI for $6 billion",
     "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
     "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service",
     "Robinson bill would provide funding stream for K-12 STEM, robotics programs",
@@ -160,8 +161,7 @@
     "Armed With $10 Billion, Sequoia’s Leaders Plan Its New Era",
     "COLDCARD security audit phishing attack installs remote access tool",
     "Colorado Pares Back AI Law as FTC Raises New Questions About State Regulation",
-    "HappyRobot Raises $150 Million At $1.2B To Fix Enterprise AI Agents",
-    "In first post-IPO earnings, Starlink drives SpaceX revenue as AI, launches lag"
+    "HappyRobot Raises $150 Million At $1.2B To Fix Enterprise AI Agents"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -170,6 +170,7 @@
     "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
+    "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
     "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
