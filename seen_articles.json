@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786738054.0460236,
+  "last_post_at": 1786742063.802998,
   "last_urgent_at": 1786738054.0460236,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "SEC Press Releases",
     "Crunchbase News",
     "Startup Story",
     "CoinGape",
@@ -38,10 +39,10 @@
     "조선일보",
     "CoinDesk",
     "SEC Press Releases",
-    "TechCrunch Startups",
-    "GitHub Blog"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
     "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
     "Databricks wraps $5 billion funding round at $190 billion valuation | Startup Story",
     "Israel Bank Rolls Out Bitcoin, Ethereum, & Solana Trading With Galaxy Partnership",
@@ -160,8 +161,7 @@
     "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans",
     "US Banking Regulator Rejects Fintech Bunq’s Charter Application",
     "Metabase SQLi zero-day exploited in customer data-theft attacks",
-    "The Beat: Base Power raises $1B following IL expansion, local robotics startup expands",
-    "Lattice Semiconductor Q2 FY 2026: AMI Acquisition Pulls $1 Billion Revenue Rate Up to Q3 2026"
+    "The Beat: Base Power raises $1B following IL expansion, local robotics startup expands"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -279,6 +279,7 @@
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
+    "a631af890f28cf7aa4b22e547f29ce3e9764600842d228bcbaab1d550a346fb2": 1786742063.802998,
     "a7801aa807b0d1a675534dcc59b5b73c396d3753fde7d1e9e8c8067b79ab5619": 1786421065.2667177,
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
     "aa3fe482cb711f8ddaff1a25c156356b7f690c046507cc87252f631ed1382d09": 1786204284.2487767,
