@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786675160.447255,
+  "last_post_at": 1786681865.4446685,
   "last_urgent_at": 1786655326.0515604,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Web3 & Digital Assets",
     "Policy & Regulation",
-    "Frontier Tech",
-    "Fintech & Payments"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "The Daily Upside",
     "조선일보",
     "CoinDesk",
     "SEC Press Releases",
@@ -38,10 +39,10 @@
     "The Economic Times",
     "Cointelegraph",
     "The Fast Mode",
-    "TribLIVE.com",
-    "PYMNTS.com"
+    "TribLIVE.com"
   ],
   "recent_titles": [
+    "Anthropic’s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency",
     "Anthropic's $2 Trillion IPO Could Top SpaceX",
     "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
     "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
@@ -160,8 +161,7 @@
     "Charities alert regulators following widespread data breach",
     "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
     "Cumbrian technology firm extends partnership with global robotics giant",
-    "Bowie State University to launch bachelor's degree in artificial intelligence this fall",
-    "Defense tech Hadrian raises $1.37B at $8B valuation"
+    "Bowie State University to launch bachelor's degree in artificial intelligence this fall"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -331,6 +331,7 @@
     "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
+    "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
   }
