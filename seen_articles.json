@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786728833.7736254,
+  "last_post_at": 1786732200.713787,
   "last_urgent_at": 1786718154.866428,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "VC & Accelerators"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CoinGape",
     "BleepingComputer",
     "FF News",
     "bloomberg.com",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "GitHub Blog",
     "BleepingComputer",
-    "Reuters",
-    "CoinDesk"
+    "Reuters"
   ],
   "recent_titles": [
+    "Israel Bank Rolls Out Bitcoin, Ethereum, & Solana Trading With Galaxy Partnership",
     "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
     "Strata Credit Union Partners with Alkami to Launch Personalized Digital Banking Platform",
     "SpaceX Completes Its $60 Billion Cursor Acquisition",
@@ -160,8 +161,7 @@
     "The Beat: Base Power raises $1B following IL expansion, local robotics startup expands",
     "Lattice Semiconductor Q2 FY 2026: AMI Acquisition Pulls $1 Billion Revenue Rate Up to Q3 2026",
     "Movement, El Vecino and RISE Partner to Launch First Digital Dollar Wallet for Mexican Remittances",
-    "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding"
+    "Cloudflare launches Kitesurf, a browser built for AI agents"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -245,6 +245,7 @@
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
     "6be677a52f10a385ea7c3754a04cf36a43def80f5f20cde9a11d7bec5516ca67": 1786529846.702828,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
+    "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
