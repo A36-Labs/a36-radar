@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786681865.4446685,
+  "last_post_at": 1786687410.1054802,
   "last_urgent_at": 1786655326.0515604,
   "recent_categories": [
+    "Open Source & DevTools",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "Frontier Tech"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "디지털투데이",
     "The Daily Upside",
     "조선일보",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "헤럴드경제",
     "The Economic Times",
     "Cointelegraph",
-    "The Fast Mode",
-    "TribLIVE.com"
+    "The Fast Mode"
   ],
   "recent_titles": [
+    "Bitcoin red team uses Chinese AI to hunt security flaws in Bitcoin open-source ecosystem",
     "Anthropic’s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency",
     "Anthropic's $2 Trillion IPO Could Top SpaceX",
     "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
@@ -160,8 +161,7 @@
     "Former A16z partner to raise $100m as debut fund for new venture firm",
     "Charities alert regulators following widespread data breach",
     "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-    "Cumbrian technology firm extends partnership with global robotics giant",
-    "Bowie State University to launch bachelor's degree in artificial intelligence this fall"
+    "Cumbrian technology firm extends partnership with global robotics giant"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -206,6 +206,7 @@
     "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
     "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
     "3c3c516cbebe3c078b5eda080ad6768cf55cc8f0b45f9985fc508c0ec766b452": 1786374769.9398928,
+    "3c53bdbd4859041a949cd34615af0ddeeb36fd9c533068825dbac2af8a980bcc": 1786687410.1054802,
     "3dacf551e153ce76cb6b9f9d6e3182089f2de7fd70eeacedfb8d2a2ae7922de9": 1786448049.2839653,
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
     "3ee0b841980729eb49e976da0b6808eef405dbc1b00a15f336a2f4b338644db2": 1785891079.6105769,
