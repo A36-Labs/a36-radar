@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786742063.802998,
+  "last_post_at": 1786747072.2805998,
   "last_urgent_at": 1786738054.0460236,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "SEC Press Releases",
     "Crunchbase News",
     "Startup Story",
@@ -38,10 +39,10 @@
     "The Daily Upside",
     "조선일보",
     "CoinDesk",
-    "SEC Press Releases",
-    "TechCrunch Startups"
+    "SEC Press Releases"
   ],
   "recent_titles": [
+    "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
     "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
     "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
     "Databricks wraps $5 billion funding round at $190 billion valuation | Startup Story",
@@ -160,8 +161,7 @@
     "ONDO Perps hits $7B in volume weeks after launch",
     "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans",
     "US Banking Regulator Rejects Fintech Bunq’s Charter Application",
-    "Metabase SQLi zero-day exploited in customer data-theft attacks",
-    "The Beat: Base Power raises $1B following IL expansion, local robotics startup expands"
+    "Metabase SQLi zero-day exploited in customer data-theft attacks"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -334,6 +334,7 @@
     "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f1283ca226e4733cb1013fa70e9488ea2337c89e77054f09ff6a72ec28d6627d": 1786101168.1932325,
+    "f135ee8c580325bb6cb561819ea0a38754414d6f9464f99ca85a68f2631e5c70": 1786747072.2805998,
     "f1f23e457da50e5c69b3262ea77a7fc2b09c662e45661783a20d78eeded9c5fa": 1786702441.7415993,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
