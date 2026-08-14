@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786705925.8648098,
+  "last_post_at": 1786714507.4313748,
   "last_urgent_at": 1786705925.8648098,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Frontier Tech",
     "Policy & Regulation",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "analyticsindiamag.com",
     "TechRepublic",
     "theaiinsider.tech",
     "Bloomberg Law News",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "AI Insider",
     "Live 5 News",
-    "Indian Startup News",
-    "CryptoRank"
+    "Indian Startup News"
   ],
   "recent_titles": [
+    "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation",
     "Anthropic Reportedly Eyes $6 Billion Decart Acquisition to Boost AI Efficiency",
     "LTX Releases Open-Weights LTX-2.5 World Model for Video, Robotics and Simulation",
     "SEC Delays Crypto Regulation Meeting in Latest Industry Setback",
@@ -160,8 +161,7 @@
     "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
     "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
     "Voyager Digital Ruling Further Curbs Bankruptcy Legal Shields",
-    "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-    "AI data centre startup Firmus just raised another $2.85 billion at a whopping $15B valuation"
+    "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -197,6 +197,7 @@
     "20fafa6d4d47904761fca035f152e42efeeaaee089f606f74031cf652774de9e": 1786267256.2286808,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
+    "2d0c4a42b65c561b6e7f2a7d806b54ad7fd3442009f805d4e05d8f386778a954": 1786714507.4313748,
     "2e449710995ae0bacf3586fcce63651cfd596a8a44f2f314cf0938e2d2c7d75a": 1786330943.9278576,
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
     "2f8a9a6206f96b97d0cc4bca93ac68d074bd528bef4cd42c9dc90b5a32f3b2cc": 1786665181.9794347,
