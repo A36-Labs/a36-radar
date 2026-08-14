@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786714507.4313748,
-  "last_urgent_at": 1786705925.8648098,
+  "last_post_at": 1786718154.866428,
+  "last_urgent_at": 1786718154.866428,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Frontier Tech",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "bloomberg.com",
     "analyticsindiamag.com",
     "TechRepublic",
     "theaiinsider.tech",
@@ -38,10 +39,10 @@
     "Reuters",
     "CoinDesk",
     "AI Insider",
-    "Live 5 News",
-    "Indian Startup News"
+    "Live 5 News"
   ],
   "recent_titles": [
+    "SpaceX Completes Its $60 Billion Cursor Acquisition",
     "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation",
     "Anthropic Reportedly Eyes $6 Billion Decart Acquisition to Boost AI Efficiency",
     "LTX Releases Open-Weights LTX-2.5 World Model for Video, Robotics and Simulation",
@@ -160,8 +161,7 @@
     "Cloudflare launches Kitesurf, a browser built for AI agents",
     "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
     "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-    "Voyager Digital Ruling Further Curbs Bankruptcy Legal Shields",
-    "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day"
+    "Voyager Digital Ruling Further Curbs Bankruptcy Legal Shields"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -291,6 +291,7 @@
     "bbd027ea3c064ab94003267b4296cae76de0838d957ad2b354422380f82a4a29": 1786227161.3109221,
     "bcd00c19571fc700155ef6aa10daee90784b6e6be6be382470160edc72ee0f10": 1785944958.4138012,
     "bd1cb110aa55a1442b7766ac3443a02007834c0431a4c11e7d29e4454f1f6f29": 1786322348.0038161,
+    "bd8f594df4f6b89688b450dc911318a300bf59ad49cb4a45922a305e034134b8": 1786718154.866428,
     "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
