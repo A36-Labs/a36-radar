@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786747072.2805998,
+  "last_post_at": 1786750944.1399589,
   "last_urgent_at": 1786738054.0460236,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "AI & Agents",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "beincrypto.com",
     "Bloomberg.com",
     "SEC Press Releases",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "디지털투데이",
     "The Daily Upside",
     "조선일보",
-    "CoinDesk",
-    "SEC Press Releases"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
     "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
     "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
     "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
@@ -160,8 +161,7 @@
     "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks",
     "ONDO Perps hits $7B in volume weeks after launch",
     "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans",
-    "US Banking Regulator Rejects Fintech Bunq’s Charter Application",
-    "Metabase SQLi zero-day exploited in customer data-theft attacks"
+    "US Banking Regulator Rejects Fintech Bunq’s Charter Application"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -186,6 +186,7 @@
     "1abc932309b497f3f0b56cc7dd2bffbb2228a245173e11ec76a9f871541b7710": 1786359114.2255287,
     "1b219d6a51189a7553552a96413594603681fb6c8fea3f04e5bbc7c4f8a42b95": 1786588865.3434782,
     "1b7f631efc5896ca356f1fe61b4d101d1006bd8b9297d5e1b06f24c93e6e76f7": 1786147412.6299539,
+    "1c8d6961ef0a8fad7a91a5ef824a874eb245f00ff61ddcb8143255a46e0d4566": 1786750944.1399589,
     "1cdc326e0cab149f5f70dab13bc811e1e678b9e4edf759354e9976917796dab0": 1786276233.3103006,
     "1d664ddf0d7e85da99479b069ec3f86dde3d94ecaceba6687e5fe0177fe718a0": 1786675160.447255,
     "1d9b2431dc92d7c7a623245a912993be7f8de20925e209a74ddf004e34a9064a": 1786062886.7949288,
