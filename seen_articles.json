@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786724890.2204318,
+  "last_post_at": 1786728833.7736254,
   "last_urgent_at": 1786718154.866428,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "VC & Accelerators",
-    "Frontier Tech"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "FF News",
     "bloomberg.com",
     "analyticsindiamag.com",
@@ -38,10 +39,10 @@
     "GitHub Blog",
     "BleepingComputer",
     "Reuters",
-    "CoinDesk",
-    "AI Insider"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
     "Strata Credit Union Partners with Alkami to Launch Personalized Digital Banking Platform",
     "SpaceX Completes Its $60 Billion Cursor Acquisition",
     "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation",
@@ -160,8 +161,7 @@
     "Lattice Semiconductor Q2 FY 2026: AMI Acquisition Pulls $1 Billion Revenue Rate Up to Q3 2026",
     "Movement, El Vecino and RISE Partner to Launch First Digital Dollar Wallet for Mexican Remittances",
     "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
-    "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares"
+    "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -215,6 +215,7 @@
     "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
     "41f519ea8abda45f443e17e133b6408f046afcc62c2d18638dcb5ef23a400ea1": 1785962284.7850716,
+    "4459523963ae050297f891d5ea220da28147ab54d1644642f6b6b007f090639f": 1786728833.7736254,
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
