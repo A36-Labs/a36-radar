@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786816373.9527972,
+  "last_post_at": 1786821049.4947705,
   "last_urgent_at": 1786802804.2871442,
   "recent_categories": [
+    "VC & Accelerators",
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "ababnews.com",
     "bernama",
     "CyberSecurityNews",
     "Startup Fortune",
@@ -38,10 +39,10 @@
     "blockchain.news",
     "Interesting Engineering",
     "foreignpolicyjournal.com",
-    "beincrypto.com",
-    "Bloomberg.com"
+    "beincrypto.com"
   ],
   "recent_titles": [
+    "Robinhood's Second Venture Capital Fund RVII Launched, Raising Approximately $225.5 Million, Focused on Y Combinator-Related Companies",
     "Tesla To Be Worth Around Us$8 Trillion After Optimus Robots Launch - Errol Musk",
     "Shell Investigating Data Breach Following Cl0p Ransomware Group Claim",
     "RedotPay Shelves $1 Billion IPO After Binance Sues Over 470,000 Users",
@@ -160,8 +161,7 @@
     "a16z: Monthly spending on crypto cards has surpassed $750 million",
     "SharpLink, Galaxy launch $125M on-chain yield fund – Details",
     "Source Foundry Raises $400 Million at a $5 Billion Valuation as Startup Takes on ASML in AI Chip Manufacturing",
-    "OpenAI acquires presentation startup NextSlide",
-    "Allcredit.cards Launches Comprehensive Database of 3,500 US Credit Cards"
+    "OpenAI acquires presentation startup NextSlide"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -253,6 +253,7 @@
     "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
     "65c0ed43a1e6e47cf8cb5a889745e158e37b719f90d6aaf7620ec4043823b0b9": 1786378373.3468823,
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
+    "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
