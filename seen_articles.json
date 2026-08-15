@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786767412.0327346,
+  "last_post_at": 1786771099.48371,
   "last_urgent_at": 1786753452.5252879,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Inquirer.net",
     "Inc42",
     "blockchain.news",
     "Interesting Engineering",
@@ -38,10 +39,10 @@
     "analyticsindiamag.com",
     "TechRepublic",
     "theaiinsider.tech",
-    "Bloomberg Law News",
-    "Athletech News"
+    "Bloomberg Law News"
   ],
   "recent_titles": [
+    "Digital advocates seek probe into alleged Baguio ransomware attack",
     "From Yulu To Discovered Materials — Indian Startups Raised $140 Mn This Week",
     "TRON: Stablecoin Market Cap Adds $1 Billion in Week",
     "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
@@ -160,8 +161,7 @@
     "Robot revolution hits the fields as £20m funding announced",
     "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
     "Humanity AI Announces $18 Million in Grants to Advance People-Centered Artificial Intelligence",
-    "Sequoia China joins $297m round for Space Star Technology",
-    "ClamAV 1.5.4 Open-Source Antivirus Fixes Eight Security Vulnerabilities"
+    "Sequoia China joins $297m round for Space Star Technology"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -180,6 +180,7 @@
     "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
+    "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
     "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
     "19d74ba56c7689852eff4c4ad45d36d8d99afef161ca413b8d61e652fd5c56f4": 1786536228.4634604,
