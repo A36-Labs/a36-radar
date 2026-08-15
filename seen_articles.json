@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786802804.2871442,
+  "last_post_at": 1786807901.2294278,
   "last_urgent_at": 1786802804.2871442,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Startup Fortune",
     "TechCrunch Startups",
     "CoinDesk",
     "PCMag Australia",
@@ -38,10 +39,10 @@
     "beincrypto.com",
     "Bloomberg.com",
     "SEC Press Releases",
-    "Crunchbase News",
-    "Startup Story"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "RedotPay Shelves $1 Billion IPO After Binance Sues Over 470,000 Users",
     "Every fusion startup that has raised over $100M",
     "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
     "Can't Go Viral? X Reveals Its Inner Workings in GitHub Release",
@@ -160,8 +161,7 @@
     "OpenAI acquires presentation startup NextSlide",
     "Allcredit.cards Launches Comprehensive Database of 3,500 US Credit Cards",
     "Rigetti Computing Reports Q2 2026 Financial Results: Revenue Up 185% YoY, $100M CHIPS Act LOI, and HPE Supercomputing Partnership",
-    "N3XT Launches MCP to Link AI Agents with Live Banking Data",
-    "US spot Bitcoin ETFs post best week since April with $1B inflows"
+    "N3XT Launches MCP to Link AI Agents with Live Banking Data"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -210,6 +210,7 @@
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
     "36b6e9983f22fbf49000091201fc87a00ae9ad59d9628ec50bdf1e90b578e954": 1786724890.2204318,
     "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
+    "388bacc45504dd8e1758d1b744c45d0ecf43bcf9dc9b0c6c5ad7d312156f747d": 1786807901.2294278,
     "38dd6134b89798a02b83c76b64702405b43c93656749d728068f8cf02f15122d": 1786802804.2871442,
     "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
     "3c3c516cbebe3c078b5eda080ad6768cf55cc8f0b45f9985fc508c0ec766b452": 1786374769.9398928,
