@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786762850.4530015,
+  "last_post_at": 1786767412.0327346,
   "last_urgent_at": 1786753452.5252879,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Inc42",
     "blockchain.news",
     "Interesting Engineering",
     "foreignpolicyjournal.com",
@@ -38,10 +39,10 @@
     "TechRepublic",
     "theaiinsider.tech",
     "Bloomberg Law News",
-    "Athletech News",
-    "디지털투데이"
+    "Athletech News"
   ],
   "recent_titles": [
+    "From Yulu To Discovered Materials — Indian Startups Raised $140 Mn This Week",
     "TRON: Stablecoin Market Cap Adds $1 Billion in Week",
     "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
     "Quantum Computing Inc. (NASDAQ: QUBT) Holds $1.3 Billion Cash Position Despite Heavy Acquisition Spending",
@@ -160,8 +161,7 @@
     "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
     "Humanity AI Announces $18 Million in Grants to Advance People-Centered Artificial Intelligence",
     "Sequoia China joins $297m round for Space Star Technology",
-    "ClamAV 1.5.4 Open-Source Antivirus Fixes Eight Security Vulnerabilities",
-    "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks"
+    "ClamAV 1.5.4 Open-Source Antivirus Fixes Eight Security Vulnerabilities"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -244,6 +244,7 @@
     "61a8eb87389ee76062b2e6bf30245481d305d6ebafba1791c5040800dc3b0300": 1786736053.948614,
     "644f9be3884b61cba84c37298ac78c5cdcbbb35bccf39dfde4c564d62cf30cab": 1786282424.4139445,
     "64fb94076147682447ff1bb5e90997b9c3ba6c30afcef637020f2d0ac3761fcf": 1786753452.5252879,
+    "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
     "65c0ed43a1e6e47cf8cb5a889745e158e37b719f90d6aaf7620ec4043823b0b9": 1786378373.3468823,
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
