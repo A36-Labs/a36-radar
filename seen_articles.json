@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786753452.5252879,
+  "last_post_at": 1786759308.62669,
   "last_urgent_at": 1786753452.5252879,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Open Source & DevTools",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Interesting Engineering",
     "foreignpolicyjournal.com",
     "beincrypto.com",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "Bloomberg Law News",
     "Athletech News",
     "디지털투데이",
-    "The Daily Upside",
-    "조선일보"
+    "The Daily Upside"
   ],
   "recent_titles": [
+    "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
     "Quantum Computing Inc. (NASDAQ: QUBT) Holds $1.3 Billion Cash Position Despite Heavy Acquisition Spending",
     "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
     "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
@@ -160,8 +161,7 @@
     "Sequoia China joins $297m round for Space Star Technology",
     "ClamAV 1.5.4 Open-Source Antivirus Fixes Eight Security Vulnerabilities",
     "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks",
-    "ONDO Perps hits $7B in volume weeks after launch",
-    "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans"
+    "ONDO Perps hits $7B in volume weeks after launch"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -231,6 +231,7 @@
     "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
     "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
+    "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
