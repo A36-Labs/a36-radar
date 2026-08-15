@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786826091.8259943,
+  "last_post_at": 1786829489.0012884,
   "last_urgent_at": 1786802804.2871442,
   "recent_categories": [
+    "Policy & Regulation",
     "Web3 & Digital Assets",
     "VC & Accelerators",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Saudi Gazette",
     "CoinDesk",
     "ababnews.com",
     "bernama",
@@ -38,10 +39,10 @@
     "Inquirer.net",
     "Inc42",
     "blockchain.news",
-    "Interesting Engineering",
-    "foreignpolicyjournal.com"
+    "Interesting Engineering"
   ],
   "recent_titles": [
+    "Swiss regulator warns financial sector of rising cyberattacks, AI risks",
     "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
     "Robinhood's Second Venture Capital Fund RVII Launched, Raising Approximately $225.5 Million, Focused on Y Combinator-Related Companies",
     "Tesla To Be Worth Around Us$8 Trillion After Optimus Robots Launch - Errol Musk",
@@ -160,8 +161,7 @@
     "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets",
     "SC issues notice on plea seeking CBI probe into alleged medical data breach affecting 2 lakh Indians",
     "a16z: Monthly spending on crypto cards has surpassed $750 million",
-    "SharpLink, Galaxy launch $125M on-chain yield fund – Details",
-    "Source Foundry Raises $400 Million at a $5 Billion Valuation as Startup Takes on ASML in AI Chip Manufacturing"
+    "SharpLink, Galaxy launch $125M on-chain yield fund – Details"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -286,6 +286,7 @@
     "9b07eb5cea15b090013f163827609ca43a47df77d20849fb698e44bcb206f8d7": 1786546060.625501,
     "9bf9b515e19ac444294f048b5b59e0e4c39d31eb91c122139852685fe2941424": 1786370632.234835,
     "9c150af82d9e26bfc3ca470b48458de9bbdc54274cc85ef68059736393e08b05": 1785814308.692388,
+    "9d00c676f3b2765f5bbb1b7afd9bfe9b931713c18b9c7f2a1ecd3eb9b0996ca8": 1786829489.0012884,
     "9d86f4cea914235e4110b2c9949cd88e04fee547f6a59b6bb8f437a0c59dd77a": 1786195060.0851758,
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
