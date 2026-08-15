@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786774458.8707151,
+  "last_post_at": 1786779523.6138108,
   "last_urgent_at": 1786753452.5252879,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Builder Ecosystem",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Dealroom",
     "Global South Opportunities",
     "Inquirer.net",
     "Inc42",
@@ -38,10 +39,10 @@
     "FF News",
     "bloomberg.com",
     "analyticsindiamag.com",
-    "TechRepublic",
-    "theaiinsider.tech"
+    "TechRepublic"
   ],
   "recent_titles": [
+    "AppLovin: how a 92% post-IPO crash became a $100B AI-driven ad machine",
     "Call for Applications: Sequoia Capital is Offering Sequoia Open Source Fellowship 2026",
     "Digital advocates seek probe into alleged Baguio ransomware attack",
     "From Yulu To Discovered Materials — Indian Startups Raised $140 Mn This Week",
@@ -160,8 +161,7 @@
     "Crypto Regulation News: Brazil Sets 24-Hour Delay for $10,000+ Transfers",
     "Consint.AI raises Rs 22 crore in Series A funding to expand globally, strengthen AI research",
     "Robot revolution hits the fields as £20m funding announced",
-    "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-    "Humanity AI Announces $18 Million in Grants to Advance People-Centered Artificial Intelligence"
+    "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -351,6 +351,7 @@
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
     "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
+    "f7e916032b1b1a9f88d4f64421c97ff2babd114ac47bf6cf1f48debc2c0ef91a": 1786779523.6138108,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
