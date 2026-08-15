@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786833747.9665344,
+  "last_post_at": 1786837930.405983,
   "last_urgent_at": 1786802804.2871442,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Builder Ecosystem",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "simplywall.st",
     "TechCrunch",
     "Saudi Gazette",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Dealroom",
     "Global South Opportunities",
     "Inquirer.net",
-    "Inc42",
-    "blockchain.news"
+    "Inc42"
   ],
   "recent_titles": [
+    "SpaceX (SPCX) Takes Over A $60 Billion Coding Startup",
     "SpaceX officially closes its Cursor acquisition",
     "Swiss regulator warns financial sector of rising cyberattacks, AI risks",
     "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
@@ -160,8 +161,7 @@
     "Trump Media & Technology Group (DJT) Faces A Fresh Valuation Test Following Its Crypto Pullback And TAE Merger Focus",
     "Sapiom Raises $35M to Route AI Agents to Cheaper Models. Anthropic Is a Backer",
     "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets",
-    "SC issues notice on plea seeking CBI probe into alleged medical data breach affecting 2 lakh Indians",
-    "a16z: Monthly spending on crypto cards has surpassed $750 million"
+    "SC issues notice on plea seeking CBI probe into alleged medical data breach affecting 2 lakh Indians"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -247,6 +247,7 @@
     "5f41e60d862b9777734b08015ee5c4ca26781d8543f76fe57a81207a938130fa": 1786444684.7163203,
     "5faacf234d705cd844e63f8f74bc8d8d200146c09d4cddf77d17105204b5d5ed": 1786451249.6498172,
     "60e671d8a0c1b88bb32abb99aa0a9dd89bc0d63550011c8481672487e179b3e6": 1786155642.4968526,
+    "613e73fca7906e6500fdf0f50124a88a3ab4c692ddc7a00c9f80ce6dc91592af": 1786837930.405983,
     "61a8eb87389ee76062b2e6bf30245481d305d6ebafba1791c5040800dc3b0300": 1786736053.948614,
     "644f9be3884b61cba84c37298ac78c5cdcbbb35bccf39dfde4c564d62cf30cab": 1786282424.4139445,
     "64fb94076147682447ff1bb5e90997b9c3ba6c30afcef637020f2d0ac3761fcf": 1786753452.5252879,
