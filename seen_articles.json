@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786759308.62669,
+  "last_post_at": 1786762850.4530015,
   "last_urgent_at": 1786753452.5252879,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Policy & Regulation",
     "Startups & Funding",
-    "Open Source & DevTools",
-    "AI & Agents"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "blockchain.news",
     "Interesting Engineering",
     "foreignpolicyjournal.com",
     "beincrypto.com",
@@ -38,10 +39,10 @@
     "theaiinsider.tech",
     "Bloomberg Law News",
     "Athletech News",
-    "디지털투데이",
-    "The Daily Upside"
+    "디지털투데이"
   ],
   "recent_titles": [
+    "TRON: Stablecoin Market Cap Adds $1 Billion in Week",
     "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
     "Quantum Computing Inc. (NASDAQ: QUBT) Holds $1.3 Billion Cash Position Despite Heavy Acquisition Spending",
     "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
@@ -160,8 +161,7 @@
     "Humanity AI Announces $18 Million in Grants to Advance People-Centered Artificial Intelligence",
     "Sequoia China joins $297m round for Space Star Technology",
     "ClamAV 1.5.4 Open-Source Antivirus Fixes Eight Security Vulnerabilities",
-    "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks",
-    "ONDO Perps hits $7B in volume weeks after launch"
+    "The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -170,6 +170,7 @@
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
     "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
+    "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
