@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786787133.020204,
+  "last_post_at": 1786791365.7419612,
   "last_urgent_at": 1786753452.5252879,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
-    "Fintech & Payments",
-    "Markets, IPOs & M&A"
+    "Fintech & Payments"
   ],
   "recent_sources": [
+    "Gasgoo",
     "BankInfoSecurity",
     "CryptoTicker",
     "Dealroom",
@@ -38,10 +39,10 @@
     "Startup Story",
     "CoinGape",
     "BleepingComputer",
-    "FF News",
-    "bloomberg.com"
+    "FF News"
   ],
   "recent_titles": [
+    "ZXMOTO Completes New Funding Round; Sequoia China Invests 150 Million Yuan at 6 Billion Yuan Valuation",
     "Oligo Raises $60M to Extend Runtime Security to AI Agents",
     "SEC Cancels Its First Crypto Rulemaking Vote: Why Regulation Crypto Just Stalled",
     "AppLovin: how a 92% post-IPO crash became a $100B AI-driven ad machine",
@@ -160,8 +161,7 @@
     "US spot Bitcoin ETFs post best week since April with $1B inflows",
     "Between August 03 and August 08, 2026, as many as 23 Indian startups from diverse sectors raised over $252 billion in funding from investors. These sectors include Autotech, Fintech, Healthtech, Robotics, Insurance, Sports, AI, Legaltech, Propertech, Quick",
     "Trump Media (NYSE: DJT) Retreats From Crypto.com Partnerships, Shifts Focus To Fusion Energy Merger",
-    "Crypto Regulation News: Brazil Sets 24-Hour Delay for $10,000+ Transfers",
-    "Consint.AI raises Rs 22 crore in Series A funding to expand globally, strengthen AI research"
+    "Crypto Regulation News: Brazil Sets 24-Hour Delay for $10,000+ Transfers"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -348,6 +348,7 @@
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
+    "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
