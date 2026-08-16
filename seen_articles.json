@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786853898.6397312,
+  "last_post_at": 1786858704.599998,
   "last_urgent_at": 1786853898.6397312,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Open Source & DevTools",
     "Startups & Funding",
-    "AI & Agents",
-    "Policy & Regulation"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "calcalistech.com",
     "36Kr",
     "The Star",
     "Seeking Alpha",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "PCMag Australia",
     "Gasgoo",
-    "BankInfoSecurity",
-    "CryptoTicker"
+    "BankInfoSecurity"
   ],
   "recent_titles": [
+    "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
     "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown",
     "HK Baptist University reviews IT security after ransomware group claims breach",
     "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
@@ -160,8 +161,7 @@
     "The AI safety test is becoming a safety risk",
     "Filene Research Institute and Money20/20 Announce Strategic Partnership to Connect Credit Unions with the Global Fintech Ecosystem",
     "Laptop maker Framework discloses data breach after zero-day hits analytics vendor Metabase",
-    "Strategy Buys $1.28B in Bitcoin, Holdings Top 738K",
-    "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash"
+    "Strategy Buys $1.28B in Bitcoin, Holdings Top 738K"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -334,6 +334,7 @@
     "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
+    "d7ab94dd18c7080705d3de9b2e2c2e1107acd7facde76aca417d4484a12986f5": 1786858704.599998,
     "d9156228b8ae12196dc10d981d277543f7ad761aa0fc9523c51734e8d6596a92": 1785885307.6824715,
     "d943d4a8308a85a5ba52402b7da4b6a80bf667bd7b899c2e447516d856da5787": 1786218061.6023836,
     "da980a19a843bfa0806961f8a5d641dec05ecc27e00d594d83ba658de147bcdc": 1786007813.7413337,
