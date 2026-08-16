@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786906244.4331348,
+  "last_post_at": 1786910406.8455408,
   "last_urgent_at": 1786870305.9517193,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Web3 & Digital Assets",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Startups & Funding"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "The Cool Down",
     "Jewish News",
     "The Economic Times",
     "Duluth News Tribune",
@@ -38,10 +39,10 @@
     "36Kr",
     "The Star",
     "Seeking Alpha",
-    "BankInfoSecurity",
-    "simplywall.st"
+    "BankInfoSecurity"
   ],
   "recent_titles": [
+    "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'",
     "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal",
     "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
     "Point/Counterpoint: AI regulation needs a light hand, not overreach",
@@ -160,8 +161,7 @@
     "Rouble-backed A7A5 stablecoin turnover nears $140 billion from launch, says PSB head",
     "News - Framework discloses data breach tied to Metabase zero-day attack",
     "Critical Progress LoadMaster flaw now actively exploited in attacks",
-    "Bybit Attracts $3.61B, Fidelity Launches Crypto Pensions, Stablecoin Regulation, CoinList Token Sale Burma (GbZSFC7gSY)",
-    "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard"
+    "Bybit Attracts $3.61B, Fidelity Launches Crypto Pensions, Stablecoin Regulation, CoinList Token Sale Burma (GbZSFC7gSY)"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -249,6 +249,7 @@
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
+    "5ddc8d3f048ab0c80b16cff0bd222e47355c60f6133f254b86a3cbe4a66a0d18": 1786910406.8455408,
     "5e7e6bf53b43088bf4a5525818e08f0a2cfb44a34a9db9d653688c9104c7573d": 1786885012.6308877,
     "5f353926bfe5a425532177da7474823736f9583ccf69e6cb9521324a605db2f3": 1786167143.9328957,
     "5f41e60d862b9777734b08015ee5c4ca26781d8543f76fe57a81207a938130fa": 1786444684.7163203,
