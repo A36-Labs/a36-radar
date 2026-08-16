@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786870305.9517193,
+  "last_post_at": 1786873651.9186046,
   "last_urgent_at": 1786870305.9517193,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Yellow.com",
     "Intellectia AI",
     "Traders Union",
     "The Daily Star",
@@ -38,10 +39,10 @@
     "bernama",
     "CyberSecurityNews",
     "Startup Fortune",
-    "TechCrunch Startups",
-    "CoinDesk"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
     "IonQ Completes $1.8 Billion Acquisition of SkyWater Technology",
     "Will Bitcoin hold support as SEC cancels Regulation Crypto vote?",
     "ShopUp's parent platform raises $100 million for Saudi financing push",
@@ -160,8 +161,7 @@
     "Election Interference: New database tracks over $5B in foreign money funding American politics",
     "Senate moves closer to vote on sweeping U.S. crypto regulation",
     "Inevitable AI Group Raises $6 Million Pre-Seed Round To Launch AI-Native SaaS Companies",
-    "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
-    "The AI safety test is becoming a safety risk"
+    "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -310,6 +310,7 @@
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
     "b5600f5fdcf8d09fb04cc31c8874e2925db7100db408e5e45ed3047257bf8bcc": 1786578827.714459,
     "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
+    "b736c8c713573b3f2127339904a2e569bb298eef79c0880ef1ca0588e334a9f3": 1786873651.9186046,
     "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
     "b9323ba81dde3226601517a178ff1507584b98c1d86f1d71b47492e55054ad91": 1786425572.5023675,
     "bb0dca84b99d34a422c587c7af64da761f35573c5b946f789ca70e95911766e7": 1786382038.9873805,
