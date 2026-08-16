@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786902709.3646052,
+  "last_post_at": 1786906244.4331348,
   "last_urgent_at": 1786870305.9517193,
   "recent_categories": [
+    "AI & Agents",
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Jewish News",
     "The Economic Times",
     "Duluth News Tribune",
     "EIN News",
@@ -38,10 +39,10 @@
     "The Star",
     "Seeking Alpha",
     "BankInfoSecurity",
-    "simplywall.st",
-    "TechCrunch"
+    "simplywall.st"
   ],
   "recent_titles": [
+    "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal",
     "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
     "Point/Counterpoint: AI regulation needs a light hand, not overreach",
     "MedFire Media Launches AI Patient Acquisition Masterclass for Plastic Surgeons",
@@ -160,8 +161,7 @@
     "News - Framework discloses data breach tied to Metabase zero-day attack",
     "Critical Progress LoadMaster flaw now actively exploited in attacks",
     "Bybit Attracts $3.61B, Fidelity Launches Crypto Pensions, Stablecoin Regulation, CoinList Token Sale Burma (GbZSFC7gSY)",
-    "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
-    "Live shopping platform raises $545 million, with plans for larger Seattle office"
+    "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -173,6 +173,7 @@
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
+    "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
