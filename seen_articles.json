@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786892656.480272,
+  "last_post_at": 1786898237.27734,
   "last_urgent_at": 1786870305.9517193,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Web3 & Digital Assets"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Duluth News Tribune",
     "EIN News",
     "CoinDesk",
     "financialexpress.com",
@@ -38,10 +39,10 @@
     "BankInfoSecurity",
     "simplywall.st",
     "TechCrunch",
-    "Saudi Gazette",
-    "CoinDesk"
+    "Saudi Gazette"
   ],
   "recent_titles": [
+    "Point/Counterpoint: AI regulation needs a light hand, not overreach",
     "MedFire Media Launches AI Patient Acquisition Masterclass for Plastic Surgeons",
     "Safepal security vulnerability exposes data of 39,798 customers",
     "India’s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches",
@@ -160,8 +161,7 @@
     "Bybit Attracts $3.61B, Fidelity Launches Crypto Pensions, Stablecoin Regulation, CoinList Token Sale Burma (GbZSFC7gSY)",
     "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
     "Live shopping platform raises $545 million, with plans for larger Seattle office",
-    "CLARITY Act Leaves 5 Loopholes, From Pensions to Trump’s $1.4B Crypto",
-    "The Mission Robotic Vehicle launched on July 21 with two seven-jointed arms meant to inspect, relocate and upgrade ageing satellites; after a year-long trip, it is meant to test whether spacecraft can become serviceable infrastructure"
+    "CLARITY Act Leaves 5 Loopholes, From Pensions to Trump’s $1.4B Crypto"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -360,6 +360,7 @@
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
+    "eae4cfafee8a522445f6bfbe3d5fc21a42d52abea3507f10c4f82118521f34e5": 1786898237.27734,
     "ebeecb98b2e868b05f0f2cd0a3c1ba421cdc2e9f680eb4a74608fc2289e351ad": 1786850985.513769,
     "ec325e48699aff259f3c190990d79324ad6412507b77bc12ae8b53c302aaa037": 1786641541.2733517,
     "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
