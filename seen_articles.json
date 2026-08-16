@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786867918.4470525,
-  "last_urgent_at": 1786853898.6397312,
+  "last_post_at": 1786870305.9517193,
+  "last_urgent_at": 1786870305.9517193,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Open Source & DevTools"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Intellectia AI",
     "Traders Union",
     "The Daily Star",
     "calcalistech.com",
@@ -38,10 +39,10 @@
     "CyberSecurityNews",
     "Startup Fortune",
     "TechCrunch Startups",
-    "CoinDesk",
-    "PCMag Australia"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "IonQ Completes $1.8 Billion Acquisition of SkyWater Technology",
     "Will Bitcoin hold support as SEC cancels Regulation Crypto vote?",
     "ShopUp's parent platform raises $100 million for Saudi financing push",
     "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
@@ -160,8 +161,7 @@
     "Senate moves closer to vote on sweeping U.S. crypto regulation",
     "Inevitable AI Group Raises $6 Million Pre-Seed Round To Launch AI-Native SaaS Companies",
     "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
-    "The AI safety test is becoming a safety risk",
-    "Filene Research Institute and Money20/20 Announce Strategic Partnership to Connect Credit Unions with the Global Fintech Ecosystem"
+    "The AI safety test is becoming a safety risk"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -296,6 +296,7 @@
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
+    "a3beb18fd80032bff2d3f71748635e0934f4862a1e7d1d7a74b16788f5367359": 1786870305.9517193,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
     "a631af890f28cf7aa4b22e547f29ce3e9764600842d228bcbaab1d550a346fb2": 1786742063.802998,
