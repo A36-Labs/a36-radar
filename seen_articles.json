@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786863884.119002,
+  "last_post_at": 1786867918.4470525,
   "last_urgent_at": 1786853898.6397312,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Open Source & DevTools",
-    "Startups & Funding"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Traders Union",
     "The Daily Star",
     "calcalistech.com",
     "36Kr",
@@ -38,10 +39,10 @@
     "Startup Fortune",
     "TechCrunch Startups",
     "CoinDesk",
-    "PCMag Australia",
-    "Gasgoo"
+    "PCMag Australia"
   ],
   "recent_titles": [
+    "Will Bitcoin hold support as SEC cancels Regulation Crypto vote?",
     "ShopUp's parent platform raises $100 million for Saudi financing push",
     "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
     "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown",
@@ -160,8 +161,7 @@
     "Inevitable AI Group Raises $6 Million Pre-Seed Round To Launch AI-Native SaaS Companies",
     "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
     "The AI safety test is becoming a safety risk",
-    "Filene Research Institute and Money20/20 Announce Strategic Partnership to Connect Credit Unions with the Global Fintech Ecosystem",
-    "Laptop maker Framework discloses data breach after zero-day hits analytics vendor Metabase"
+    "Filene Research Institute and Money20/20 Announce Strategic Partnership to Connect Credit Unions with the Global Fintech Ecosystem"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -323,6 +323,7 @@
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
+    "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
