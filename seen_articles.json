@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786918313.7391076,
+  "last_post_at": 1786923093.9291263,
   "last_urgent_at": 1786918313.7391076,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "AI & Agents",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Межа. Новини України.",
     "TechCrunch Startups",
     "The Cool Down",
@@ -38,10 +39,10 @@
     "Traders Union",
     "The Daily Star",
     "calcalistech.com",
-    "36Kr",
-    "The Star"
+    "36Kr"
   ],
   "recent_titles": [
+    "Large-scale DDoS attacks disrupted Threema secure messaging service",
     "Stripe completes OpenRouter acquisition in deal worth over $7 billion",
     "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'",
@@ -160,8 +161,7 @@
     "Cambridge Aerospace Raises $300M At $3.4B Valuation",
     "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs",
     "Anti-drone defense startup raises $300 million",
-    "Rouble-backed A7A5 stablecoin turnover nears $140 billion from launch, says PSB head",
-    "News - Framework discloses data breach tied to Metabase zero-day attack"
+    "Rouble-backed A7A5 stablecoin turnover nears $140 billion from launch, says PSB head"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -212,6 +212,7 @@
     "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
     "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
+    "34a524a5f373d24181668f6cbdc839f8451524e9f2b834c39ebf7df6450bb774": 1786923093.9291263,
     "36b6e9983f22fbf49000091201fc87a00ae9ad59d9628ec50bdf1e90b578e954": 1786724890.2204318,
     "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
     "386a3fc56e8402ce14b7059117e71ed5c0c8be4d9b413cbc45edf1d3cee208a2": 1786811792.8338273,
