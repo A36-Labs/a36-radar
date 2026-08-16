@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786858704.599998,
+  "last_post_at": 1786863884.119002,
   "last_urgent_at": 1786853898.6397312,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Open Source & DevTools",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Daily Star",
     "calcalistech.com",
     "36Kr",
     "The Star",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "CoinDesk",
     "PCMag Australia",
-    "Gasgoo",
-    "BankInfoSecurity"
+    "Gasgoo"
   ],
   "recent_titles": [
+    "ShopUp's parent platform raises $100 million for Saudi financing push",
     "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
     "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown",
     "HK Baptist University reviews IT security after ransomware group claims breach",
@@ -160,8 +161,7 @@
     "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
     "The AI safety test is becoming a safety risk",
     "Filene Research Institute and Money20/20 Announce Strategic Partnership to Connect Credit Unions with the Global Fintech Ecosystem",
-    "Laptop maker Framework discloses data breach after zero-day hits analytics vendor Metabase",
-    "Strategy Buys $1.28B in Bitcoin, Holdings Top 738K"
+    "Laptop maker Framework discloses data breach after zero-day hits analytics vendor Metabase"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -262,6 +262,7 @@
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
     "6be677a52f10a385ea7c3754a04cf36a43def80f5f20cde9a11d7bec5516ca67": 1786529846.702828,
+    "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
