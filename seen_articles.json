@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786850985.513769,
-  "last_urgent_at": 1786802804.2871442,
+  "last_post_at": 1786853898.6397312,
+  "last_urgent_at": 1786853898.6397312,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Startups & Funding",
     "AI & Agents",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "36Kr",
     "The Star",
     "Seeking Alpha",
     "BankInfoSecurity",
@@ -38,10 +39,10 @@
     "PCMag Australia",
     "Gasgoo",
     "BankInfoSecurity",
-    "CryptoTicker",
-    "Dealroom"
+    "CryptoTicker"
   ],
   "recent_titles": [
+    "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown",
     "HK Baptist University reviews IT security after ransomware group claims breach",
     "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
     "A Playbook for Securing Open-Weight and Open-Source AI Models",
@@ -160,8 +161,7 @@
     "Filene Research Institute and Money20/20 Announce Strategic Partnership to Connect Credit Unions with the Global Fintech Ecosystem",
     "Laptop maker Framework discloses data breach after zero-day hits analytics vendor Metabase",
     "Strategy Buys $1.28B in Bitcoin, Holdings Top 738K",
-    "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
-    "Trump Media & Technology Group (DJT) Faces A Fresh Valuation Test Following Its Crypto Pullback And TAE Merger Focus"
+    "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -197,6 +197,7 @@
     "1ff1ca762979c1e7b111851989827c475ab5e2d515d1e01b90ebc5c8870c6487": 1785971669.730236,
     "2007f4b35fc2d10fa654f0621688f865d6f4175bd28cfc626f6d660cb8f62eef": 1786437608.4053264,
     "2046aaea443bca4a609ca11974287b4df42475d7ee9af3f5749a4f37aacad94c": 1786355033.0926883,
+    "20a33963b2483a051cae872d1ebebb3f198c457d78d3075d43e5525794fcd1ba": 1786853898.6397312,
     "20fafa6d4d47904761fca035f152e42efeeaaee089f606f74031cf652774de9e": 1786267256.2286808,
     "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
