@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786837930.405983,
+  "last_post_at": 1786841560.7759066,
   "last_urgent_at": 1786802804.2871442,
   "recent_categories": [
+    "Open Source & DevTools",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Builder Ecosystem",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "BankInfoSecurity",
     "simplywall.st",
     "TechCrunch",
     "Saudi Gazette",
@@ -38,10 +39,10 @@
     "CryptoTicker",
     "Dealroom",
     "Global South Opportunities",
-    "Inquirer.net",
-    "Inc42"
+    "Inquirer.net"
   ],
   "recent_titles": [
+    "A Playbook for Securing Open-Weight and Open-Source AI Models",
     "SpaceX (SPCX) Takes Over A $60 Billion Coding Startup",
     "SpaceX officially closes its Cursor acquisition",
     "Swiss regulator warns financial sector of rising cyberattacks, AI risks",
@@ -160,8 +161,7 @@
     "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
     "Trump Media & Technology Group (DJT) Faces A Fresh Valuation Test Following Its Crypto Pullback And TAE Merger Focus",
     "Sapiom Raises $35M to Route AI Agents to Cheaper Models. Anthropic Is a Backer",
-    "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets",
-    "SC issues notice on plea seeking CBI probe into alleged medical data breach affecting 2 lakh Indians"
+    "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -198,6 +198,7 @@
     "2007f4b35fc2d10fa654f0621688f865d6f4175bd28cfc626f6d660cb8f62eef": 1786437608.4053264,
     "2046aaea443bca4a609ca11974287b4df42475d7ee9af3f5749a4f37aacad94c": 1786355033.0926883,
     "20fafa6d4d47904761fca035f152e42efeeaaee089f606f74031cf652774de9e": 1786267256.2286808,
+    "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
     "2d0c4a42b65c561b6e7f2a7d806b54ad7fd3442009f805d4e05d8f386778a954": 1786714507.4313748,
