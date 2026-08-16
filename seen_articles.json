@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786881156.4122944,
+  "last_post_at": 1786885012.6308877,
   "last_urgent_at": 1786870305.9517193,
   "recent_categories": [
+    "Startups & Funding",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "VC & Accelerators",
-    "Frontier Tech",
-    "Cybersecurity & Cloud"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "financialexpress.com",
     "Global Times",
     "Fast Company Middle East",
     "Yellow.com",
@@ -38,10 +39,10 @@
     "Saudi Gazette",
     "CoinDesk",
     "ababnews.com",
-    "bernama",
-    "CyberSecurityNews"
+    "bernama"
   ],
   "recent_titles": [
+    "India’s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches",
     "Alibaba’s open-source AI model Qwen overtakes Meta, Google to claim top spot globally: report",
     "ADI Chain, Shipfinex launch vessel-backed tokenization initiative",
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
@@ -160,8 +161,7 @@
     "CLARITY Act Leaves 5 Loopholes, From Pensions to Trump’s $1.4B Crypto",
     "The Mission Robotic Vehicle launched on July 21 with two seven-jointed arms meant to inspect, relocate and upgrade ageing satellites; after a year-long trip, it is meant to test whether spacecraft can become serviceable infrastructure",
     "Is Upstart Holdings (UPST) Cheap On Stronger Earnings And A $4b Castlelake Deal?",
-    "Election Interference: New database tracks over $5B in foreign money funding American politics",
-    "Senate moves closer to vote on sweeping U.S. crypto regulation"
+    "Election Interference: New database tracks over $5B in foreign money funding American politics"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -248,6 +248,7 @@
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
+    "5e7e6bf53b43088bf4a5525818e08f0a2cfb44a34a9db9d653688c9104c7573d": 1786885012.6308877,
     "5f353926bfe5a425532177da7474823736f9583ccf69e6cb9521324a605db2f3": 1786167143.9328957,
     "5f41e60d862b9777734b08015ee5c4ca26781d8543f76fe57a81207a938130fa": 1786444684.7163203,
     "5faacf234d705cd844e63f8f74bc8d8d200146c09d4cddf77d17105204b5d5ed": 1786451249.6498172,
