@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786885012.6308877,
+  "last_post_at": 1786889337.6924217,
   "last_urgent_at": 1786870305.9517193,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "VC & Accelerators",
-    "Frontier Tech"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "CoinDesk",
     "financialexpress.com",
     "Global Times",
     "Fast Company Middle East",
@@ -38,10 +39,10 @@
     "TechCrunch",
     "Saudi Gazette",
     "CoinDesk",
-    "ababnews.com",
-    "bernama"
+    "ababnews.com"
   ],
   "recent_titles": [
+    "Safepal security vulnerability exposes data of 39,798 customers",
     "India’s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches",
     "Alibaba’s open-source AI model Qwen overtakes Meta, Google to claim top spot globally: report",
     "ADI Chain, Shipfinex launch vessel-backed tokenization initiative",
@@ -160,8 +161,7 @@
     "Live shopping platform raises $545 million, with plans for larger Seattle office",
     "CLARITY Act Leaves 5 Loopholes, From Pensions to Trump’s $1.4B Crypto",
     "The Mission Robotic Vehicle launched on July 21 with two seven-jointed arms meant to inspect, relocate and upgrade ageing satellites; after a year-long trip, it is meant to test whether spacecraft can become serviceable infrastructure",
-    "Is Upstart Holdings (UPST) Cheap On Stronger Earnings And A $4b Castlelake Deal?",
-    "Election Interference: New database tracks over $5B in foreign money funding American politics"
+    "Is Upstart Holdings (UPST) Cheap On Stronger Earnings And A $4b Castlelake Deal?"
   ],
   "seen": {
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
@@ -381,6 +381,7 @@
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
+    "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
   }
 }
