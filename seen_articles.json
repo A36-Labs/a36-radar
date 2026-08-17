@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786945566.0214603,
+  "last_post_at": 1786952191.3298202,
   "last_urgent_at": 1786945566.0214603,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Open Source & DevTools",
-    "Web3 & Digital Assets",
-    "Frontier Tech"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "gbhackers.com",
     "36Kr",
     "Fintech News Malaysia",
     "techflowpost.com",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "financialexpress.com",
     "Global Times",
-    "Fast Company Middle East",
-    "Yellow.com"
+    "Fast Company Middle East"
   ],
   "recent_titles": [
+    "Shell Investigates Data Breach After Cl0p Ransomware Claims Theft of 89GB Corporate Data",
     "OpenRouter Acquired for $7 Billion - Major AI Cloud Platform Acquisition News",
     "BNM, Labuan Regulator Fine UBB Investment Bank RM10 Million for Compliance Breaches",
     "Unveiling the Flow of $11.2 Billion in Funding Over Six Months: The Crypto Industry's Most Valuable Asset Is Shifting f…",
@@ -160,8 +161,7 @@
     "Stripe's $10 Billion Bet on AI Routing Ignites Startup Acquisition Frenzy Among Tech Giants",
     "Vietcombank Partners with Virtusa to Launch a Next-Generation Corporate Banking Platform",
     "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud",
-    "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
-    "Rumble Parent Reports Record Revenue, Closes AI Acquisition: What Investors Should Know"
+    "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -351,6 +351,7 @@
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
     "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
+    "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
     "d7ab94dd18c7080705d3de9b2e2c2e1107acd7facde76aca417d4484a12986f5": 1786858704.599998,
