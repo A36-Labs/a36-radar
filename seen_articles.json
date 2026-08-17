@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786999197.220122,
-  "last_urgent_at": 1786995375.481608,
+  "last_post_at": 1787001132.3535445,
+  "last_urgent_at": 1787001132.3535445,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "The Hacker News",
     "BleepingComputer",
     "Axios",
     "CNBC",
@@ -38,10 +39,10 @@
     "gbhackers.com",
     "36Kr",
     "Fintech News Malaysia",
-    "techflowpost.com",
-    "深潮TechFlow"
+    "techflowpost.com"
   ],
   "recent_titles": [
+    "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
     "Pokémon Center data breach exposes customer info, cancels some orders",
     "Neros' $2.5b valuation, Veritas' Epiq sale, and Shein's IPO",
     "Government will have to play a role in AI regulation, says Yorkville Ives' Dan Ives",
@@ -160,8 +161,7 @@
     "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain",
     "General Catalyst leads $1.1B round into 2-month-old River AI",
     "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-    "Phoenix garage startup Whatnot raises $545M, pushing valuation to nearly $20B",
-    "OpenAI lets employees cash out $7 billion as IPO plans remain uncertain"
+    "Phoenix garage startup Whatnot raises $545M, pushing valuation to nearly $20B"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -205,6 +205,7 @@
     "2046aaea443bca4a609ca11974287b4df42475d7ee9af3f5749a4f37aacad94c": 1786355033.0926883,
     "20a33963b2483a051cae872d1ebebb3f198c457d78d3075d43e5525794fcd1ba": 1786853898.6397312,
     "20fafa6d4d47904761fca035f152e42efeeaaee089f606f74031cf652774de9e": 1786267256.2286808,
+    "27a725fb7a204246324449fd6522faac9bce4068f72f38fbf20eae7c0ad4130c": 1787001132.3535445,
     "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
