@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786963553.6819963,
-  "last_urgent_at": 1786958524.544105,
+  "last_post_at": 1786967129.044869,
+  "last_urgent_at": 1786967129.044869,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Web3 & Digital Assets",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "FinTech Futures",
     "orissadiary.com",
     "Technology Org",
     "tbreak.com",
@@ -38,10 +39,10 @@
     "Jewish News",
     "The Economic Times",
     "Duluth News Tribune",
-    "EIN News",
-    "CoinDesk"
+    "EIN News"
   ],
   "recent_titles": [
+    "Stripe reportedly agrees $7bn acquisition deal for OpenRouter",
     "Cognizant Launches Talent Accelerator Program With 489 Newly Hired B-School Graduates",
     "Alphabet’s SpaceX Stake Reaches $94 Billion in First Post-IPO Filing",
     "Stripe OpenRouter acquisition: $7B deal, what it means",
@@ -160,8 +161,7 @@
     "SEC Moves Toward Landmark ‘Regulation Crypto’ Framework for Digital Asset Offerings",
     "A $2 trillion asset class is getting a new blockchain rail",
     "Ransomware Attack disrupts Hospital Doors, Elevators, Ventilation and Air Conditioning in Canada",
-    "AI powered market research startup Echovane pulls in $1 million as it announces first funding round",
-    "Stripe's $10 Billion Bet on AI Routing Ignites Startup Acquisition Frenzy Among Tech Giants"
+    "AI powered market research startup Echovane pulls in $1 million as it announces first funding round"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -278,6 +278,7 @@
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
+    "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
