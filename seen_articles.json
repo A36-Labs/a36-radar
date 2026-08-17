@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787001132.3535445,
-  "last_urgent_at": 1787001132.3535445,
+  "last_post_at": 1787003114.2899542,
+  "last_urgent_at": 1787003114.2899542,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Web3 & Digital Assets"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "The Hacker News",
     "BleepingComputer",
     "Axios",
@@ -38,10 +39,10 @@
     "tbreak.com",
     "gbhackers.com",
     "36Kr",
-    "Fintech News Malaysia",
-    "techflowpost.com"
+    "Fintech News Malaysia"
   ],
   "recent_titles": [
+    "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
     "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
     "Pokémon Center data breach exposes customer info, cancels some orders",
     "Neros' $2.5b valuation, Veritas' Epiq sale, and Shein's IPO",
@@ -160,8 +161,7 @@
     "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
     "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain",
     "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-    "Phoenix garage startup Whatnot raises $545M, pushing valuation to nearly $20B"
+    "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -385,6 +385,7 @@
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
+    "eaaf5a157c8de8ee22df43705585f287b3d8b657e20915d4f48b101746dfa799": 1787003114.2899542,
     "eae4cfafee8a522445f6bfbe3d5fc21a42d52abea3507f10c4f82118521f34e5": 1786898237.27734,
     "ebeecb98b2e868b05f0f2cd0a3c1ba421cdc2e9f680eb4a74608fc2289e351ad": 1786850985.513769,
     "ec325e48699aff259f3c190990d79324ad6412507b77bc12ae8b53c302aaa037": 1786641541.2733517,
