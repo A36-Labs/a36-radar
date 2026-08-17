@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787003114.2899542,
+  "last_post_at": 1787006707.833875,
   "last_urgent_at": 1787003114.2899542,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "Bloomberg.com",
     "The Hacker News",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Technology Org",
     "tbreak.com",
     "gbhackers.com",
-    "36Kr",
-    "Fintech News Malaysia"
+    "36Kr"
   ],
   "recent_titles": [
+    "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
     "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
     "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
     "Pokémon Center data breach exposes customer info, cancels some orders",
@@ -160,8 +161,7 @@
     "Earnings Flash (CSU.TO) Constellation Software Inc. Reports Q2 Revenue $3.33B, vs. FactSet Est of $3.36B",
     "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
     "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain",
-    "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days"
+    "General Catalyst leads $1.1B round into 2-month-old River AI"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -299,6 +299,7 @@
     "85a3ef1603d02d4c80819eacc9b9f247fbca2a89860ffe834bf0bfc1e5853daa": 1786222410.860094,
     "862bb10dba0b76cb150c366c5b7d4fbaa2561dac6a3d55b26bc63db99d523dbe": 1786892656.480272,
     "867aeecaff7c25d56333d6c65d30c7dee3d7517b1ff0028e139e17fbaf726002": 1786787133.020204,
+    "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
     "89597237bc5be98a28d9a8e4590ed3cc6388dd84c95b4be83b593914b5c45e51": 1785975247.2482498,
     "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
