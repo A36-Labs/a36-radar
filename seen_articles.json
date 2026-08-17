@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786993414.8592236,
-  "last_urgent_at": 1786985428.7088354,
+  "last_post_at": 1786995375.481608,
+  "last_urgent_at": 1786995375.481608,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Cybersecurity & Cloud"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Axios",
     "CNBC",
     "Cointelegraph",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Fintech News Malaysia",
     "techflowpost.com",
     "深潮TechFlow",
-    "The Globe and Mail",
-    "BleepingComputer"
+    "The Globe and Mail"
   ],
   "recent_titles": [
+    "Neros' $2.5b valuation, Veritas' Epiq sale, and Shein's IPO",
     "Government will have to play a role in AI regulation, says Yorkville Ives' Dan Ives",
     "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
     "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -160,8 +161,7 @@
     "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
     "Phoenix garage startup Whatnot raises $545M, pushing valuation to nearly $20B",
     "OpenAI lets employees cash out $7 billion as IPO plans remain uncertain",
-    "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-    "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools"
+    "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -287,6 +287,7 @@
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
     "7cc494b6780f0c072957c8107701c1d40e2d94010c07e1748558e7949f3ff84a": 1786482653.2280223,
+    "7d0d6670644089af7b57e63d1ab01cdf595689f6b07efbf123f77d58af37eb77": 1786995375.481608,
     "81221e5bb50279592ca1a779c04b380e50b19d9ae16a605aa2e0476331288b4d": 1786564393.766864,
     "81b5feb85654e1b6bc34cba1dd5dd7861d84269471cb24d17d6dc09b579c3a54": 1786030521.92436,
     "82106fcbdece1bdef3dbd805f01268afe924f5025b1248595648e2f082b01257": 1786189118.5266616,
