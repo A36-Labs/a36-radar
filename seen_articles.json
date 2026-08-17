@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786955022.8050838,
-  "last_urgent_at": 1786955022.8050838,
+  "last_post_at": 1786958524.544105,
+  "last_urgent_at": 1786958524.544105,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Technology Org",
     "tbreak.com",
     "gbhackers.com",
     "36Kr",
@@ -38,10 +39,10 @@
     "Duluth News Tribune",
     "EIN News",
     "CoinDesk",
-    "financialexpress.com",
-    "Global Times"
+    "financialexpress.com"
   ],
   "recent_titles": [
+    "Alphabet’s SpaceX Stake Reaches $94 Billion in First Post-IPO Filing",
     "Stripe OpenRouter acquisition: $7B deal, what it means",
     "Shell Investigates Data Breach After Cl0p Ransomware Claims Theft of 89GB Corporate Data",
     "OpenRouter Acquired for $7 Billion - Major AI Cloud Platform Acquisition News",
@@ -160,8 +161,7 @@
     "Ransomware Attack disrupts Hospital Doors, Elevators, Ventilation and Air Conditioning in Canada",
     "AI powered market research startup Echovane pulls in $1 million as it announces first funding round",
     "Stripe's $10 Billion Bet on AI Routing Ignites Startup Acquisition Frenzy Among Tech Giants",
-    "Vietcombank Partners with Virtusa to Launch a Next-Generation Corporate Banking Platform",
-    "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud"
+    "Vietcombank Partners with Virtusa to Launch a Next-Generation Corporate Banking Platform"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -299,6 +299,7 @@
     "942700b400264990f95088ce0a3515679e7adb1302dfdab33ae640375c310130": 1785775403.9934998,
     "9457b37dea6625faba9d44d4324c6660db2209441376c73c13e01238cd52138e": 1786261083.2906961,
     "951ec9b3501dc9ea6bf29c7ac5cf3214e8237bcb4db4c154efad6e76f0b7285c": 1785987960.9926963,
+    "95300d1f5fe0042c5109cba3038d4eb4e3c26525a5104eaad46a208421ceeaf0": 1786958524.544105,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
     "9b07eb5cea15b090013f163827609ca43a47df77d20849fb698e44bcb206f8d7": 1786546060.625501,
