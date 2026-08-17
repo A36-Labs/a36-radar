@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787006707.833875,
+  "last_post_at": 1787010100.7123568,
   "last_urgent_at": 1787003114.2899542,
   "recent_categories": [
+    "Open Source & DevTools",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Barchart.com",
     "TechCrunch Startups",
     "Bloomberg.com",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "orissadiary.com",
     "Technology Org",
     "tbreak.com",
-    "gbhackers.com",
-    "36Kr"
+    "gbhackers.com"
   ],
   "recent_titles": [
+    "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth",
     "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
     "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
     "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
@@ -160,8 +161,7 @@
     "SEC, CFTC Sue Goliath Over $400M Crypto Ponzi Scheme",
     "Earnings Flash (CSU.TO) Constellation Software Inc. Reports Q2 Revenue $3.33B, vs. FactSet Est of $3.36B",
     "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
-    "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain",
-    "General Catalyst leads $1.1B round into 2-month-old River AI"
+    "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -284,6 +284,7 @@
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
+    "77925f88725106d32a433017e2fdd6fba614f374f12ece0a4377aa8cf03736ea": 1787010100.7123568,
     "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
