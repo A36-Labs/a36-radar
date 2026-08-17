@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786995375.481608,
+  "last_post_at": 1786999197.220122,
   "last_urgent_at": 1786995375.481608,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Axios",
     "CNBC",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "36Kr",
     "Fintech News Malaysia",
     "techflowpost.com",
-    "深潮TechFlow",
-    "The Globe and Mail"
+    "深潮TechFlow"
   ],
   "recent_titles": [
+    "Pokémon Center data breach exposes customer info, cancels some orders",
     "Neros' $2.5b valuation, Veritas' Epiq sale, and Shein's IPO",
     "Government will have to play a role in AI regulation, says Yorkville Ives' Dan Ives",
     "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
@@ -160,8 +161,7 @@
     "General Catalyst leads $1.1B round into 2-month-old River AI",
     "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
     "Phoenix garage startup Whatnot raises $545M, pushing valuation to nearly $20B",
-    "OpenAI lets employees cash out $7 billion as IPO plans remain uncertain",
-    "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT"
+    "OpenAI lets employees cash out $7 billion as IPO plans remain uncertain"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -214,6 +214,7 @@
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
     "2f8a9a6206f96b97d0cc4bca93ac68d074bd528bef4cd42c9dc90b5a32f3b2cc": 1786665181.9794347,
     "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
+    "3104d2fa476d8ada84f363720f1b78a06085524f3516339438155fd681243f0b": 1786999197.220122,
     "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
     "34a524a5f373d24181668f6cbdc839f8451524e9f2b834c39ebf7df6450bb774": 1786923093.9291263,
