@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786981499.3031235,
-  "last_urgent_at": 1786981499.3031235,
+  "last_post_at": 1786985428.7088354,
+  "last_urgent_at": 1786985428.7088354,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "AI Insider",
     "Sifted",
     "qz.com",
@@ -38,10 +39,10 @@
     "The Globe and Mail",
     "BleepingComputer",
     "Межа. Новини України.",
-    "TechCrunch Startups",
-    "The Cool Down"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "AI Dictation Startup Wispr Closes $280M Series B at $2B Valuation",
     "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
     "Higgsfield raises $400 million Series B at $5.4 billion valuation",
@@ -160,8 +161,7 @@
     "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
     "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools",
     "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-    "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-    "US and South Korea warn of Gunra ransomware targeting govt agencies"
+    "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -268,6 +268,7 @@
     "644f9be3884b61cba84c37298ac78c5cdcbbb35bccf39dfde4c564d62cf30cab": 1786282424.4139445,
     "64fb94076147682447ff1bb5e90997b9c3ba6c30afcef637020f2d0ac3761fcf": 1786753452.5252879,
     "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
+    "6599a9d4aff1e325bdd4b297fb1813051ceafd8349ef7f00f50e23d495057445": 1786985428.7088354,
     "65c0ed43a1e6e47cf8cb5a889745e158e37b719f90d6aaf7620ec4043823b0b9": 1786378373.3468823,
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
     "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
