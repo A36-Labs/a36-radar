@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1786974972.407771,
+  "last_post_at": 1786979492.9467695,
   "last_urgent_at": 1786974972.407771,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Startups & Funding",
-    "AI & Agents",
-    "Web3 & Digital Assets"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Sifted",
     "qz.com",
     "TechCrunch AI",
     "FinTech Futures",
@@ -38,10 +39,10 @@
     "Межа. Новини України.",
     "TechCrunch Startups",
     "The Cool Down",
-    "Jewish News",
-    "The Economic Times"
+    "Jewish News"
   ],
   "recent_titles": [
+    "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
     "Higgsfield raises $400 million Series B at $5.4 billion valuation",
     "Wispr raises $280M at $2B valuation as it looks beyond dictation",
     "Stripe reportedly agrees $7bn acquisition deal for OpenRouter",
@@ -160,8 +161,7 @@
     "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
     "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
     "US and South Korea warn of Gunra ransomware targeting govt agencies",
-    "SEC Moves Toward Landmark ‘Regulation Crypto’ Framework for Digital Asset Offerings",
-    "A $2 trillion asset class is getting a new blockchain rail"
+    "SEC Moves Toward Landmark ‘Regulation Crypto’ Framework for Digital Asset Offerings"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -394,6 +394,7 @@
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
+    "f57b115cea81fd69573e553936548cd14b065438cbf215032e78f88863e237ce": 1786979492.9467695,
     "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "f79c0da3ff22536e088a5a5df4537c876ab52779b47ee8b7dbf45834cadd0e4f": 1786826091.8259943,
