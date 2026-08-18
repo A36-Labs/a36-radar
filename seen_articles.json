@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787092592.5980258,
-  "last_urgent_at": 1787079745.2236626,
+  "last_post_at": 1787095947.9210358,
+  "last_urgent_at": 1787095947.9210358,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "Fintech & Payments",
-    "Markets, IPOs & M&A"
+    "Fintech & Payments"
   ],
   "recent_sources": [
+    "Bloomberg",
     "Dealroom",
     "reuters.com",
     "SEC Press Releases",
@@ -38,10 +39,10 @@
     "The Economic Times",
     "Breakingthenews.net",
     "Crypto Briefing",
-    "finance.biggo.com",
-    "inc.com"
+    "finance.biggo.com"
   ],
   "recent_titles": [
+    "Unitree Robotics Set to Debut After $904 Million Shanghai IPO",
     "Yellow.ai to go public via $550M SPAC merger with Bluerock",
     "How US military funding propelled China’s robot dogs",
     "SEC Proposes New Regulation Crypto Assets",
@@ -160,8 +161,7 @@
     "Anthropic in talks to buy startup Decart AI for $6 billion",
     "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
     "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service",
-    "Robinson bill would provide funding stream for K-12 STEM, robotics programs",
-    "Flywire and Trustly Bring Open Banking Partnership to US"
+    "Robinson bill would provide funding stream for K-12 STEM, robotics programs"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -367,6 +367,7 @@
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
+    "c24c059e790a3cea41d51fa02fdacbd4d15b3204821bbb63faae248d69da3ee6": 1787095947.9210358,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
