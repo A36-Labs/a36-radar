@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787072060.4991927,
-  "last_urgent_at": 1787072060.4991927,
+  "last_post_at": 1787074650.1594727,
+  "last_urgent_at": 1787074650.1594727,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "VC & Accelerators",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "VC & Accelerators",
     "Startups & Funding",
-    "Open Source & DevTools",
-    "Startups & Funding"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Unite.AI",
     "Reuters",
     "bizjournals.com",
     "qz.com",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "Bloomberg.com",
     "Business Insider",
-    "Barchart.com",
-    "TechCrunch Startups"
+    "Barchart.com"
   ],
   "recent_titles": [
+    "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
     "Velaura AI raises $110M Series A, hits $1B valuation",
@@ -160,8 +161,7 @@
     "Cerebras stock plunges 14% after second earnings report following IPO",
     "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
     "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
-    "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise"
+    "AI coding startup Cognition reportedly already in talks to raise at $40B valuation"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -380,6 +380,7 @@
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
     "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
+    "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
     "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
