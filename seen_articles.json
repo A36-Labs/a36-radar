@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787074650.1594727,
-  "last_urgent_at": 1787074650.1594727,
+  "last_post_at": 1787079745.2236626,
+  "last_urgent_at": 1787079745.2236626,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "VC & Accelerators",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Unite.AI",
     "Reuters",
     "bizjournals.com",
@@ -38,10 +39,10 @@
     "inc.com",
     "TechCrunch AI",
     "Bloomberg.com",
-    "Business Insider",
-    "Barchart.com"
+    "Business Insider"
   ],
   "recent_titles": [
+    "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
     "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
@@ -160,8 +161,7 @@
     "Flywire and Trustly Bring Open Banking Partnership to US",
     "Cerebras stock plunges 14% after second earnings report following IPO",
     "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
-    "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
-    "AI coding startup Cognition reportedly already in talks to raise at $40B valuation"
+    "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -334,6 +334,7 @@
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
+    "a2b977823f374cf24f0dc19df4f5c0f1658eccbfd726db9d66d9377935295df1": 1787079745.2236626,
     "a3beb18fd80032bff2d3f71748635e0934f4862a1e7d1d7a74b16788f5367359": 1786870305.9517193,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
