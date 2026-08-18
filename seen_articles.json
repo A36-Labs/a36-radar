@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787085342.907133,
+  "last_post_at": 1787088850.952803,
   "last_urgent_at": 1787079745.2236626,
   "recent_categories": [
+    "Frontier Tech",
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "VC & Accelerators"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "reuters.com",
     "SEC Press Releases",
     "CoinDesk",
     "Unite.AI",
@@ -38,10 +39,10 @@
     "Crypto Briefing",
     "finance.biggo.com",
     "inc.com",
-    "TechCrunch AI",
-    "Bloomberg.com"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "How US military funding propelled China’s robot dogs",
     "SEC Proposes New Regulation Crypto Assets",
     "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
     "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production",
@@ -160,8 +161,7 @@
     "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service",
     "Robinson bill would provide funding stream for K-12 STEM, robotics programs",
     "Flywire and Trustly Bring Open Banking Partnership to US",
-    "Cerebras stock plunges 14% after second earnings report following IPO",
-    "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts"
+    "Cerebras stock plunges 14% after second earnings report following IPO"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -231,6 +231,7 @@
     "388bacc45504dd8e1758d1b744c45d0ecf43bcf9dc9b0c6c5ad7d312156f747d": 1786807901.2294278,
     "38dd6134b89798a02b83c76b64702405b43c93656749d728068f8cf02f15122d": 1786802804.2871442,
     "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
+    "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
     "3b9bfe05677a07434d4321c1ebcbde929ba2c796da74ac4c7959bc3957cd75cb": 1786955022.8050838,
     "3c3c516cbebe3c078b5eda080ad6768cf55cc8f0b45f9985fc508c0ec766b452": 1786374769.9398928,
     "3c53bdbd4859041a949cd34615af0ddeeb36fd9c533068825dbac2af8a980bcc": 1786687410.1054802,
