@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787046892.7620113,
-  "last_urgent_at": 1787018589.6494143,
+  "last_post_at": 1787049657.241761,
+  "last_urgent_at": 1787049657.241761,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Frontier Tech",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "The Economic Times",
     "Breakingthenews.net",
     "Crypto Briefing",
@@ -38,10 +39,10 @@
     "Axios",
     "CNBC",
     "Cointelegraph",
-    "TechCrunch AI",
-    "AI Insider"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "CISA: Windows Task Host flaw now exploited by ransomware gangs",
     "Geospatial startup NeoGeo raises $20 million in funding from SBI’s Neev II Fund, Aavishkaar Capital",
     "LG Electronics boosts robotics partnership with Nvidia",
     "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
@@ -160,8 +161,7 @@
     "Exclusive: Code review startup CodeRabbit hits $1.5B valuation",
     "Accel Raises $550 Million for Ninth India Fund as AI Reshapes Early-Stage Investing",
     "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
-    "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups",
-    "PentestGPT: Open-source automated penetration testing agentic framework"
+    "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -361,6 +361,7 @@
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
+    "c6ed841213b85f19c9a605ad88649dd1f6fa3152f9db2826fd5dc7cc01998702": 1787049657.241761,
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
