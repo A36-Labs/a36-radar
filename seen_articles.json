@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787064426.1464493,
+  "last_post_at": 1787068288.929695,
   "last_urgent_at": 1787064426.1464493,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Open Source & DevTools",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "bizjournals.com",
     "qz.com",
     "outlookbusiness.com",
     "深潮TechFlow",
@@ -38,10 +39,10 @@
     "Business Insider",
     "Barchart.com",
     "TechCrunch Startups",
-    "Bloomberg.com",
-    "The Hacker News"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
     "Velaura AI raises $110M Series A, hits $1B valuation",
     "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
     "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation",
@@ -160,8 +161,7 @@
     "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
     "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "Lovable confirms new $13.3B valuation, raises another $400M",
-    "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round"
+    "Lovable confirms new $13.3B valuation, raises another $400M"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -369,6 +369,7 @@
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
+    "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
     "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
