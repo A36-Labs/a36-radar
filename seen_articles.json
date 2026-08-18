@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787010100.7123568,
-  "last_urgent_at": 1787003114.2899542,
+  "last_post_at": 1787012584.1655338,
+  "last_urgent_at": 1787012584.1655338,
   "recent_categories": [
+    "Startups & Funding",
     "Open Source & DevTools",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Business Insider",
     "Barchart.com",
     "TechCrunch Startups",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "FinTech Futures",
     "orissadiary.com",
     "Technology Org",
-    "tbreak.com",
-    "gbhackers.com"
+    "tbreak.com"
   ],
   "recent_titles": [
+    "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation",
     "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth",
     "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
     "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
@@ -160,8 +161,7 @@
     "Bitcoin miner Bitdeer unlocks a $1B cash tap that dilutes shareholders by up to 30% to build its AI empire",
     "SEC, CFTC Sue Goliath Over $400M Crypto Ponzi Scheme",
     "Earnings Flash (CSU.TO) Constellation Software Inc. Reports Q2 Revenue $3.33B, vs. FactSet Est of $3.36B",
-    "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups",
-    "Uber Sells Entire Serve Robotics Stake as Delivery Partnership Faces Strain"
+    "Accel Raises $3.5 Billion to Invest in Emerging Global AI Startups"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -309,6 +309,7 @@
     "939e3d09acefe233266f144e9df302274bd535df494fbc08965bc1a8468174c8": 1786945566.0214603,
     "942700b400264990f95088ce0a3515679e7adb1302dfdab33ae640375c310130": 1785775403.9934998,
     "9457b37dea6625faba9d44d4324c6660db2209441376c73c13e01238cd52138e": 1786261083.2906961,
+    "94d78b76edac7ecb79937aef8b59c84c273a409ee987f86c5dbcf8c3a024646b": 1787012584.1655338,
     "951ec9b3501dc9ea6bf29c7ac5cf3214e8237bcb4db4c154efad6e76f0b7285c": 1785987960.9926963,
     "95300d1f5fe0042c5109cba3038d4eb4e3c26525a5104eaad46a208421ceeaf0": 1786958524.544105,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
