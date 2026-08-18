@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787068288.929695,
-  "last_urgent_at": 1787064426.1464493,
+  "last_post_at": 1787072060.4991927,
+  "last_urgent_at": 1787072060.4991927,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Open Source & DevTools",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Reuters",
     "bizjournals.com",
     "qz.com",
     "outlookbusiness.com",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Business Insider",
     "Barchart.com",
-    "TechCrunch Startups",
-    "Bloomberg.com"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
     "Velaura AI raises $110M Series A, hits $1B valuation",
     "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
@@ -160,8 +161,7 @@
     "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
     "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
     "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "Lovable confirms new $13.3B valuation, raises another $400M"
+    "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -316,6 +316,7 @@
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
     "92a3009e17231e9bd6453730f241770d2851b2620350007e7f8df774c588875c": 1785843383.7002814,
+    "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
     "939e3d09acefe233266f144e9df302274bd535df494fbc08965bc1a8468174c8": 1786945566.0214603,
     "942700b400264990f95088ce0a3515679e7adb1302dfdab33ae640375c310130": 1785775403.9934998,
     "9457b37dea6625faba9d44d4324c6660db2209441376c73c13e01238cd52138e": 1786261083.2906961,
