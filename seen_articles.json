@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787018589.6494143,
+  "last_post_at": 1787022341.7641623,
   "last_urgent_at": 1787018589.6494143,
   "recent_categories": [
+    "AI & Agents",
     "VC & Accelerators",
     "Startups & Funding",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "VC & Accelerators",
-    "Markets, IPOs & M&A"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Bloomberg.com",
     "Business Insider",
     "Barchart.com",
@@ -38,10 +39,10 @@
     "qz.com",
     "TechCrunch AI",
     "FinTech Futures",
-    "orissadiary.com",
-    "Technology Org"
+    "orissadiary.com"
   ],
   "recent_titles": [
+    "Anthropic’s annualized revenue surges to $65B",
     "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split",
     "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation",
     "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth",
@@ -160,8 +161,7 @@
     "Accel expands AI bet with $3.5 billion across four new funds",
     "AI Startup Cognition in New Funding Talks at $40 Billion Value",
     "Bitcoin miner Bitdeer unlocks a $1B cash tap that dilutes shareholders by up to 30% to build its AI empire",
-    "SEC, CFTC Sue Goliath Over $400M Crypto Ponzi Scheme",
-    "Earnings Flash (CSU.TO) Constellation Software Inc. Reports Q2 Revenue $3.33B, vs. FactSet Est of $3.36B"
+    "SEC, CFTC Sue Goliath Over $400M Crypto Ponzi Scheme"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -276,6 +276,7 @@
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
     "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
+    "6aa90119eaa0c075a286a9b48a6bbfce6aa69c6c16be2cf83ef772947658d1e4": 1787022341.7641623,
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
     "6be677a52f10a385ea7c3754a04cf36a43def80f5f20cde9a11d7bec5516ca67": 1786529846.702828,
