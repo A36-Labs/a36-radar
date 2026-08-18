@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787037077.0929494,
+  "last_post_at": 1787043016.5686479,
   "last_urgent_at": 1787018589.6494143,
   "recent_categories": [
+    "Frontier Tech",
     "Web3 & Digital Assets",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Breakingthenews.net",
     "Crypto Briefing",
     "finance.biggo.com",
     "inc.com",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "TechCrunch AI",
     "AI Insider",
-    "Sifted",
-    "qz.com"
+    "Sifted"
   ],
   "recent_titles": [
+    "LG Electronics boosts robotics partnership with Nvidia",
     "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
     "Jeonbuk Bank Partners with Ripple to Become First South Korean Regional Bank to Offer Real-Time Cross-Border Payments",
     "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight",
@@ -160,8 +161,7 @@
     "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
     "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups",
     "PentestGPT: Open-source automated penetration testing agentic framework",
-    "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-    "Accel expands AI bet with $3.5 billion across four new funds"
+    "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -199,6 +199,7 @@
     "1cf0a0d0b5bb4a415fdd0b26383793f20410aa8b37185b43bf7ff1d66addd1f9": 1786963553.6819963,
     "1d664ddf0d7e85da99479b069ec3f86dde3d94ecaceba6687e5fe0177fe718a0": 1786675160.447255,
     "1d9b2431dc92d7c7a623245a912993be7f8de20925e209a74ddf004e34a9064a": 1786062886.7949288,
+    "1da6caf53d008daedf15bcde342830afcc52d01039e0d954f7967220b2771648": 1787043016.5686479,
     "1eb08d4f14b003b5c984d5a303417e905ef4c196e106ae5bb8921f501cc6e69d": 1786549445.1848931,
     "1f4f84568005815b241dee2dc14f367068ecdece16fbb955729af479bcfa959d": 1785911922.2202103,
     "1ff1ca762979c1e7b111851989827c475ab5e2d515d1e01b90ebc5c8870c6487": 1785971669.730236,
