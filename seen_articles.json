@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787028405.6164684,
+  "last_post_at": 1787032208.9236553,
   "last_urgent_at": 1787018589.6494143,
   "recent_categories": [
+    "Fintech & Payments",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "finance.biggo.com",
     "inc.com",
     "TechCrunch AI",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "AI Insider",
     "Sifted",
     "qz.com",
-    "TechCrunch AI",
-    "FinTech Futures"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Jeonbuk Bank Partners with Ripple to Become First South Korean Regional Bank to Offer Real-Time Cross-Border Payments",
     "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight",
     "Anthropic’s annualized revenue surges to $65B",
     "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split",
@@ -160,8 +161,7 @@
     "PentestGPT: Open-source automated penetration testing agentic framework",
     "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
     "Accel expands AI bet with $3.5 billion across four new funds",
-    "AI Startup Cognition in New Funding Talks at $40 Billion Value",
-    "Bitcoin miner Bitdeer unlocks a $1B cash tap that dilutes shareholders by up to 30% to build its AI empire"
+    "AI Startup Cognition in New Funding Talks at $40 Billion Value"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -255,6 +255,7 @@
     "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
+    "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
