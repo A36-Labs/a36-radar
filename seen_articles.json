@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787049657.241761,
-  "last_urgent_at": 1787049657.241761,
+  "last_post_at": 1787051495.6682765,
+  "last_urgent_at": 1787051495.6682765,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "BleepingComputer",
     "The Economic Times",
     "Breakingthenews.net",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Axios",
     "CNBC",
-    "Cointelegraph",
-    "TechCrunch AI"
+    "Cointelegraph"
   ],
   "recent_titles": [
+    "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
     "CISA: Windows Task Host flaw now exploited by ransomware gangs",
     "Geospatial startup NeoGeo raises $20 million in funding from SBI’s Neev II Fund, Aavishkaar Capital",
     "LG Electronics boosts robotics partnership with Nvidia",
@@ -160,8 +161,7 @@
     "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
     "Exclusive: Code review startup CodeRabbit hits $1.5B valuation",
     "Accel Raises $550 Million for Ninth India Fund as AI Reshapes Early-Stage Investing",
-    "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills",
-    "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups"
+    "Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -309,6 +309,7 @@
     "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
     "89597237bc5be98a28d9a8e4590ed3cc6388dd84c95b4be83b593914b5c45e51": 1785975247.2482498,
     "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
+    "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
     "92a3009e17231e9bd6453730f241770d2851b2620350007e7f8df774c588875c": 1785843383.7002814,
