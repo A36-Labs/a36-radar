@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787032208.9236553,
+  "last_post_at": 1787037077.0929494,
   "last_urgent_at": 1787018589.6494143,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Crypto Briefing",
     "finance.biggo.com",
     "inc.com",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "AI Insider",
     "Sifted",
-    "qz.com",
-    "TechCrunch AI"
+    "qz.com"
   ],
   "recent_titles": [
+    "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
     "Jeonbuk Bank Partners with Ripple to Become First South Korean Regional Bank to Offer Real-Time Cross-Border Payments",
     "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight",
     "Anthropic’s annualized revenue surges to $65B",
@@ -160,8 +161,7 @@
     "Accel raises $550 million India Fund to back AI, fintech and manufacturing startups",
     "PentestGPT: Open-source automated penetration testing agentic framework",
     "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-    "Accel expands AI bet with $3.5 billion across four new funds",
-    "AI Startup Cognition in New Funding Talks at $40 Billion Value"
+    "Accel expands AI bet with $3.5 billion across four new funds"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -357,6 +357,7 @@
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
+    "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
