@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787061674.5283573,
-  "last_urgent_at": 1787061674.5283573,
+  "last_post_at": 1787064426.1464493,
+  "last_urgent_at": 1787064426.1464493,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "qz.com",
     "outlookbusiness.com",
     "深潮TechFlow",
     "Business Wire",
@@ -38,10 +39,10 @@
     "Barchart.com",
     "TechCrunch Startups",
     "Bloomberg.com",
-    "The Hacker News",
-    "BleepingComputer"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Velaura AI raises $110M Series A, hits $1B valuation",
     "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
     "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation",
     "ELECTRA AI and Iron Horse Acquisition II Announce Strategic Partnership With Omega Seiki Mobility to Enhance Battery Intelligence Across Its Electric Vehicle Ecosystem",
@@ -160,8 +161,7 @@
     "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
     "Lovable confirms new $13.3B valuation, raises another $400M",
-    "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round",
-    "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation"
+    "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -179,6 +179,7 @@
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
+    "0dbdf7a37fd337c174695162f7bc0a021071f430603524b1632bada59366ad61": 1787064426.1464493,
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
