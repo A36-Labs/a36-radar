@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787133396.6373932,
+  "last_post_at": 1787137882.6504948,
   "last_urgent_at": 1787129446.1614606,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "VC & Accelerators",
     "Startups & Funding",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "AI Insider",
     "citybiz",
     "BleepingComputer",
     "Open Source For You",
@@ -38,10 +39,10 @@
     "Reuters",
     "bizjournals.com",
     "qz.com",
-    "outlookbusiness.com",
-    "深潮TechFlow"
+    "outlookbusiness.com"
   ],
   "recent_titles": [
+    "Peppy Secures Pre-Seed Funding to Build Coding Platform for Humanoid Robotics",
     "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion",
     "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
     "Qualcomm Open-Sources Modular AI Software Platform",
@@ -160,8 +161,7 @@
     "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
     "EXCLUSIVE: Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
     "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
-    "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
-    "How AI Cameras are helping north Charleston police solve crimes, push for regulation"
+    "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -396,6 +396,7 @@
     "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
+    "d6d82318b5d63d32a97abcd14e8a8c31d26cea9600d6b0e69e29395c1d7451a0": 1787137882.6504948,
     "d7ab94dd18c7080705d3de9b2e2c2e1107acd7facde76aca417d4484a12986f5": 1786858704.599998,
     "d9156228b8ae12196dc10d981d277543f7ad761aa0fc9523c51734e8d6596a92": 1785885307.6824715,
     "d943d4a8308a85a5ba52402b7da4b6a80bf667bd7b899c2e447516d856da5787": 1786218061.6023836,
