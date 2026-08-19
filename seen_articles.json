@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787118098.6730926,
+  "last_post_at": 1787123483.669754,
   "last_urgent_at": 1787104148.7165568,
   "recent_categories": [
+    "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Open Source For You",
     "SmartCompany",
     "深潮TechFlow",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "outlookbusiness.com",
     "深潮TechFlow",
     "Business Wire",
-    "Crunchbase News",
-    "BleepingComputer"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Qualcomm Open-Sources Modular AI Software Platform",
     "Quest Apartment Hotels hit by data breach; customer data accessed",
     "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
     "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum",
@@ -160,8 +161,7 @@
     "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
     "How AI Cameras are helping north Charleston police solve crimes, push for regulation",
     "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand",
-    "Accel closes $3.5B in new funds to back early-stage AI startups globally",
-    "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO"
+    "Accel closes $3.5B in new funds to back early-stage AI startups globally"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -388,6 +388,7 @@
     "ce7f898821cca66b32343bc919fa1770c37e15df1d9b363e5345337c2d47f102": 1786084979.7290184,
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
+    "d1f64289e61edb2dc4cc40b6b4a138b7510790ac5ece1c52d0c9b9bdae6480cb": 1787123483.669754,
     "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
     "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
     "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
