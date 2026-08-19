@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787175936.8988905,
+  "last_post_at": 1787179549.3674655,
   "last_urgent_at": 1787172559.8413188,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Decrypt",
     "BleepingComputer",
     "TechCrunch Startups",
     "GrepBeat",
@@ -38,10 +39,10 @@
     "Open Source For You",
     "SmartCompany",
     "深潮TechFlow",
-    "Pulse 2.0",
-    "Bloomberg.com"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
     "Rogue ransomware affiliate poses as data recovery firm to steal payments",
     "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
     "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day",
@@ -160,8 +161,7 @@
     "Anthropic Reportedly Eyes $6 Billion Decart Acquisition to Boost AI Efficiency",
     "LTX Releases Open-Weights LTX-2.5 World Model for Video, Robotics and Simulation",
     "SEC Delays Crypto Regulation Meeting in Latest Industry Setback",
-    "Fitness & Wellness Startups Have Raised $3.6B This Year — but Not Everyone’s a Winner",
-    "Bitcoin red team uses Chinese AI to hunt security flaws in Bitcoin open-source ecosystem"
+    "Fitness & Wellness Startups Have Raised $3.6B This Year — but Not Everyone’s a Winner"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -424,6 +424,7 @@
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
+    "e9846842d0f376308a8975746d80a3989aa048a9ebe46ce409721d4913254f48": 1787179549.3674655,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
     "eaaf5a157c8de8ee22df43705585f287b3d8b657e20915d4f48b101746dfa799": 1787003114.2899542,
