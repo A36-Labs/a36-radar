@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787172559.8413188,
+  "last_post_at": 1787175936.8988905,
   "last_urgent_at": 1787172559.8413188,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "TechCrunch Startups",
     "GrepBeat",
     "AI Insider",
@@ -38,10 +39,10 @@
     "SmartCompany",
     "深潮TechFlow",
     "Pulse 2.0",
-    "Bloomberg.com",
-    "Bloomberg"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Rogue ransomware affiliate poses as data recovery firm to steal payments",
     "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
     "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day",
     "Discovered Materials Announces $9M Funding Round To Deploy AI Agents In Search Of Cooler Chip Materials",
@@ -160,8 +161,7 @@
     "LTX Releases Open-Weights LTX-2.5 World Model for Video, Robotics and Simulation",
     "SEC Delays Crypto Regulation Meeting in Latest Industry Setback",
     "Fitness & Wellness Startups Have Raised $3.6B This Year — but Not Everyone’s a Winner",
-    "Bitcoin red team uses Chinese AI to hunt security flaws in Bitcoin open-source ecosystem",
-    "Anthropic’s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency"
+    "Bitcoin red team uses Chinese AI to hunt security flaws in Bitcoin open-source ecosystem"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -254,6 +254,7 @@
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
     "4b2035e1835153bdb7dd163ed60468ad95e7b5335774b377a8457c74853bb10a": 1786847074.3875756,
+    "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
     "4d71a14a73fb71b8e70683664260a411222bd882e235578c3b6eb544a21eadda": 1785732043.9635842,
     "4da369f1bd5bbb6b8763be9e7b35b0faede3979073bc676f74804647d087978f": 1786109551.9494088,
     "4dbbf0fa95c596d35e4de901db5db6e69858be8a95bdd0d0f63d1a7310ad7ebc": 1786208374.5390155,
