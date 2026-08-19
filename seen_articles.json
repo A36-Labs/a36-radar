@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787113175.5624294,
+  "last_post_at": 1787118098.6730926,
   "last_urgent_at": 1787104148.7165568,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "SmartCompany",
     "深潮TechFlow",
     "Pulse 2.0",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "深潮TechFlow",
     "Business Wire",
     "Crunchbase News",
-    "BleepingComputer",
-    "The Economic Times"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Quest Apartment Hotels hit by data breach; customer data accessed",
     "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
     "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum",
     "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
@@ -160,8 +161,7 @@
     "How AI Cameras are helping north Charleston police solve crimes, push for regulation",
     "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand",
     "Accel closes $3.5B in new funds to back early-stage AI startups globally",
-    "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO",
-    "Anthropic in talks to buy startup Decart AI for $6 billion"
+    "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -336,6 +336,7 @@
     "9d00c676f3b2765f5bbb1b7afd9bfe9b931713c18b9c7f2a1ecd3eb9b0996ca8": 1786829489.0012884,
     "9d2da14227d076df6da44127055fa6c7cbafe26ce7a745abad54aa4905863d61": 1786902709.3646052,
     "9d86f4cea914235e4110b2c9949cd88e04fee547f6a59b6bb8f437a0c59dd77a": 1786195060.0851758,
+    "9e14e11ac2eb86078d37b76739611a3b07eaadcc5f0759ff2247127aa2fffc13": 1787118098.6730926,
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
