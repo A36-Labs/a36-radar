@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787150850.5698872,
+  "last_post_at": 1787154668.1702054,
   "last_urgent_at": 1787129446.1614606,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Finviz",
     "Data Center Dynamics",
     "CoinDesk",
     "StockInvest.us",
@@ -38,10 +39,10 @@
     "reuters.com",
     "SEC Press Releases",
     "CoinDesk",
-    "Unite.AI",
-    "Reuters"
+    "Unite.AI"
   ],
   "recent_titles": [
+    "Datavault AI Agrees to Acquire BankWyse Subject to Regulatory Approval and Customary Closing Conditions",
     "Inference chip startup Etched raises $700m, doubles valuation to $21bn",
     "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
     "Datavault AI Shares Tumble Amid Earnings Miss, Dilution Fears, and Acquisition Concerns",
@@ -160,8 +161,7 @@
     "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
     "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
     "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-    "Critical VMware vCenter RCE flaw exploited for reverse SSH access"
+    "Your guide to GitHub Universe 2026 is here: The schedule just launched!"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -394,6 +394,7 @@
     "d09deb90d2d251fedd4ea8927b5a3888360a57028be3b54a6dc17b970d29b16a": 1787141711.8237572,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
     "d1f64289e61edb2dc4cc40b6b4a138b7510790ac5ece1c52d0c9b9bdae6480cb": 1787123483.669754,
+    "d273fcb7bf676a82345315ba167576ff9bdfdcceedff3a19dcf94a92b1cb5281": 1787154668.1702054,
     "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
     "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
     "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
