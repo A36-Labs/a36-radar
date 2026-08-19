@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787095947.9210358,
-  "last_urgent_at": 1787095947.9210358,
+  "last_post_at": 1787104148.7165568,
+  "last_urgent_at": 1787104148.7165568,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Frontier Tech",
-    "Web3 & Digital Assets",
-    "Fintech & Payments"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Bloomberg",
     "Dealroom",
     "reuters.com",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "The Economic Times",
     "Breakingthenews.net",
-    "Crypto Briefing",
-    "finance.biggo.com"
+    "Crypto Briefing"
   ],
   "recent_titles": [
+    "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
     "Unitree Robotics Set to Debut After $904 Million Shanghai IPO",
     "Yellow.ai to go public via $550M SPAC merger with Bluerock",
     "How US military funding propelled China’s robot dogs",
@@ -160,8 +161,7 @@
     "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO",
     "Anthropic in talks to buy startup Decart AI for $6 billion",
     "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
-    "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service",
-    "Robinson bill would provide funding stream for K-12 STEM, robotics programs"
+    "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -246,6 +246,7 @@
     "4566294ccb40c3c398b87a9aa99f74252f928f0870f9668fa58e01ca0e0f8821": 1786915852.698227,
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
+    "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
     "4b2035e1835153bdb7dd163ed60468ad95e7b5335774b377a8457c74853bb10a": 1786847074.3875756,
