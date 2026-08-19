@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787141711.8237572,
+  "last_post_at": 1787145343.2354076,
   "last_urgent_at": 1787129446.1614606,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
-    "VC & Accelerators",
-    "Startups & Funding"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "CoinDesk",
     "StockInvest.us",
     "AI Insider",
     "citybiz",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "Unite.AI",
     "Reuters",
-    "bizjournals.com",
-    "qz.com"
+    "bizjournals.com"
   ],
   "recent_titles": [
+    "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
     "Datavault AI Shares Tumble Amid Earnings Miss, Dilution Fears, and Acquisition Concerns",
     "Peppy Secures Pre-Seed Funding to Build Coding Platform for Humanoid Robotics",
     "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion",
@@ -160,8 +161,7 @@
     "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
     "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-    "EXCLUSIVE: Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
-    "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation"
+    "EXCLUSIVE: Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -302,6 +302,7 @@
     "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
     "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
+    "7c221124509ca3a464dc26b23ad32031b0f53956d5e8d7c575619ea64245ff01": 1787145343.2354076,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
     "7cc494b6780f0c072957c8107701c1d40e2d94010c07e1748558e7949f3ff84a": 1786482653.2280223,
