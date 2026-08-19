@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787129446.1614606,
+  "last_post_at": 1787133396.6373932,
   "last_urgent_at": 1787129446.1614606,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Startups & Funding",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "citybiz",
     "BleepingComputer",
     "Open Source For You",
     "SmartCompany",
@@ -38,10 +39,10 @@
     "bizjournals.com",
     "qz.com",
     "outlookbusiness.com",
-    "深潮TechFlow",
-    "Business Wire"
+    "深潮TechFlow"
   ],
   "recent_titles": [
+    "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion",
     "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
     "Qualcomm Open-Sources Modular AI Software Platform",
     "Quest Apartment Hotels hit by data breach; customer data accessed",
@@ -160,8 +161,7 @@
     "EXCLUSIVE: Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
     "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
     "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
-    "How AI Cameras are helping north Charleston police solve crimes, push for regulation",
-    "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand"
+    "How AI Cameras are helping north Charleston police solve crimes, push for regulation"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -299,6 +299,7 @@
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
     "77925f88725106d32a433017e2fdd6fba614f374f12ece0a4377aa8cf03736ea": 1787010100.7123568,
+    "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
     "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
