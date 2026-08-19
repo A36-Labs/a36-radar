@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787107575.4123557,
+  "last_post_at": 1787113175.5624294,
   "last_urgent_at": 1787104148.7165568,
   "recent_categories": [
+    "Policy & Regulation",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "深潮TechFlow",
     "Pulse 2.0",
     "Bloomberg.com",
     "Bloomberg",
@@ -38,10 +39,10 @@
     "Business Wire",
     "Crunchbase News",
     "BleepingComputer",
-    "The Economic Times",
-    "Breakingthenews.net"
+    "The Economic Times"
   ],
   "recent_titles": [
+    "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
     "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum",
     "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
     "Unitree Robotics Set to Debut After $904 Million Shanghai IPO",
@@ -160,8 +161,7 @@
     "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand",
     "Accel closes $3.5B in new funds to back early-stage AI startups globally",
     "Anthropic in talks to acquire Israeli AI startup for up to $6b ahead of IPO",
-    "Anthropic in talks to buy startup Decart AI for $6 billion",
-    "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer"
+    "Anthropic in talks to buy startup Decart AI for $6 billion"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -214,6 +214,7 @@
     "27a725fb7a204246324449fd6522faac9bce4068f72f38fbf20eae7c0ad4130c": 1787001132.3535445,
     "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
+    "2c3779acf92f34fd4c6ede6416f03cf9df3e3448545860de546f8267344f26e2": 1787113175.5624294,
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
     "2d0c4a42b65c561b6e7f2a7d806b54ad7fd3442009f805d4e05d8f386778a954": 1786714507.4313748,
     "2d704645e5fd7cc75cefd848661328d2fe1c86c0930ab1b04371bebf114aee62": 1786774458.8707151,
