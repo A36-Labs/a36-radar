@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787123483.669754,
-  "last_urgent_at": 1787104148.7165568,
+  "last_post_at": 1787129446.1614606,
+  "last_urgent_at": 1787129446.1614606,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Open Source For You",
     "SmartCompany",
     "深潮TechFlow",
@@ -38,10 +39,10 @@
     "qz.com",
     "outlookbusiness.com",
     "深潮TechFlow",
-    "Business Wire",
-    "Crunchbase News"
+    "Business Wire"
   ],
   "recent_titles": [
+    "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
     "Qualcomm Open-Sources Modular AI Software Platform",
     "Quest Apartment Hotels hit by data breach; customer data accessed",
     "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
@@ -160,8 +161,7 @@
     "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
     "China’s Westlake Robotics Raises $14.8M in Series A Funding Humanoid Robot Tech",
     "How AI Cameras are helping north Charleston police solve crimes, push for regulation",
-    "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand",
-    "Accel closes $3.5B in new funds to back early-stage AI startups globally"
+    "Blacksmith raises $45 million at $550 million valuation as AI-generated code drives validation demand"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -371,6 +371,7 @@
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
+    "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
     "c24c059e790a3cea41d51fa02fdacbd4d15b3204821bbb63faae248d69da3ee6": 1787095947.9210358,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
