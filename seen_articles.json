@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787198598.0647845,
+  "last_post_at": 1787203132.680748,
   "last_urgent_at": 1787172559.8413188,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "SiliconANGLE",
     "odaily.news",
     "The Edge Malaysia",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "StockInvest.us",
     "AI Insider",
-    "citybiz",
-    "BleepingComputer"
+    "citybiz"
   ],
   "recent_titles": [
+    "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
     "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
     "SEC Crypto Regulation New Rule Explained: Issuance and Fundraising Under $5 Million Exempt from Registration—Is the Altcoin Season Coming Back?",
     "SC bridges semiconductor funding gap through capital market solutions",
@@ -160,8 +161,7 @@
     "Israel Bank Rolls Out Bitcoin, Ethereum, & Solana Trading With Galaxy Partnership",
     "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
     "Strata Credit Union Partners with Alkami to Launch Personalized Digital Banking Platform",
-    "SpaceX Completes Its $60 Billion Cursor Acquisition",
-    "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation"
+    "SpaceX Completes Its $60 Billion Cursor Acquisition"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -326,6 +326,7 @@
     "867aeecaff7c25d56333d6c65d30c7dee3d7517b1ff0028e139e17fbaf726002": 1786787133.020204,
     "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
     "89597237bc5be98a28d9a8e4590ed3cc6388dd84c95b4be83b593914b5c45e51": 1785975247.2482498,
+    "8a49aacf01cb0d13aa17f09416e72f161c03989a9b0a40e6a38d2f45984010ad": 1787203132.680748,
     "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
