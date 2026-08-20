@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787182914.1027505,
+  "last_post_at": 1787191492.9855237,
   "last_urgent_at": 1787172559.8413188,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Open Source & DevTools",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "The Edge Malaysia",
     "Quantum Computing Report",
     "Decrypt",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "citybiz",
     "BleepingComputer",
     "Open Source For You",
-    "SmartCompany",
-    "深潮TechFlow"
+    "SmartCompany"
   ],
   "recent_titles": [
+    "SC bridges semiconductor funding gap through capital market solutions",
     "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission",
     "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
     "Rogue ransomware affiliate poses as data recovery firm to steal payments",
@@ -160,8 +161,7 @@
     "SpaceX Completes Its $60 Billion Cursor Acquisition",
     "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation",
     "Anthropic Reportedly Eyes $6 Billion Decart Acquisition to Boost AI Efficiency",
-    "LTX Releases Open-Weights LTX-2.5 World Model for Video, Robotics and Simulation",
-    "SEC Delays Crypto Regulation Meeting in Latest Industry Setback"
+    "LTX Releases Open-Weights LTX-2.5 World Model for Video, Robotics and Simulation"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -420,6 +420,7 @@
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
     "e2a4d7885d401200af762be4eb8d202c53c00cd381b5113b5278ae9b7390f88a": 1786794689.4549189,
+    "e44b5c1eb68a7aed88cdc44daea5e21a54ea77aaf4792a4eea24d70eb0c78c0f": 1787191492.9855237,
     "e5bcff3d805eab9e03292725345a3449041ea96c5254d50234a204c2679cf897": 1786799016.1831157,
     "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
