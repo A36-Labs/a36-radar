@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787253418.9216084,
+  "last_post_at": 1787256948.355934,
   "last_urgent_at": 1787253418.9216084,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "CoinDesk",
     "TechCrunch Startups",
     "Decrypt",
     "FF News",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "SiliconANGLE",
     "odaily.news",
-    "The Edge Malaysia",
-    "Quantum Computing Report"
+    "The Edge Malaysia"
   ],
   "recent_titles": [
+    "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
     "Castelion hits $13B valuation to mass-produce hypersonic missiles",
     "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
     "Santander Completes Webster Financial Acquisition to Create $327B U.S. Banking Powerhouse",
@@ -160,8 +161,7 @@
     "Oligo Raises $60M to Extend Runtime Security to AI Agents",
     "SEC Cancels Its First Crypto Rulemaking Vote: Why Regulation Crypto Just Stalled",
     "AppLovin: how a 92% post-IPO crash became a $100B AI-driven ad machine",
-    "Call for Applications: Sequoia Capital is Offering Sequoia Open Source Fellowship 2026",
-    "Digital advocates seek probe into alleged Baguio ransomware attack"
+    "Call for Applications: Sequoia Capital is Offering Sequoia Open Source Fellowship 2026"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -377,6 +377,7 @@
     "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
     "b0740fa4a4d016d1f66a741d0ea2c2034fd2709cce0bbfcb698a76e0313a7a32": 1786697552.8316205,
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
+    "b1b1c3496b6d56d7f75d567eaa0eb055cc8c6469867a5112a01241b798712928": 1787256948.355934,
     "b5600f5fdcf8d09fb04cc31c8874e2925db7100db408e5e45ed3047257bf8bcc": 1786578827.714459,
     "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
     "b6926407dce983c3237e90ac8d0ce7699cb5c14da0fca12277cbc7b6094c7749": 1787225827.0607793,
