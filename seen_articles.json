@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787210750.8808126,
-  "last_urgent_at": 1787207383.3539445,
+  "last_post_at": 1787213318.7159805,
+  "last_urgent_at": 1787213318.7159805,
   "recent_categories": [
+    "Open Source & DevTools",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Policy & Regulation",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Open Source For You",
     "PA Media",
     "The Business Journals",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "Finviz",
     "Data Center Dynamics",
-    "CoinDesk",
-    "StockInvest.us"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems",
     "BOCHK and Ant International Forge Strategic Partnership to Enhance Cross-border Payment Connectivity and Innovative Corporate Financial Service Solutions Through Fintech",
     "Qualtrics cuts workforce months after closing $6.75 billion acquisition",
     "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
@@ -160,8 +161,7 @@
     "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
     "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
     "Databricks wraps $5 billion funding round at $190 billion valuation | Startup Story",
-    "Israel Bank Rolls Out Bitcoin, Ethereum, & Solana Trading With Galaxy Partnership",
-    "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner"
+    "Israel Bank Rolls Out Bitcoin, Ethereum, & Solana Trading With Galaxy Partnership"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -271,6 +271,7 @@
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
     "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
+    "5a0a747bce27385009d962eb4df19b30a27ad65b9c5b2810f17d03d2e141b025": 1787213318.7159805,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
