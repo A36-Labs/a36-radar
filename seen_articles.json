@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787241771.0023737,
+  "last_post_at": 1787246126.8095887,
   "last_urgent_at": 1787237468.4885237,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "FF News",
     "qz.com",
     "BleepingComputer",
     "pharmaphorum",
@@ -38,10 +39,10 @@
     "The Edge Malaysia",
     "Quantum Computing Report",
     "Decrypt",
-    "BleepingComputer",
-    "TechCrunch Startups"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Santander Completes Webster Financial Acquisition to Create $327B U.S. Banking Powerhouse",
     "Castelion raises $1 billion Series C for hypersonic missiles",
     "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
     "$31.1m ARPA-H funding for Siemens endovascular robotics",
@@ -160,8 +161,7 @@
     "Call for Applications: Sequoia Capital is Offering Sequoia Open Source Fellowship 2026",
     "Digital advocates seek probe into alleged Baguio ransomware attack",
     "From Yulu To Discovered Materials — Indian Startups Raised $140 Mn This Week",
-    "TRON: Stablecoin Market Cap Adds $1 Billion in Week",
-    "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough"
+    "TRON: Stablecoin Market Cap Adds $1 Billion in Week"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -252,6 +252,7 @@
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
     "41f519ea8abda45f443e17e133b6408f046afcc62c2d18638dcb5ef23a400ea1": 1785962284.7850716,
     "4459523963ae050297f891d5ea220da28147ab54d1644642f6b6b007f090639f": 1786728833.7736254,
+    "4461b39ad8af5ffd1754a5568a80f0ce0de97296b53fb1b942f41504367c0757": 1787246126.8095887,
     "4566294ccb40c3c398b87a9aa99f74252f928f0870f9668fa58e01ca0e0f8821": 1786915852.698227,
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
