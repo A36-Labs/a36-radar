@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787225827.0607793,
+  "last_post_at": 1787231242.2813187,
   "last_urgent_at": 1787225827.0607793,
   "recent_categories": [
+    "AI & Agents",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "VC & Accelerators",
     "AI & Agents",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "InfoWorld",
     "BleepingComputer",
     "BleepingComputer",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "GrepBeat",
     "AI Insider",
-    "24/7 Wall St.",
-    "Cointelegraph"
+    "24/7 Wall St."
   ],
   "recent_titles": [
+    "TrueFoundry debuts open-source AI agent harness, claiming up to 75% lower costs",
     "CISA warns of hackers exploiting critical MLflow vulnerability",
     "Critical Zimbra RCE flaw now actively exploited in attacks",
     "AI Startup Callosum Raises $100 Million to Match Tasks to Chips",
@@ -160,8 +161,7 @@
     "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
     "Quantum Computing Inc. (NASDAQ: QUBT) Holds $1.3 Billion Cash Position Despite Heavy Acquisition Spending",
     "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
-    "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
-    "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam"
+    "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -345,6 +345,7 @@
     "95300d1f5fe0042c5109cba3038d4eb4e3c26525a5104eaad46a208421ceeaf0": 1786958524.544105,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
+    "9a000c24d257ba5a10842f1d6627c49fe53dd7b03a8d167782c5d1cd85da837b": 1787231242.2813187,
     "9a0ac7c4486825ee89cb7d7d8bb536f02096d2996132b23c4e823877cd8ec114": 1787210750.8808126,
     "9b07eb5cea15b090013f163827609ca43a47df77d20849fb698e44bcb206f8d7": 1786546060.625501,
     "9bf9b515e19ac444294f048b5b59e0e4c39d31eb91c122139852685fe2941424": 1786370632.234835,
