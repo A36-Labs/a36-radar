@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787219184.6526337,
-  "last_urgent_at": 1787213318.7159805,
+  "last_post_at": 1787220911.4832492,
+  "last_urgent_at": 1787220911.4832492,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Open Source & DevTools",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Bloomberg.com",
     "Open Source For You",
     "PA Media",
@@ -38,10 +39,10 @@
     "AI Insider",
     "24/7 Wall St.",
     "Cointelegraph",
-    "Finviz",
-    "Data Center Dynamics"
+    "Finviz"
   ],
   "recent_titles": [
+    "Critical Zimbra RCE flaw now actively exploited in attacks",
     "AI Startup Callosum Raises $100 Million to Match Tasks to Chips",
     "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems",
     "BOCHK and Ant International Forge Strategic Partnership to Enhance Cross-border Payment Connectivity and Innovative Corporate Financial Service Solutions Through Fintech",
@@ -160,8 +161,7 @@
     "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
     "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
     "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
-    "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
-    "Databricks wraps $5 billion funding round at $190 billion valuation | Startup Story"
+    "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -217,6 +217,7 @@
     "25c8a2e84bf0eca74338536bf6f3d1fb8d992a313533f368c16059f6ce9f0603": 1787168692.4900212,
     "27a725fb7a204246324449fd6522faac9bce4068f72f38fbf20eae7c0ad4130c": 1787001132.3535445,
     "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
+    "28c342dfe2518cd11f2c6c83e41e34f69076a9ba80b26c3e02131d2704d9d98f": 1787220911.4832492,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c3779acf92f34fd4c6ede6416f03cf9df3e3448545860de546f8267344f26e2": 1787113175.5624294,
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
