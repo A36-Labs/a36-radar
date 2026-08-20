@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787203132.680748,
-  "last_urgent_at": 1787172559.8413188,
+  "last_post_at": 1787207383.3539445,
+  "last_urgent_at": 1787207383.3539445,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "The Business Journals",
     "CoinDesk",
     "SiliconANGLE",
     "odaily.news",
@@ -38,10 +39,10 @@
     "Data Center Dynamics",
     "CoinDesk",
     "StockInvest.us",
-    "AI Insider",
-    "citybiz"
+    "AI Insider"
   ],
   "recent_titles": [
+    "Qualtrics cuts workforce months after closing $6.75 billion acquisition",
     "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
     "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
     "SEC Crypto Regulation New Rule Explained: Issuance and Fundraising Under $5 Million Exempt from Registration—Is the Altcoin Season Coming Back?",
@@ -160,8 +161,7 @@
     "Databricks wraps $5 billion funding round at $190 billion valuation | Startup Story",
     "Israel Bank Rolls Out Bitcoin, Ethereum, & Solana Trading With Galaxy Partnership",
     "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-    "Strata Credit Union Partners with Alkami to Launch Personalized Digital Banking Platform",
-    "SpaceX Completes Its $60 Billion Cursor Acquisition"
+    "Strata Credit Union Partners with Alkami to Launch Personalized Digital Banking Platform"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -180,6 +180,7 @@
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
+    "0cb283a961d489c95c59f8f2ea85dc5623517cef927b425f3409d051160eb39a": 1787207383.3539445,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
     "0dbdf7a37fd337c174695162f7bc0a021071f430603524b1632bada59366ad61": 1787064426.1464493,
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
