@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787195284.6275413,
+  "last_post_at": 1787198598.0647845,
   "last_urgent_at": 1787172559.8413188,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "Open Source & DevTools"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "SiliconANGLE",
     "odaily.news",
     "The Edge Malaysia",
     "Quantum Computing Report",
@@ -38,10 +39,10 @@
     "StockInvest.us",
     "AI Insider",
     "citybiz",
-    "BleepingComputer",
-    "Open Source For You"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
     "SEC Crypto Regulation New Rule Explained: Issuance and Fundraising Under $5 Million Exempt from Registration—Is the Altcoin Season Coming Back?",
     "SC bridges semiconductor funding gap through capital market solutions",
     "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission",
@@ -160,8 +161,7 @@
     "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
     "Strata Credit Union Partners with Alkami to Launch Personalized Digital Banking Platform",
     "SpaceX Completes Its $60 Billion Cursor Acquisition",
-    "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation",
-    "Anthropic Reportedly Eyes $6 Billion Decart Acquisition to Boost AI Efficiency"
+    "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -321,6 +321,7 @@
     "83f9439335c4d4d51e1a7317bf40285fb76aed3a31aae859fa5e987473c4a2b6": 1786123744.3721159,
     "8597fd6f201b0bf6da1b677ec21972da03061c9dd64abdd45634de133407de33": 1786348877.7012131,
     "85a3ef1603d02d4c80819eacc9b9f247fbca2a89860ffe834bf0bfc1e5853daa": 1786222410.860094,
+    "85f6c6dabc44f8c7f55fc3f859a90321bc4796674462ba587f2f93d63d511e79": 1787198598.0647845,
     "862bb10dba0b76cb150c366c5b7d4fbaa2561dac6a3d55b26bc63db99d523dbe": 1786892656.480272,
     "867aeecaff7c25d56333d6c65d30c7dee3d7517b1ff0028e139e17fbaf726002": 1786787133.020204,
     "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
