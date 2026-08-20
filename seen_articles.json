@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787231242.2813187,
+  "last_post_at": 1787234688.559211,
   "last_urgent_at": 1787225827.0607793,
   "recent_categories": [
+    "Frontier Tech",
     "AI & Agents",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "pharmaphorum",
     "InfoWorld",
     "BleepingComputer",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "TechCrunch Startups",
     "GrepBeat",
-    "AI Insider",
-    "24/7 Wall St."
+    "AI Insider"
   ],
   "recent_titles": [
+    "$31.1m ARPA-H funding for Siemens endovascular robotics",
     "TrueFoundry debuts open-source AI agent harness, claiming up to 75% lower costs",
     "CISA warns of hackers exploiting critical MLflow vulnerability",
     "Critical Zimbra RCE flaw now actively exploited in attacks",
@@ -160,8 +161,7 @@
     "TRON: Stablecoin Market Cap Adds $1 Billion in Week",
     "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
     "Quantum Computing Inc. (NASDAQ: QUBT) Holds $1.3 Billion Cash Position Despite Heavy Acquisition Spending",
-    "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
-    "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter"
+    "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -172,6 +172,7 @@
     "04b014fb3d9e588a1e59e6ec6a89532c7d8b445472f8e171a6d6fbebe0a0ecbb": 1786596080.4139109,
     "05890f3e2e28c10add062e3ce4ece45c532b510b9e865f7fe6fd613ac97078e0": 1787046892.7620113,
     "06cb0e740792c37362f80ba7f1c6b896899e920d834c6fb20d907f8d5b9337a3": 1786972272.7317555,
+    "06d8a4f668ab37973c2faeb9476d0c6df7301f033cc342bb18d0cc70e89f77f9": 1787234688.559211,
     "0731846bee432b0c717eb5b871ef8c279673e8a76c2bcfcfe84a6fd1e809bd69": 1787028405.6164684,
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
     "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
