@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787237468.4885237,
+  "last_post_at": 1787241771.0023737,
   "last_urgent_at": 1787237468.4885237,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "qz.com",
     "BleepingComputer",
     "pharmaphorum",
     "InfoWorld",
@@ -38,10 +39,10 @@
     "Quantum Computing Report",
     "Decrypt",
     "BleepingComputer",
-    "TechCrunch Startups",
-    "GrepBeat"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Castelion raises $1 billion Series C for hypersonic missiles",
     "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
     "$31.1m ARPA-H funding for Siemens endovascular robotics",
     "TrueFoundry debuts open-source AI agent harness, claiming up to 75% lower costs",
@@ -160,8 +161,7 @@
     "Digital advocates seek probe into alleged Baguio ransomware attack",
     "From Yulu To Discovered Materials — Indian Startups Raised $140 Mn This Week",
     "TRON: Stablecoin Market Cap Adds $1 Billion in Week",
-    "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
-    "Quantum Computing Inc. (NASDAQ: QUBT) Holds $1.3 Billion Cash Position Despite Heavy Acquisition Spending"
+    "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -432,6 +432,7 @@
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
     "e2a4d7885d401200af762be4eb8d202c53c00cd381b5113b5278ae9b7390f88a": 1786794689.4549189,
+    "e33ec1a77a87319273092c78283dfa5be9df542939c03f191f5971bdab4b3e54": 1787241771.0023737,
     "e44b5c1eb68a7aed88cdc44daea5e21a54ea77aaf4792a4eea24d70eb0c78c0f": 1787191492.9855237,
     "e5bcff3d805eab9e03292725345a3449041ea96c5254d50234a204c2679cf897": 1786799016.1831157,
     "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
