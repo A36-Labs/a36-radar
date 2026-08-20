@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787220911.4832492,
-  "last_urgent_at": 1787220911.4832492,
+  "last_post_at": 1787225827.0607793,
+  "last_urgent_at": 1787225827.0607793,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "AI & Agents",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
     "Policy & Regulation"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "BleepingComputer",
     "Bloomberg.com",
     "Open Source For You",
@@ -38,10 +39,10 @@
     "GrepBeat",
     "AI Insider",
     "24/7 Wall St.",
-    "Cointelegraph",
-    "Finviz"
+    "Cointelegraph"
   ],
   "recent_titles": [
+    "CISA warns of hackers exploiting critical MLflow vulnerability",
     "Critical Zimbra RCE flaw now actively exploited in attacks",
     "AI Startup Callosum Raises $100 Million to Match Tasks to Chips",
     "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems",
@@ -160,8 +161,7 @@
     "Quantum Computing Inc. (NASDAQ: QUBT) Holds $1.3 Billion Cash Position Despite Heavy Acquisition Spending",
     "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
     "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
-    "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
-    "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead"
+    "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam"
   ],
   "seen": {
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
@@ -374,6 +374,7 @@
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
     "b5600f5fdcf8d09fb04cc31c8874e2925db7100db408e5e45ed3047257bf8bcc": 1786578827.714459,
     "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
+    "b6926407dce983c3237e90ac8d0ce7699cb5c14da0fca12277cbc7b6094c7749": 1787225827.0607793,
     "b736c8c713573b3f2127339904a2e569bb298eef79c0880ef1ca0588e334a9f3": 1786873651.9186046,
     "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
     "b9323ba81dde3226601517a178ff1507584b98c1d86f1d71b47492e55054ad91": 1786425572.5023675,
