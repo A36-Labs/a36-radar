@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787323720.5588133,
-  "last_urgent_at": 1787323720.5588133,
+  "last_post_at": 1787325537.7836702,
+  "last_urgent_at": 1787325537.7836702,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Policy & Regulation",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "PYMNTS.com",
     "Dronelife",
     "CyberSecurityNews",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "IndiaIPO",
     "CoinDesk",
     "TechCrunch Startups",
-    "Decrypt",
-    "FF News"
+    "Decrypt"
   ],
   "recent_titles": [
+    "Robotics AI Firm Dexmal Seeks $3 Billion Valuation in New Funding Round",
     "Motorola Solutions Completes $1.5 Billion Acquisition of D-Fend Solutions",
     "US Bank Investigating Data Breach Following LockBit Ransomware Claim",
     "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
@@ -160,8 +161,7 @@
     "HK Baptist University reviews IT security after ransomware group claims breach",
     "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
     "A Playbook for Securing Open-Weight and Open-Source AI Models",
-    "SpaceX (SPCX) Takes Over A $60 Billion Coding Startup",
-    "SpaceX officially closes its Cursor acquisition"
+    "SpaceX (SPCX) Takes Over A $60 Billion Coding Startup"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -283,6 +283,7 @@
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
     "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
     "5a0a747bce27385009d962eb4df19b30a27ad65b9c5b2810f17d03d2e141b025": 1787213318.7159805,
+    "5aaf349657aca5fa98e6218512496f8139df89935004380bf71754f410ac84f6": 1787325537.7836702,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
