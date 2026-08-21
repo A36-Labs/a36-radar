@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787305749.333969,
+  "last_post_at": 1787309591.052387,
   "last_urgent_at": 1787293212.0510242,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Frontier Tech",
-    "AI & Agents",
-    "Cybersecurity & Cloud"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Pluang",
     "Yahoo",
     "The Hacker News",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "qz.com",
     "BleepingComputer",
     "pharmaphorum",
-    "InfoWorld",
-    "BleepingComputer"
+    "InfoWorld"
   ],
   "recent_titles": [
+    "Anthropic plans IPO that could surpass SpaceX's $75B record, highlighting rapid AI growth.",
     "Founded by former OpenAI executives in 2021, Anthropic has evolved from an underdog into an AI heavyweight. 🤖 A massive $65 billion funding round in May pushed the startup's valuation to $965 billion.",
     "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
     "Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding",
@@ -160,8 +161,7 @@
     "Swiss regulator warns financial sector of rising cyberattacks, AI risks",
     "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
     "Robinhood's Second Venture Capital Fund RVII Launched, Raising Approximately $225.5 Million, Focused on Y Combinator-Related Companies",
-    "Tesla To Be Worth Around Us$8 Trillion After Optimus Robots Launch - Errol Musk",
-    "Shell Investigating Data Breach Following Cl0p Ransomware Group Claim"
+    "Tesla To Be Worth Around Us$8 Trillion After Optimus Robots Launch - Errol Musk"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -444,6 +444,7 @@
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "df4bf652268bba89a67b54fb56ecf8fe2b264bb514f091151f405107a14c1310": 1787278238.4393303,
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
+    "e25b0916c39b70be127fb0a8979aa70b96d4b824ec766640d25392be039eb953": 1787309591.052387,
     "e2a4d7885d401200af762be4eb8d202c53c00cd381b5113b5278ae9b7390f88a": 1786794689.4549189,
     "e33ec1a77a87319273092c78283dfa5be9df542939c03f191f5971bdab4b3e54": 1787241771.0023737,
     "e44b5c1eb68a7aed88cdc44daea5e21a54ea77aaf4792a4eea24d70eb0c78c0f": 1787191492.9855237,
