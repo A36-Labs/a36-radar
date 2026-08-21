@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787320556.1591268,
-  "last_urgent_at": 1787320556.1591268,
+  "last_post_at": 1787323720.5588133,
+  "last_urgent_at": 1787323720.5588133,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Dronelife",
     "CyberSecurityNews",
     "CoinDesk",
     "FX News Group",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "TechCrunch Startups",
     "Decrypt",
-    "FF News",
-    "qz.com"
+    "FF News"
   ],
   "recent_titles": [
+    "Motorola Solutions Completes $1.5 Billion Acquisition of D-Fend Solutions",
     "US Bank Investigating Data Breach Following LockBit Ransomware Claim",
     "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
     "Laser Digital Japan obtains regulatory approval to provide institutional crypto services in Japan",
@@ -160,8 +161,7 @@
     "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
     "A Playbook for Securing Open-Weight and Open-Source AI Models",
     "SpaceX (SPCX) Takes Over A $60 Billion Coding Startup",
-    "SpaceX officially closes its Cursor acquisition",
-    "Swiss regulator warns financial sector of rising cyberattacks, AI risks"
+    "SpaceX officially closes its Cursor acquisition"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -191,6 +191,7 @@
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
+    "11d6a56f7d848916988a60a62cb2e5809094a8b1c8eaf5bbec19e5de3a52444b": 1787323720.5588133,
     "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
     "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
