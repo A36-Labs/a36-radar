@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787351765.5914705,
+  "last_post_at": 1787355268.632908,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "Open Source & DevTools",
-    "Markets, IPOs & M&A"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "UA.NEWS",
     "BNN Bloomberg",
     "Nikkei Asia",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "Bloomberg.com",
     "CoinDesk",
-    "webintravel.com",
-    "Yahoo Finance"
+    "webintravel.com"
   ],
   "recent_titles": [
+    "AI startup Rillet has raised $100 million at a valuation of $1 billion",
     "Orbital data center startup Starcloud valued at US$2.3 billion in latest funding",
     "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
     "IBM And Together AI Sign $240 Million Multi-Year Deal For Large-Scale NVIDIA B300 AI Inference Cluster",
@@ -160,8 +161,7 @@
     "ADI Chain, Shipfinex launch vessel-backed tokenization initiative",
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
     "IonQ Completes $1.8 Billion Acquisition of SkyWater Technology",
-    "Will Bitcoin hold support as SEC cancels Regulation Crypto vote?",
-    "ShopUp's parent platform raises $100 million for Saudi financing push"
+    "Will Bitcoin hold support as SEC cancels Regulation Crypto vote?"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -385,6 +385,7 @@
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ac909fe660c7b1898a0a488c7c89fe7e9117a25525a3122fbfd2053834489656": 1786655326.0515604,
     "ae4d292a1ae8542d5de60c25f74ea99aeaa5f5edcf7c05b769d7570d2e1dee1e": 1786936565.0089798,
+    "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
     "af1e53a43fc96adf815e4881706dbf4b647d101d86573736a8abeb592275a53a": 1787348092.8972309,
     "af88f135364144b24fddf685faa3b80fb054659cfd9fb4f5b972d75762ce0058": 1786918313.7391076,
     "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
