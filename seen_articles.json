@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787339056.4637625,
+  "last_post_at": 1787344566.7319415,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "AI & Agents",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "AI & Agents",
-    "VC & Accelerators"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Pulse 2.0",
     "Unite.AI",
     "Decrypt",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "webintravel.com",
     "Yahoo Finance",
     "TechCrunch Startups",
-    "TechCrunch AI",
-    "IndiaIPO"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "IBM And Together AI Sign $240 Million Multi-Year Deal For Large-Scale NVIDIA B300 AI Inference Cluster",
     "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund",
     "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
     "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -160,8 +161,7 @@
     "Will Bitcoin hold support as SEC cancels Regulation Crypto vote?",
     "ShopUp's parent platform raises $100 million for Saudi financing push",
     "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
-    "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown",
-    "HK Baptist University reviews IT security after ransomware group claims breach"
+    "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -452,6 +452,7 @@
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "df4bf652268bba89a67b54fb56ecf8fe2b264bb514f091151f405107a14c1310": 1787278238.4393303,
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
+    "e22869c9b3f1027e10d552c410756eb74b0ad5e81231b166df8d322d19c2153b": 1787344566.7319415,
     "e25b0916c39b70be127fb0a8979aa70b96d4b824ec766640d25392be039eb953": 1787309591.052387,
     "e2a4d7885d401200af762be4eb8d202c53c00cd381b5113b5278ae9b7390f88a": 1786794689.4549189,
     "e33ec1a77a87319273092c78283dfa5be9df542939c03f191f5971bdab4b3e54": 1787241771.0023737,
