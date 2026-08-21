@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787293212.0510242,
+  "last_post_at": 1787299281.6987426,
   "last_urgent_at": 1787293212.0510242,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Frontier Tech",
     "Web3 & Digital Assets",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "AI & Agents",
     "Cybersecurity & Cloud",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Bloomberg.com",
     "CoinDesk",
     "webintravel.com",
@@ -38,10 +39,10 @@
     "pharmaphorum",
     "InfoWorld",
     "BleepingComputer",
-    "BleepingComputer",
-    "Bloomberg.com"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
     "Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding",
     "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
     "Google buys Spirit Airlines' data. KLIA amps security. Spotnana x Singapore Airlines. Atlas' open-source flight booking.",
@@ -160,8 +161,7 @@
     "Robinhood's Second Venture Capital Fund RVII Launched, Raising Approximately $225.5 Million, Focused on Y Combinator-Related Companies",
     "Tesla To Be Worth Around Us$8 Trillion After Optimus Robots Launch - Errol Musk",
     "Shell Investigating Data Breach Following Cl0p Ransomware Group Claim",
-    "RedotPay Shelves $1 Billion IPO After Binance Sues Over 470,000 Users",
-    "Every fusion startup that has raised over $100M"
+    "RedotPay Shelves $1 Billion IPO After Binance Sues Over 470,000 Users"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -387,6 +387,7 @@
     "b6926407dce983c3237e90ac8d0ce7699cb5c14da0fca12277cbc7b6094c7749": 1787225827.0607793,
     "b736c8c713573b3f2127339904a2e569bb298eef79c0880ef1ca0588e334a9f3": 1786873651.9186046,
     "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
+    "b885e450b1b823dc40b619d0ead80c8391af7038783ac89f32b1e2cf9f114fea": 1787299281.6987426,
     "b9323ba81dde3226601517a178ff1507584b98c1d86f1d71b47492e55054ad91": 1786425572.5023675,
     "b9e6438284300d5e3e27e36192c5ffb97584a7982d7bd1587378f3f8ac06b427": 1787237468.4885237,
     "ba6de2e952bc1b2e93fe599011b19d487c149ba6ed20cd2a4a2b2117710e03ab": 1787293212.0510242,
