@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787309591.052387,
+  "last_post_at": 1787313560.999591,
   "last_urgent_at": 1787293212.0510242,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Frontier Tech",
-    "AI & Agents"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "FX News Group",
     "Pluang",
     "Yahoo",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "FF News",
     "qz.com",
     "BleepingComputer",
-    "pharmaphorum",
-    "InfoWorld"
+    "pharmaphorum"
   ],
   "recent_titles": [
+    "Laser Digital Japan obtains regulatory approval to provide institutional crypto services in Japan",
     "Anthropic plans IPO that could surpass SpaceX's $75B record, highlighting rapid AI growth.",
     "Founded by former OpenAI executives in 2021, Anthropic has evolved from an underdog into an AI heavyweight. 🤖 A massive $65 billion funding round in May pushed the startup's valuation to $965 billion.",
     "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -160,8 +161,7 @@
     "SpaceX officially closes its Cursor acquisition",
     "Swiss regulator warns financial sector of rising cyberattacks, AI risks",
     "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-    "Robinhood's Second Venture Capital Fund RVII Launched, Raising Approximately $225.5 Million, Focused on Y Combinator-Related Companies",
-    "Tesla To Be Worth Around Us$8 Trillion After Optimus Robots Launch - Errol Musk"
+    "Robinhood's Second Venture Capital Fund RVII Launched, Raising Approximately $225.5 Million, Focused on Y Combinator-Related Companies"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -275,6 +275,7 @@
     "510a20545ea61ca34bda6b630a51fae0b45b9d0e00db74bc47db8ed4f1c7fb36": 1785704857.7401912,
     "54e742fdc4625aaa9c795907b3f0889fc332d6ceb994d29fb646adac0a1458d7": 1786783790.9382899,
     "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
+    "559a4c4dd819d3f17379e75d74b629a0868a08487e196ae1bc45e5ce27e0c0f9": 1787313560.999591,
     "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
