@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787325537.7836702,
+  "last_post_at": 1787330853.8039742,
   "last_urgent_at": 1787325537.7836702,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "VC & Accelerators",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "PYMNTS.com",
     "Dronelife",
     "CyberSecurityNews",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "IndiaIPO",
     "CoinDesk",
-    "TechCrunch Startups",
-    "Decrypt"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "The DOJ is investigating a16z. What does this mean for venture capital?",
     "Robotics AI Firm Dexmal Seeks $3 Billion Valuation in New Funding Round",
     "Motorola Solutions Completes $1.5 Billion Acquisition of D-Fend Solutions",
     "US Bank Investigating Data Breach Following LockBit Ransomware Claim",
@@ -160,8 +161,7 @@
     "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown",
     "HK Baptist University reviews IT security after ransomware group claims breach",
     "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
-    "A Playbook for Securing Open-Weight and Open-Source AI Models",
-    "SpaceX (SPCX) Takes Over A $60 Billion Coding Startup"
+    "A Playbook for Securing Open-Weight and Open-Source AI Models"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -378,6 +378,7 @@
     "a7801aa807b0d1a675534dcc59b5b73c396d3753fde7d1e9e8c8067b79ab5619": 1786421065.2667177,
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
     "aa3fe482cb711f8ddaff1a25c156356b7f690c046507cc87252f631ed1382d09": 1786204284.2487767,
+    "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
     "ab504c212c1956cd0edc49ed8cf18b2e8c99a77d49efe30e9d884f6ade5de8fb": 1786249980.177544,
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ac909fe660c7b1898a0a488c7c89fe7e9117a25525a3122fbfd2053834489656": 1786655326.0515604,
