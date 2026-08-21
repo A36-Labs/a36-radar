@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787330853.8039742,
-  "last_urgent_at": 1787325537.7836702,
+  "last_post_at": 1787334643.5222723,
+  "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "VC & Accelerators",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "AI & Agents",
     "VC & Accelerators",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Decrypt",
     "TechCrunch Startups",
     "PYMNTS.com",
     "Dronelife",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "TechCrunch AI",
     "IndiaIPO",
-    "CoinDesk",
-    "TechCrunch Startups"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
     "The DOJ is investigating a16z. What does this mean for venture capital?",
     "Robotics AI Firm Dexmal Seeks $3 Billion Valuation in New Funding Round",
     "Motorola Solutions Completes $1.5 Billion Acquisition of D-Fend Solutions",
@@ -160,8 +161,7 @@
     "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
     "$2 Trillion Valuation: The Largest AI IPO in History Enters Final Countdown",
     "HK Baptist University reviews IT security after ransomware group claims breach",
-    "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
-    "A Playbook for Securing Open-Weight and Open-Source AI Models"
+    "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -318,6 +318,7 @@
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
+    "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
     "77925f88725106d32a433017e2fdd6fba614f374f12ece0a4377aa8cf03736ea": 1787010100.7123568,
     "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
