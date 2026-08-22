@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787430917.4551787,
+  "last_post_at": 1787434304.0323257,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Policy & Regulation",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Frontier Tech",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "HOKANEWS.COM",
     "TechCrunch AI",
     "Oz Arab Media",
     "Yellow.com",
@@ -38,10 +39,10 @@
     "Technology Magazine",
     "CNBC",
     "TechCrunch Startups",
-    "UA.NEWS",
-    "BNN Bloomberg"
+    "UA.NEWS"
   ],
   "recent_titles": [
+    "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation",
     "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "Anthropic IPO Filing Expected to Flag AI Backlash Risk",
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
@@ -160,8 +161,7 @@
     "Shell Investigates Data Breach After Cl0p Ransomware Claims Theft of 89GB Corporate Data",
     "OpenRouter Acquired for $7 Billion - Major AI Cloud Platform Acquisition News",
     "BNM, Labuan Regulator Fine UBB Investment Bank RM10 Million for Compliance Breaches",
-    "Unveiling the Flow of $11.2 Billion in Funding Over Six Months: The Crypto Industry's Most Valuable Asset Is Shifting f…",
-    "Stripe Acquires OpenRouter for $7 Billion: Valuation Surges 5x in Three Months, How Long Can the Most Neutral AI Gatewa…"
+    "Unveiling the Flow of $11.2 Billion in Funding Over Six Months: The Crypto Industry's Most Valuable Asset Is Shifting f…"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -401,6 +401,7 @@
     "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
     "af1e53a43fc96adf815e4881706dbf4b647d101d86573736a8abeb592275a53a": 1787348092.8972309,
     "af88f135364144b24fddf685faa3b80fb054659cfd9fb4f5b972d75762ce0058": 1786918313.7391076,
+    "afdc94668d1bea937c11f9bbbce47efe2d1cf3b4a4395c4c23638245350edc8c": 1787434304.0323257,
     "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
     "b0740fa4a4d016d1f66a741d0ea2c2034fd2709cce0bbfcb698a76e0313a7a32": 1786697552.8316205,
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
