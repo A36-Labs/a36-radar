@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787398247.1263301,
+  "last_post_at": 1787403428.352448,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Web3 & Digital Assets",
     "VC & Accelerators",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "AI Insider",
     "조선일보",
     "Armenpress",
     "Security Affairs",
@@ -38,10 +39,10 @@
     "Unite.AI",
     "Decrypt",
     "TechCrunch Startups",
-    "PYMNTS.com",
-    "Dronelife"
+    "PYMNTS.com"
   ],
   "recent_titles": [
+    "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration",
     "Anthropic Aims for Record $2 Trillion IPO",
     "Armenia’s tax authorities discuss crypto assets, blockchain regulation",
     "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
@@ -160,8 +161,7 @@
     "Stripe completes OpenRouter acquisition in deal worth over $7 billion",
     "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'",
-    "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal",
-    "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information"
+    "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -473,6 +473,7 @@
     "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
+    "e7ea0ff75d84ba8649f9f3656b00149377b3c36d78415951e07f6370c76e67e1": 1787403428.352448,
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
     "e9846842d0f376308a8975746d80a3989aa048a9ebe46ce409721d4913254f48": 1787179549.3674655,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
