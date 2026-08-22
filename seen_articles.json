@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787403428.352448,
+  "last_post_at": 1787407563.0885918,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
-    "VC & Accelerators",
-    "Startups & Funding"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "CoinDesk",
     "AI Insider",
     "조선일보",
     "Armenpress",
@@ -38,10 +39,10 @@
     "Pulse 2.0",
     "Unite.AI",
     "Decrypt",
-    "TechCrunch Startups",
-    "PYMNTS.com"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
     "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration",
     "Anthropic Aims for Record $2 Trillion IPO",
     "Armenia’s tax authorities discuss crypto assets, blockchain regulation",
@@ -160,8 +161,7 @@
     "Large-scale DDoS attacks disrupted Threema secure messaging service",
     "Stripe completes OpenRouter acquisition in deal worth over $7 billion",
     "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'",
-    "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal"
+    "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -327,6 +327,7 @@
     "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
     "77925f88725106d32a433017e2fdd6fba614f374f12ece0a4377aa8cf03736ea": 1787010100.7123568,
+    "77aa4e92ff93d66cca8448de9a98c97a89633304616f18946867639361b65270": 1787407563.0885918,
     "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
     "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
