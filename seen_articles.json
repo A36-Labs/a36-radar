@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787421238.1834831,
+  "last_post_at": 1787425896.0880406,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "AI & Agents"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Oz Arab Media",
     "Yellow.com",
     "BleepingComputer",
     "Indian Startup News",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "UA.NEWS",
     "BNN Bloomberg",
-    "Nikkei Asia",
-    "Pulse 2.0"
+    "Nikkei Asia"
   ],
   "recent_titles": [
+    "Anthropic IPO Filing Expected to Flag AI Backlash Risk",
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
     "Hackers infect Android car head units with proxy botnet malware",
     "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
@@ -160,8 +161,7 @@
     "BNM, Labuan Regulator Fine UBB Investment Bank RM10 Million for Compliance Breaches",
     "Unveiling the Flow of $11.2 Billion in Funding Over Six Months: The Crypto Industry's Most Valuable Asset Is Shifting f…",
     "Stripe Acquires OpenRouter for $7 Billion: Valuation Surges 5x in Three Months, How Long Can the Most Neutral AI Gatewa…",
-    "ChronoTech AI Inc. Launches Intelligent Robotics Platform",
-    "Large-scale DDoS attacks disrupted Threema secure messaging service"
+    "ChronoTech AI Inc. Launches Intelligent Robotics Platform"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -204,6 +204,7 @@
     "19d74ba56c7689852eff4c4ad45d36d8d99afef161ca413b8d61e652fd5c56f4": 1786536228.4634604,
     "1a90c36379a31994a727f9b38da11246ca77968b7d6356c46c651a084607981d": 1786139578.7538576,
     "1abc932309b497f3f0b56cc7dd2bffbb2228a245173e11ec76a9f871541b7710": 1786359114.2255287,
+    "1b06dd1eb20b1b1f943098cbbc4d7fe94997bea95ac2addee3ae92e68dd52135": 1787425896.0880406,
     "1b219d6a51189a7553552a96413594603681fb6c8fea3f04e5bbc7c4f8a42b95": 1786588865.3434782,
     "1b7f631efc5896ca356f1fe61b4d101d1006bd8b9297d5e1b06f24c93e6e76f7": 1786147412.6299539,
     "1c8d6961ef0a8fad7a91a5ef824a874eb245f00ff61ddcb8143255a46e0d4566": 1786750944.1399589,
