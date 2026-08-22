@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787425896.0880406,
+  "last_post_at": 1787430917.4551787,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Frontier Tech",
     "Startups & Funding",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Oz Arab Media",
     "Yellow.com",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "CNBC",
     "TechCrunch Startups",
     "UA.NEWS",
-    "BNN Bloomberg",
-    "Nikkei Asia"
+    "BNN Bloomberg"
   ],
   "recent_titles": [
+    "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "Anthropic IPO Filing Expected to Flag AI Backlash Risk",
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
     "Hackers infect Android car head units with proxy botnet malware",
@@ -160,8 +161,7 @@
     "OpenRouter Acquired for $7 Billion - Major AI Cloud Platform Acquisition News",
     "BNM, Labuan Regulator Fine UBB Investment Bank RM10 Million for Compliance Breaches",
     "Unveiling the Flow of $11.2 Billion in Funding Over Six Months: The Crypto Industry's Most Valuable Asset Is Shifting f…",
-    "Stripe Acquires OpenRouter for $7 Billion: Valuation Surges 5x in Three Months, How Long Can the Most Neutral AI Gatewa…",
-    "ChronoTech AI Inc. Launches Intelligent Robotics Platform"
+    "Stripe Acquires OpenRouter for $7 Billion: Valuation Surges 5x in Three Months, How Long Can the Most Neutral AI Gatewa…"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -458,6 +458,7 @@
     "d6d82318b5d63d32a97abcd14e8a8c31d26cea9600d6b0e69e29395c1d7451a0": 1787137882.6504948,
     "d7ab94dd18c7080705d3de9b2e2c2e1107acd7facde76aca417d4484a12986f5": 1786858704.599998,
     "d7b84d271c132b43bc42e3b3e7445d4011a918a09ba37e2efddbc55decb12282": 1787260739.0530665,
+    "d8d9ebe62b2a17cfb48ce3ed4d02307d579c1ee4d63b3653c281689ba8974410": 1787430917.4551787,
     "d9156228b8ae12196dc10d981d277543f7ad761aa0fc9523c51734e8d6596a92": 1785885307.6824715,
     "d943d4a8308a85a5ba52402b7da4b6a80bf667bd7b899c2e447516d856da5787": 1786218061.6023836,
     "da980a19a843bfa0806961f8a5d641dec05ecc27e00d594d83ba658de147bcdc": 1786007813.7413337,
