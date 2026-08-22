@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787407563.0885918,
+  "last_post_at": 1787412715.4337585,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "AI & Agents",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Open Source & DevTools",
-    "Web3 & Digital Assets",
-    "VC & Accelerators"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Indian Startup News",
     "CoinDesk",
     "AI Insider",
     "조선일보",
@@ -38,10 +39,10 @@
     "Nikkei Asia",
     "Pulse 2.0",
     "Unite.AI",
-    "Decrypt",
-    "TechCrunch Startups"
+    "Decrypt"
   ],
   "recent_titles": [
+    "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
     "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
     "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration",
     "Anthropic Aims for Record $2 Trillion IPO",
@@ -160,8 +161,7 @@
     "ChronoTech AI Inc. Launches Intelligent Robotics Platform",
     "Large-scale DDoS attacks disrupted Threema secure messaging service",
     "Stripe completes OpenRouter acquisition in deal worth over $7 billion",
-    "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'"
+    "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -271,6 +271,7 @@
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
     "4b2035e1835153bdb7dd163ed60468ad95e7b5335774b377a8457c74853bb10a": 1786847074.3875756,
     "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
+    "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
     "4d71a14a73fb71b8e70683664260a411222bd882e235578c3b6eb544a21eadda": 1785732043.9635842,
     "4da369f1bd5bbb6b8763be9e7b35b0faede3979073bc676f74804647d087978f": 1786109551.9494088,
     "4dbbf0fa95c596d35e4de901db5db6e69858be8a95bdd0d0f63d1a7310ad7ebc": 1786208374.5390155,
