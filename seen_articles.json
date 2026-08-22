@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787382326.0040903,
+  "last_post_at": 1787386336.661562,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Inc42",
     "CryptoRank",
     "Adgully.com",
     "Technology Magazine",
@@ -38,10 +39,10 @@
     "Dronelife",
     "CyberSecurityNews",
     "CoinDesk",
-    "FX News Group",
-    "Pluang"
+    "FX News Group"
   ],
   "recent_titles": [
+    "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week",
     "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
     "Apollo Global confirms data breach amid cyber wave targeting financial giants",
     "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets",
@@ -160,8 +161,7 @@
     "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
     "Point/Counterpoint: AI regulation needs a light hand, not overreach",
     "MedFire Media Launches AI Patient Acquisition Masterclass for Plastic Surgeons",
-    "Safepal security vulnerability exposes data of 39,798 customers",
-    "India’s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches"
+    "Safepal security vulnerability exposes data of 39,798 customers"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -230,6 +230,7 @@
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
     "2d0c4a42b65c561b6e7f2a7d806b54ad7fd3442009f805d4e05d8f386778a954": 1786714507.4313748,
     "2d704645e5fd7cc75cefd848661328d2fe1c86c0930ab1b04371bebf114aee62": 1786774458.8707151,
+    "2e0553881798ae66100823a8b938edeea96d389eeae19134dfb55ec9dc9da07e": 1787386336.661562,
     "2e449710995ae0bacf3586fcce63651cfd596a8a44f2f314cf0938e2d2c7d75a": 1786330943.9278576,
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
     "2ea04f98184b926e8acae1e0839584b218bd4c1de10015fa90d1017562f5c36d": 1787282748.4262226,
