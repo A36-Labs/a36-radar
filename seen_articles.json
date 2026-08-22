@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787391413.4831598,
+  "last_post_at": 1787394912.4692106,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Policy & Regulation",
     "Open Source & DevTools",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Web3 & Digital Assets"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Armenpress",
     "Security Affairs",
     "Inc42",
     "CryptoRank",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "PYMNTS.com",
     "Dronelife",
-    "CyberSecurityNews",
-    "CoinDesk"
+    "CyberSecurityNews"
   ],
   "recent_titles": [
+    "Armenia’s tax authorities discuss crypto assets, blockchain regulation",
     "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
     "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week",
     "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
@@ -160,8 +161,7 @@
     "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'",
     "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal",
     "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
-    "Point/Counterpoint: AI regulation needs a light hand, not overreach",
-    "MedFire Media Launches AI Patient Acquisition Masterclass for Plastic Surgeons"
+    "Point/Counterpoint: AI regulation needs a light hand, not overreach"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -389,6 +389,7 @@
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
     "ab504c212c1956cd0edc49ed8cf18b2e8c99a77d49efe30e9d884f6ade5de8fb": 1786249980.177544,
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
+    "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
     "ac909fe660c7b1898a0a488c7c89fe7e9117a25525a3122fbfd2053834489656": 1786655326.0515604,
     "ae4d292a1ae8542d5de60c25f74ea99aeaa5f5edcf7c05b769d7570d2e1dee1e": 1786936565.0089798,
     "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
