@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787394912.4692106,
+  "last_post_at": 1787398247.1263301,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Open Source & DevTools",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "VC & Accelerators",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "조선일보",
     "Armenpress",
     "Security Affairs",
     "Inc42",
@@ -38,10 +39,10 @@
     "Decrypt",
     "TechCrunch Startups",
     "PYMNTS.com",
-    "Dronelife",
-    "CyberSecurityNews"
+    "Dronelife"
   ],
   "recent_titles": [
+    "Anthropic Aims for Record $2 Trillion IPO",
     "Armenia’s tax authorities discuss crypto assets, blockchain regulation",
     "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
     "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week",
@@ -160,8 +161,7 @@
     "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "Boston-based startup raises $8M to give water heaters a brain: 'Everyone is chasing AI, but we see giant opportunities in overlooked places'",
     "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal",
-    "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
-    "Point/Counterpoint: AI regulation needs a light hand, not overreach"
+    "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -185,6 +185,7 @@
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "0cb283a961d489c95c59f8f2ea85dc5623517cef927b425f3409d051160eb39a": 1787207383.3539445,
+    "0d049354aa285fb1e8b9843acbd28de9bed920d62d6d3e289eef9b25e76dd501": 1787398247.1263301,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
     "0dbdf7a37fd337c174695162f7bc0a021071f430603524b1632bada59366ad61": 1787064426.1464493,
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
