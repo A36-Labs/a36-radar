@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787386336.661562,
+  "last_post_at": 1787391413.4831598,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Open Source & DevTools",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Security Affairs",
     "Inc42",
     "CryptoRank",
     "Adgully.com",
@@ -38,10 +39,10 @@
     "PYMNTS.com",
     "Dronelife",
     "CyberSecurityNews",
-    "CoinDesk",
-    "FX News Group"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
     "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week",
     "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
     "Apollo Global confirms data breach amid cyber wave targeting financial giants",
@@ -160,8 +161,7 @@
     "Anthropic in talks to buys Israeli AI startup Decart in reported $6bn deal",
     "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
     "Point/Counterpoint: AI regulation needs a light hand, not overreach",
-    "MedFire Media Launches AI Patient Acquisition Masterclass for Plastic Surgeons",
-    "Safepal security vulnerability exposes data of 39,798 customers"
+    "MedFire Media Launches AI Patient Acquisition Masterclass for Plastic Surgeons"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -414,6 +414,7 @@
     "bbd027ea3c064ab94003267b4296cae76de0838d957ad2b354422380f82a4a29": 1786227161.3109221,
     "bcd00c19571fc700155ef6aa10daee90784b6e6be6be382470160edc72ee0f10": 1785944958.4138012,
     "bcf20f8c40dc729b11adfabaa33b00c1642b74be8dc6ff954b7e545963d71a61": 1787339056.4637625,
+    "bcf8e0e16c8e07e205bc1f5cebfd8959078f17aeef65e34b2d5beb344782046e": 1787391413.4831598,
     "bd1cb110aa55a1442b7766ac3443a02007834c0431a4c11e7d29e4454f1f6f29": 1786322348.0038161,
     "bd8f594df4f6b89688b450dc911318a300bf59ad49cb4a45922a305e034134b8": 1786718154.866428,
     "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
