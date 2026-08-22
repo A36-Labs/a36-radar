@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787377062.9392743,
+  "last_post_at": 1787382326.0040903,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CryptoRank",
     "Adgully.com",
     "Technology Magazine",
     "CNBC",
@@ -38,10 +39,10 @@
     "CyberSecurityNews",
     "CoinDesk",
     "FX News Group",
-    "Pluang",
-    "Yahoo"
+    "Pluang"
   ],
   "recent_titles": [
+    "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
     "Apollo Global confirms data breach amid cyber wave targeting financial giants",
     "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets",
     "Binance founder Changpeng Zhao: U.S. is a leader in blockchain regulation",
@@ -160,8 +161,7 @@
     "Point/Counterpoint: AI regulation needs a light hand, not overreach",
     "MedFire Media Launches AI Patient Acquisition Masterclass for Plastic Surgeons",
     "Safepal security vulnerability exposes data of 39,798 customers",
-    "India’s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches",
-    "Alibaba’s open-source AI model Qwen overtakes Meta, Google to claim top spot globally: report"
+    "India’s space startup boom: 440 firms, $618.5 million private investment and 18 IN-SPACe-authorised startups eyeing launches"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -245,6 +245,7 @@
     "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
     "386a3fc56e8402ce14b7059117e71ed5c0c8be4d9b413cbc45edf1d3cee208a2": 1786811792.8338273,
     "388bacc45504dd8e1758d1b744c45d0ecf43bcf9dc9b0c6c5ad7d312156f747d": 1786807901.2294278,
+    "38ab1a046638787cb0d72c6a80ac9a33a60cad027db5428ab59f8f144f2d1686": 1787382326.0040903,
     "38dd6134b89798a02b83c76b64702405b43c93656749d728068f8cf02f15122d": 1786802804.2871442,
     "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
     "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
