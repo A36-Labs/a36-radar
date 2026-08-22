@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787438025.7876906,
+  "last_post_at": 1787441465.6875098,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Frontier Tech"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "StreetInsider",
     "The Daily Star",
     "HOKANEWS.COM",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "CryptoRank",
     "Adgully.com",
     "Technology Magazine",
-    "CNBC",
-    "TechCrunch Startups"
+    "CNBC"
   ],
   "recent_titles": [
+    "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
     "Chip startup Velaura AI hits $1 billion valuation in $110 million round",
     "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation",
     "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -160,8 +161,7 @@
     "Alphabet’s SpaceX Stake Reaches $94 Billion in First Post-IPO Filing",
     "Stripe OpenRouter acquisition: $7B deal, what it means",
     "Shell Investigates Data Breach After Cl0p Ransomware Claims Theft of 89GB Corporate Data",
-    "OpenRouter Acquired for $7 Billion - Major AI Cloud Platform Acquisition News",
-    "BNM, Labuan Regulator Fine UBB Investment Bank RM10 Million for Compliance Breaches"
+    "OpenRouter Acquired for $7 Billion - Major AI Cloud Platform Acquisition News"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -270,6 +270,7 @@
     "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
+    "4ae88249fe6d7288712eb3d8f7e849cbe71bd6f3507ec9feb12a1b537b7c1982": 1787441465.6875098,
     "4b2035e1835153bdb7dd163ed60468ad95e7b5335774b377a8457c74853bb10a": 1786847074.3875756,
     "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
     "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
