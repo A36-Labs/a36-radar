@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787525675.3609865,
+  "last_post_at": 1787529169.8731337,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "VC & Accelerators",
     "AI & Agents",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "TradingView",
     "infoq.com",
     "Security Boulevard",
     "The Guardian",
@@ -38,10 +39,10 @@
     "Goodreturns",
     "MarketBeat",
     "markets.businessinsider.com",
-    "조선일보",
-    "The Hollywood Reporter"
+    "조선일보"
   ],
   "recent_titles": [
+    "NGI: AUM up 21% to USD 33.6b; revenue steady; FY27 earnings set to rise with new acquisitions",
     "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
     "Apollo Data Breach Shows the Risk Behind a Simple Phone Call",
     "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
@@ -160,8 +161,7 @@
     "Jeonbuk Bank Partners with Ripple to Become First South Korean Regional Bank to Offer Real-Time Cross-Border Payments",
     "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight",
     "Anthropic’s annualized revenue surges to $65B",
-    "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split",
-    "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation"
+    "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -404,6 +404,7 @@
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
     "aa3fe482cb711f8ddaff1a25c156356b7f690c046507cc87252f631ed1382d09": 1786204284.2487767,
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
+    "ab31525d059810cb0e76faa803377a18358d0fc45ca89f08ab5efc550eac8784": 1787529169.8731337,
     "ab504c212c1956cd0edc49ed8cf18b2e8c99a77d49efe30e9d884f6ade5de8fb": 1786249980.177544,
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
