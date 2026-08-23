@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787466028.5465293,
+  "last_post_at": 1787471483.5800183,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "VC & Accelerators",
     "AI & Agents",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Open Source & DevTools",
-    "Startups & Funding"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "MarketBeat",
     "markets.businessinsider.com",
     "조선일보",
     "The Hollywood Reporter",
@@ -38,10 +39,10 @@
     "AI Insider",
     "조선일보",
     "Armenpress",
-    "Security Affairs",
-    "Inc42"
+    "Security Affairs"
   ],
   "recent_titles": [
+    "Accel XI Associates L.L.C. Makes New $57 Billion Investment in Circle Internet Group, Inc. $CRCL",
     "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence",
     "Unitree CEO: Humanoid Robot Breakthrough May Take 10 Years",
     "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”",
@@ -160,8 +161,7 @@
     "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
     "Higgsfield raises $400 million Series B at $5.4 billion valuation",
     "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "Stripe reportedly agrees $7bn acquisition deal for OpenRouter",
-    "Cognizant Launches Talent Accelerator Program With 489 Newly Hired B-School Graduates"
+    "Stripe reportedly agrees $7bn acquisition deal for OpenRouter"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -485,6 +485,7 @@
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "e7ea0ff75d84ba8649f9f3656b00149377b3c36d78415951e07f6370c76e67e1": 1787403428.352448,
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
+    "e9613970bf3dc38756874ff4ae9f67d9ae87a206323c949973cef107723207d8": 1787471483.5800183,
     "e9846842d0f376308a8975746d80a3989aa048a9ebe46ce409721d4913254f48": 1787179549.3674655,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
