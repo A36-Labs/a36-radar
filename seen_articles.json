@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787494162.9885552,
-  "last_urgent_at": 1787479717.8024204,
+  "last_post_at": 1787497729.9925175,
+  "last_urgent_at": 1787497729.9925175,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "TechStock²",
     "Cybersecurity Insiders",
     "VOI.ID",
     "instagram.com",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "Oz Arab Media",
     "Yellow.com",
-    "BleepingComputer",
-    "Indian Startup News"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Tempus AI soars 40% in a week, adding $3.7 billion—over double the Personalis acquisition amount",
     "Medusa’s 500 Victims Point to a Bigger Shift in Ransomware",
     "INDODAX Sortities the Balance of Regulation and Innovation in the Development of Crypto",
     "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte",
@@ -160,11 +161,11 @@
     "Pokémon Center data breach exposes customer info, cancels some orders",
     "Neros' $2.5b valuation, Veritas' Epiq sale, and Shein's IPO",
     "Government will have to play a role in AI regulation, says Yorkville Ives' Dan Ives",
-    "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-    "Groq raises $350M to fuel its pivot from AI chips to neocloud"
+    "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
+    "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
     "023e421c8ebd7135874440f5cdbf8da090f24255988730f3d9b3edb8ff7d5ae2": 1787055372.781394,
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
