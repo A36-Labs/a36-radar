@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787479717.8024204,
+  "last_post_at": 1787483278.7103639,
   "last_urgent_at": 1787479717.8024204,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "instagram.com",
     "bloomingbit",
     "Goodreturns",
     "MarketBeat",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Indian Startup News",
     "CoinDesk",
-    "AI Insider",
-    "조선일보"
+    "AI Insider"
   ],
   "recent_titles": [
+    "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte",
     "Anthropic Could Seek $100 Billion IPO at Up to $2 Trillion Valuation",
     "Top 12 Unicorn Startups in India Based on Highest Valuation",
     "Accel XI Associates L.L.C. Makes New $57 Billion Investment in Circle Internet Group, Inc. $CRCL",
@@ -160,8 +161,7 @@
     "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
     "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "AI Dictation Startup Wispr Closes $280M Series B at $2B Valuation",
-    "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
-    "Higgsfield raises $400 million Series B at $5.4 billion valuation"
+    "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -511,6 +511,7 @@
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
     "f57b115cea81fd69573e553936548cd14b065438cbf215032e78f88863e237ce": 1786979492.9467695,
     "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
+    "f62e0a29a8a1a1b74c61ac5b75717b6756cb046b81696a7c5be42f6f6ea2b457": 1787483278.7103639,
     "f6a52acfe2827e41aff5f76f8b30b26c9fd1dca48115e9908b0607f539f99d72": 1787061674.5283573,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "f79c0da3ff22536e088a5a5df4537c876ab52779b47ee8b7dbf45834cadd0e4f": 1786826091.8259943,
