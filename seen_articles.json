@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787518583.8953943,
+  "last_post_at": 1787521968.600367,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "AI & Agents",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "Fintech & Payments",
-    "Web3 & Digital Assets"
+    "Fintech & Payments"
   ],
   "recent_sources": [
+    "Security Boulevard",
     "The Guardian",
     "Crypto Briefing",
     "Tekedia",
@@ -38,10 +39,10 @@
     "markets.businessinsider.com",
     "조선일보",
     "The Hollywood Reporter",
-    "News On AIR",
-    "StreetInsider"
+    "News On AIR"
   ],
   "recent_titles": [
+    "Apollo Data Breach Shows the Risk Behind a Simple Phone Call",
     "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
     "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
     "Rillet Hits $1bn Valuation As AI Accounting Startup Raises $100m in 48hrs to Challenge Oracle, Netsuite And Intuit",
@@ -160,8 +161,7 @@
     "Anthropic’s annualized revenue surges to $65B",
     "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split",
     "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation",
-    "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth",
-    "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B"
+    "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -443,6 +443,7 @@
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
     "c24c059e790a3cea41d51fa02fdacbd4d15b3204821bbb63faae248d69da3ee6": 1787095947.9210358,
+    "c263332c36b42655cac4229b7b2161d82ada139d657b1b1149326ee68d762244": 1787521968.600367,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
