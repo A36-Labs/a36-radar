@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787450189.1760128,
+  "last_post_at": 1787454736.5336194,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Fintech & Payments",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "The Hollywood Reporter",
     "News On AIR",
     "StreetInsider",
     "The Daily Star",
@@ -38,10 +39,10 @@
     "Security Affairs",
     "Inc42",
     "CryptoRank",
-    "Adgully.com",
-    "Technology Magazine"
+    "Adgully.com"
   ],
   "recent_titles": [
+    "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”",
     "India Post Payments Bank announces launch of its SHG Savings Account",
     "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
     "Chip startup Velaura AI hits $1 billion valuation in $110 million round",
@@ -160,8 +161,7 @@
     "Stripe reportedly agrees $7bn acquisition deal for OpenRouter",
     "Cognizant Launches Talent Accelerator Program With 489 Newly Hired B-School Graduates",
     "Alphabet’s SpaceX Stake Reaches $94 Billion in First Post-IPO Filing",
-    "Stripe OpenRouter acquisition: $7B deal, what it means",
-    "Shell Investigates Data Breach After Cl0p Ransomware Claims Theft of 89GB Corporate Data"
+    "Stripe OpenRouter acquisition: $7B deal, what it means"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -494,6 +494,7 @@
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f1283ca226e4733cb1013fa70e9488ea2337c89e77054f09ff6a72ec28d6627d": 1786101168.1932325,
     "f135ee8c580325bb6cb561819ea0a38754414d6f9464f99ca85a68f2631e5c70": 1786747072.2805998,
+    "f17c6b6c2f11aa871cfefe1782a43157e66b8715a9d2af67e007e7cc212eb29c": 1787454736.5336194,
     "f1adcdbb2c76c6171ca8872d5203aea0c491c5673b0b3cbbde27ddb64af524a2": 1786816373.9527972,
     "f1f23e457da50e5c69b3262ea77a7fc2b09c662e45661783a20d78eeded9c5fa": 1786702441.7415993,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
