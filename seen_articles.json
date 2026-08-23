@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787454736.5336194,
+  "last_post_at": 1787462253.8007793,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Fintech & Payments",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Open Source & DevTools",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Cybersecurity & Cloud"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "조선일보",
     "The Hollywood Reporter",
     "News On AIR",
     "StreetInsider",
@@ -38,10 +39,10 @@
     "Armenpress",
     "Security Affairs",
     "Inc42",
-    "CryptoRank",
-    "Adgully.com"
+    "CryptoRank"
   ],
   "recent_titles": [
+    "Unitree CEO: Humanoid Robot Breakthrough May Take 10 Years",
     "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”",
     "India Post Payments Bank announces launch of its SHG Savings Account",
     "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
@@ -160,8 +161,7 @@
     "Wispr raises $280M at $2B valuation as it looks beyond dictation",
     "Stripe reportedly agrees $7bn acquisition deal for OpenRouter",
     "Cognizant Launches Talent Accelerator Program With 489 Newly Hired B-School Graduates",
-    "Alphabet’s SpaceX Stake Reaches $94 Billion in First Post-IPO Filing",
-    "Stripe OpenRouter acquisition: $7B deal, what it means"
+    "Alphabet’s SpaceX Stake Reaches $94 Billion in First Post-IPO Filing"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -427,6 +427,7 @@
     "bd1cb110aa55a1442b7766ac3443a02007834c0431a4c11e7d29e4454f1f6f29": 1786322348.0038161,
     "bd8f594df4f6b89688b450dc911318a300bf59ad49cb4a45922a305e034134b8": 1786718154.866428,
     "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
+    "bfb6ab15d357553227946325cd9c3310021739ab4e65a4f237d62395389cc68b": 1787462253.8007793,
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
