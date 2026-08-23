@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787441465.6875098,
+  "last_post_at": 1787450189.1760128,
   "last_urgent_at": 1787334643.5222723,
   "recent_categories": [
+    "Fintech & Payments",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "News On AIR",
     "StreetInsider",
     "The Daily Star",
     "HOKANEWS.COM",
@@ -38,10 +39,10 @@
     "Inc42",
     "CryptoRank",
     "Adgully.com",
-    "Technology Magazine",
-    "CNBC"
+    "Technology Magazine"
   ],
   "recent_titles": [
+    "India Post Payments Bank announces launch of its SHG Savings Account",
     "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
     "Chip startup Velaura AI hits $1 billion valuation in $110 million round",
     "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation",
@@ -160,8 +161,7 @@
     "Cognizant Launches Talent Accelerator Program With 489 Newly Hired B-School Graduates",
     "Alphabet’s SpaceX Stake Reaches $94 Billion in First Post-IPO Filing",
     "Stripe OpenRouter acquisition: $7B deal, what it means",
-    "Shell Investigates Data Breach After Cl0p Ransomware Claims Theft of 89GB Corporate Data",
-    "OpenRouter Acquired for $7 Billion - Major AI Cloud Platform Acquisition News"
+    "Shell Investigates Data Breach After Cl0p Ransomware Claims Theft of 89GB Corporate Data"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -514,6 +514,7 @@
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
-    "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054
+    "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054,
+    "ffdb701222e6522cefb2f79162cc6e4a22130373e5a49150fb61628a772f03f0": 1787450189.1760128
   }
 }
