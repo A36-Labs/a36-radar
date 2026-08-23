@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787510689.7127023,
+  "last_post_at": 1787514067.395525,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Frontier Tech",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Fintech & Payments",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Crypto Briefing",
     "Tekedia",
     "Decrypt",
     "Zawya",
@@ -38,10 +39,10 @@
     "The Hollywood Reporter",
     "News On AIR",
     "StreetInsider",
-    "The Daily Star",
-    "HOKANEWS.COM"
+    "The Daily Star"
   ],
   "recent_titles": [
+    "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
     "Rillet Hits $1bn Valuation As AI Accounting Startup Raises $100m in 48hrs to Challenge Oracle, Netsuite And Intuit",
     "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
     "Standard Chartered Foundation launches 2026 Women in Tech Accelerator in Egypt in collaboration with Village Capital and Entlaq",
@@ -160,8 +161,7 @@
     "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation",
     "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth",
     "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-    "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
-    "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects"
+    "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -197,6 +197,7 @@
     "11d6a56f7d848916988a60a62cb2e5809094a8b1c8eaf5bbec19e5de3a52444b": 1787323720.5588133,
     "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
     "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
+    "129f2d0e9fa4b5506db7c231b022ea874dfff347e129848bb69bbd59a0144e94": 1787514067.395525,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
     "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
