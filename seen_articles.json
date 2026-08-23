@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787489912.424944,
+  "last_post_at": 1787494162.9885552,
   "last_urgent_at": 1787479717.8024204,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Cybersecurity Insiders",
     "VOI.ID",
     "instagram.com",
     "bloomingbit",
@@ -38,10 +39,10 @@
     "Oz Arab Media",
     "Yellow.com",
     "BleepingComputer",
-    "Indian Startup News",
-    "CoinDesk"
+    "Indian Startup News"
   ],
   "recent_titles": [
+    "Medusa’s 500 Victims Point to a Bigger Shift in Ransomware",
     "INDODAX Sortities the Balance of Regulation and Innovation in the Development of Crypto",
     "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte",
     "Anthropic Could Seek $100 Billion IPO at Up to $2 Trillion Valuation",
@@ -160,8 +161,7 @@
     "Neros' $2.5b valuation, Veritas' Epiq sale, and Shein's IPO",
     "Government will have to play a role in AI regulation, says Yorkville Ives' Dan Ives",
     "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-    "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "AI Dictation Startup Wispr Closes $280M Series B at $2B Valuation"
+    "Groq raises $350M to fuel its pivot from AI chips to neocloud"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -364,6 +364,7 @@
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
+    "8efda7e33af1e040c6f38553360187ff64ab7bb76e504a7013f4279ab02b1983": 1787494162.9885552,
     "92a3009e17231e9bd6453730f241770d2851b2620350007e7f8df774c588875c": 1785843383.7002814,
     "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
     "939e3d09acefe233266f144e9df302274bd535df494fbc08965bc1a8468174c8": 1786945566.0214603,
