@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787521968.600367,
+  "last_post_at": 1787525675.3609865,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "AI & Agents",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "AI & Agents",
     "Frontier Tech",
-    "Markets, IPOs & M&A",
-    "Fintech & Payments"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "infoq.com",
     "Security Boulevard",
     "The Guardian",
     "Crypto Briefing",
@@ -38,10 +39,10 @@
     "MarketBeat",
     "markets.businessinsider.com",
     "조선일보",
-    "The Hollywood Reporter",
-    "News On AIR"
+    "The Hollywood Reporter"
   ],
   "recent_titles": [
+    "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
     "Apollo Data Breach Shows the Risk Behind a Simple Phone Call",
     "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
     "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
@@ -160,8 +161,7 @@
     "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight",
     "Anthropic’s annualized revenue surges to $65B",
     "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split",
-    "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation",
-    "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth"
+    "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -399,6 +399,7 @@
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
     "a631af890f28cf7aa4b22e547f29ce3e9764600842d228bcbaab1d550a346fb2": 1786742063.802998,
+    "a75e7bc2283f64fddc5fb8a168ef577e62e1299aad0cbb3001dd3060170f1d8d": 1787525675.3609865,
     "a7801aa807b0d1a675534dcc59b5b73c396d3753fde7d1e9e8c8067b79ab5619": 1786421065.2667177,
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
     "aa3fe482cb711f8ddaff1a25c156356b7f690c046507cc87252f631ed1382d09": 1786204284.2487767,
