@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787483278.7103639,
+  "last_post_at": 1787489912.424944,
   "last_urgent_at": 1787479717.8024204,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "AI & Agents"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "VOI.ID",
     "instagram.com",
     "bloomingbit",
     "Goodreturns",
@@ -38,10 +39,10 @@
     "Yellow.com",
     "BleepingComputer",
     "Indian Startup News",
-    "CoinDesk",
-    "AI Insider"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "INDODAX Sortities the Balance of Regulation and Innovation in the Development of Crypto",
     "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte",
     "Anthropic Could Seek $100 Billion IPO at Up to $2 Trillion Valuation",
     "Top 12 Unicorn Startups in India Based on Highest Valuation",
@@ -160,8 +161,7 @@
     "Government will have to play a role in AI regulation, says Yorkville Ives' Dan Ives",
     "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
     "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "AI Dictation Startup Wispr Closes $280M Series B at $2B Valuation",
-    "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank"
+    "AI Dictation Startup Wispr Closes $280M Series B at $2B Valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -359,6 +359,7 @@
     "89597237bc5be98a28d9a8e4590ed3cc6388dd84c95b4be83b593914b5c45e51": 1785975247.2482498,
     "8a49aacf01cb0d13aa17f09416e72f161c03989a9b0a40e6a38d2f45984010ad": 1787203132.680748,
     "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
+    "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
     "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
