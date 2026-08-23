@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787506807.02646,
+  "last_post_at": 1787510689.7127023,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "VC & Accelerators",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Fintech & Payments",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Policy & Regulation",
-    "AI & Agents"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Tekedia",
     "Decrypt",
     "Zawya",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "News On AIR",
     "StreetInsider",
     "The Daily Star",
-    "HOKANEWS.COM",
-    "TechCrunch AI"
+    "HOKANEWS.COM"
   ],
   "recent_titles": [
+    "Rillet Hits $1bn Valuation As AI Accounting Startup Raises $100m in 48hrs to Challenge Oracle, Netsuite And Intuit",
     "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
     "Standard Chartered Foundation launches 2026 Women in Tech Accelerator in Egypt in collaboration with Village Capital and Entlaq",
     "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
@@ -160,8 +161,7 @@
     "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth",
     "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
     "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
-    "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-    "Pokémon Center data breach exposes customer info, cancels some orders"
+    "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -412,6 +412,7 @@
     "af88f135364144b24fddf685faa3b80fb054659cfd9fb4f5b972d75762ce0058": 1786918313.7391076,
     "afdc94668d1bea937c11f9bbbce47efe2d1cf3b4a4395c4c23638245350edc8c": 1787434304.0323257,
     "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
+    "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
     "b0740fa4a4d016d1f66a741d0ea2c2034fd2709cce0bbfcb698a76e0313a7a32": 1786697552.8316205,
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
     "b1b1c3496b6d56d7f75d567eaa0eb055cc8c6469867a5112a01241b798712928": 1787256948.355934,
