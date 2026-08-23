@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787475200.0388858,
-  "last_urgent_at": 1787334643.5222723,
+  "last_post_at": 1787479717.8024204,
+  "last_urgent_at": 1787479717.8024204,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "VC & Accelerators",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "AI & Agents",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "bloomingbit",
     "Goodreturns",
     "MarketBeat",
     "markets.businessinsider.com",
@@ -38,10 +39,10 @@
     "Indian Startup News",
     "CoinDesk",
     "AI Insider",
-    "조선일보",
-    "Armenpress"
+    "조선일보"
   ],
   "recent_titles": [
+    "Anthropic Could Seek $100 Billion IPO at Up to $2 Trillion Valuation",
     "Top 12 Unicorn Startups in India Based on Highest Valuation",
     "Accel XI Associates L.L.C. Makes New $57 Billion Investment in Circle Internet Group, Inc. $CRCL",
     "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence",
@@ -160,8 +161,7 @@
     "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "AI Dictation Startup Wispr Closes $280M Series B at $2B Valuation",
     "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
-    "Higgsfield raises $400 million Series B at $5.4 billion valuation",
-    "Wispr raises $280M at $2B valuation as it looks beyond dictation"
+    "Higgsfield raises $400 million Series B at $5.4 billion valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -244,6 +244,7 @@
     "3461fd6e09582df2fe55da57e94c4789ed04e2bc8b96195da74a9525f8765c66": 1787156363.9804044,
     "34a524a5f373d24181668f6cbdc839f8451524e9f2b834c39ebf7df6450bb774": 1786923093.9291263,
     "34ec19f31e10649b9d56e7be1a5e8decd700a3a499fb21b8e4cfef498571ee0f": 1787219184.6526337,
+    "359cb0e6a7cf54f7a96756eb840ab04865f706f63e6d91f4f4eea9176938978b": 1787479717.8024204,
     "36b6e9983f22fbf49000091201fc87a00ae9ad59d9628ec50bdf1e90b578e954": 1786724890.2204318,
     "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
     "386a3fc56e8402ce14b7059117e71ed5c0c8be4d9b413cbc45edf1d3cee208a2": 1786811792.8338273,
