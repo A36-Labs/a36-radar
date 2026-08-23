@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787503089.8275945,
+  "last_post_at": 1787506807.02646,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "Frontier Tech",
     "VC & Accelerators",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Decrypt",
     "Zawya",
     "CoinDesk",
     "TechStock²",
@@ -38,10 +39,10 @@
     "StreetInsider",
     "The Daily Star",
     "HOKANEWS.COM",
-    "TechCrunch AI",
-    "Oz Arab Media"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
     "Standard Chartered Foundation launches 2026 Women in Tech Accelerator in Egypt in collaboration with Village Capital and Entlaq",
     "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
     "Tempus AI soars 40% in a week, adding $3.7 billion—over double the Personalis acquisition amount",
@@ -160,8 +161,7 @@
     "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
     "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
     "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-    "Pokémon Center data breach exposes customer info, cancels some orders",
-    "Neros' $2.5b valuation, Veritas' Epiq sale, and Shein's IPO"
+    "Pokémon Center data breach exposes customer info, cancels some orders"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -331,6 +331,7 @@
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
+    "721589671db35645dad3fb6e7052fa9698cee38b488c8d3aed605cb3a9bff4d9": 1787506807.02646,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
