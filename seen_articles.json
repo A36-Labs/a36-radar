@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787514067.395525,
+  "last_post_at": 1787518583.8953943,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "AI & Agents",
     "Policy & Regulation",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Fintech & Payments",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "The Guardian",
     "Crypto Briefing",
     "Tekedia",
     "Decrypt",
@@ -38,10 +39,10 @@
     "조선일보",
     "The Hollywood Reporter",
     "News On AIR",
-    "StreetInsider",
-    "The Daily Star"
+    "StreetInsider"
   ],
   "recent_titles": [
+    "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
     "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
     "Rillet Hits $1bn Valuation As AI Accounting Startup Raises $100m in 48hrs to Challenge Oracle, Netsuite And Intuit",
     "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
@@ -160,8 +161,7 @@
     "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split",
     "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation",
     "Software Composition Analysis Market to Reach $981.62 Bn by 2031 as Open Source Security and Cloud Deployment Drive Market Growth",
-    "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-    "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO"
+    "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -524,6 +524,7 @@
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "f79c0da3ff22536e088a5a5df4537c876ab52779b47ee8b7dbf45834cadd0e4f": 1786826091.8259943,
     "f7e916032b1b1a9f88d4f64421c97ff2babd114ac47bf6cf1f48debc2c0ef91a": 1786779523.6138108,
+    "f8c515a196a15e09576cdda44f12626915a84c553cbc0869737a76cb4ddcbf5d": 1787518583.8953943,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
