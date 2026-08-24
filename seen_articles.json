@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787557378.9805996,
-  "last_urgent_at": 1787553321.6685357,
+  "last_post_at": 1787560275.6675146,
+  "last_urgent_at": 1787560275.6675146,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "VC & Accelerators",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CryptoRank",
     "World Business Outlook",
     "AOL.com",
     "Startup Fortune",
@@ -38,10 +39,10 @@
     "Decrypt",
     "Zawya",
     "CoinDesk",
-    "TechStock²",
-    "Cybersecurity Insiders"
+    "TechStock²"
   ],
   "recent_titles": [
+    "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round",
     "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership",
     "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking",
     "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation",
@@ -160,8 +161,7 @@
     "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
     "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation",
     "ELECTRA AI and Iron Horse Acquisition II Announce Strategic Partnership With Omega Seiki Mobility to Enhance Battery Intelligence Across Its Electric Vehicle Ecosystem",
-    "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
-    "CISA: Windows Task Host flaw now exploited by ransomware gangs"
+    "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -525,6 +525,7 @@
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
+    "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
     "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
     "f57b115cea81fd69573e553936548cd14b065438cbf215032e78f88863e237ce": 1786979492.9467695,
