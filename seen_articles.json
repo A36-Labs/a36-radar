@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787553321.6685357,
+  "last_post_at": 1787557378.9805996,
   "last_urgent_at": 1787553321.6685357,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "World Business Outlook",
     "AOL.com",
     "Startup Fortune",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Zawya",
     "CoinDesk",
     "TechStock²",
-    "Cybersecurity Insiders",
-    "VOI.ID"
+    "Cybersecurity Insiders"
   ],
   "recent_titles": [
+    "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership",
     "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking",
     "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation",
     "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
@@ -160,8 +161,7 @@
     "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation",
     "ELECTRA AI and Iron Horse Acquisition II Announce Strategic Partnership With Omega Seiki Mobility to Enhance Battery Intelligence Across Its Electric Vehicle Ecosystem",
     "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
-    "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-    "Geospatial startup NeoGeo raises $20 million in funding from SBI’s Neev II Fund, Aavishkaar Capital"
+    "CISA: Windows Task Host flaw now exploited by ransomware gangs"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -266,6 +266,7 @@
     "3ee0b841980729eb49e976da0b6808eef405dbc1b00a15f336a2f4b338644db2": 1785891079.6105769,
     "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
+    "405a737f72d34e5f5945dc1b5de6f89ed79defb98ddece2c46ed01347512d3d3": 1787557378.9805996,
     "41919bc662f6d37b285b316687b54c5b8750329807cc7f6304e15487814d3a05": 1787544651.694869,
     "41f519ea8abda45f443e17e133b6408f046afcc62c2d18638dcb5ef23a400ea1": 1785962284.7850716,
     "4459523963ae050297f891d5ea220da28147ab54d1644642f6b6b007f090639f": 1786728833.7736254,
