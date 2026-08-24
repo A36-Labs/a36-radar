@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787597685.6908643,
+  "last_post_at": 1787602411.3820255,
   "last_urgent_at": 1787587182.7922015,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "24/7 Wall St.",
     "AI Insider",
     "Decrypt",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Startup Fortune",
     "CoinDesk",
     "Reuters",
-    "Inshorts",
-    "DealStreetAsia"
+    "Inshorts"
   ],
   "recent_titles": [
+    "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag",
     "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production",
     "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
     "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -160,8 +161,7 @@
     "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum",
     "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
     "Unitree Robotics Set to Debut After $904 Million Shanghai IPO",
-    "Yellow.ai to go public via $550M SPAC merger with Bluerock",
-    "How US military funding propelled China’s robot dogs"
+    "Yellow.ai to go public via $550M SPAC merger with Bluerock"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -199,6 +199,7 @@
     "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
     "129f2d0e9fa4b5506db7c231b022ea874dfff347e129848bb69bbd59a0144e94": 1787514067.395525,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
+    "1392b1f225005e713af4595fd62e9577880a84969cbd2a4c764302d17da4f128": 1787602411.3820255,
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
     "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
     "14572a32c775cfd3f1362e0134d2196602a08f41412a057f60e087ffe3e0f90c": 1787541167.213442,
