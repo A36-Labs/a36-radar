@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787560275.6675146,
+  "last_post_at": 1787563684.3110976,
   "last_urgent_at": 1787560275.6675146,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "VC & Accelerators",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Nikkei Asia",
     "CryptoRank",
     "World Business Outlook",
     "AOL.com",
@@ -38,10 +39,10 @@
     "Tekedia",
     "Decrypt",
     "Zawya",
-    "CoinDesk",
-    "TechStock²"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "ESG analytics startup MioTech eyes 2028 IPO following China merger",
     "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round",
     "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership",
     "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking",
@@ -160,8 +161,7 @@
     "Velaura AI raises $110M Series A, hits $1B valuation",
     "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
     "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation",
-    "ELECTRA AI and Iron Horse Acquisition II Announce Strategic Partnership With Omega Seiki Mobility to Enhance Battery Intelligence Across Its Electric Vehicle Ecosystem",
-    "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape"
+    "ELECTRA AI and Iron Horse Acquisition II Announce Strategic Partnership With Omega Seiki Mobility to Enhance Battery Intelligence Across Its Electric Vehicle Ecosystem"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -470,6 +470,7 @@
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d03e1f27bd82dfda590f8d413389a976cbb08cc37e9acd4f9a0e008af011aaa4": 1787165385.4279246,
     "d09deb90d2d251fedd4ea8927b5a3888360a57028be3b54a6dc17b970d29b16a": 1787141711.8237572,
+    "d1d0ce71f86e35b975cf724b13c6fa3bc8ff8f18b4b20ab414f253b75e9bb2ba": 1787563684.3110976,
     "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
     "d1f64289e61edb2dc4cc40b6b4a138b7510790ac5ece1c52d0c9b9bdae6480cb": 1787123483.669754,
     "d273fcb7bf676a82345315ba167576ff9bdfdcceedff3a19dcf94a92b1cb5281": 1787154668.1702054,
