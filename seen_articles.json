@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787602411.3820255,
-  "last_urgent_at": 1787587182.7922015,
+  "last_post_at": 1787604824.7737763,
+  "last_urgent_at": 1787604824.7737763,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Pulse 2.0",
     "24/7 Wall St.",
     "AI Insider",
     "Decrypt",
@@ -38,10 +39,10 @@
     "AOL.com",
     "Startup Fortune",
     "CoinDesk",
-    "Reuters",
-    "Inshorts"
+    "Reuters"
   ],
   "recent_titles": [
+    "Booz Allen Completes $720 Million Ultra Mission Solutions Acquisition To Expand Defense Technology Platform",
     "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag",
     "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production",
     "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
@@ -160,8 +161,7 @@
     "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
     "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum",
     "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
-    "Unitree Robotics Set to Debut After $904 Million Shanghai IPO",
-    "Yellow.ai to go public via $550M SPAC merger with Bluerock"
+    "Unitree Robotics Set to Debut After $904 Million Shanghai IPO"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -241,6 +241,7 @@
     "2e449710995ae0bacf3586fcce63651cfd596a8a44f2f314cf0938e2d2c7d75a": 1786330943.9278576,
     "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
     "2ea04f98184b926e8acae1e0839584b218bd4c1de10015fa90d1017562f5c36d": 1787282748.4262226,
+    "2eee3a18be91b01f97c7852c94a329067c8dc4d60e64716b02b57e36af2010ee": 1787604824.7737763,
     "2f8a9a6206f96b97d0cc4bca93ac68d074bd528bef4cd42c9dc90b5a32f3b2cc": 1786665181.9794347,
     "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
     "3104d2fa476d8ada84f363720f1b78a06085524f3516339438155fd681243f0b": 1786999197.220122,
