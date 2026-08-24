@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787577958.407109,
-  "last_urgent_at": 1787573846.701366,
+  "last_post_at": 1787581323.1705828,
+  "last_urgent_at": 1787581323.1705828,
   "recent_categories": [
+    "AI & Agents",
     "VC & Accelerators",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
-    "Cybersecurity & Cloud",
-    "AI & Agents"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "FF News",
     "Cointelegraph",
     "The Economic Times",
@@ -38,10 +39,10 @@
     "DealStreetAsia",
     "TradingView",
     "infoq.com",
-    "Security Boulevard",
-    "The Guardian"
+    "Security Boulevard"
   ],
   "recent_titles": [
+    "Hugging Face reportedly in talks to be acquired for $13B",
     "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap",
     "Japan’s SBI leads $68M Fasset round at $1B valuation",
     "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
@@ -160,8 +161,7 @@
     "How US military funding propelled China’s robot dogs",
     "SEC Proposes New Regulation Crypto Assets",
     "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-    "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production",
-    "AI chip startup Etched doubles valuation to $21 billion in under a month"
+    "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -408,6 +408,7 @@
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
     "a631af890f28cf7aa4b22e547f29ce3e9764600842d228bcbaab1d550a346fb2": 1786742063.802998,
+    "a6a439c8770542d649d1e4895fb52644eafcbf9e2038cd18377750ce96dbe41f": 1787581323.1705828,
     "a75e7bc2283f64fddc5fb8a168ef577e62e1299aad0cbb3001dd3060170f1d8d": 1787525675.3609865,
     "a7801aa807b0d1a675534dcc59b5b73c396d3753fde7d1e9e8c8067b79ab5619": 1786421065.2667177,
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
