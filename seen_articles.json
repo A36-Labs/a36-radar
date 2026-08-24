@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787592222.8208559,
+  "last_post_at": 1787597685.6908643,
   "last_urgent_at": 1787587182.7922015,
   "recent_categories": [
+    "Frontier Tech",
     "Web3 & Digital Assets",
     "AI & Agents",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "AI Insider",
     "Decrypt",
     "TechCrunch AI",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "Reuters",
     "Inshorts",
-    "DealStreetAsia",
-    "TradingView"
+    "DealStreetAsia"
   ],
   "recent_titles": [
+    "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production",
     "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
     "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "Hugging Face reportedly in talks to be acquired for $13B",
@@ -160,8 +161,7 @@
     "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
     "Unitree Robotics Set to Debut After $904 Million Shanghai IPO",
     "Yellow.ai to go public via $550M SPAC merger with Bluerock",
-    "How US military funding propelled China’s robot dogs",
-    "SEC Proposes New Regulation Crypto Assets"
+    "How US military funding propelled China’s robot dogs"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -245,6 +245,7 @@
     "3104d2fa476d8ada84f363720f1b78a06085524f3516339438155fd681243f0b": 1786999197.220122,
     "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
+    "330f2d040219e1e6c4dcc22d733f076d3a4a074f0507aba11c43456c19dd5134": 1787597685.6908643,
     "3461fd6e09582df2fe55da57e94c4789ed04e2bc8b96195da74a9525f8765c66": 1787156363.9804044,
     "34a524a5f373d24181668f6cbdc839f8451524e9f2b834c39ebf7df6450bb774": 1786923093.9291263,
     "34ec19f31e10649b9d56e7be1a5e8decd700a3a499fb21b8e4cfef498571ee0f": 1787219184.6526337,
