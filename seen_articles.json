@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787529169.8731337,
+  "last_post_at": 1787536443.3553667,
   "last_urgent_at": 1787499696.1003344,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "VC & Accelerators",
-    "AI & Agents",
-    "Frontier Tech"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "DealStreetAsia",
     "TradingView",
     "infoq.com",
     "Security Boulevard",
@@ -38,10 +39,10 @@
     "bloomingbit",
     "Goodreturns",
     "MarketBeat",
-    "markets.businessinsider.com",
-    "조선일보"
+    "markets.businessinsider.com"
   ],
   "recent_titles": [
+    "Vietnamese hospitality startup M Village bags $26m in new funding",
     "NGI: AUM up 21% to USD 33.6b; revenue steady; FY27 earnings set to rise with new acquisitions",
     "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
     "Apollo Data Breach Shows the Risk Behind a Simple Phone Call",
@@ -160,8 +161,7 @@
     "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
     "Jeonbuk Bank Partners with Ripple to Become First South Korean Regional Bank to Offer Real-Time Cross-Border Payments",
     "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight",
-    "Anthropic’s annualized revenue surges to $65B",
-    "HSG Seeks $1.2 Billion for First Dollar Fund Since Sequoia Split"
+    "Anthropic’s annualized revenue surges to $65B"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -366,6 +366,7 @@
     "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
     "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
     "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
+    "8d29b6b0f0f4ac967b099b7c3b119be8d0ebc5db20c38950dd6fe4cbe0e6ac27": 1787536443.3553667,
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
