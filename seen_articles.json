@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787544651.694869,
-  "last_urgent_at": 1787544651.694869,
+  "last_post_at": 1787547966.4664097,
+  "last_urgent_at": 1787547966.4664097,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Reuters",
     "Inshorts",
     "DealStreetAsia",
@@ -38,10 +39,10 @@
     "Cybersecurity Insiders",
     "VOI.ID",
     "instagram.com",
-    "bloomingbit",
-    "Goodreturns"
+    "bloomingbit"
   ],
   "recent_titles": [
+    "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
     "AI startup Hugging Face explores sale at $13 bn valuation: Report | Hugging Face hit by security breach last month | Inshorts",
     "Vietnamese hospitality startup M Village bags $26m in new funding",
@@ -160,8 +161,7 @@
     "CISA: Windows Task Host flaw now exploited by ransomware gangs",
     "Geospatial startup NeoGeo raises $20 million in funding from SBI’s Neev II Fund, Aavishkaar Capital",
     "LG Electronics boosts robotics partnership with Nvidia",
-    "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
-    "Jeonbuk Bank Partners with Ripple to Become First South Korean Regional Bank to Offer Real-Time Cross-Border Payments"
+    "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -315,6 +315,7 @@
     "613e73fca7906e6500fdf0f50124a88a3ab4c692ddc7a00c9f80ce6dc91592af": 1786837930.405983,
     "61a8eb87389ee76062b2e6bf30245481d305d6ebafba1791c5040800dc3b0300": 1786736053.948614,
     "6285c876d1e2e60b75ce4e3584fc9af70bc225d7399495ecfc12310348b9be07": 1787499696.1003344,
+    "6366f5a6f74842395ac0cf6032e94e9380aee9ecba943ca6230d26900cd90ebd": 1787547966.4664097,
     "644f9be3884b61cba84c37298ac78c5cdcbbb35bccf39dfde4c564d62cf30cab": 1786282424.4139445,
     "64fb94076147682447ff1bb5e90997b9c3ba6c30afcef637020f2d0ac3761fcf": 1786753452.5252879,
     "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
