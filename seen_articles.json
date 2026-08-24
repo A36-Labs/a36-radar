@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787571543.6092925,
-  "last_urgent_at": 1787571543.6092925,
+  "last_post_at": 1787573846.701366,
+  "last_urgent_at": 1787573846.701366,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "AI & Agents",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "The Economic Times",
     "GuruFocus",
     "Reuters",
@@ -38,10 +39,10 @@
     "infoq.com",
     "Security Boulevard",
     "The Guardian",
-    "Crypto Briefing",
-    "Tekedia"
+    "Crypto Briefing"
   ],
   "recent_titles": [
+    "Japan’s SBI leads $68M Fasset round at $1B valuation",
     "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
     "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
     "Xpeng says its robotics business raised over $900 million in first funding round",
@@ -160,8 +161,7 @@
     "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
     "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
-    "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
-    "Velaura AI raises $110M Series A, hits $1B valuation"
+    "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -308,6 +308,7 @@
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
     "5ddc8d3f048ab0c80b16cff0bd222e47355c60f6133f254b86a3cbe4a66a0d18": 1786910406.8455408,
     "5e7e6bf53b43088bf4a5525818e08f0a2cfb44a34a9db9d653688c9104c7573d": 1786885012.6308877,
+    "5e8a5319142858c95f30910ec693386c26286dc1721ada19b669fbe4fb9613e3": 1787573846.701366,
     "5f0b1293156023694274daac154cb823bf3290324c88b2a7514a4e1c59fa1a35": 1786974972.407771,
     "5f353926bfe5a425532177da7474823736f9583ccf69e6cb9521324a605db2f3": 1786167143.9328957,
     "5f41e60d862b9777734b08015ee5c4ca26781d8543f76fe57a81207a938130fa": 1786444684.7163203,
