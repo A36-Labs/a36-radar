@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787547966.4664097,
-  "last_urgent_at": 1787547966.4664097,
+  "last_post_at": 1787550663.8464441,
+  "last_urgent_at": 1787550663.8464441,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Startup Fortune",
     "CoinDesk",
     "Reuters",
     "Inshorts",
@@ -38,10 +39,10 @@
     "TechStock²",
     "Cybersecurity Insiders",
     "VOI.ID",
-    "instagram.com",
-    "bloomingbit"
+    "instagram.com"
   ],
   "recent_titles": [
+    "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation",
     "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
     "AI startup Hugging Face explores sale at $13 bn valuation: Report | Hugging Face hit by security breach last month | Inshorts",
@@ -160,8 +161,7 @@
     "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
     "CISA: Windows Task Host flaw now exploited by ransomware gangs",
     "Geospatial startup NeoGeo raises $20 million in funding from SBI’s Neev II Fund, Aavishkaar Capital",
-    "LG Electronics boosts robotics partnership with Nvidia",
-    "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month"
+    "LG Electronics boosts robotics partnership with Nvidia"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -323,6 +323,7 @@
     "65c0ed43a1e6e47cf8cb5a889745e158e37b719f90d6aaf7620ec4043823b0b9": 1786378373.3468823,
     "6766d10e6117222b1a470cba1cebb5c892edd7eb563da51dba4b020b509a0eca": 1787371764.2878537,
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
+    "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
     "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
     "6a24ef4438650f07bb5c8cb8015937d6e1747796cc26d7227b85898766533e9c": 1787288414.3659408,
