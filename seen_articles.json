@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787550663.8464441,
-  "last_urgent_at": 1787550663.8464441,
+  "last_post_at": 1787553321.6685357,
+  "last_urgent_at": 1787553321.6685357,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "AOL.com",
     "Startup Fortune",
     "CoinDesk",
     "Reuters",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "TechStock²",
     "Cybersecurity Insiders",
-    "VOI.ID",
-    "instagram.com"
+    "VOI.ID"
   ],
   "recent_titles": [
+    "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking",
     "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation",
     "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
@@ -160,8 +161,7 @@
     "ELECTRA AI and Iron Horse Acquisition II Announce Strategic Partnership With Omega Seiki Mobility to Enhance Battery Intelligence Across Its Electric Vehicle Ecosystem",
     "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
     "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-    "Geospatial startup NeoGeo raises $20 million in funding from SBI’s Neev II Fund, Aavishkaar Capital",
-    "LG Electronics boosts robotics partnership with Nvidia"
+    "Geospatial startup NeoGeo raises $20 million in funding from SBI’s Neev II Fund, Aavishkaar Capital"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -345,6 +345,7 @@
     "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
     "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
+    "7b5edc44871d0fab5941f2985955538d8613230f14d522b9ab4dc9a1c441da1a": 1787553321.6685357,
     "7c221124509ca3a464dc26b23ad32031b0f53956d5e8d7c575619ea64245ff01": 1787145343.2354076,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
