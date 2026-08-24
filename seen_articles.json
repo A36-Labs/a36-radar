@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787563684.3110976,
-  "last_urgent_at": 1787560275.6675146,
+  "last_post_at": 1787566821.8918493,
+  "last_urgent_at": 1787566821.8918493,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Frontier Tech",
-    "VC & Accelerators",
-    "Web3 & Digital Assets"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Reuters",
     "Nikkei Asia",
     "CryptoRank",
     "World Business Outlook",
@@ -38,10 +39,10 @@
     "Crypto Briefing",
     "Tekedia",
     "Decrypt",
-    "Zawya",
-    "CoinDesk"
+    "Zawya"
   ],
   "recent_titles": [
+    "Xpeng says its robotics business raised over $900 million in first funding round",
     "ESG analytics startup MioTech eyes 2028 IPO following China merger",
     "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round",
     "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership",
@@ -160,8 +161,7 @@
     "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
     "Velaura AI raises $110M Series A, hits $1B valuation",
     "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
-    "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation",
-    "ELECTRA AI and Iron Horse Acquisition II Announce Strategic Partnership With Omega Seiki Mobility to Enhance Battery Intelligence Across Its Electric Vehicle Ecosystem"
+    "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -269,6 +269,7 @@
     "405a737f72d34e5f5945dc1b5de6f89ed79defb98ddece2c46ed01347512d3d3": 1787557378.9805996,
     "41919bc662f6d37b285b316687b54c5b8750329807cc7f6304e15487814d3a05": 1787544651.694869,
     "41f519ea8abda45f443e17e133b6408f046afcc62c2d18638dcb5ef23a400ea1": 1785962284.7850716,
+    "4213301c3dd74b64a4694164149231f1ef361c7ac4f2672cefa7e0ff1da6f6bf": 1787566821.8918493,
     "4459523963ae050297f891d5ea220da28147ab54d1644642f6b6b007f090639f": 1786728833.7736254,
     "4461b39ad8af5ffd1754a5568a80f0ce0de97296b53fb1b942f41504367c0757": 1787246126.8095887,
     "4566294ccb40c3c398b87a9aa99f74252f928f0870f9668fa58e01ca0e0f8821": 1786915852.698227,
