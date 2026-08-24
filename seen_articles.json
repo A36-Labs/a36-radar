@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787566821.8918493,
-  "last_urgent_at": 1787566821.8918493,
+  "last_post_at": 1787569154.8820686,
+  "last_urgent_at": 1787569154.8820686,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Policy & Regulation",
     "Startups & Funding",
-    "Frontier Tech",
-    "VC & Accelerators"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "GuruFocus",
     "Reuters",
     "Nikkei Asia",
     "CryptoRank",
@@ -38,10 +39,10 @@
     "The Guardian",
     "Crypto Briefing",
     "Tekedia",
-    "Decrypt",
-    "Zawya"
+    "Decrypt"
   ],
   "recent_titles": [
+    "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
     "Xpeng says its robotics business raised over $900 million in first funding round",
     "ESG analytics startup MioTech eyes 2028 IPO following China merger",
     "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round",
@@ -160,8 +161,7 @@
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
     "Velaura AI raises $110M Series A, hits $1B valuation",
-    "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation",
-    "Century-Old Interlocking Directorate Regulations Revived, a16z Under Antitrust Investigation"
+    "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -423,6 +423,7 @@
     "af88f135364144b24fddf685faa3b80fb054659cfd9fb4f5b972d75762ce0058": 1786918313.7391076,
     "afdc94668d1bea937c11f9bbbce47efe2d1cf3b4a4395c4c23638245350edc8c": 1787434304.0323257,
     "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
+    "b0326add6b3366e2ced18f7260929f3ef6b0f4129e6bf6cbe636331508b33fc2": 1787569154.8820686,
     "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
     "b0740fa4a4d016d1f66a741d0ea2c2034fd2709cce0bbfcb698a76e0313a7a32": 1786697552.8316205,
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
