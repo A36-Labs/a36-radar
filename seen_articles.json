@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787609440.66824,
-  "last_urgent_at": 1787604824.7737763,
+  "last_post_at": 1787611687.155361,
+  "last_urgent_at": 1787611687.155361,
   "recent_categories": [
+    "AI & Agents",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Decrypt",
     "BleepingComputer",
     "Pulse 2.0",
     "24/7 Wall St.",
@@ -38,10 +39,10 @@
     "CryptoRank",
     "World Business Outlook",
     "AOL.com",
-    "Startup Fortune",
-    "CoinDesk"
+    "Startup Fortune"
   ],
   "recent_titles": [
+    "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "Booz Allen Completes $720 Million Ultra Mission Solutions Acquisition To Expand Defense Technology Platform",
     "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag",
@@ -160,8 +161,7 @@
     "Qualcomm Open-Sources Modular AI Software Platform",
     "Quest Apartment Hotels hit by data breach; customer data accessed",
     "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
-    "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum",
-    "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion"
+    "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -342,6 +342,7 @@
     "6d03b537c2fc106ab941c24658d2c09056be88e5877f17817ee6ab4efd47cdf7": 1787092592.5980258,
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
+    "70219785f289d7b7f532d03ca78951cf314c8f6f39c56733af9c2294b46d0d73": 1787611687.155361,
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "721589671db35645dad3fb6e7052fa9698cee38b488c8d3aed605cb3a9bff4d9": 1787506807.02646,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
