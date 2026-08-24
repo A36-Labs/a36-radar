@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787536443.3553667,
-  "last_urgent_at": 1787499696.1003344,
+  "last_post_at": 1787541167.213442,
+  "last_urgent_at": 1787541167.213442,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "VC & Accelerators",
-    "AI & Agents"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Inshorts",
     "DealStreetAsia",
     "TradingView",
     "infoq.com",
@@ -38,10 +39,10 @@
     "instagram.com",
     "bloomingbit",
     "Goodreturns",
-    "MarketBeat",
-    "markets.businessinsider.com"
+    "MarketBeat"
   ],
   "recent_titles": [
+    "AI startup Hugging Face explores sale at $13 bn valuation: Report | Hugging Face hit by security breach last month | Inshorts",
     "Vietnamese hospitality startup M Village bags $26m in new funding",
     "NGI: AUM up 21% to USD 33.6b; revenue steady; FY27 earnings set to rise with new acquisitions",
     "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
@@ -160,8 +161,7 @@
     "LG Electronics boosts robotics partnership with Nvidia",
     "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
     "Jeonbuk Bank Partners with Ripple to Become First South Korean Regional Bank to Offer Real-Time Cross-Border Payments",
-    "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight",
-    "Anthropic’s annualized revenue surges to $65B"
+    "Stripe’s $7 Billion Acquisition Reveals the AI Opportunity Hiding in Plain Sight"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -201,6 +201,7 @@
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
     "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
+    "14572a32c775cfd3f1362e0134d2196602a08f41412a057f60e087ffe3e0f90c": 1787541167.213442,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
     "17674887f8ef9b5b7ee0c0c0c1f6d8c40845cb7e8688aa5610ad22cabd372d44": 1786877042.2425308,
     "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
