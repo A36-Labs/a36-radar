@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787573846.701366,
+  "last_post_at": 1787577958.407109,
   "last_urgent_at": 1787573846.701366,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
-    "AI & Agents",
-    "Policy & Regulation"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "FF News",
     "Cointelegraph",
     "The Economic Times",
     "GuruFocus",
@@ -38,10 +39,10 @@
     "TradingView",
     "infoq.com",
     "Security Boulevard",
-    "The Guardian",
-    "Crypto Briefing"
+    "The Guardian"
   ],
   "recent_titles": [
+    "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap",
     "Japan’s SBI leads $68M Fasset round at $1B valuation",
     "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
     "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
@@ -160,8 +161,7 @@
     "SEC Proposes New Regulation Crypto Assets",
     "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
     "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production",
-    "AI chip startup Etched doubles valuation to $21 billion in under a month",
-    "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B"
+    "AI chip startup Etched doubles valuation to $21 billion in under a month"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -451,6 +451,7 @@
     "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
     "bfb6ab15d357553227946325cd9c3310021739ab4e65a4f237d62395389cc68b": 1787462253.8007793,
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
+    "c08c67be0b47ed63ef69766cfba17fddd02f6ac84f0b2de1f7652971d75c0ba1": 1787577958.407109,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
