@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787604824.7737763,
+  "last_post_at": 1787609440.66824,
   "last_urgent_at": 1787604824.7737763,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Pulse 2.0",
     "24/7 Wall St.",
     "AI Insider",
@@ -38,10 +39,10 @@
     "World Business Outlook",
     "AOL.com",
     "Startup Fortune",
-    "CoinDesk",
-    "Reuters"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "Booz Allen Completes $720 Million Ultra Mission Solutions Acquisition To Expand Defense Technology Platform",
     "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag",
     "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production",
@@ -160,8 +161,7 @@
     "Quest Apartment Hotels hit by data breach; customer data accessed",
     "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
     "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum",
-    "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
-    "Unitree Robotics Set to Debut After $904 Million Shanghai IPO"
+    "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -310,6 +310,7 @@
     "5ccecbf10f9f08c1f96decf3a031f639fa77e11657d618dc40b3ba746451e185": 1787018589.6494143,
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
     "5ddc8d3f048ab0c80b16cff0bd222e47355c60f6133f254b86a3cbe4a66a0d18": 1786910406.8455408,
+    "5dfa2cbd8919a49535a0190382e870770f982cdbb9fe4986c2ecaadb3bd29a41": 1787609440.66824,
     "5e7e6bf53b43088bf4a5525818e08f0a2cfb44a34a9db9d653688c9104c7573d": 1786885012.6308877,
     "5e8a5319142858c95f30910ec693386c26286dc1721ada19b669fbe4fb9613e3": 1787573846.701366,
     "5f0b1293156023694274daac154cb823bf3290324c88b2a7514a4e1c59fa1a35": 1786974972.407771,
