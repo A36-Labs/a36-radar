@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787581323.1705828,
-  "last_urgent_at": 1787581323.1705828,
+  "last_post_at": 1787587182.7922015,
+  "last_urgent_at": 1787587182.7922015,
   "recent_categories": [
+    "AI & Agents",
     "AI & Agents",
     "VC & Accelerators",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Cybersecurity & Cloud"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "TechCrunch AI",
     "FF News",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "Inshorts",
     "DealStreetAsia",
     "TradingView",
-    "infoq.com",
-    "Security Boulevard"
+    "infoq.com"
   ],
   "recent_titles": [
+    "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "Hugging Face reportedly in talks to be acquired for $13B",
     "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap",
     "Japan’s SBI leads $68M Fasset round at $1B valuation",
@@ -160,8 +161,7 @@
     "Yellow.ai to go public via $550M SPAC merger with Bluerock",
     "How US military funding propelled China’s robot dogs",
     "SEC Proposes New Regulation Crypto Assets",
-    "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-    "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production"
+    "Wyoming joins $15 billion LayerZero exodus with state stablecoin move"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -467,6 +467,7 @@
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
+    "cbda1f3b5ced491e787aca0d93f090f4b48a95e5df19f9e72fc3b59457b43794": 1787587182.7922015,
     "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
