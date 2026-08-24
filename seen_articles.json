@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787569154.8820686,
-  "last_urgent_at": 1787569154.8820686,
+  "last_post_at": 1787571543.6092925,
+  "last_urgent_at": 1787571543.6092925,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "AI & Agents",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Economic Times",
     "GuruFocus",
     "Reuters",
     "Nikkei Asia",
@@ -38,10 +39,10 @@
     "Security Boulevard",
     "The Guardian",
     "Crypto Briefing",
-    "Tekedia",
-    "Decrypt"
+    "Tekedia"
   ],
   "recent_titles": [
+    "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
     "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
     "Xpeng says its robotics business raised over $900 million in first funding round",
     "ESG analytics startup MioTech eyes 2028 IPO following China merger",
@@ -160,8 +161,7 @@
     "Etched Raises $700M Series D at $21B Valuation to Ramp Inference Hardware Production",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "Tampa Bay Wave named third-best accelerator in US as portfolio surpasses $1.8B",
-    "Velaura AI raises $110M Series A, hits $1B valuation",
-    "AI Voice-To-Text Startup Wispr Flow Raises $280 Mn At $2 Bn Valuation"
+    "Velaura AI raises $110M Series A, hits $1B valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -457,6 +457,7 @@
     "c263332c36b42655cac4229b7b2161d82ada139d657b1b1149326ee68d762244": 1787521968.600367,
     "c29ea939e4d070c44926d1cf7270bd309061a1a61fa3cea87cb2ce597c02114f": 1786131387.7262907,
     "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
+    "c41a8a984840198774fdc7609c2bbcdb15026000f32a4b2a3180e9ceea04a4e2": 1787571543.6092925,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
     "c6ed841213b85f19c9a605ad88649dd1f6fa3152f9db2826fd5dc7cc01998702": 1787049657.241761,
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
