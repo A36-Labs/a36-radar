@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787617452.8310134,
+  "last_post_at": 1787623562.2418582,
   "last_urgent_at": 1787611687.155361,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "AI & Agents",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Nikkei Asia",
     "The National Law Review",
     "Decrypt",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Reuters",
     "Nikkei Asia",
     "CryptoRank",
-    "World Business Outlook",
-    "AOL.com"
+    "World Business Outlook"
   ],
   "recent_titles": [
+    "Australian venture capital firm Blackbird raises $752m from Asian investors",
     "SEC Proposes “Regulation Crypto Assets”",
     "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
@@ -160,8 +161,7 @@
     "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion",
     "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
     "Qualcomm Open-Sources Modular AI Software Platform",
-    "Quest Apartment Hotels hit by data breach; customer data accessed",
-    "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…"
+    "Quest Apartment Hotels hit by data breach; customer data accessed"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -253,6 +253,7 @@
     "34ec19f31e10649b9d56e7be1a5e8decd700a3a499fb21b8e4cfef498571ee0f": 1787219184.6526337,
     "359cb0e6a7cf54f7a96756eb840ab04865f706f63e6d91f4f4eea9176938978b": 1787479717.8024204,
     "36b6e9983f22fbf49000091201fc87a00ae9ad59d9628ec50bdf1e90b578e954": 1786724890.2204318,
+    "36c142a3fbb84dedc24bfc4e08938e93a9127f4e236340edf63e6defe756bc62": 1787623562.2418582,
     "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
     "386a3fc56e8402ce14b7059117e71ed5c0c8be4d9b413cbc45edf1d3cee208a2": 1786811792.8338273,
     "388bacc45504dd8e1758d1b744c45d0ecf43bcf9dc9b0c6c5ad7d312156f747d": 1786807901.2294278,
