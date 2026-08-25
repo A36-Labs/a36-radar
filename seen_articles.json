@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787663904.3709397,
+  "last_post_at": 1787670603.2784553,
   "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Web3 & Digital Assets",
-    "AI & Agents"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Bloomberg",
     "Tech Times",
     "The Business Journals",
     "Open Source For You",
@@ -38,10 +39,10 @@
     "Pulse 2.0",
     "24/7 Wall St.",
     "AI Insider",
-    "Decrypt",
-    "TechCrunch AI"
+    "Decrypt"
   ],
   "recent_titles": [
+    "AI Security Startup Working With Anthropic and Google Raises $140 Million",
     "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review",
     "Real Brokerage completes $880M Re/Max acquisition, creating one of nation's largest brokerages",
     "Linux Foundation Submits OpenMDW for Open-Source Review",
@@ -160,8 +161,7 @@
     "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
     "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day",
     "Discovered Materials Announces $9M Funding Round To Deploy AI Agents In Search Of Cooler Chip Materials",
-    "Anthropic Just Doubled OpenAI’s Revenue. Is Its $2 Trillion IPO Getting Too Much Hype?",
-    "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs"
+    "Anthropic Just Doubled OpenAI’s Revenue. Is Its $2 Trillion IPO Getting Too Much Hype?"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -297,6 +297,7 @@
     "4fac5cb7d3db0ee2bc8c616a0eb74911965db3a7abd75e2ba751b91407deed5c": 1786738054.0460236,
     "4fea26894126d71cb2207cc77254dbfcaf76e1286d21a4b7cdd0fcda07b49530": 1786120186.3708677,
     "510a20545ea61ca34bda6b630a51fae0b45b9d0e00db74bc47db8ed4f1c7fb36": 1785704857.7401912,
+    "51fb164ea333213f45697dd315ccc7e8f1c8b4ee0425f36ebb8fe1ba8b3dba12": 1787670603.2784553,
     "541d51116d515c5e6fbac4c70011970bed46caa9ce367915f6d90b35f1ff0847": 1787366557.2543042,
     "54e742fdc4625aaa9c795907b3f0889fc332d6ceb994d29fb646adac0a1458d7": 1786783790.9382899,
     "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
