@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787635317.7241771,
+  "last_post_at": 1787641445.0966907,
   "last_urgent_at": 1787635317.7241771,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Frontier Tech",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Disrupt Africa",
     "Reuters",
     "Reuters",
     "AOL.com",
@@ -38,10 +39,10 @@
     "FF News",
     "Cointelegraph",
     "The Economic Times",
-    "GuruFocus",
-    "Reuters"
+    "GuruFocus"
   ],
   "recent_titles": [
+    "SA energy startup Yellow raises undisclosed Series C funding round -",
     "Nvidia shares set for $280 billion price swing after earnings, options show",
     "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
     "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.",
@@ -160,8 +161,7 @@
     "Inference chip startup Etched raises $700m, doubles valuation to $21bn",
     "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
     "Datavault AI Shares Tumble Amid Earnings Miss, Dilution Fears, and Acquisition Concerns",
-    "Peppy Secures Pre-Seed Funding to Build Coding Platform for Humanoid Robotics",
-    "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion"
+    "Peppy Secures Pre-Seed Funding to Build Coding Platform for Humanoid Robotics"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -561,6 +561,7 @@
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054,
+    "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907,
     "ffdb701222e6522cefb2f79162cc6e4a22130373e5a49150fb61628a772f03f0": 1787450189.1760128
   }
 }
