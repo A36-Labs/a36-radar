@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787623562.2418582,
+  "last_post_at": 1787627453.081897,
   "last_urgent_at": 1787611687.155361,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Policy & Regulation",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "AOL.com",
     "Nikkei Asia",
     "The National Law Review",
     "Decrypt",
@@ -38,10 +39,10 @@
     "GuruFocus",
     "Reuters",
     "Nikkei Asia",
-    "CryptoRank",
-    "World Business Outlook"
+    "CryptoRank"
   ],
   "recent_titles": [
+    "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.",
     "Australian venture capital firm Blackbird raises $752m from Asian investors",
     "SEC Proposes “Regulation Crypto Assets”",
     "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
@@ -160,8 +161,7 @@
     "Peppy Secures Pre-Seed Funding to Build Coding Platform for Humanoid Robotics",
     "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion",
     "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-    "Qualcomm Open-Sources Modular AI Software Platform",
-    "Quest Apartment Hotels hit by data breach; customer data accessed"
+    "Qualcomm Open-Sources Modular AI Software Platform"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -333,6 +333,7 @@
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
     "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
     "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
+    "68c502297e8380dee9c0161fb5508bcd22632a97fa51c211c91ebe6ba7a93c1d": 1787627453.081897,
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
     "6a24ef4438650f07bb5c8cb8015937d6e1747796cc26d7227b85898766533e9c": 1787288414.3659408,
     "6aa90119eaa0c075a286a9b48a6bbfce6aa69c6c16be2cf83ef772947658d1e4": 1787022341.7641623,
