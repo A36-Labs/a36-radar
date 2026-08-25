@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787691055.905807,
+  "last_post_at": 1787694502.947729,
   "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "VC & Accelerators",
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Policy & Regulation",
-    "AI & Agents",
-    "Cybersecurity & Cloud"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Dealroom",
     "Beinsure",
     "Binance",
     "simplywall.st",
@@ -38,10 +39,10 @@
     "AOL.com",
     "Nikkei Asia",
     "The National Law Review",
-    "Decrypt",
-    "BleepingComputer"
+    "Decrypt"
   ],
   "recent_titles": [
+    "Tim Draper's $80M Orion Fund launches Cardano accelerator",
     "Comcast $117.5 mn data breach settlement wins federal approval",
     "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch",
     "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back",
@@ -160,8 +161,7 @@
     "SEC Crypto Regulation New Rule Explained: Issuance and Fundraising Under $5 Million Exempt from Registration—Is the Altcoin Season Coming Back?",
     "SC bridges semiconductor funding gap through capital market solutions",
     "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission",
-    "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-    "Rogue ransomware affiliate poses as data recovery firm to steal payments"
+    "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -509,6 +509,7 @@
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
     "d6d82318b5d63d32a97abcd14e8a8c31d26cea9600d6b0e69e29395c1d7451a0": 1787137882.6504948,
+    "d725da2a430219b08387ca7a5975c04092960a0ae4945a39adeca9eae64c66fb": 1787694502.947729,
     "d7ab94dd18c7080705d3de9b2e2c2e1107acd7facde76aca417d4484a12986f5": 1786858704.599998,
     "d7b84d271c132b43bc42e3b3e7445d4011a918a09ba37e2efddbc55decb12282": 1787260739.0530665,
     "d8d9ebe62b2a17cfb48ce3ed4d02307d579c1ee4d63b3653c281689ba8974410": 1787430917.4551787,
