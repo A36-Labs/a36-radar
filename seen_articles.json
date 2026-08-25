@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787680851.7576313,
+  "last_post_at": 1787686857.917801,
   "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Frontier Tech",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "AI & Agents",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Binance",
     "simplywall.st",
     "TechCrunch AI",
     "Bloomberg",
@@ -38,10 +39,10 @@
     "The National Law Review",
     "Decrypt",
     "BleepingComputer",
-    "Pulse 2.0",
-    "24/7 Wall St."
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch",
     "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back",
     "Accel-backed Keenable is indexing the web for AI agents",
     "AI Security Startup Working With Anthropic and Google Raises $140 Million",
@@ -160,8 +161,7 @@
     "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission",
     "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
     "Rogue ransomware affiliate poses as data recovery firm to steal payments",
-    "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-    "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day"
+    "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -181,6 +181,7 @@
     "07358ad98f4a9350716d38cde127e11e341d6741aded577cc74c1294a1b0710f": 1787503089.8275945,
     "084f3550ecdd73adf4626f378b99b83bff33e04e0dd046fce5c33ec0808c7567": 1786093954.5733182,
     "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
+    "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
     "09b14b41ce96d7df35edc69d40847f1d86f6f88dd209a283451c8413afcb24f8": 1786927824.37008,
     "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
