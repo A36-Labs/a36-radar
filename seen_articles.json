@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787630683.0245097,
-  "last_urgent_at": 1787630683.0245097,
+  "last_post_at": 1787635317.7241771,
+  "last_urgent_at": 1787635317.7241771,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Reuters",
     "Reuters",
     "AOL.com",
     "Nikkei Asia",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "The Economic Times",
     "GuruFocus",
-    "Reuters",
-    "Nikkei Asia"
+    "Reuters"
   ],
   "recent_titles": [
+    "Nvidia shares set for $280 billion price swing after earnings, options show",
     "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
     "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.",
     "Australian venture capital firm Blackbird raises $752m from Asian investors",
@@ -160,8 +161,7 @@
     "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
     "Datavault AI Shares Tumble Amid Earnings Miss, Dilution Fears, and Acquisition Concerns",
     "Peppy Secures Pre-Seed Funding to Build Coding Platform for Humanoid Robotics",
-    "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion",
-    "CISA: Medusa ransomware hit over 500 critical infrastructure orgs"
+    "Swedish Vibe Coding Startup Lovable Raises $400M, Plans U.S. Expansion"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -340,6 +340,7 @@
     "6aa90119eaa0c075a286a9b48a6bbfce6aa69c6c16be2cf83ef772947658d1e4": 1787022341.7641623,
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
+    "6b5ca39ada2d5bc5d66822a4c3d142420c433d9c5054f22b51b70c00728fe284": 1787635317.7241771,
     "6be677a52f10a385ea7c3754a04cf36a43def80f5f20cde9a11d7bec5516ca67": 1786529846.702828,
     "6c9dadafcc432488dcd19b3cf56eaa50958fc8e4ca7d759691f39ae98d1485df": 1787617452.8310134,
     "6cac435f878f86e5bfe03e1b7d9f8c4e83442f53fe7fc709094862d1df6cb185": 1786993414.8592236,
