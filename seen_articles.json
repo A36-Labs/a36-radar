@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787660284.9362,
-  "last_urgent_at": 1787660284.9362,
+  "last_post_at": 1787663904.3709397,
+  "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "AI & Agents",
     "AI & Agents"
   ],
   "recent_sources": [
+    "Tech Times",
     "The Business Journals",
     "Open Source For You",
     "finance.biggo.com",
@@ -38,10 +39,10 @@
     "24/7 Wall St.",
     "AI Insider",
     "Decrypt",
-    "TechCrunch AI",
     "TechCrunch AI"
   ],
   "recent_titles": [
+    "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review",
     "Real Brokerage completes $880M Re/Max acquisition, creating one of nation's largest brokerages",
     "Linux Foundation Submits OpenMDW for Open-Source Review",
     "Japan's Consumer Affairs Agency Unveils Interim Proposal for Dark Pattern Regulation; Crypto Assets Likely Excluded",
@@ -160,8 +161,7 @@
     "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day",
     "Discovered Materials Announces $9M Funding Round To Deploy AI Agents In Search Of Cooler Chip Materials",
     "Anthropic Just Doubled OpenAI’s Revenue. Is Its $2 Trillion IPO Getting Too Much Hype?",
-    "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-    "Datavault AI Agrees to Acquire BankWyse Subject to Regulatory Approval and Customary Closing Conditions"
+    "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -359,6 +359,7 @@
     "77aa4e92ff93d66cca8448de9a98c97a89633304616f18946867639361b65270": 1787407563.0885918,
     "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
     "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
+    "78a04de5cff9a38fe21549d1e376c4ae32191c6c3a743ba8a54cac1a7afc3ea0": 1787663904.3709397,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
     "7b5edc44871d0fab5941f2985955538d8613230f14d522b9ab4dc9a1c441da1a": 1787553321.6685357,
     "7c221124509ca3a464dc26b23ad32031b0f53956d5e8d7c575619ea64245ff01": 1787145343.2354076,
