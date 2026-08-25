@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787611687.155361,
+  "last_post_at": 1787617452.8310134,
   "last_urgent_at": 1787611687.155361,
   "recent_categories": [
+    "Policy & Regulation",
     "AI & Agents",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "The National Law Review",
     "Decrypt",
     "BleepingComputer",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "Nikkei Asia",
     "CryptoRank",
     "World Business Outlook",
-    "AOL.com",
-    "Startup Fortune"
+    "AOL.com"
   ],
   "recent_titles": [
+    "SEC Proposes “Regulation Crypto Assets”",
     "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "Booz Allen Completes $720 Million Ultra Mission Solutions Acquisition To Expand Defense Technology Platform",
@@ -160,8 +161,7 @@
     "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
     "Qualcomm Open-Sources Modular AI Software Platform",
     "Quest Apartment Hotels hit by data breach; customer data accessed",
-    "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…",
-    "Interstice Digital And FalconX Launch Cross-Chain Swap Engine Connecting $9 Trillion Monthly Canton RWA Flow With Robinhood, Solana, And Ethereum"
+    "Crypto Morning Brief: a16z Faces US Department of Justice Antitrust Investigation, Jane Street Discloses Nearly $1 Bill…"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -338,6 +338,7 @@
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
     "6be677a52f10a385ea7c3754a04cf36a43def80f5f20cde9a11d7bec5516ca67": 1786529846.702828,
+    "6c9dadafcc432488dcd19b3cf56eaa50958fc8e4ca7d759691f39ae98d1485df": 1787617452.8310134,
     "6cac435f878f86e5bfe03e1b7d9f8c4e83442f53fe7fc709094862d1df6cb185": 1786993414.8592236,
     "6d03b537c2fc106ab941c24658d2c09056be88e5877f17817ee6ab4efd47cdf7": 1787092592.5980258,
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
