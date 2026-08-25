@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787676712.1392136,
+  "last_post_at": 1787680851.7576313,
   "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "Frontier Tech",
     "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "simplywall.st",
     "TechCrunch AI",
     "Bloomberg",
     "Tech Times",
@@ -38,10 +39,10 @@
     "Decrypt",
     "BleepingComputer",
     "Pulse 2.0",
-    "24/7 Wall St.",
-    "AI Insider"
+    "24/7 Wall St."
   ],
   "recent_titles": [
+    "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back",
     "Accel-backed Keenable is indexing the web for AI agents",
     "AI Security Startup Working With Anthropic and Google Raises $140 Million",
     "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review",
@@ -160,8 +161,7 @@
     "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
     "Rogue ransomware affiliate poses as data recovery firm to steal payments",
     "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-    "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day",
-    "Discovered Materials Announces $9M Funding Round To Deploy AI Agents In Search Of Cooler Chip Materials"
+    "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -248,6 +248,7 @@
     "3104d2fa476d8ada84f363720f1b78a06085524f3516339438155fd681243f0b": 1786999197.220122,
     "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
+    "330b627c27d79a0087f85c9b69a1448808170ed7191b776319dd2fd50051b684": 1787680851.7576313,
     "330f2d040219e1e6c4dcc22d733f076d3a4a074f0507aba11c43456c19dd5134": 1787597685.6908643,
     "3461fd6e09582df2fe55da57e94c4789ed04e2bc8b96195da74a9525f8765c66": 1787156363.9804044,
     "34a524a5f373d24181668f6cbdc839f8451524e9f2b834c39ebf7df6450bb774": 1786923093.9291263,
