@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787670603.2784553,
+  "last_post_at": 1787676712.1392136,
   "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Web3 & Digital Assets"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Bloomberg",
     "Tech Times",
     "The Business Journals",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Pulse 2.0",
     "24/7 Wall St.",
-    "AI Insider",
-    "Decrypt"
+    "AI Insider"
   ],
   "recent_titles": [
+    "Accel-backed Keenable is indexing the web for AI agents",
     "AI Security Startup Working With Anthropic and Google Raises $140 Million",
     "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review",
     "Real Brokerage completes $880M Re/Max acquisition, creating one of nation's largest brokerages",
@@ -160,8 +161,7 @@
     "Rogue ransomware affiliate poses as data recovery firm to steal payments",
     "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
     "Andrews Launch Accelerator Showcases 10 Startups at 2026 Demo Day",
-    "Discovered Materials Announces $9M Funding Round To Deploy AI Agents In Search Of Cooler Chip Materials",
-    "Anthropic Just Doubled OpenAI’s Revenue. Is Its $2 Trillion IPO Getting Too Much Hype?"
+    "Discovered Materials Announces $9M Funding Round To Deploy AI Agents In Search Of Cooler Chip Materials"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -310,6 +310,7 @@
     "5aaf349657aca5fa98e6218512496f8139df89935004380bf71754f410ac84f6": 1787325537.7836702,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
+    "5c00cdd9e23d4536cb9926708357f9a85b0d09802e93edd563370af5e6474f1b": 1787676712.1392136,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
     "5ccecbf10f9f08c1f96decf3a031f639fa77e11657d618dc40b3ba746451e185": 1787018589.6494143,
     "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
