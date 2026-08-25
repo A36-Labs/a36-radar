@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787641445.0966907,
+  "last_post_at": 1787648096.201888,
   "last_urgent_at": 1787635317.7241771,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "VC & Accelerators",
     "Startups & Funding",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "Disrupt Africa",
     "Reuters",
     "Reuters",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "FF News",
     "Cointelegraph",
-    "The Economic Times",
-    "GuruFocus"
+    "The Economic Times"
   ],
   "recent_titles": [
+    "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
     "SA energy startup Yellow raises undisclosed Series C funding round -",
     "Nvidia shares set for $280 billion price swing after earnings, options show",
     "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
@@ -160,8 +161,7 @@
     "Datavault AI Agrees to Acquire BankWyse Subject to Regulatory Approval and Customary Closing Conditions",
     "Inference chip startup Etched raises $700m, doubles valuation to $21bn",
     "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
-    "Datavault AI Shares Tumble Amid Earnings Miss, Dilution Fears, and Acquisition Concerns",
-    "Peppy Secures Pre-Seed Funding to Build Coding Platform for Humanoid Robotics"
+    "Datavault AI Shares Tumble Amid Earnings Miss, Dilution Fears, and Acquisition Concerns"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -415,6 +415,7 @@
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a2b977823f374cf24f0dc19df4f5c0f1658eccbfd726db9d66d9377935295df1": 1787079745.2236626,
+    "a2ded51fc291c64f9f38a94e7370c47d9c5c58461872df7e5dcbfa151b483a1b": 1787648096.201888,
     "a3beb18fd80032bff2d3f71748635e0934f4862a1e7d1d7a74b16788f5367359": 1786870305.9517193,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
