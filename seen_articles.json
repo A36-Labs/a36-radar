@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787694502.947729,
+  "last_post_at": 1787698174.6074634,
   "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
-    "Policy & Regulation",
-    "AI & Agents"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Bloomberg",
     "Dealroom",
     "Beinsure",
     "Binance",
@@ -38,10 +39,10 @@
     "Reuters",
     "AOL.com",
     "Nikkei Asia",
-    "The National Law Review",
-    "Decrypt"
+    "The National Law Review"
   ],
   "recent_titles": [
+    "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion",
     "Tim Draper's $80M Orion Fund launches Cardano accelerator",
     "Comcast $117.5 mn data breach settlement wins federal approval",
     "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch",
@@ -160,8 +161,7 @@
     "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
     "SEC Crypto Regulation New Rule Explained: Issuance and Fundraising Under $5 Million Exempt from Registration—Is the Altcoin Season Coming Back?",
     "SC bridges semiconductor funding gap through capital market solutions",
-    "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission",
-    "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour"
+    "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -354,6 +354,7 @@
     "6e2a6189fdbf65c638f131751654180931f2cc06a0fe0733b8f644ac8844f3fb": 1787660284.9362,
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
+    "6f7c373f3f64d2745a510f3c38c23b98e5f7d4ee87e6d3c006b203bb234d46f9": 1787698174.6074634,
     "70219785f289d7b7f532d03ca78951cf314c8f6f39c56733af9c2294b46d0d73": 1787611687.155361,
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "721589671db35645dad3fb6e7052fa9698cee38b488c8d3aed605cb3a9bff4d9": 1787506807.02646,
