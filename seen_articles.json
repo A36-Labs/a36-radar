@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787657874.3018477,
-  "last_urgent_at": 1787635317.7241771,
+  "last_post_at": 1787660284.9362,
+  "last_urgent_at": 1787660284.9362,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Web3 & Digital Assets",
     "AI & Agents",
-    "AI & Agents",
-    "VC & Accelerators"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "The Business Journals",
     "Open Source For You",
     "finance.biggo.com",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "AI Insider",
     "Decrypt",
     "TechCrunch AI",
-    "TechCrunch AI",
-    "FF News"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Real Brokerage completes $880M Re/Max acquisition, creating one of nation's largest brokerages",
     "Linux Foundation Submits OpenMDW for Open-Source Review",
     "Japan's Consumer Affairs Agency Unveils Interim Proposal for Dark Pattern Regulation; Crypto Assets Likely Excluded",
     "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
@@ -160,8 +161,7 @@
     "Discovered Materials Announces $9M Funding Round To Deploy AI Agents In Search Of Cooler Chip Materials",
     "Anthropic Just Doubled OpenAI’s Revenue. Is Its $2 Trillion IPO Getting Too Much Hype?",
     "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-    "Datavault AI Agrees to Acquire BankWyse Subject to Regulatory Approval and Customary Closing Conditions",
-    "Inference chip startup Etched raises $700m, doubles valuation to $21bn"
+    "Datavault AI Agrees to Acquire BankWyse Subject to Regulatory Approval and Customary Closing Conditions"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -346,6 +346,7 @@
     "6c9dadafcc432488dcd19b3cf56eaa50958fc8e4ca7d759691f39ae98d1485df": 1787617452.8310134,
     "6cac435f878f86e5bfe03e1b7d9f8c4e83442f53fe7fc709094862d1df6cb185": 1786993414.8592236,
     "6d03b537c2fc106ab941c24658d2c09056be88e5877f17817ee6ab4efd47cdf7": 1787092592.5980258,
+    "6e2a6189fdbf65c638f131751654180931f2cc06a0fe0733b8f644ac8844f3fb": 1787660284.9362,
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
     "70219785f289d7b7f532d03ca78951cf314c8f6f39c56733af9c2294b46d0d73": 1787611687.155361,
