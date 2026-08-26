@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787747296.4464016,
-  "last_urgent_at": 1787742972.7388544,
+  "last_post_at": 1787751472.9156222,
+  "last_urgent_at": 1787751472.9156222,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Frontier Tech",
     "AI & Agents",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "citybiz",
     "IBM Newsroom",
     "Crunchbase News",
     "Seeking Alpha",
@@ -38,10 +39,10 @@
     "Binance",
     "simplywall.st",
     "TechCrunch AI",
-    "Bloomberg",
-    "Tech Times"
+    "Bloomberg"
   ],
   "recent_titles": [
+    "Volato Group Signs $500M Merger With Alignment Engine to Build AI Infrastructure Platform",
     "IBM Completes Acquisition of HRL Laboratories to Accelerate the Future of Quantum",
     "Sector Snapshot: Legal Tech Funding Down Slightly From All-Time High",
     "Robotics startup Generalist hits $3B valuation after fresh funding - report",
@@ -160,8 +161,7 @@
     "Castelion raises $1 billion Series C for hypersonic missiles",
     "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
     "$31.1m ARPA-H funding for Siemens endovascular robotics",
-    "TrueFoundry debuts open-source AI agent harness, claiming up to 75% lower costs",
-    "CISA warns of hackers exploiting critical MLflow vulnerability"
+    "TrueFoundry debuts open-source AI agent harness, claiming up to 75% lower costs"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -287,6 +287,7 @@
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "466e50702af82a8c63600ad67eac0b4298cc1e9f61a7bb7aa85c4caa5862167a": 1787475200.0388858,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
+    "47e114ef3466c246bdd0180eaeabd17174195d0d0e1d96ce4573a7c9f57aaefb": 1787751472.9156222,
     "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
     "4ada8966525fb058dcadeb0976cf70c9e79470fc3a68a42832c905ca29f49268": 1785696320.3534908,
