@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787710302.3874457,
+  "last_post_at": 1787714934.089281,
   "last_urgent_at": 1787710302.3874457,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Technology Magazine",
     "TechCrunch",
     "BleepingComputer",
     "Bloomberg",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "Disrupt Africa",
     "Reuters",
-    "Reuters",
-    "AOL.com"
+    "Reuters"
   ],
   "recent_titles": [
+    "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
     "Robotics startup Generalist reaches $3B valuation, sources say",
     "LACMA data breach last year exposed social security and medical data",
     "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion",
@@ -160,8 +161,7 @@
     "BOCHK and Ant International Forge Strategic Partnership to Enhance Cross-border Payment Connectivity and Innovative Corporate Financial Service Solutions Through Fintech",
     "Qualtrics cuts workforce months after closing $6.75 billion acquisition",
     "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
-    "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
-    "SEC Crypto Regulation New Rule Explained: Issuance and Fundraising Under $5 Million Exempt from Registration—Is the Altcoin Season Coming Back?"
+    "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -533,6 +533,7 @@
     "e33ec1a77a87319273092c78283dfa5be9df542939c03f191f5971bdab4b3e54": 1787241771.0023737,
     "e44b5c1eb68a7aed88cdc44daea5e21a54ea77aaf4792a4eea24d70eb0c78c0f": 1787191492.9855237,
     "e5bcff3d805eab9e03292725345a3449041ea96c5254d50234a204c2679cf897": 1786799016.1831157,
+    "e6410aeb30a0a1dd36803a4a98c330c93f40746333760a088a85dda892ed874f": 1787714934.089281,
     "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
