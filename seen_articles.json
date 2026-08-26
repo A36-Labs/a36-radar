@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787714934.089281,
+  "last_post_at": 1787720515.88211,
   "last_urgent_at": 1787710302.3874457,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Technology Magazine",
     "TechCrunch",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "finance.biggo.com",
     "Cointelegraph",
     "Disrupt Africa",
-    "Reuters",
     "Reuters"
   ],
   "recent_titles": [
+    "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
     "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
     "Robotics startup Generalist reaches $3B valuation, sources say",
     "LACMA data breach last year exposed social security and medical data",
@@ -160,8 +161,7 @@
     "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems",
     "BOCHK and Ant International Forge Strategic Partnership to Enhance Cross-border Payment Connectivity and Innovative Corporate Financial Service Solutions Through Fintech",
     "Qualtrics cuts workforce months after closing $6.75 billion acquisition",
-    "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
-    "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding"
+    "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -424,6 +424,7 @@
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
+    "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
     "a2b977823f374cf24f0dc19df4f5c0f1658eccbfd726db9d66d9377935295df1": 1787079745.2236626,
     "a2ded51fc291c64f9f38a94e7370c47d9c5c58461872df7e5dcbfa151b483a1b": 1787648096.201888,
     "a3beb18fd80032bff2d3f71748635e0934f4862a1e7d1d7a74b16788f5367359": 1786870305.9517193,
