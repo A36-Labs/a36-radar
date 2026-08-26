@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787742972.7388544,
+  "last_post_at": 1787747296.4464016,
   "last_urgent_at": 1787742972.7388544,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Startups & Funding",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "AI & Agents",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "IBM Newsroom",
     "Crunchbase News",
     "Seeking Alpha",
     "israeldefense.co.il",
@@ -38,10 +39,10 @@
     "simplywall.st",
     "TechCrunch AI",
     "Bloomberg",
-    "Tech Times",
-    "The Business Journals"
+    "Tech Times"
   ],
   "recent_titles": [
+    "IBM Completes Acquisition of HRL Laboratories to Accelerate the Future of Quantum",
     "Sector Snapshot: Legal Tech Funding Down Slightly From All-Time High",
     "Robotics startup Generalist hits $3B valuation after fresh funding - report",
     "AI Agents Are Getting More Autonomous. Alice Raises $140M to Keep Them in Check",
@@ -160,8 +161,7 @@
     "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
     "$31.1m ARPA-H funding for Siemens endovascular robotics",
     "TrueFoundry debuts open-source AI agent harness, claiming up to 75% lower costs",
-    "CISA warns of hackers exploiting critical MLflow vulnerability",
-    "Critical Zimbra RCE flaw now actively exploited in attacks"
+    "CISA warns of hackers exploiting critical MLflow vulnerability"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -192,6 +192,7 @@
     "0d049354aa285fb1e8b9843acbd28de9bed920d62d6d3e289eef9b25e76dd501": 1787398247.1263301,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
     "0dbdf7a37fd337c174695162f7bc0a021071f430603524b1632bada59366ad61": 1787064426.1464493,
+    "0deb3b9bb62104f895013a778f6b614c14cde8f65f4623de13a64f6016b549e7": 1787747296.4464016,
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
