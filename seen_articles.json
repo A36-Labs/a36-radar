@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787732483.2096062,
+  "last_post_at": 1787738509.3828654,
   "last_urgent_at": 1787710302.3874457,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Frontier Tech",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Policy & Regulation"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Seeking Alpha",
     "israeldefense.co.il",
     "Gasgoo",
     "Help Net Security",
@@ -38,10 +39,10 @@
     "Bloomberg",
     "Tech Times",
     "The Business Journals",
-    "Open Source For You",
-    "finance.biggo.com"
+    "Open Source For You"
   ],
   "recent_titles": [
+    "Robotics startup Generalist hits $3B valuation after fresh funding - report",
     "AI Agents Are Getting More Autonomous. Alice Raises $140M to Keep Them in Check",
     "AI² Robotics and Pharmaron Form Strategic Partnership",
     "Hottest cybersecurity open-source tools of the month: August 2026",
@@ -160,8 +161,7 @@
     "TrueFoundry debuts open-source AI agent harness, claiming up to 75% lower costs",
     "CISA warns of hackers exploiting critical MLflow vulnerability",
     "Critical Zimbra RCE flaw now actively exploited in attacks",
-    "AI Startup Callosum Raises $100 Million to Match Tasks to Chips",
-    "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems"
+    "AI Startup Callosum Raises $100 Million to Match Tasks to Chips"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -443,6 +443,7 @@
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
     "ac909fe660c7b1898a0a488c7c89fe7e9117a25525a3122fbfd2053834489656": 1786655326.0515604,
+    "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
     "ae4d292a1ae8542d5de60c25f74ea99aeaa5f5edcf7c05b769d7570d2e1dee1e": 1786936565.0089798,
     "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
     "af1e53a43fc96adf815e4881706dbf4b647d101d86573736a8abeb592275a53a": 1787348092.8972309,
