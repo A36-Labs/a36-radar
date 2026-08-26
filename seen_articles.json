@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787729021.8901145,
+  "last_post_at": 1787732483.2096062,
   "last_urgent_at": 1787710302.3874457,
   "recent_categories": [
+    "AI & Agents",
     "Frontier Tech",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
-    "Policy & Regulation",
-    "Web3 & Digital Assets"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "israeldefense.co.il",
     "Gasgoo",
     "Help Net Security",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Tech Times",
     "The Business Journals",
     "Open Source For You",
-    "finance.biggo.com",
-    "Cointelegraph"
+    "finance.biggo.com"
   ],
   "recent_titles": [
+    "AI Agents Are Getting More Autonomous. Alice Raises $140M to Keep Them in Check",
     "AI² Robotics and Pharmaron Form Strategic Partnership",
     "Hottest cybersecurity open-source tools of the month: August 2026",
     "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
@@ -160,8 +161,7 @@
     "CISA warns of hackers exploiting critical MLflow vulnerability",
     "Critical Zimbra RCE flaw now actively exploited in attacks",
     "AI Startup Callosum Raises $100 Million to Match Tasks to Chips",
-    "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems",
-    "BOCHK and Ant International Forge Strategic Partnership to Enhance Cross-border Payment Connectivity and Innovative Corporate Financial Service Solutions Through Fintech"
+    "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -451,6 +451,7 @@
     "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
     "b0326add6b3366e2ced18f7260929f3ef6b0f4129e6bf6cbe636331508b33fc2": 1787569154.8820686,
     "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
+    "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
     "b0740fa4a4d016d1f66a741d0ea2c2034fd2709cce0bbfcb698a76e0313a7a32": 1786697552.8316205,
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
     "b1b1c3496b6d56d7f75d567eaa0eb055cc8c6469867a5112a01241b798712928": 1787256948.355934,
