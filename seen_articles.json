@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787771835.3670282,
-  "last_urgent_at": 1787751472.9156222,
+  "last_post_at": 1787782814.1050217,
+  "last_urgent_at": 1787782814.1050217,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
-    "Web3 & Digital Assets",
-    "Frontier Tech"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Cointelegraph",
     "Bloomberg Law News",
     "citybiz",
@@ -38,10 +39,10 @@
     "Bloomberg",
     "Dealroom",
     "Beinsure",
-    "Binance",
-    "simplywall.st"
+    "Binance"
   ],
   "recent_titles": [
+    "Critical Avada WordPress theme flaw enables zero-click RCE",
     "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
     "Academy Mortgage Agrees to $2 Million Data Breach Settlement",
     "Volato Group Signs $500M Merger With Alignment Engine to Build AI Infrastructure Platform",
@@ -160,8 +161,7 @@
     "Castelion hits $13B valuation to mass-produce hypersonic missiles",
     "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
     "Santander Completes Webster Financial Acquisition to Create $327B U.S. Banking Powerhouse",
-    "Castelion raises $1 billion Series C for hypersonic missiles",
-    "Critical Elementor Pro bug exposes WordPress sites to RCE attacks"
+    "Castelion raises $1 billion Series C for hypersonic missiles"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -463,6 +463,7 @@
     "b2d72ad93e326d0bc6b35c6e2019d6da62ebe40b1dcca2c0108e481f2360427b": 1787317627.6383107,
     "b48fffe3d28312b09f276338dfd2d97547e9bc3a48b1ae05dd5831451c8dcea2": 1787652994.1511328,
     "b5600f5fdcf8d09fb04cc31c8874e2925db7100db408e5e45ed3047257bf8bcc": 1786578827.714459,
+    "b57720012f4814984a39e6614e2adbcc69dd8be073258e443de3efc3f672d84f": 1787782814.1050217,
     "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
     "b6926407dce983c3237e90ac8d0ce7699cb5c14da0fca12277cbc7b6094c7749": 1787225827.0607793,
     "b736c8c713573b3f2127339904a2e569bb298eef79c0880ef1ca0588e334a9f3": 1786873651.9186046,
