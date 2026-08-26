@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787698174.6074634,
+  "last_post_at": 1787703941.7011993,
   "last_urgent_at": 1787663904.3709397,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Bloomberg",
     "Dealroom",
     "Beinsure",
@@ -38,10 +39,10 @@
     "Reuters",
     "Reuters",
     "AOL.com",
-    "Nikkei Asia",
-    "The National Law Review"
+    "Nikkei Asia"
   ],
   "recent_titles": [
+    "LACMA data breach last year exposed social security and medical data",
     "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion",
     "Tim Draper's $80M Orion Fund launches Cardano accelerator",
     "Comcast $117.5 mn data breach settlement wins federal approval",
@@ -160,8 +161,7 @@
     "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
     "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
     "SEC Crypto Regulation New Rule Explained: Issuance and Fundraising Under $5 Million Exempt from Registration—Is the Altcoin Season Coming Back?",
-    "SC bridges semiconductor funding gap through capital market solutions",
-    "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission"
+    "SC bridges semiconductor funding gap through capital market solutions"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -491,6 +491,7 @@
     "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
     "cbda1f3b5ced491e787aca0d93f090f4b48a95e5df19f9e72fc3b59457b43794": 1787587182.7922015,
     "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
+    "cd497664fd9f16610a88cf0ced1de2f3f0493c6c075fb3f2a23a0234f36e4fd3": 1787703941.7011993,
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
     "cdc1c1c90291460ace2970bf93f1f419718d4f8ba6749944478cd25975639762": 1786200262.4983444,
