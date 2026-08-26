@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787720515.88211,
+  "last_post_at": 1787725317.6663437,
   "last_urgent_at": 1787710302.3874457,
   "recent_categories": [
+    "Open Source & DevTools",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Help Net Security",
     "CoinDesk",
     "Technology Magazine",
     "TechCrunch",
@@ -38,10 +39,10 @@
     "Open Source For You",
     "finance.biggo.com",
     "Cointelegraph",
-    "Disrupt Africa",
-    "Reuters"
+    "Disrupt Africa"
   ],
   "recent_titles": [
+    "Hottest cybersecurity open-source tools of the month: August 2026",
     "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
     "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
     "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -160,8 +161,7 @@
     "AI Startup Callosum Raises $100 Million to Match Tasks to Chips",
     "US NSF Funds US$1.5B+ In Computing And Open Source Ecosystems",
     "BOCHK and Ant International Forge Strategic Partnership to Enhance Cross-border Payment Connectivity and Innovative Corporate Financial Service Solutions Through Fintech",
-    "Qualtrics cuts workforce months after closing $6.75 billion acquisition",
-    "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000"
+    "Qualtrics cuts workforce months after closing $6.75 billion acquisition"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -577,6 +577,7 @@
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054,
+    "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437,
     "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907,
     "ffdb701222e6522cefb2f79162cc6e4a22130373e5a49150fb61628a772f03f0": 1787450189.1760128
   }
