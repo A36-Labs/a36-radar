@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787841378.0301557,
+  "last_post_at": 1787875111.8864057,
   "last_urgent_at": 1787841378.0301557,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Crunchbase News",
     "StartupHub.ai",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Technology Magazine",
     "TechCrunch",
     "BleepingComputer",
-    "Bloomberg",
-    "Dealroom"
+    "Bloomberg"
   ],
   "recent_titles": [
+    "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
     "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
     "Nvidia Acquires Hugging Face for $12.9 Billion",
     "Critical Avada WordPress theme flaw enables zero-click RCE",
@@ -160,8 +161,7 @@
     "OpenAI is gaining on Anthropic with business users, new data indicates",
     "A look inside former Sequoia investor Jeff Wang's new fund",
     "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-    "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-    "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated"
+    "Castelion hits $13B valuation to mass-produce hypersonic missiles"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -378,6 +378,7 @@
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
     "7cc494b6780f0c072957c8107701c1d40e2d94010c07e1748558e7949f3ff84a": 1786482653.2280223,
     "7d0d6670644089af7b57e63d1ab01cdf595689f6b07efbf123f77d58af37eb77": 1786995375.481608,
+    "7d64e45b4cd22533b1a96c8b4811573acfd55d43625975c8e92a820369199165": 1787875111.8864057,
     "7d6e526bdd621448933573bd0a16a0db51a39b98d945c7d9c34d0ebc766f4a0b": 1787172559.8413188,
     "81221e5bb50279592ca1a779c04b380e50b19d9ae16a605aa2e0476331288b4d": 1786564393.766864,
     "81b5feb85654e1b6bc34cba1dd5dd7861d84269471cb24d17d6dc09b579c3a54": 1786030521.92436,
