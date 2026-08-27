@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787801031.3052645,
-  "last_urgent_at": 1787801031.3052645,
+  "last_post_at": 1787841378.0301557,
+  "last_urgent_at": 1787841378.0301557,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Startups & Funding",
-    "VC & Accelerators",
-    "Policy & Regulation"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "StartupHub.ai",
     "BleepingComputer",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "TechCrunch",
     "BleepingComputer",
     "Bloomberg",
-    "Dealroom",
-    "Beinsure"
+    "Dealroom"
   ],
   "recent_titles": [
+    "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
     "Nvidia Acquires Hugging Face for $12.9 Billion",
     "Critical Avada WordPress theme flaw enables zero-click RCE",
     "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
@@ -160,8 +161,7 @@
     "A look inside former Sequoia investor Jeff Wang's new fund",
     "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
     "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-    "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
-    "Santander Completes Webster Financial Acquisition to Create $327B U.S. Banking Powerhouse"
+    "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -278,6 +278,7 @@
     "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
     "405a737f72d34e5f5945dc1b5de6f89ed79defb98ddece2c46ed01347512d3d3": 1787557378.9805996,
+    "40f566e0a889cf9544b407fc987c5657b7020f63f08b36fbe15003719b549c84": 1787841378.0301557,
     "41919bc662f6d37b285b316687b54c5b8750329807cc7f6304e15487814d3a05": 1787544651.694869,
     "41f519ea8abda45f443e17e133b6408f046afcc62c2d18638dcb5ef23a400ea1": 1785962284.7850716,
     "4213301c3dd74b64a4694164149231f1ef361c7ac4f2672cefa7e0ff1da6f6bf": 1787566821.8918493,
