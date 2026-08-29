@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787973694.947714,
+  "last_post_at": 1787998608.321642,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Frontier Tech",
     "Open Source & DevTools",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "The Daily Star",
     "AI Insider",
     "Tech Times",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "israeldefense.co.il",
     "Gasgoo",
     "Help Net Security",
-    "CoinDesk",
-    "Technology Magazine"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "AI assistant startup Instinct reaches $2.5bn valuation after $250m funding round",
     "Andreessen Horowitz Announces $1.1B 'Machine Age Fund' for AI Hardware & Infrastructure Investments",
     "Nvidia’s $12.9B Hugging Face Deal Must Pass Antitrust Review Its Quasi-Mergers Dodged",
     "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
@@ -160,8 +161,7 @@
     "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
     "Google buys Spirit Airlines' data. KLIA amps security. Spotnana x Singapore Airlines. Atlas' open-source flight booking.",
     "Zscaler (ZS) Falls On AI IPO Buzz, Is It Still 29% Undervalued?",
-    "Learn what VCs actually want, from a founder who’s raised $1B",
-    "OpenAI is gaining on Anthropic with business users, new data indicates"
+    "Learn what VCs actually want, from a founder who’s raised $1B"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -225,6 +225,7 @@
     "1eb08d4f14b003b5c984d5a303417e905ef4c196e106ae5bb8921f501cc6e69d": 1786549445.1848931,
     "1efa96cec47991bbe689dec8d5accc2f0766425ba90dfe25da25f299e02542d7": 1787657874.3018477,
     "1f4f84568005815b241dee2dc14f367068ecdece16fbb955729af479bcfa959d": 1785911922.2202103,
+    "1f80750a77986ed26510a863e3f6418ec287ccf74424757312d41f95cf58a6c1": 1787998608.321642,
     "1ff1ca762979c1e7b111851989827c475ab5e2d515d1e01b90ebc5c8870c6487": 1785971669.730236,
     "2007f4b35fc2d10fa654f0621688f865d6f4175bd28cfc626f6d660cb8f62eef": 1786437608.4053264,
     "2046aaea443bca4a609ca11974287b4df42475d7ee9af3f5749a4f37aacad94c": 1786355033.0926883,
