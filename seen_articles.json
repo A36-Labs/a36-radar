@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788038402.860343,
+  "last_post_at": 1788045996.7369466,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "BankInfoSecurity",
     "CNBC",
     "CBC",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "citybiz",
     "IBM Newsroom",
     "Crunchbase News",
-    "Seeking Alpha",
-    "israeldefense.co.il"
+    "Seeking Alpha"
   ],
   "recent_titles": [
+    "OpenAI Agents Coordinated Hugging Face Breach at Scale",
     "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
     "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
     "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
@@ -160,8 +161,7 @@
     "Anthropic plans IPO that could surpass SpaceX's $75B record, highlighting rapid AI growth.",
     "Founded by former OpenAI executives in 2021, Anthropic has evolved from an underdog into an AI heavyweight. 🤖 A massive $65 billion funding round in May pushed the startup's valuation to $965 billion.",
     "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-    "Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding",
-    "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out"
+    "Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -303,6 +303,7 @@
     "4d71a14a73fb71b8e70683664260a411222bd882e235578c3b6eb544a21eadda": 1785732043.9635842,
     "4da369f1bd5bbb6b8763be9e7b35b0faede3979073bc676f74804647d087978f": 1786109551.9494088,
     "4dbbf0fa95c596d35e4de901db5db6e69858be8a95bdd0d0f63d1a7310ad7ebc": 1786208374.5390155,
+    "4e6d0c7fba9b1d59b60ce3564d363a9df68f3650e07be9c4899cb35d99e8c8cc": 1788045996.7369466,
     "4e8b6ae46c1dc977dd7c1fc40a5c7e950b9605b9cfdd83fd62c6207b03d80fdd": 1787058837.3330169,
     "4e8fd6ce0430ad92f8d1e4fbd3b0c01233c95ddb0d3ea3c058557f6594b08e53": 1786306987.904544,
     "4fac5cb7d3db0ee2bc8c616a0eb74911965db3a7abd75e2ba751b91407deed5c": 1786738054.0460236,
