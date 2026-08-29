@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1787952450.4289844,
+  "last_post_at": 1787973694.947714,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "VC & Accelerators",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "AI Insider",
     "Tech Times",
     "The Hacker News",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "Gasgoo",
     "Help Net Security",
     "CoinDesk",
-    "Technology Magazine",
-    "TechCrunch"
+    "Technology Magazine"
   ],
   "recent_titles": [
+    "Andreessen Horowitz Announces $1.1B 'Machine Age Fund' for AI Hardware & Infrastructure Investments",
     "Nvidia’s $12.9B Hugging Face Deal Must Pass Antitrust Review Its Quasi-Mergers Dodged",
     "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
     "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
@@ -160,12 +161,12 @@
     "Google buys Spirit Airlines' data. KLIA amps security. Spotnana x Singapore Airlines. Atlas' open-source flight booking.",
     "Zscaler (ZS) Falls On AI IPO Buzz, Is It Still 29% Undervalued?",
     "Learn what VCs actually want, from a founder who’s raised $1B",
-    "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "A look inside former Sequoia investor Jeff Wang's new fund"
+    "OpenAI is gaining on Anthropic with business users, new data indicates"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
+    "0184154c16fc8fff7b99fe0dc03f59cbb8f25ef594ed7959d292f11d2e19e254": 1787973694.947714,
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
     "023e421c8ebd7135874440f5cdbf8da090f24255988730f3d9b3edb8ff7d5ae2": 1787055372.781394,
     "028dbd37fe27aaf0f4f9089102dc79bcfb837a5f1f8495c1c2b1cb486f347d8c": 1787691055.905807,
