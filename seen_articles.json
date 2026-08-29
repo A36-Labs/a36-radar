@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788028760.7956045,
+  "last_post_at": 1788038402.860343,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Startups & Funding",
-    "AI & Agents",
-    "Frontier Tech"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "CNBC",
     "CBC",
     "CoinDesk",
     "The Daily Star",
@@ -38,10 +39,10 @@
     "IBM Newsroom",
     "Crunchbase News",
     "Seeking Alpha",
-    "israeldefense.co.il",
-    "Gasgoo"
+    "israeldefense.co.il"
   ],
   "recent_titles": [
+    "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
     "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
     "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
     "AI assistant startup Instinct reaches $2.5bn valuation after $250m funding round",
@@ -160,8 +161,7 @@
     "Founded by former OpenAI executives in 2021, Anthropic has evolved from an underdog into an AI heavyweight. 🤖 A massive $65 billion funding round in May pushed the startup's valuation to $965 billion.",
     "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
     "Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding",
-    "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-    "Google buys Spirit Airlines' data. KLIA amps security. Spotnana x Singapore Airlines. Atlas' open-source flight booking."
+    "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -412,6 +412,7 @@
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
     "8efda7e33af1e040c6f38553360187ff64ab7bb76e504a7013f4279ab02b1983": 1787494162.9885552,
+    "8f81e85f56f6a254ef62776489461c6eccbdbfd679a64fd9de879f892a3f0c67": 1788038402.860343,
     "92a3009e17231e9bd6453730f241770d2851b2620350007e7f8df774c588875c": 1785843383.7002814,
     "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
     "939e3d09acefe233266f144e9df302274bd535df494fbc08965bc1a8468174c8": 1786945566.0214603,
