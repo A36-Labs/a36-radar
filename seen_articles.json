@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788016063.5907354,
+  "last_post_at": 1788028760.7956045,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "AI & Agents",
-    "Frontier Tech",
-    "Open Source & DevTools"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "CBC",
     "CoinDesk",
     "The Daily Star",
     "AI Insider",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "Seeking Alpha",
     "israeldefense.co.il",
-    "Gasgoo",
-    "Help Net Security"
+    "Gasgoo"
   ],
   "recent_titles": [
+    "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
     "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
     "AI assistant startup Instinct reaches $2.5bn valuation after $250m funding round",
     "Andreessen Horowitz Announces $1.1B 'Machine Age Fund' for AI Hardware & Infrastructure Investments",
@@ -160,8 +161,7 @@
     "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
     "Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding",
     "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-    "Google buys Spirit Airlines' data. KLIA amps security. Spotnana x Singapore Airlines. Atlas' open-source flight booking.",
-    "Zscaler (ZS) Falls On AI IPO Buzz, Is It Still 29% Undervalued?"
+    "Google buys Spirit Airlines' data. KLIA amps security. Spotnana x Singapore Airlines. Atlas' open-source flight booking."
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -277,6 +277,7 @@
     "3dacf551e153ce76cb6b9f9d6e3182089f2de7fd70eeacedfb8d2a2ae7922de9": 1786448049.2839653,
     "3dbdc0368d4af84d7bffe0a81d76b2b05f74cae51cafdea002dceef46a1a2a34": 1786881156.4122944,
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
+    "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
     "3ee0b841980729eb49e976da0b6808eef405dbc1b00a15f336a2f4b338644db2": 1785891079.6105769,
     "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
