@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788045996.7369466,
+  "last_post_at": 1788053799.6491952,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "VC & Accelerators",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch",
     "BankInfoSecurity",
     "CNBC",
     "CBC",
@@ -38,10 +39,10 @@
     "Bloomberg Law News",
     "citybiz",
     "IBM Newsroom",
-    "Crunchbase News",
-    "Seeking Alpha"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z",
     "OpenAI Agents Coordinated Hugging Face Breach at Scale",
     "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
     "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
@@ -160,8 +161,7 @@
     "Laser Digital Japan obtains regulatory approval to provide institutional crypto services in Japan",
     "Anthropic plans IPO that could surpass SpaceX's $75B record, highlighting rapid AI growth.",
     "Founded by former OpenAI executives in 2021, Anthropic has evolved from an underdog into an AI heavyweight. 🤖 A massive $65 billion funding round in May pushed the startup's valuation to $965 billion.",
-    "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-    "Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding"
+    "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -252,6 +252,7 @@
     "2eee3a18be91b01f97c7852c94a329067c8dc4d60e64716b02b57e36af2010ee": 1787604824.7737763,
     "2f8a9a6206f96b97d0cc4bca93ac68d074bd528bef4cd42c9dc90b5a32f3b2cc": 1786665181.9794347,
     "305896946b83d31b37ff63c6a72ea296c3530ab0d51ca08a72bd58d92516257d": 1785880829.87872,
+    "3098e856648a318a4641c38f88f304e57d0dd46ccf01faa088d6a38354dbbfa9": 1788053799.6491952,
     "3104d2fa476d8ada84f363720f1b78a06085524f3516339438155fd681243f0b": 1786999197.220122,
     "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
