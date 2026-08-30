@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788120086.473551,
+  "last_post_at": 1788129700.2553298,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Open Source & DevTools",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Web3 & Digital Assets"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Mashable",
     "Decrypt",
     "AMBCrypto",
     "SMBtech",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "Crunchbase News",
     "StartupHub.ai",
-    "BleepingComputer",
-    "Cointelegraph"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Hugging Face launches Microduck, a $399 open-source robot duck",
     "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
     "Bitcoin shorts squeezed $6.55B in August – Weak demand raises September doubts",
     "Ticket Resale Platform Tixel Warns Users Of Data Breach In Metabase Zero-Day Attack",
@@ -160,8 +161,7 @@
     "The DOJ is investigating a16z. What does this mean for venture capital?",
     "Robotics AI Firm Dexmal Seeks $3 Billion Valuation in New Funding Round",
     "Motorola Solutions Completes $1.5 Billion Acquisition of D-Fend Solutions",
-    "US Bank Investigating Data Breach Following LockBit Ransomware Claim",
-    "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges"
+    "US Bank Investigating Data Breach Following LockBit Ransomware Claim"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -371,6 +371,7 @@
     "70219785f289d7b7f532d03ca78951cf314c8f6f39c56733af9c2294b46d0d73": 1787611687.155361,
     "71272675513bc6dddceac186b236c80c1747777e15a8fa02c561e5b36d9a58b4": 1786732200.713787,
     "721589671db35645dad3fb6e7052fa9698cee38b488c8d3aed605cb3a9bff4d9": 1787506807.02646,
+    "72440f6ab8bd7d5b185d74b7aa15004754a5772eeec947414e3f58a6db1c733b": 1788129700.2553298,
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
