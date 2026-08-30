@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788095724.2149377,
+  "last_post_at": 1788111405.2985842,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "AMBCrypto",
     "SMBtech",
     "The Indian Express",
     "TechCrunch",
@@ -38,10 +39,10 @@
     "StartupHub.ai",
     "BleepingComputer",
     "Cointelegraph",
-    "Bloomberg Law News",
-    "citybiz"
+    "Bloomberg Law News"
   ],
   "recent_titles": [
+    "Bitcoin shorts squeezed $6.55B in August – Weak demand raises September doubts",
     "Ticket Resale Platform Tixel Warns Users Of Data Breach In Metabase Zero-Day Attack",
     "Google changes spam policy in EU to avert antitrust fine",
     "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z",
@@ -160,8 +161,7 @@
     "Motorola Solutions Completes $1.5 Billion Acquisition of D-Fend Solutions",
     "US Bank Investigating Data Breach Following LockBit Ransomware Claim",
     "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-    "Laser Digital Japan obtains regulatory approval to provide institutional crypto services in Japan",
-    "Anthropic plans IPO that could surpass SpaceX's $75B record, highlighting rapid AI growth."
+    "Laser Digital Japan obtains regulatory approval to provide institutional crypto services in Japan"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -186,6 +186,7 @@
     "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
     "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
     "09b14b41ce96d7df35edc69d40847f1d86f6f88dd209a283451c8413afcb24f8": 1786927824.37008,
+    "0a62a1d480ab92a967acd1d75084a4322aedb72afc56893e6421b1ee4fbf9d6d": 1788111405.2985842,
     "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
