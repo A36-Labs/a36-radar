@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788188548.1795115,
+  "last_post_at": 1788209247.7558284,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
-    "Cybersecurity & Cloud",
-    "AI & Agents"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Happiest Minds",
     "Crunchbase News",
     "Global Cosmetics News",
     "StartupHub.ai",
@@ -38,10 +39,10 @@
     "The Daily Star",
     "AI Insider",
     "Tech Times",
-    "The Hacker News",
     "The Hacker News"
   ],
   "recent_titles": [
+    "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise with US$ 1 billion Revenue by FY28 - HappiestMinds",
     "Biotech Startup Investment Held Steady Even As AI Funding Surged",
     "Oura Targets US$3 Billion IPO at More Than US$16 Billion Valuation",
     "a16z Launches $1.1B Machine Age Fund for AI",
@@ -160,8 +161,7 @@
     "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
     "IBM And Together AI Sign $240 Million Multi-Year Deal For Large-Scale NVIDIA B300 AI Inference Cluster",
     "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund",
-    "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
-    "The DOJ is investigating a16z. What does this mean for venture capital?"
+    "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -242,6 +242,7 @@
     "282ffb304b8120f0d715fa4723c5daa8542aaaceb612d34713e51d70e8ea32f5": 1788095724.2149377,
     "287a6025f27bbd2beade61f91db21689458afb6d3db5964df5c955400128672a": 1787729021.8901145,
     "28c342dfe2518cd11f2c6c83e41e34f69076a9ba80b26c3e02131d2704d9d98f": 1787220911.4832492,
+    "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
     "2a4cfec7518b10e73fddcfd667f4be7fa9672024f9dfc491bde70eebb34f0ebd": 1787351765.5914705,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c3779acf92f34fd4c6ede6416f03cf9df3e3448545860de546f8267344f26e2": 1787113175.5624294,
