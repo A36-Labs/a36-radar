@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788159512.2339423,
+  "last_post_at": 1788188548.1795115,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
-    "AI & Agents",
-    "Startups & Funding"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "Global Cosmetics News",
     "StartupHub.ai",
     "Mashable",
@@ -38,10 +39,10 @@
     "AI Insider",
     "Tech Times",
     "The Hacker News",
-    "The Hacker News",
-    "Crunchbase News"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Biotech Startup Investment Held Steady Even As AI Funding Surged",
     "Oura Targets US$3 Billion IPO at More Than US$16 Billion Valuation",
     "a16z Launches $1.1B Machine Age Fund for AI",
     "Hugging Face launches Microduck, a $399 open-source robot duck",
@@ -160,8 +161,7 @@
     "IBM And Together AI Sign $240 Million Multi-Year Deal For Large-Scale NVIDIA B300 AI Inference Cluster",
     "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund",
     "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
-    "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "Robotics AI Firm Dexmal Seeks $3 Billion Valuation in New Funding Round"
+    "The DOJ is investigating a16z. What does this mean for venture capital?"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -594,6 +594,7 @@
     "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
     "f62e0a29a8a1a1b74c61ac5b75717b6756cb046b81696a7c5be42f6f6ea2b457": 1787483278.7103639,
     "f6a52acfe2827e41aff5f76f8b30b26c9fd1dca48115e9908b0607f539f99d72": 1787061674.5283573,
+    "f73baa1cb8ab1a79c519f1dc863a3000230f11fd26f8eabae98b508e649bd84f": 1788188548.1795115,
     "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "f79c0da3ff22536e088a5a5df4537c876ab52779b47ee8b7dbf45834cadd0e4f": 1786826091.8259943,
     "f7e916032b1b1a9f88d4f64421c97ff2babd114ac47bf6cf1f48debc2c0ef91a": 1786779523.6138108,
