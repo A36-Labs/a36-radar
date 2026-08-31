@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788137759.5588465,
+  "last_post_at": 1788159512.2339423,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Cybersecurity & Cloud",
     "AI & Agents",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Global Cosmetics News",
     "StartupHub.ai",
     "Mashable",
     "Decrypt",
@@ -38,10 +39,10 @@
     "Tech Times",
     "The Hacker News",
     "The Hacker News",
-    "Crunchbase News",
-    "StartupHub.ai"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Oura Targets US$3 Billion IPO at More Than US$16 Billion Valuation",
     "a16z Launches $1.1B Machine Age Fund for AI",
     "Hugging Face launches Microduck, a $399 open-source robot duck",
     "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
@@ -160,8 +161,7 @@
     "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund",
     "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
     "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "Robotics AI Firm Dexmal Seeks $3 Billion Valuation in New Funding Round",
-    "Motorola Solutions Completes $1.5 Billion Acquisition of D-Fend Solutions"
+    "Robotics AI Firm Dexmal Seeks $3 Billion Valuation in New Funding Round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -603,6 +603,7 @@
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
+    "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
     "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054,
     "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437,
     "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907,
