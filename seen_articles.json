@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788297458.911165,
-  "last_urgent_at": 1788287087.1918485,
+  "last_post_at": 1788305008.7645707,
+  "last_urgent_at": 1788305008.7645707,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "VC & Accelerators",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Ortho Spine News",
     "citybiz",
     "The Information",
@@ -38,10 +39,10 @@
     "SMBtech",
     "The Indian Express",
     "TechCrunch",
-    "BankInfoSecurity",
-    "CNBC"
+    "BankInfoSecurity"
   ],
   "recent_titles": [
+    "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
     "Cornerstone Robotics Announces Strategic Partnership with Medtronic to Expand Global Access to Robotic-assisted Surgery – Ortho Spine News",
     "Sequoia Financial Acquires $2.3 Billion BSW Wealth Partners, Expands in Colorado",
     "Wafer, An Inference Provider That Uses Non-Nvidia Chips, Lands Acquisition Offers and $200 Million-Plus Valuation",
@@ -160,8 +161,7 @@
     "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
     "Apollo Global confirms data breach amid cyber wave targeting financial giants",
     "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets",
-    "Binance founder Changpeng Zhao: U.S. is a leader in blockchain regulation",
-    "Japanese space tech startup Letara expands beyond satellite thrusters with $16M"
+    "Binance founder Changpeng Zhao: U.S. is a leader in blockchain regulation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -421,6 +421,7 @@
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
     "8efda7e33af1e040c6f38553360187ff64ab7bb76e504a7013f4279ab02b1983": 1787494162.9885552,
+    "8f68d9cae058456e758b40ae39692cea581ac9ec9e5e16ffcbae6b6584bb6e26": 1788305008.7645707,
     "8f81e85f56f6a254ef62776489461c6eccbdbfd679a64fd9de879f892a3f0c67": 1788038402.860343,
     "92a3009e17231e9bd6453730f241770d2851b2620350007e7f8df774c588875c": 1785843383.7002814,
     "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
