@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788287087.1918485,
+  "last_post_at": 1788297458.911165,
   "last_urgent_at": 1788287087.1918485,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "VC & Accelerators",
     "AI & Agents",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Ortho Spine News",
     "citybiz",
     "The Information",
     "Reuters",
@@ -38,10 +39,10 @@
     "The Indian Express",
     "TechCrunch",
     "BankInfoSecurity",
-    "CNBC",
-    "CBC"
+    "CNBC"
   ],
   "recent_titles": [
+    "Cornerstone Robotics Announces Strategic Partnership with Medtronic to Expand Global Access to Robotic-assisted Surgery – Ortho Spine News",
     "Sequoia Financial Acquires $2.3 Billion BSW Wealth Partners, Expands in Colorado",
     "Wafer, An Inference Provider That Uses Non-Nvidia Chips, Lands Acquisition Offers and $200 Million-Plus Valuation",
     "Key Issues in Consumer Data Breach Litigation",
@@ -160,8 +161,7 @@
     "Apollo Global confirms data breach amid cyber wave targeting financial giants",
     "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets",
     "Binance founder Changpeng Zhao: U.S. is a leader in blockchain regulation",
-    "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-    "AI startup Rillet has raised $100 million at a valuation of $1 billion"
+    "Japanese space tech startup Letara expands beyond satellite thrusters with $16M"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -237,6 +237,7 @@
     "22983ac0f2ba2ca3f9f4bffc5c2342c493a2abae4b233f48709a54572db9f0e3": 1787085342.907133,
     "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
     "25c8a2e84bf0eca74338536bf6f3d1fb8d992a313533f368c16059f6ce9f0603": 1787168692.4900212,
+    "2713abeb4ddcce6c46331c98ff7cab8df5b5db3c9db08ecda7315db3a9b83248": 1788297458.911165,
     "27a725fb7a204246324449fd6522faac9bce4068f72f38fbf20eae7c0ad4130c": 1787001132.3535445,
     "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
     "282ffb304b8120f0d715fa4723c5daa8542aaaceb612d34713e51d70e8ea32f5": 1788095724.2149377,
