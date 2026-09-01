@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788221279.4683597,
+  "last_post_at": 1788240033.3996158,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Policy & Regulation",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "VC & Accelerators",
-    "Policy & Regulation"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "The Economic Times",
     "Bitcoin News",
     "Happiest Minds",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "CBC",
     "CoinDesk",
     "The Daily Star",
-    "AI Insider",
-    "Tech Times"
+    "AI Insider"
   ],
   "recent_titles": [
+    "US to press G20 on light-touch AI regulation",
     "Bitwise’s Solana ETF Hits $1 Billion AUM Just 10 Months After Launch",
     "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise with US$ 1 billion Revenue by FY28 - HappiestMinds",
     "Biotech Startup Investment Held Steady Even As AI Funding Surged",
@@ -160,8 +161,7 @@
     "AI startup Rillet has raised $100 million at a valuation of $1 billion",
     "Orbital data center startup Starcloud valued at US$2.3 billion in latest funding",
     "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
-    "IBM And Together AI Sign $240 Million Multi-Year Deal For Large-Scale NVIDIA B300 AI Inference Cluster",
-    "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund"
+    "IBM And Together AI Sign $240 Million Multi-Year Deal For Large-Scale NVIDIA B300 AI Inference Cluster"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -512,6 +512,7 @@
     "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
     "c3ceed21b1b47dd5f5e06fade9cae563879e87a9d313577f51d40ec83990243a": 1787760232.7327974,
     "c41a8a984840198774fdc7609c2bbcdb15026000f32a4b2a3180e9ceea04a4e2": 1787571543.6092925,
+    "c46c642258dac5e844877adf8fd9c6d7e738cdc0bd4404a91f3aa07810454c70": 1788240033.3996158,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
     "c6ed841213b85f19c9a605ad88649dd1f6fa3152f9db2826fd5dc7cc01998702": 1787049657.241761,
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
