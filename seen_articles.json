@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788209247.7558284,
+  "last_post_at": 1788221279.4683597,
   "last_urgent_at": 1787915790.70858,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "VC & Accelerators",
-    "Policy & Regulation",
-    "Cybersecurity & Cloud"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Bitcoin News",
     "Happiest Minds",
     "Crunchbase News",
     "Global Cosmetics News",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "The Daily Star",
     "AI Insider",
-    "Tech Times",
-    "The Hacker News"
+    "Tech Times"
   ],
   "recent_titles": [
+    "Bitwise’s Solana ETF Hits $1 Billion AUM Just 10 Months After Launch",
     "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise with US$ 1 billion Revenue by FY28 - HappiestMinds",
     "Biotech Startup Investment Held Steady Even As AI Funding Surged",
     "Oura Targets US$3 Billion IPO at More Than US$16 Billion Valuation",
@@ -160,8 +161,7 @@
     "Orbital data center startup Starcloud valued at US$2.3 billion in latest funding",
     "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
     "IBM And Together AI Sign $240 Million Multi-Year Deal For Large-Scale NVIDIA B300 AI Inference Cluster",
-    "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund",
-    "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies"
+    "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -409,6 +409,7 @@
     "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
     "893ba463c4614a3dc8f8e611f416c364824a5a7bf23cb75d1a5c8f5a39711ca3": 1787710302.3874457,
     "89597237bc5be98a28d9a8e4590ed3cc6388dd84c95b4be83b593914b5c45e51": 1785975247.2482498,
+    "8987660ab62494e22ea28eb412d924a3a6f257100ae3e1defcf50bd3b079342b": 1788221279.4683597,
     "8a49aacf01cb0d13aa17f09416e72f161c03989a9b0a40e6a38d2f45984010ad": 1787203132.680748,
     "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
     "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
