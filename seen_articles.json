@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788347465.0073433,
-  "last_urgent_at": 1788347465.0073433,
+  "last_post_at": 1788361744.3495393,
+  "last_urgent_at": 1788361744.3495393,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Crunchbase News",
     "The Business Times",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "StartupHub.ai",
     "Mashable",
     "Decrypt",
-    "AMBCrypto",
-    "SMBtech"
+    "AMBCrypto"
   ],
   "recent_titles": [
+    "AI Startup Wonderful Raises Funds at $5 Billion Valuation",
     "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
     "Goldman Sachs, BofA among 21 firms planning joint US dollar stablecoin launch in 2027",
     "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
@@ -160,8 +161,7 @@
     "Anthropic Aims for Record $2 Trillion IPO",
     "Armenia’s tax authorities discuss crypto assets, blockchain regulation",
     "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
-    "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week",
-    "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show"
+    "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -186,6 +186,7 @@
     "088e6666ceb893fa35b2a99ed49d134d38bf12f8f5ec9412276e21392f09c168": 1788016063.5907354,
     "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
     "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
+    "096f3703717dd029a0f5610cfa5503f4adb12114670274b0ff989087c984194b": 1788361744.3495393,
     "09b14b41ce96d7df35edc69d40847f1d86f6f88dd209a283451c8413afcb24f8": 1786927824.37008,
     "0a62a1d480ab92a967acd1d75084a4322aedb72afc56893e6421b1ee4fbf9d6d": 1788111405.2985842,
     "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
