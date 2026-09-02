@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788384168.1467261,
-  "last_urgent_at": 1788374867.2442904,
+  "last_post_at": 1788391925.1213722,
+  "last_urgent_at": 1788391925.1213722,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "VC & Accelerators",
-    "Open Source & DevTools"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "Reuters",
     "TechCrunch Startups",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "Happiest Minds",
     "Crunchbase News",
     "Global Cosmetics News",
-    "StartupHub.ai",
-    "Mashable"
+    "StartupHub.ai"
   ],
   "recent_titles": [
+    "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "Mamdani announces AI ban for young students in NYC schools",
     "Wonderful more than doubles its valuation to $5B in under 6 months",
     "AI Startup Wonderful Raises Funds at $5 Billion Valuation",
@@ -160,8 +161,7 @@
     "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
     "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
     "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration",
-    "Anthropic Aims for Record $2 Trillion IPO",
-    "Armenia’s tax authorities discuss crypto assets, blockchain regulation"
+    "Anthropic Aims for Record $2 Trillion IPO"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -359,6 +359,7 @@
     "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
     "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
     "68c502297e8380dee9c0161fb5508bcd22632a97fa51c211c91ebe6ba7a93c1d": 1787627453.081897,
+    "68df9e41a4d8089da9c736576605137c267ec6c5d95dcaeec97712ed4cc36891": 1788391925.1213722,
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
     "6a24ef4438650f07bb5c8cb8015937d6e1747796cc26d7227b85898766533e9c": 1787288414.3659408,
     "6aa90119eaa0c075a286a9b48a6bbfce6aa69c6c16be2cf83ef772947658d1e4": 1787022341.7641623,
