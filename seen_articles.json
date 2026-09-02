@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788312052.0877054,
+  "last_post_at": 1788328875.5095563,
   "last_urgent_at": 1788312052.0877054,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Policy & Regulation",
-    "VC & Accelerators"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "The Business Times",
     "Bloomberg.com",
     "TechCrunch AI",
     "Ortho Spine News",
@@ -38,10 +39,10 @@
     "Decrypt",
     "AMBCrypto",
     "SMBtech",
-    "The Indian Express",
-    "TechCrunch"
+    "The Indian Express"
   ],
   "recent_titles": [
+    "Goldman Sachs, BofA among 21 firms planning joint US dollar stablecoin launch in 2027",
     "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
     "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
     "Cornerstone Robotics Announces Strategic Partnership with Medtronic to Expand Global Access to Robotic-assisted Surgery – Ortho Spine News",
@@ -160,8 +161,7 @@
     "Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution",
     "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week",
     "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
-    "Apollo Global confirms data breach amid cyber wave targeting financial giants",
-    "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets"
+    "Apollo Global confirms data breach amid cyber wave targeting financial giants"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -454,6 +454,7 @@
     "a3beb18fd80032bff2d3f71748635e0934f4862a1e7d1d7a74b16788f5367359": 1786870305.9517193,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5a75ccbd53073866f02767a951b239506be5b34bca2037619c7c27e918fd57b": 1785766237.0923162,
+    "a5ef68d3910a2bf197a170f8d68b8fa03d3c0ce9e7ba5d68cd8fe2de7a84099d": 1788328875.5095563,
     "a631af890f28cf7aa4b22e547f29ce3e9764600842d228bcbaab1d550a346fb2": 1786742063.802998,
     "a6a439c8770542d649d1e4895fb52644eafcbf9e2038cd18377750ce96dbe41f": 1787581323.1705828,
     "a75e7bc2283f64fddc5fb8a168ef577e62e1299aad0cbb3001dd3060170f1d8d": 1787525675.3609865,
