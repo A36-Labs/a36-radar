@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788305008.7645707,
-  "last_urgent_at": 1788305008.7645707,
+  "last_post_at": 1788312052.0877054,
+  "last_urgent_at": 1788312052.0877054,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "VC & Accelerators",
-    "AI & Agents"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "TechCrunch AI",
     "Ortho Spine News",
     "citybiz",
@@ -38,10 +39,10 @@
     "AMBCrypto",
     "SMBtech",
     "The Indian Express",
-    "TechCrunch",
-    "BankInfoSecurity"
+    "TechCrunch"
   ],
   "recent_titles": [
+    "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
     "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
     "Cornerstone Robotics Announces Strategic Partnership with Medtronic to Expand Global Access to Robotic-assisted Surgery – Ortho Spine News",
     "Sequoia Financial Acquires $2.3 Billion BSW Wealth Partners, Expands in Colorado",
@@ -160,8 +161,7 @@
     "From Navi To BookMyShow — Indian Startups Raised Over $233 Mn This Week",
     "Trump-backed $4 billion USD1 stablecoin has wallet powers its own GitHub does not show",
     "Apollo Global confirms data breach amid cyber wave targeting financial giants",
-    "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets",
-    "Binance founder Changpeng Zhao: U.S. is a leader in blockchain regulation"
+    "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -593,6 +593,7 @@
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
+    "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
     "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
