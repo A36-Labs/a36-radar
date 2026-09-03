@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788398694.761299,
+  "last_post_at": 1788416853.7417564,
   "last_urgent_at": 1788391925.1213722,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Firstpost",
     "Reuters",
     "TechCrunch Startups",
     "Reuters",
@@ -38,10 +39,10 @@
     "The Economic Times",
     "Bitcoin News",
     "Happiest Minds",
-    "Crunchbase News",
-    "Global Cosmetics News"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Meta launches Muse Spark 1.3 with stronger coding and AI agents to rival OpenAI, Anthropic",
     "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
     "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "Mamdani announces AI ban for young students in NYC schools",
@@ -160,12 +161,12 @@
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
     "Hackers infect Android car head units with proxy botnet malware",
     "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
-    "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-    "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration"
+    "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
+    "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
     "0184154c16fc8fff7b99fe0dc03f59cbb8f25ef594ed7959d292f11d2e19e254": 1787973694.947714,
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
     "023e421c8ebd7135874440f5cdbf8da090f24255988730f3d9b3edb8ff7d5ae2": 1787055372.781394,
