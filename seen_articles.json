@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788448537.5903924,
-  "last_urgent_at": 1788448537.5903924,
+  "last_post_at": 1788461169.5458953,
+  "last_urgent_at": 1788461169.5458953,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Policy & Regulation",
-    "Web3 & Digital Assets"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "BleepingComputer",
     "Crunchbase News",
     "Firstpost",
@@ -38,10 +39,10 @@
     "citybiz",
     "The Information",
     "Reuters",
-    "The Economic Times",
-    "Bitcoin News"
+    "The Economic Times"
   ],
   "recent_titles": [
+    "HPE patches critical ArubaOS-CX remote code execution flaw",
     "Critical Elementor Pro flaw exploited to take over WordPress sites",
     "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
     "Meta launches Muse Spark 1.3 with stronger coding and AI agents to rival OpenAI, Anthropic",
@@ -160,8 +161,7 @@
     "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation",
     "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "Anthropic IPO Filing Expected to Flag AI Backlash Risk",
-    "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
-    "Hackers infect Android car head units with proxy botnet malware"
+    "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -590,6 +590,7 @@
     "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
     "eaaf5a157c8de8ee22df43705585f287b3d8b657e20915d4f48b101746dfa799": 1787003114.2899542,
     "eae4cfafee8a522445f6bfbe3d5fc21a42d52abea3507f10c4f82118521f34e5": 1786898237.27734,
+    "eb8daa4f117d5e0f9497831782b5d00f37078953bb1c7eecbe0d24e33d48656f": 1788461169.5458953,
     "ebeecb98b2e868b05f0f2cd0a3c1ba421cdc2e9f680eb4a74608fc2289e351ad": 1786850985.513769,
     "ec325e48699aff259f3c190990d79324ad6412507b77bc12ae8b53c302aaa037": 1786641541.2733517,
     "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
