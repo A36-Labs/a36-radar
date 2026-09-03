@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788391925.1213722,
+  "last_post_at": 1788398694.761299,
   "last_urgent_at": 1788391925.1213722,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "VC & Accelerators"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Reuters",
     "TechCrunch Startups",
     "Reuters",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "Bitcoin News",
     "Happiest Minds",
     "Crunchbase News",
-    "Global Cosmetics News",
-    "StartupHub.ai"
+    "Global Cosmetics News"
   ],
   "recent_titles": [
+    "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
     "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "Mamdani announces AI ban for young students in NYC schools",
     "Wonderful more than doubles its valuation to $5B in under 6 months",
@@ -160,8 +161,7 @@
     "Hackers infect Android car head units with proxy botnet malware",
     "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
     "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-    "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration",
-    "Anthropic Aims for Record $2 Trillion IPO"
+    "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -328,6 +328,7 @@
     "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
     "5a0a747bce27385009d962eb4df19b30a27ad65b9c5b2810f17d03d2e141b025": 1787213318.7159805,
     "5aaf349657aca5fa98e6218512496f8139df89935004380bf71754f410ac84f6": 1787325537.7836702,
+    "5b3da35fdcbd4b329dbc371019606e2a0b88b220644de6a605d4255eb1474b44": 1788398694.761299,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c00cdd9e23d4536cb9926708357f9a85b0d09802e93edd563370af5e6474f1b": 1787676712.1392136,
