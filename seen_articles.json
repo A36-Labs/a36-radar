@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788461169.5458953,
+  "last_post_at": 1788470810.4387414,
   "last_urgent_at": 1788461169.5458953,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Decrypt",
     "BleepingComputer",
     "BleepingComputer",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "Ortho Spine News",
     "citybiz",
     "The Information",
-    "Reuters",
-    "The Economic Times"
+    "Reuters"
   ],
   "recent_titles": [
+    "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
     "HPE patches critical ArubaOS-CX remote code execution flaw",
     "Critical Elementor Pro flaw exploited to take over WordPress sites",
     "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
@@ -160,8 +161,7 @@
     "Chip startup Velaura AI hits $1 billion valuation in $110 million round",
     "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation",
     "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "Anthropic IPO Filing Expected to Flag AI Backlash Risk",
-    "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI"
+    "Anthropic IPO Filing Expected to Flag AI Backlash Risk"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -317,6 +317,7 @@
     "4e8fd6ce0430ad92f8d1e4fbd3b0c01233c95ddb0d3ea3c058557f6594b08e53": 1786306987.904544,
     "4fac5cb7d3db0ee2bc8c616a0eb74911965db3a7abd75e2ba751b91407deed5c": 1786738054.0460236,
     "4fea26894126d71cb2207cc77254dbfcaf76e1286d21a4b7cdd0fcda07b49530": 1786120186.3708677,
+    "50ca9dd4339b5d2719b734fb6b35acc19207b96ecb2b76b3a935f0a61db607ff": 1788470810.4387414,
     "510a20545ea61ca34bda6b630a51fae0b45b9d0e00db74bc47db8ed4f1c7fb36": 1785704857.7401912,
     "51fb164ea333213f45697dd315ccc7e8f1c8b4ee0425f36ebb8fe1ba8b3dba12": 1787670603.2784553,
     "541d51116d515c5e6fbac4c70011970bed46caa9ce367915f6d90b35f1ff0847": 1787366557.2543042,
