@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788435643.6970878,
-  "last_urgent_at": 1788435643.6970878,
+  "last_post_at": 1788448537.5903924,
+  "last_urgent_at": 1788448537.5903924,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Crunchbase News",
     "Firstpost",
     "Reuters",
@@ -38,10 +39,10 @@
     "The Information",
     "Reuters",
     "The Economic Times",
-    "Bitcoin News",
-    "Happiest Minds"
+    "Bitcoin News"
   ],
   "recent_titles": [
+    "Critical Elementor Pro flaw exploited to take over WordPress sites",
     "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
     "Meta launches Muse Spark 1.3 with stronger coding and AI agents to rival OpenAI, Anthropic",
     "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
@@ -160,8 +161,7 @@
     "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "Anthropic IPO Filing Expected to Flag AI Backlash Risk",
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
-    "Hackers infect Android car head units with proxy botnet malware",
-    "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list"
+    "Hackers infect Android car head units with proxy botnet malware"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -601,6 +601,7 @@
     "f1f23e457da50e5c69b3262ea77a7fc2b09c662e45661783a20d78eeded9c5fa": 1786702441.7415993,
     "f2ae19d78220fdd73b8231093242104f462cb477c31da5a0d552be586b5b65f3": 1785692810.995595,
     "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
+    "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
