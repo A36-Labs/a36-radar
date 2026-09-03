@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788470810.4387414,
+  "last_post_at": 1788478214.6478639,
   "last_urgent_at": 1788461169.5458953,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "infoworld.com",
     "Decrypt",
     "BleepingComputer",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "Ortho Spine News",
     "citybiz",
-    "The Information",
-    "Reuters"
+    "The Information"
   ],
   "recent_titles": [
+    "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice",
     "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
     "HPE patches critical ArubaOS-CX remote code execution flaw",
     "Critical Elementor Pro flaw exploited to take over WordPress sites",
@@ -160,8 +161,7 @@
     "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
     "Chip startup Velaura AI hits $1 billion valuation in $110 million round",
     "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation",
-    "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "Anthropic IPO Filing Expected to Flag AI Backlash Risk"
+    "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -315,6 +315,7 @@
     "4e6d0c7fba9b1d59b60ce3564d363a9df68f3650e07be9c4899cb35d99e8c8cc": 1788045996.7369466,
     "4e8b6ae46c1dc977dd7c1fc40a5c7e950b9605b9cfdd83fd62c6207b03d80fdd": 1787058837.3330169,
     "4e8fd6ce0430ad92f8d1e4fbd3b0c01233c95ddb0d3ea3c058557f6594b08e53": 1786306987.904544,
+    "4ea4ff1fb351de177b3cab573a7d91a0fb03f7c642e553320c4cab8e81a556b2": 1788478214.6478639,
     "4fac5cb7d3db0ee2bc8c616a0eb74911965db3a7abd75e2ba751b91407deed5c": 1786738054.0460236,
     "4fea26894126d71cb2207cc77254dbfcaf76e1286d21a4b7cdd0fcda07b49530": 1786120186.3708677,
     "50ca9dd4339b5d2719b734fb6b35acc19207b96ecb2b76b3a935f0a61db607ff": 1788470810.4387414,
