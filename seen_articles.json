@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788416853.7417564,
-  "last_urgent_at": 1788391925.1213722,
+  "last_post_at": 1788435643.6970878,
+  "last_urgent_at": 1788435643.6970878,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "Firstpost",
     "Reuters",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "Reuters",
     "The Economic Times",
     "Bitcoin News",
-    "Happiest Minds",
-    "Crunchbase News"
+    "Happiest Minds"
   ],
   "recent_titles": [
+    "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
     "Meta launches Muse Spark 1.3 with stronger coding and AI agents to rival OpenAI, Anthropic",
     "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
     "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
@@ -160,8 +161,7 @@
     "Anthropic IPO Filing Expected to Flag AI Backlash Risk",
     "Axis Robotics raised $12M Funding to Build the compounding data engine accelerating physical AI",
     "Hackers infect Android car head units with proxy botnet malware",
-    "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list",
-    "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories"
+    "Indian startups raised over $469 million from August 17 to August 22, 2026; Wispr Flow tops the list"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -326,6 +326,7 @@
     "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
     "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
+    "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
     "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
     "5a0a747bce27385009d962eb4df19b30a27ad65b9c5b2810f17d03d2e141b025": 1787213318.7159805,
     "5aaf349657aca5fa98e6218512496f8139df89935004380bf71754f410ac84f6": 1787325537.7836702,
