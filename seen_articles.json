@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788534019.089479,
-  "last_urgent_at": 1788484852.6751072,
+  "last_post_at": 1788545991.625948,
+  "last_urgent_at": 1788545991.625948,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Open Source & DevTools",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "Ars Technica",
     "Morning Brew",
     "quasa.io",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "Bloomberg.com",
     "Crunchbase News",
-    "The Business Times",
-    "Bloomberg.com"
+    "The Business Times"
   ],
   "recent_titles": [
+    "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
     "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
     "Nvidia buys open-source AI co. Hugging Face for $13b",
     "a16z Expands Its Fifth Growth Fund to $8.5 Billion",
@@ -160,8 +161,7 @@
     "Accel XI Associates L.L.C. Makes New $57 Billion Investment in Circle Internet Group, Inc. $CRCL",
     "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence",
     "Unitree CEO: Humanoid Robot Breakthrough May Take 10 Years",
-    "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”",
-    "India Post Payments Bank announces launch of its SHG Savings Account"
+    "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -459,6 +459,7 @@
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
+    "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
     "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
     "a2b977823f374cf24f0dc19df4f5c0f1658eccbfd726db9d66d9377935295df1": 1787079745.2236626,
     "a2ded51fc291c64f9f38a94e7370c47d9c5c58461872df7e5dcbfa151b483a1b": 1787648096.201888,
