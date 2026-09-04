@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788478214.6478639,
-  "last_urgent_at": 1788461169.5458953,
+  "last_post_at": 1788484852.6751072,
+  "last_urgent_at": 1788484852.6751072,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "infoworld.com",
     "Decrypt",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "TechCrunch AI",
     "Ortho Spine News",
-    "citybiz",
-    "The Information"
+    "citybiz"
   ],
   "recent_titles": [
+    "Crusoe reportedly raises $3B at a $30B valuation",
     "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice",
     "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
     "HPE patches critical ArubaOS-CX remote code execution flaw",
@@ -160,8 +161,7 @@
     "India Post Payments Bank announces launch of its SHG Savings Account",
     "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
     "Chip startup Velaura AI hits $1 billion valuation in $110 million round",
-    "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation",
-    "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
+    "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -247,6 +247,7 @@
     "287a6025f27bbd2beade61f91db21689458afb6d3db5964df5c955400128672a": 1787729021.8901145,
     "28c342dfe2518cd11f2c6c83e41e34f69076a9ba80b26c3e02131d2704d9d98f": 1787220911.4832492,
     "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
+    "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
     "2a4cfec7518b10e73fddcfd667f4be7fa9672024f9dfc491bde70eebb34f0ebd": 1787351765.5914705,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c3779acf92f34fd4c6ede6416f03cf9df3e3448545860de546f8267344f26e2": 1787113175.5624294,
