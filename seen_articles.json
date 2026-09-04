@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788484852.6751072,
+  "last_post_at": 1788501777.598139,
   "last_urgent_at": 1788484852.6751072,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Startups & Funding",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "quasa.io",
     "TechCrunch AI",
     "infoworld.com",
     "Decrypt",
@@ -38,10 +39,10 @@
     "The Business Times",
     "Bloomberg.com",
     "TechCrunch AI",
-    "Ortho Spine News",
-    "citybiz"
+    "Ortho Spine News"
   ],
   "recent_titles": [
+    "a16z Expands Its Fifth Growth Fund to $8.5 Billion",
     "Crusoe reportedly raises $3B at a $30B valuation",
     "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice",
     "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
@@ -160,8 +161,7 @@
     "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”",
     "India Post Payments Bank announces launch of its SHG Savings Account",
     "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
-    "Chip startup Velaura AI hits $1 billion valuation in $110 million round",
-    "SEC Commissioner Mark Uyeda Outlines Three Immediate Priorities for Crypto Regulation"
+    "Chip startup Velaura AI hits $1 billion valuation in $110 million round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -441,6 +441,7 @@
     "94d78b76edac7ecb79937aef8b59c84c273a409ee987f86c5dbcf8c3a024646b": 1787012584.1655338,
     "951ec9b3501dc9ea6bf29c7ac5cf3214e8237bcb4db4c154efad6e76f0b7285c": 1785987960.9926963,
     "95300d1f5fe0042c5109cba3038d4eb4e3c26525a5104eaad46a208421ceeaf0": 1786958524.544105,
+    "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
     "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
