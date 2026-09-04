@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788520248.533977,
+  "last_post_at": 1788534019.089479,
   "last_urgent_at": 1788484852.6751072,
   "recent_categories": [
+    "Frontier Tech",
     "Open Source & DevTools",
     "VC & Accelerators",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Ars Technica",
     "Morning Brew",
     "quasa.io",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Crunchbase News",
     "The Business Times",
-    "Bloomberg.com",
-    "TechCrunch AI"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
     "Nvidia buys open-source AI co. Hugging Face for $13b",
     "a16z Expands Its Fifth Growth Fund to $8.5 Billion",
     "Crusoe reportedly raises $3B at a $30B valuation",
@@ -160,8 +161,7 @@
     "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence",
     "Unitree CEO: Humanoid Robot Breakthrough May Take 10 Years",
     "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”",
-    "India Post Payments Bank announces launch of its SHG Savings Account",
-    "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches"
+    "India Post Payments Bank announces launch of its SHG Savings Account"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -624,6 +624,7 @@
     "f79c0da3ff22536e088a5a5df4537c876ab52779b47ee8b7dbf45834cadd0e4f": 1786826091.8259943,
     "f7e916032b1b1a9f88d4f64421c97ff2babd114ac47bf6cf1f48debc2c0ef91a": 1786779523.6138108,
     "f8c515a196a15e09576cdda44f12626915a84c553cbc0869737a76cb4ddcbf5d": 1787518583.8953943,
+    "f8f2dcf6e5410981393ce5ab48642d54a1275cb93d5333344d08a7b6c93435bb": 1788534019.089479,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
