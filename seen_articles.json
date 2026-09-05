@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788631932.237248,
+  "last_post_at": 1788640162.1731894,
   "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Builder Ecosystem",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "finance.biggo.com",
     "The Hacker News",
     "Magnolia Reporter",
     "Cryptonews.net",
@@ -38,10 +39,10 @@
     "infoworld.com",
     "Decrypt",
     "BleepingComputer",
-    "BleepingComputer",
-    "Crunchbase News"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion",
     "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
     "Arkansas launching fourth Lithium Technology Accelerator Cohort with Magnolia visit",
     "Solana Mobile Announces Upcoming Hackathon with RadiantsDAO",
@@ -160,8 +161,7 @@
     "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
     "Standard Chartered Foundation launches 2026 Women in Tech Accelerator in Egypt in collaboration with Village Capital and Entlaq",
     "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-    "Tempus AI soars 40% in a week, adding $3.7 billion—over double the Personalis acquisition amount",
-    "Medusa’s 500 Victims Point to a Bigger Shift in Ransomware"
+    "Tempus AI soars 40% in a week, adding $3.7 billion—over double the Personalis acquisition amount"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -307,6 +307,7 @@
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "466e50702af82a8c63600ad67eac0b4298cc1e9f61a7bb7aa85c4caa5862167a": 1787475200.0388858,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
+    "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "47e114ef3466c246bdd0180eaeabd17174195d0d0e1d96ce4573a7c9f57aaefb": 1787751472.9156222,
     "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
