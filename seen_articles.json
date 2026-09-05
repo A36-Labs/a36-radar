@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788623985.0688732,
+  "last_post_at": 1788631932.237248,
   "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Builder Ecosystem",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Magnolia Reporter",
     "Cryptonews.net",
     "varindia.com",
@@ -38,10 +39,10 @@
     "Decrypt",
     "BleepingComputer",
     "BleepingComputer",
-    "Crunchbase News",
-    "Firstpost"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
     "Arkansas launching fourth Lithium Technology Accelerator Cohort with Magnolia visit",
     "Solana Mobile Announces Upcoming Hackathon with RadiantsDAO",
     "Indian Govt, Intel launch agentic AI skilling programme for future workforce",
@@ -160,8 +161,7 @@
     "Standard Chartered Foundation launches 2026 Women in Tech Accelerator in Egypt in collaboration with Village Capital and Entlaq",
     "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
     "Tempus AI soars 40% in a week, adding $3.7 billion—over double the Personalis acquisition amount",
-    "Medusa’s 500 Victims Point to a Bigger Shift in Ransomware",
-    "INDODAX Sortities the Balance of Regulation and Innovation in the Development of Crypto"
+    "Medusa’s 500 Victims Point to a Bigger Shift in Ransomware"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -178,6 +178,7 @@
     "041601e0a6ea1c8612a3d53ed233fd7708b2753b8fb3c6d2a18ee92ac430e28d": 1786624153.8507273,
     "04b014fb3d9e588a1e59e6ec6a89532c7d8b445472f8e171a6d6fbebe0a0ecbb": 1786596080.4139109,
     "05890f3e2e28c10add062e3ce4ece45c532b510b9e865f7fe6fd613ac97078e0": 1787046892.7620113,
+    "05929916c8aefee2860db065c5fd953ea92238a0f0ff1880d377ce940535211b": 1788631932.237248,
     "05bba497944c7994f06505c91b1ef933c00036e2e55d412a41bca015ce54c78a": 1787266184.154906,
     "06cb0e740792c37362f80ba7f1c6b896899e920d834c6fb20d907f8d5b9337a3": 1786972272.7317555,
     "06d8a4f668ab37973c2faeb9476d0c6df7301f033cc342bb18d0cc70e89f77f9": 1787234688.559211,
