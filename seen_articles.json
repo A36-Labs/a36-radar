@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788562843.2346025,
-  "last_urgent_at": 1788545991.625948,
+  "last_post_at": 1788569579.2964551,
+  "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Policy & Regulation",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "The National Law Review",
     "The Mighty 790 KFGO",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "Reuters",
     "TechCrunch Startups",
     "Reuters",
-    "TechCrunch Startups",
-    "Bloomberg.com"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
     "Nscale seeks about $3.5 billion pre-IPO funding, source says",
     "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
@@ -160,8 +161,7 @@
     "Between August 17 and August 22, 2026, as many as 20 Indian startups from diverse sectors raised over $469 million in funding from investors. These sectors include AI, Fintech, Quick commerce, Skincare, Healthtech, Healthcare, Cleantech, Robotics, Foodte",
     "Anthropic Could Seek $100 Billion IPO at Up to $2 Trillion Valuation",
     "Top 12 Unicorn Startups in India Based on Highest Valuation",
-    "Accel XI Associates L.L.C. Makes New $57 Billion Investment in Circle Internet Group, Inc. $CRCL",
-    "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence"
+    "Accel XI Associates L.L.C. Makes New $57 Billion Investment in Circle Internet Group, Inc. $CRCL"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -532,6 +532,7 @@
     "c3ceed21b1b47dd5f5e06fade9cae563879e87a9d313577f51d40ec83990243a": 1787760232.7327974,
     "c41a8a984840198774fdc7609c2bbcdb15026000f32a4b2a3180e9ceea04a4e2": 1787571543.6092925,
     "c46c642258dac5e844877adf8fd9c6d7e738cdc0bd4404a91f3aa07810454c70": 1788240033.3996158,
+    "c5b7f3445b635626f43269c2b62d72a81933c6f28c9a19f4a83e4b602986713d": 1788569579.2964551,
     "c6084362342a8d82bb3772f70a32bedd7bffcfd6ab4380a6051b06bcef1d50cc": 1785824012.848577,
     "c63fc640eabb5e1ef13dc74527989fa8cff132f3f899097d369ceb31428aa7ac": 1788347465.0073433,
     "c6ed841213b85f19c9a605ad88649dd1f6fa3152f9db2826fd5dc7cc01998702": 1787049657.241761,
