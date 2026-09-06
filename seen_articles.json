@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788709396.5009358,
+  "last_post_at": 1788716800.5563352,
   "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Open Source & DevTools",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Frontier Tech",
-    "Open Source & DevTools"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "NewsBytes",
     "Startup Fortune",
     "LinkedIn",
     "Breaking News, Latest News and Videos",
@@ -38,10 +39,10 @@
     "The National Law Review",
     "The Mighty 790 KFGO",
     "Crunchbase News",
-    "Ars Technica",
-    "Morning Brew"
+    "Ars Technica"
   ],
   "recent_titles": [
+    "'Numbat': Perplexity's open-source tool can track rogue AI agents",
     "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion",
     "OWASP Launches OASIS AI To Automate Fixes For Open Source Software Vulnerabilities",
     "Flock announces security changes after dozens of reports of law enforcement abuse and public backlash - ABC News",
@@ -160,8 +161,7 @@
     "Vietnamese hospitality startup M Village bags $26m in new funding",
     "NGI: AUM up 21% to USD 33.6b; revenue steady; FY27 earnings set to rise with new acquisitions",
     "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
-    "Apollo Data Breach Shows the Risk Behind a Simple Phone Call",
-    "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks"
+    "Apollo Data Breach Shows the Risk Behind a Simple Phone Call"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -368,6 +368,7 @@
     "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
     "6599a9d4aff1e325bdd4b297fb1813051ceafd8349ef7f00f50e23d495057445": 1786985428.7088354,
     "65c0ed43a1e6e47cf8cb5a889745e158e37b719f90d6aaf7620ec4043823b0b9": 1786378373.3468823,
+    "6739a1dd7cdb43e060c957b545971eafab9a33ed8a3a8aa21fd8ab0461c797b1": 1788716800.5563352,
     "6766d10e6117222b1a470cba1cebb5c892edd7eb563da51dba4b020b509a0eca": 1787371764.2878537,
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
     "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
