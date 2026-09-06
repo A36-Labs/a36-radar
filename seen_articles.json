@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788684678.974887,
+  "last_post_at": 1788697686.626187,
   "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "Open Source & DevTools",
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Open Source & DevTools",
-    "VC & Accelerators",
-    "Startups & Funding"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "LinkedIn",
     "Breaking News, Latest News and Videos",
     "Pluang",
     "The Motley Fool",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "Ars Technica",
     "Morning Brew",
-    "quasa.io",
-    "TechCrunch AI"
+    "quasa.io"
   ],
   "recent_titles": [
+    "OWASP Launches OASIS AI To Automate Fixes For Open Source Software Vulnerabilities",
     "Flock announces security changes after dozens of reports of law enforcement abuse and public backlash - ABC News",
     "New euro stablecoin EURR gains $665K market cap days after launch with Revolut partnership.",
     "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
@@ -160,8 +161,7 @@
     "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
     "Apollo Data Breach Shows the Risk Behind a Simple Phone Call",
     "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
-    "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
-    "Rillet Hits $1bn Valuation As AI Accounting Startup Raises $100m in 48hrs to Challenge Oracle, Netsuite And Intuit"
+    "SEC unveils crypto regulation framework, impacting Bitcoin outlook"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -410,6 +410,7 @@
     "7d0d6670644089af7b57e63d1ab01cdf595689f6b07efbf123f77d58af37eb77": 1786995375.481608,
     "7d64e45b4cd22533b1a96c8b4811573acfd55d43625975c8e92a820369199165": 1787875111.8864057,
     "7d6e526bdd621448933573bd0a16a0db51a39b98d945c7d9c34d0ebc766f4a0b": 1787172559.8413188,
+    "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
     "806986fe44255f9bb0e89cff13853a276b9e5610f2fb6d9bfeb7ea28b22671e3": 1787952450.4289844,
     "81221e5bb50279592ca1a779c04b380e50b19d9ae16a605aa2e0476331288b4d": 1786564393.766864,
     "81b5feb85654e1b6bc34cba1dd5dd7861d84269471cb24d17d6dc09b579c3a54": 1786030521.92436,
