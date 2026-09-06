@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788652785.2680454,
+  "last_post_at": 1788668905.1946037,
   "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "VC & Accelerators",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Pluang",
     "The Motley Fool",
     "Sifted",
     "finance.biggo.com",
@@ -38,10 +39,10 @@
     "Morning Brew",
     "quasa.io",
     "TechCrunch AI",
-    "infoworld.com",
-    "Decrypt"
+    "infoworld.com"
   ],
   "recent_titles": [
+    "New euro stablecoin EURR gains $665K market cap days after launch with Revolut partnership.",
     "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
     "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone",
     "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion",
@@ -160,8 +161,7 @@
     "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
     "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
     "Rillet Hits $1bn Valuation As AI Accounting Startup Raises $100m in 48hrs to Challenge Oracle, Netsuite And Intuit",
-    "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
-    "Standard Chartered Foundation launches 2026 Women in Tech Accelerator in Egypt in collaboration with Village Capital and Entlaq"
+    "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -587,6 +587,7 @@
     "dd5fc15a07710880c4613795110c1f953191eefb3a5e2dc42a9bb9e83d4e5cfe": 1786981499.3031235,
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "df4bf652268bba89a67b54fb56ecf8fe2b264bb514f091151f405107a14c1310": 1787278238.4393303,
+    "dfd8bf8d52d112f4ace11024da4fd9cedbb5acc8fe02b303cf8dfbf6686968f8": 1788668905.1946037,
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
     "e22869c9b3f1027e10d552c410756eb74b0ad5e81231b166df8d322d19c2153b": 1787344566.7319415,
     "e25b0916c39b70be127fb0a8979aa70b96d4b824ec766640d25392be039eb953": 1787309591.052387,
