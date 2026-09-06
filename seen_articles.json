@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788723443.0701444,
+  "last_post_at": 1788730979.7348585,
   "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "instagram.com",
     "ETF Trends",
     "NewsBytes",
     "Startup Fortune",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "TechCrunch Startups",
     "The National Law Review",
-    "The Mighty 790 KFGO",
-    "Crunchbase News"
+    "The Mighty 790 KFGO"
   ],
   "recent_titles": [
+    "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E",
     "From Claude to the Stock Market: Anthropic’s IPO Filing, Explained.",
     "'Numbat': Perplexity's open-source tool can track rogue AI agents",
     "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion",
@@ -160,8 +161,7 @@
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
     "AI startup Hugging Face explores sale at $13 bn valuation: Report | Hugging Face hit by security breach last month | Inshorts",
     "Vietnamese hospitality startup M Village bags $26m in new funding",
-    "NGI: AUM up 21% to USD 33.6b; revenue steady; FY27 earnings set to rise with new acquisitions",
-    "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model"
+    "NGI: AUM up 21% to USD 33.6b; revenue steady; FY27 earnings set to rise with new acquisitions"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -177,6 +177,7 @@
     "03f752b14de085b293cd75291f84e1fca175ed1343de4209625f930948cfaaa8": 1787320556.1591268,
     "041601e0a6ea1c8612a3d53ed233fd7708b2753b8fb3c6d2a18ee92ac430e28d": 1786624153.8507273,
     "04b014fb3d9e588a1e59e6ec6a89532c7d8b445472f8e171a6d6fbebe0a0ecbb": 1786596080.4139109,
+    "0555cbd48c8ec56232bed29e8cb4203d43c6bda9d6ed41b72758428fefa35d57": 1788730979.7348585,
     "05890f3e2e28c10add062e3ce4ece45c532b510b9e865f7fe6fd613ac97078e0": 1787046892.7620113,
     "05929916c8aefee2860db065c5fd953ea92238a0f0ff1880d377ce940535211b": 1788631932.237248,
     "05bba497944c7994f06505c91b1ef933c00036e2e55d412a41bca015ce54c78a": 1787266184.154906,
