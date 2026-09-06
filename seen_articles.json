@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788716800.5563352,
+  "last_post_at": 1788723443.0701444,
   "last_urgent_at": 1788569579.2964551,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "ETF Trends",
     "NewsBytes",
     "Startup Fortune",
     "LinkedIn",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "The National Law Review",
     "The Mighty 790 KFGO",
-    "Crunchbase News",
-    "Ars Technica"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "From Claude to the Stock Market: Anthropic’s IPO Filing, Explained.",
     "'Numbat': Perplexity's open-source tool can track rogue AI agents",
     "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion",
     "OWASP Launches OASIS AI To Automate Fixes For Open Source Software Vulnerabilities",
@@ -160,8 +161,7 @@
     "AI startup Hugging Face explores sale at $13 bn valuation: Report | Hugging Face hit by security breach last month | Inshorts",
     "Vietnamese hospitality startup M Village bags $26m in new funding",
     "NGI: AUM up 21% to USD 33.6b; revenue steady; FY27 earnings set to rise with new acquisitions",
-    "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
-    "Apollo Data Breach Shows the Risk Behind a Simple Phone Call"
+    "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -566,6 +566,7 @@
     "d1f64289e61edb2dc4cc40b6b4a138b7510790ac5ece1c52d0c9b9bdae6480cb": 1787123483.669754,
     "d273fcb7bf676a82345315ba167576ff9bdfdcceedff3a19dcf94a92b1cb5281": 1787154668.1702054,
     "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
+    "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
     "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
     "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
