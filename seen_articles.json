@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788816449.761818,
+  "last_post_at": 1788824627.6750333,
   "last_urgent_at": 1788736625.1635957,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "VC & Accelerators"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "The Motley Fool",
     "Modern Ghana",
     "BleepingComputer",
     "KED Global",
@@ -38,10 +39,10 @@
     "The Motley Fool",
     "Sifted",
     "finance.biggo.com",
-    "The Hacker News",
-    "Magnolia Reporter"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Anthropic Seeking $15 Billion in Debt Before Its IPO: Is That a Warning Sign or a Bullish Signal for AI Infrastructure Stocks?",
     "Robots protest in Poland over AI regulation concerns",
     "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
     "LG Electronics-owned Bear Robotics eyes up to $300 mn pre-IPO funding",
@@ -160,8 +161,7 @@
     "Xpeng says its robotics business raised over $900 million in first funding round",
     "ESG analytics startup MioTech eyes 2028 IPO following China merger",
     "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round",
-    "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership",
-    "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking"
+    "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -472,6 +472,7 @@
     "9f0fdcb8ddc718d1082439c334847fdf1690b4f3f31f673f894692526db6d424": 1787377062.9392743,
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
+    "a058f1dafacce4c52d87cdb5c577760cc26dc1364f6b7705a4811a7db49073ca": 1788824627.6750333,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
     "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
