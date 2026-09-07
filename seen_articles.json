@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788803612.206538,
+  "last_post_at": 1788816449.761818,
   "last_urgent_at": 1788736625.1635957,
   "recent_categories": [
+    "Policy & Regulation",
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "VC & Accelerators",
-    "Builder Ecosystem"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Modern Ghana",
     "BleepingComputer",
     "KED Global",
     "Reuters",
@@ -38,10 +39,10 @@
     "Sifted",
     "finance.biggo.com",
     "The Hacker News",
-    "Magnolia Reporter",
-    "Cryptonews.net"
+    "Magnolia Reporter"
   ],
   "recent_titles": [
+    "Robots protest in Poland over AI regulation concerns",
     "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
     "LG Electronics-owned Bear Robotics eyes up to $300 mn pre-IPO funding",
     "Google-backed Indian space startup raises $100 million in latest funding round",
@@ -160,8 +161,7 @@
     "ESG analytics startup MioTech eyes 2028 IPO following China merger",
     "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round",
     "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership",
-    "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking",
-    "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation"
+    "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -531,6 +531,7 @@
     "bcf8e0e16c8e07e205bc1f5cebfd8959078f17aeef65e34b2d5beb344782046e": 1787391413.4831598,
     "bd1cb110aa55a1442b7766ac3443a02007834c0431a4c11e7d29e4454f1f6f29": 1786322348.0038161,
     "bd8f594df4f6b89688b450dc911318a300bf59ad49cb4a45922a305e034134b8": 1786718154.866428,
+    "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
     "bfb6ab15d357553227946325cd9c3310021739ab4e65a4f237d62395389cc68b": 1787462253.8007793,
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
