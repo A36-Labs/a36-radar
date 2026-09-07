@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788761068.8517535,
+  "last_post_at": 1788783767.3784025,
   "last_urgent_at": 1788736625.1635957,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Builder Ecosystem",
-    "AI & Agents",
-    "Web3 & Digital Assets"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "KED Global",
     "Reuters",
     "finance.biggo.com",
     "The Times of India",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "Magnolia Reporter",
     "Cryptonews.net",
-    "varindia.com",
-    "CoinDesk"
+    "varindia.com"
   ],
   "recent_titles": [
+    "LG Electronics-owned Bear Robotics eyes up to $300 mn pre-IPO funding",
     "Google-backed Indian space startup raises $100 million in latest funding round",
     "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession",
     "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m",
@@ -160,8 +161,7 @@
     "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership",
     "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking",
     "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation",
-    "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-    "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports"
+    "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -602,6 +602,7 @@
     "e33ec1a77a87319273092c78283dfa5be9df542939c03f191f5971bdab4b3e54": 1787241771.0023737,
     "e44b5c1eb68a7aed88cdc44daea5e21a54ea77aaf4792a4eea24d70eb0c78c0f": 1787191492.9855237,
     "e5bcff3d805eab9e03292725345a3449041ea96c5254d50234a204c2679cf897": 1786799016.1831157,
+    "e60df6ffca717f4c008db454c12f16e1886254003024504fd9f93cd414460951": 1788783767.3784025,
     "e6410aeb30a0a1dd36803a4a98c330c93f40746333760a088a85dda892ed874f": 1787714934.089281,
     "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
