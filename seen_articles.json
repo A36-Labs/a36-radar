@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788743233.4245145,
+  "last_post_at": 1788761068.8517535,
   "last_urgent_at": 1788736625.1635957,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Builder Ecosystem",
     "AI & Agents",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Reuters",
     "finance.biggo.com",
     "The Times of India",
     "instagram.com",
@@ -38,10 +39,10 @@
     "Magnolia Reporter",
     "Cryptonews.net",
     "varindia.com",
-    "CoinDesk",
-    "TechCrunch Startups"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Google-backed Indian space startup raises $100 million in latest funding round",
     "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession",
     "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m",
     "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E",
@@ -160,8 +161,7 @@
     "Fasset Hits $1B Valuation as SBI Group Leads $68M Series C to Scale AI-Powered Stablecoin Neobanking",
     "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation",
     "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-    "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
-    "AI startup Hugging Face explores sale at $13 bn valuation: Report | Hugging Face hit by security breach last month | Inshorts"
+    "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -205,6 +205,7 @@
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
+    "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
     "1167c6658f795cc576ff29ca648670b766c77385d3e262c072eb78d027fa9ffd": 1785922115.336685,
     "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
     "11d6a56f7d848916988a60a62cb2e5809094a8b1c8eaf5bbec19e5de3a52444b": 1787323720.5588133,
