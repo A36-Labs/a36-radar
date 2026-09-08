@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788893835.7060037,
-  "last_urgent_at": 1788893835.7060037,
+  "last_post_at": 1788904080.8143208,
+  "last_urgent_at": 1788904080.8143208,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
-    "Open Source & DevTools",
-    "Policy & Regulation"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "BleepingComputer",
     "BleepingComputer",
     "Pluang",
@@ -38,10 +39,10 @@
     "ETF Trends",
     "NewsBytes",
     "Startup Fortune",
-    "LinkedIn",
-    "Breaking News, Latest News and Videos"
+    "LinkedIn"
   ],
   "recent_titles": [
+    "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
     "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
     "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
     "Anthropic cancels $6B acquisition of AI startup Decart after due diligence.",
@@ -160,8 +161,7 @@
     "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "Hugging Face reportedly in talks to be acquired for $13B",
     "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap",
-    "Japan’s SBI leads $68M Fasset round at $1B valuation",
-    "Xpeng's robotics unit valued at over $6.3 billion after record funding round"
+    "Japan’s SBI leads $68M Fasset round at $1B valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -218,6 +218,7 @@
     "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
     "14572a32c775cfd3f1362e0134d2196602a08f41412a057f60e087ffe3e0f90c": 1787541167.213442,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
+    "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
     "17674887f8ef9b5b7ee0c0c0c1f6d8c40845cb7e8688aa5610ad22cabd372d44": 1786877042.2425308,
     "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
