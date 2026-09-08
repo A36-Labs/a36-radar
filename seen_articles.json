@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788824627.6750333,
+  "last_post_at": 1788830961.1456397,
   "last_urgent_at": 1788736625.1635957,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "news.bitcoin.com",
     "The Motley Fool",
     "Modern Ghana",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Pluang",
     "The Motley Fool",
     "Sifted",
-    "finance.biggo.com",
-    "The Hacker News"
+    "finance.biggo.com"
   ],
   "recent_titles": [
+    "Capital B Buys 376 Bitcoin for $29.4M as Treasury Grows to 3,521 BTC",
     "Anthropic Seeking $15 Billion in Debt Before Its IPO: Is That a Warning Sign or a Bullish Signal for AI Infrastructure Stocks?",
     "Robots protest in Poland over AI regulation concerns",
     "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
@@ -160,8 +161,7 @@
     "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
     "Xpeng says its robotics business raised over $900 million in first funding round",
     "ESG analytics startup MioTech eyes 2028 IPO following China merger",
-    "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round",
-    "Faraday Future Expands EAI Robotics Through New U.S. Distributor Partnership"
+    "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -495,6 +495,7 @@
     "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
     "aba0bbdf595da2b71bd93e48bfda6489fd08da46fbf0522f2fce2948f92d76f6": 1787742972.7388544,
     "ac909fe660c7b1898a0a488c7c89fe7e9117a25525a3122fbfd2053834489656": 1786655326.0515604,
+    "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
     "ae4d292a1ae8542d5de60c25f74ea99aeaa5f5edcf7c05b769d7570d2e1dee1e": 1786936565.0089798,
     "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
