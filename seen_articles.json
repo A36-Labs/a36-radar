@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788849042.7788188,
-  "last_urgent_at": 1788736625.1635957,
+  "last_post_at": 1788867749.7841842,
+  "last_urgent_at": 1788867749.7841842,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Pluang",
     "reuters.com",
     "news.bitcoin.com",
     "The Motley Fool",
@@ -38,10 +39,10 @@
     "LinkedIn",
     "Breaking News, Latest News and Videos",
     "Pluang",
-    "The Motley Fool",
-    "Sifted"
+    "The Motley Fool"
   ],
   "recent_titles": [
+    "Anthropic cancels $6B acquisition of AI startup Decart after due diligence.",
     "French AI company Mistral hits $24 billion valuation in funding round",
     "Capital B Buys 376 Bitcoin for $29.4M as Treasury Grows to 3,521 BTC",
     "Anthropic Seeking $15 Billion in Debt Before Its IPO: Is That a Warning Sign or a Bullish Signal for AI Infrastructure Stocks?",
@@ -160,8 +161,7 @@
     "Japan’s SBI leads $68M Fasset round at $1B valuation",
     "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
     "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
-    "Xpeng says its robotics business raised over $900 million in first funding round",
-    "ESG analytics startup MioTech eyes 2028 IPO following China merger"
+    "Xpeng says its robotics business raised over $900 million in first funding round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -220,6 +220,7 @@
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
     "17674887f8ef9b5b7ee0c0c0c1f6d8c40845cb7e8688aa5610ad22cabd372d44": 1786877042.2425308,
     "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
+    "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
     "19d74ba56c7689852eff4c4ad45d36d8d99afef161ca413b8d61e652fd5c56f4": 1786536228.4634604,
     "1a90c36379a31994a727f9b38da11246ca77968b7d6356c46c651a084607981d": 1786139578.7538576,
     "1abc932309b497f3f0b56cc7dd2bffbb2228a245173e11ec76a9f871541b7710": 1786359114.2255287,
