@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788867749.7841842,
-  "last_urgent_at": 1788867749.7841842,
+  "last_post_at": 1788881009.0021195,
+  "last_urgent_at": 1788881009.0021195,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Open Source & DevTools",
     "Policy & Regulation",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Pluang",
     "reuters.com",
     "news.bitcoin.com",
@@ -38,10 +39,10 @@
     "Startup Fortune",
     "LinkedIn",
     "Breaking News, Latest News and Videos",
-    "Pluang",
-    "The Motley Fool"
+    "Pluang"
   ],
   "recent_titles": [
+    "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
     "Anthropic cancels $6B acquisition of AI startup Decart after due diligence.",
     "French AI company Mistral hits $24 billion valuation in funding round",
     "Capital B Buys 376 Bitcoin for $29.4M as Treasury Grows to 3,521 BTC",
@@ -160,8 +161,7 @@
     "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap",
     "Japan’s SBI leads $68M Fasset round at $1B valuation",
     "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
-    "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
-    "Xpeng says its robotics business raised over $900 million in first funding round"
+    "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -578,6 +578,7 @@
     "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
     "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
     "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
+    "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
     "d522f6b1e7f98782d5a243a97bebb8f5eaedb31d13716ca072397205977a2e94": 1786022298.2319326,
     "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
     "d6d82318b5d63d32a97abcd14e8a8c31d26cea9600d6b0e69e29395c1d7451a0": 1787137882.6504948,
