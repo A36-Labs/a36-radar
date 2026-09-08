@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788881009.0021195,
-  "last_urgent_at": 1788881009.0021195,
+  "last_post_at": 1788893835.7060037,
+  "last_urgent_at": 1788893835.7060037,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Open Source & DevTools",
-    "Policy & Regulation",
-    "Web3 & Digital Assets"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "BleepingComputer",
     "Pluang",
     "reuters.com",
@@ -38,10 +39,10 @@
     "NewsBytes",
     "Startup Fortune",
     "LinkedIn",
-    "Breaking News, Latest News and Videos",
-    "Pluang"
+    "Breaking News, Latest News and Videos"
   ],
   "recent_titles": [
+    "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
     "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
     "Anthropic cancels $6B acquisition of AI startup Decart after due diligence.",
     "French AI company Mistral hits $24 billion valuation in funding round",
@@ -160,8 +161,7 @@
     "Hugging Face reportedly in talks to be acquired for $13B",
     "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap",
     "Japan’s SBI leads $68M Fasset round at $1B valuation",
-    "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
-    "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion"
+    "Xpeng's robotics unit valued at over $6.3 billion after record funding round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -384,6 +384,7 @@
     "6ac86e25c352c0268c0912b2d87ff13bcc5f4fb54173a710403b6e913be696a4": 1786016232.8943768,
     "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
     "6b5ca39ada2d5bc5d66822a4c3d142420c433d9c5054f22b51b70c00728fe284": 1787635317.7241771,
+    "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
     "6be677a52f10a385ea7c3754a04cf36a43def80f5f20cde9a11d7bec5516ca67": 1786529846.702828,
     "6c9dadafcc432488dcd19b3cf56eaa50958fc8e4ca7d759691f39ae98d1485df": 1787617452.8310134,
     "6cac435f878f86e5bfe03e1b7d9f8c4e83442f53fe7fc709094862d1df6cb185": 1786993414.8592236,
