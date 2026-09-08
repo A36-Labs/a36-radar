@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788904080.8143208,
-  "last_urgent_at": 1788904080.8143208,
+  "last_post_at": 1788910963.4933987,
+  "last_urgent_at": 1788910963.4933987,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CyberScoop",
     "TechCrunch Startups",
     "BleepingComputer",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "instagram.com",
     "ETF Trends",
     "NewsBytes",
-    "Startup Fortune",
-    "LinkedIn"
+    "Startup Fortune"
   ],
   "recent_titles": [
+    "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
     "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
     "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
     "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
@@ -160,8 +161,7 @@
     "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
     "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "Hugging Face reportedly in talks to be acquired for $13B",
-    "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap",
-    "Japan’s SBI leads $68M Fasset round at $1B valuation"
+    "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -254,6 +254,7 @@
     "27a725fb7a204246324449fd6522faac9bce4068f72f38fbf20eae7c0ad4130c": 1787001132.3535445,
     "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
     "282ffb304b8120f0d715fa4723c5daa8542aaaceb612d34713e51d70e8ea32f5": 1788095724.2149377,
+    "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
     "287a6025f27bbd2beade61f91db21689458afb6d3db5964df5c955400128672a": 1787729021.8901145,
     "28c342dfe2518cd11f2c6c83e41e34f69076a9ba80b26c3e02131d2704d9d98f": 1787220911.4832492,
     "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
