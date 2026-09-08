@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788830961.1456397,
+  "last_post_at": 1788849042.7788188,
   "last_urgent_at": 1788736625.1635957,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "reuters.com",
     "news.bitcoin.com",
     "The Motley Fool",
     "Modern Ghana",
@@ -38,10 +39,10 @@
     "Breaking News, Latest News and Videos",
     "Pluang",
     "The Motley Fool",
-    "Sifted",
-    "finance.biggo.com"
+    "Sifted"
   ],
   "recent_titles": [
+    "French AI company Mistral hits $24 billion valuation in funding round",
     "Capital B Buys 376 Bitcoin for $29.4M as Treasury Grows to 3,521 BTC",
     "Anthropic Seeking $15 Billion in Debt Before Its IPO: Is That a Warning Sign or a Bullish Signal for AI Infrastructure Stocks?",
     "Robots protest in Poland over AI regulation concerns",
@@ -160,8 +161,7 @@
     "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
     "NVIDIA Considers Investment in AI Startup Perplexity, Valuation May Exceed $30 Billion",
     "Xpeng says its robotics business raised over $900 million in first funding round",
-    "ESG analytics startup MioTech eyes 2028 IPO following China merger",
-    "Stablecoin neobank Fasset raises $68M at $1B valuation in SBI-led round"
+    "ESG analytics startup MioTech eyes 2028 IPO following China merger"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -623,6 +623,7 @@
     "eb8daa4f117d5e0f9497831782b5d00f37078953bb1c7eecbe0d24e33d48656f": 1788461169.5458953,
     "ebeecb98b2e868b05f0f2cd0a3c1ba421cdc2e9f680eb4a74608fc2289e351ad": 1786850985.513769,
     "ec325e48699aff259f3c190990d79324ad6412507b77bc12ae8b53c302aaa037": 1786641541.2733517,
+    "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
     "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
     "ef96c4c052c37aaec9e41e056a05fa0843d48fccffa1bba6335ad30ef8f666d0": 1785708853.600184,
     "f1283ca226e4733cb1013fa70e9488ea2337c89e77054f09ff6a72ec28d6627d": 1786101168.1932325,
