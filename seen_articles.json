@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788955154.276019,
-  "last_urgent_at": 1788936370.1359289,
+  "last_post_at": 1788971588.585144,
+  "last_urgent_at": 1788971588.585144,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "finance.biggo.com",
     "techflowpost.com",
     "BleepingComputer",
     "starnewskorea.com",
@@ -38,10 +39,10 @@
     "KED Global",
     "Reuters",
     "finance.biggo.com",
-    "The Times of India",
-    "instagram.com"
+    "The Times of India"
   ],
   "recent_titles": [
+    "Tether and Fasanara Capital Launch Stablecoin-Based Private Credit Fund, Targeting Up to $3 Billion",
     "Anthropic Targets $2 Trillion Valuation as Wall Street Faces Largest AI IPO Test Yet",
     "Google warns of new Chrome zero-day bug exploited in attacks",
     "Samsung Electronics Signs Strategic Partnership with French Mistral AI to Co-Develop 'Semiconductor-Specialized AI' Models",
@@ -160,8 +161,7 @@
     "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "Booz Allen Completes $720 Million Ultra Mission Solutions Acquisition To Expand Defense Technology Platform",
     "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag",
-    "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production",
-    "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money"
+    "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -198,6 +198,7 @@
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
+    "0c851329d1e91d708af5f302b7b632f8149b8d5bf066092f228cf23eeec0b0e1": 1788971588.585144,
     "0cb283a961d489c95c59f8f2ea85dc5623517cef927b425f3409d051160eb39a": 1787207383.3539445,
     "0d049354aa285fb1e8b9843acbd28de9bed920d62d6d3e289eef9b25e76dd501": 1787398247.1263301,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
