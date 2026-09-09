@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788971588.585144,
-  "last_urgent_at": 1788971588.585144,
+  "last_post_at": 1788982080.8316088,
+  "last_urgent_at": 1788982080.8316088,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Reuters",
     "finance.biggo.com",
     "techflowpost.com",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "KED Global",
     "Reuters",
-    "finance.biggo.com",
-    "The Times of India"
+    "finance.biggo.com"
   ],
   "recent_titles": [
+    "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
     "Tether and Fasanara Capital Launch Stablecoin-Based Private Credit Fund, Targeting Up to $3 Billion",
     "Anthropic Targets $2 Trillion Valuation as Wall Street Faces Largest AI IPO Test Yet",
     "Google warns of new Chrome zero-day bug exploited in attacks",
@@ -160,8 +161,7 @@
     "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "Booz Allen Completes $720 Million Ultra Mission Solutions Acquisition To Expand Defense Technology Platform",
-    "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag",
-    "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production"
+    "Anthropic Is Chasing a $2 Trillion IPO. Its Most Powerful AI Model Is Raising a Big Red Flag"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -423,6 +423,7 @@
     "7d64e45b4cd22533b1a96c8b4811573acfd55d43625975c8e92a820369199165": 1787875111.8864057,
     "7d6e526bdd621448933573bd0a16a0db51a39b98d945c7d9c34d0ebc766f4a0b": 1787172559.8413188,
     "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
+    "80387b42a4f02fc4201a01f0f36b2df79c024578ba6ebb34720988d91bd7036c": 1788982080.8316088,
     "806986fe44255f9bb0e89cff13853a276b9e5610f2fb6d9bfeb7ea28b22671e3": 1787952450.4289844,
     "81221e5bb50279592ca1a779c04b380e50b19d9ae16a605aa2e0476331288b4d": 1786564393.766864,
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
