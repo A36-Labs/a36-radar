@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788910963.4933987,
+  "last_post_at": 1788917842.0007885,
   "last_urgent_at": 1788910963.4933987,
   "recent_categories": [
+    "Frontier Tech",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Startups & Funding"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "starnewskorea.com",
     "CyberScoop",
     "TechCrunch Startups",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "The Times of India",
     "instagram.com",
     "ETF Trends",
-    "NewsBytes",
-    "Startup Fortune"
+    "NewsBytes"
   ],
   "recent_titles": [
+    "Samsung Electronics Signs Strategic Partnership with French Mistral AI to Co-Develop 'Semiconductor-Specialized AI' Models",
     "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
     "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
     "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
@@ -160,8 +161,7 @@
     "XPeng's Robotics Unit Raises Over US$900M in Funding with US$6.3 billion Valuation Ahead of Humanoid Robot Production",
     "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
     "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "Hugging Face reportedly in talks to be acquired for $13B",
-    "Standard Chartered Foundation Launches Second Women in Tech Accelerator to Close Egypt’s $2.2B Funding Gap"
+    "Hugging Face reportedly in talks to be acquired for $13B"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -194,6 +194,7 @@
     "09b14b41ce96d7df35edc69d40847f1d86f6f88dd209a283451c8413afcb24f8": 1786927824.37008,
     "0a62a1d480ab92a967acd1d75084a4322aedb72afc56893e6421b1ee4fbf9d6d": 1788111405.2985842,
     "0af018f05ace0eda0899160e4ffba3bd0f1d4d5110cee45c9bf9a66e45a2aeab": 1786489684.9943585,
+    "0afa7dfd979acd18725859e487cd3d6c50e1377acab33ba0beb68a5d6c4093d6": 1788917842.0007885,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
     "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
