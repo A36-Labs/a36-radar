@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789069864.1156232,
+  "last_post_at": 1789077837.485604,
   "last_urgent_at": 1789069864.1156232,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "pluang.com",
     "Data Center Richness | Substack",
     "The Next Web",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "BleepingComputer",
     "BleepingComputer",
-    "Pluang",
-    "reuters.com"
+    "Pluang"
   ],
   "recent_titles": [
+    "Crypto venture funding hits $21B in 2026 despite Bitcoin's 50% drop, signaling industry maturity.",
     "Inside Ecolab’s $4.75 Billion CoolIT Acquisition",
     "IBM and NASA release an open-source lunar foundation model",
     "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
@@ -160,8 +161,7 @@
     "Japan's Consumer Affairs Agency Unveils Interim Proposal for Dark Pattern Regulation; Crypto Assets Likely Excluded",
     "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
     "SA energy startup Yellow raises undisclosed Series C funding round -",
-    "Nvidia shares set for $280 billion price swing after earnings, options show",
-    "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO"
+    "Nvidia shares set for $280 billion price swing after earnings, options show"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -282,6 +282,7 @@
     "327f2c72126b25103c7eeb0d7b533676a82d3015c8ae19e9493e87fd2a54ec9d": 1786116787.607707,
     "330b627c27d79a0087f85c9b69a1448808170ed7191b776319dd2fd50051b684": 1787680851.7576313,
     "330f2d040219e1e6c4dcc22d733f076d3a4a074f0507aba11c43456c19dd5134": 1787597685.6908643,
+    "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
     "3461fd6e09582df2fe55da57e94c4789ed04e2bc8b96195da74a9525f8765c66": 1787156363.9804044,
     "34a524a5f373d24181668f6cbdc839f8451524e9f2b834c39ebf7df6450bb774": 1786923093.9291263,
     "34ec19f31e10649b9d56e7be1a5e8decd700a3a499fb21b8e4cfef498571ee0f": 1787219184.6526337,
