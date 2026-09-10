@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788998869.3288267,
+  "last_post_at": 1789016072.4957483,
   "last_urgent_at": 1788998869.3288267,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "VC & Accelerators",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Cybersecurity & Cloud",
-    "Frontier Tech"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Gizmodo",
     "TechCrunch AI",
     "Axios",
     "Reuters",
@@ -38,10 +39,10 @@
     "news.bitcoin.com",
     "The Motley Fool",
     "Modern Ghana",
-    "BleepingComputer",
-    "KED Global"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Newsom Signs AI Industry-Approved AI Regulation Bills Into Law in California",
     "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "Harvey hits $15.5b, Fox-Roku deal under scrutiny, and Archimed's new fund",
     "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
@@ -160,8 +161,7 @@
     "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.",
     "Australian venture capital firm Blackbird raises $752m from Asian investors",
     "SEC Proposes “Regulation Crypto Assets”",
-    "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-    "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices"
+    "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -608,6 +608,7 @@
     "dc2eeec1dc11400177fe8e03fb456d516d74ada24f90cc3a6eba96d2e651e111": 1788520248.533977,
     "dd5fc15a07710880c4613795110c1f953191eefb3a5e2dc42a9bb9e83d4e5cfe": 1786981499.3031235,
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
+    "dec058fa83cc84823dec588e645dbf9eae4022603778468180670d9f96e306a0": 1789016072.4957483,
     "df4bf652268bba89a67b54fb56ecf8fe2b264bb514f091151f405107a14c1310": 1787278238.4393303,
     "dfd8bf8d52d112f4ace11024da4fd9cedbb5acc8fe02b303cf8dfbf6686968f8": 1788668905.1946037,
     "e13d0ed8d1737a3893c8f1d53b6e67ae86266a7dc8a5d934f272401a31e703bd": 1786520843.0347414,
