@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1788990945.1269774,
-  "last_urgent_at": 1788982080.8316088,
+  "last_post_at": 1788998869.3288267,
+  "last_urgent_at": 1788998869.3288267,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Axios",
     "Reuters",
     "finance.biggo.com",
@@ -38,10 +39,10 @@
     "The Motley Fool",
     "Modern Ghana",
     "BleepingComputer",
-    "KED Global",
-    "Reuters"
+    "KED Global"
   ],
   "recent_titles": [
+    "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "Harvey hits $15.5b, Fox-Roku deal under scrutiny, and Archimed's new fund",
     "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
     "Tether and Fasanara Capital Launch Stablecoin-Based Private Credit Fund, Targeting Up to $3 Billion",
@@ -160,8 +161,7 @@
     "Australian venture capital firm Blackbird raises $752m from Asian investors",
     "SEC Proposes “Regulation Crypto Assets”",
     "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-    "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-    "Booz Allen Completes $720 Million Ultra Mission Solutions Acquisition To Expand Defense Technology Platform"
+    "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -237,6 +237,7 @@
     "1d664ddf0d7e85da99479b069ec3f86dde3d94ecaceba6687e5fe0177fe718a0": 1786675160.447255,
     "1d9b2431dc92d7c7a623245a912993be7f8de20925e209a74ddf004e34a9064a": 1786062886.7949288,
     "1da6caf53d008daedf15bcde342830afcc52d01039e0d954f7967220b2771648": 1787043016.5686479,
+    "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
     "1eb08d4f14b003b5c984d5a303417e905ef4c196e106ae5bb8921f501cc6e69d": 1786549445.1848931,
     "1efa96cec47991bbe689dec8d5accc2f0766425ba90dfe25da25f299e02542d7": 1787657874.3018477,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
