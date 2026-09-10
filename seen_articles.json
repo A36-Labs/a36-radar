@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789016072.4957483,
-  "last_urgent_at": 1788998869.3288267,
+  "last_post_at": 1789033011.2115119,
+  "last_urgent_at": 1789033011.2115119,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Cybersecurity & Cloud"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Gizmodo",
     "TechCrunch AI",
     "Axios",
@@ -38,10 +39,10 @@
     "reuters.com",
     "news.bitcoin.com",
     "The Motley Fool",
-    "Modern Ghana",
-    "BleepingComputer"
+    "Modern Ghana"
   ],
   "recent_titles": [
+    "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
     "Newsom Signs AI Industry-Approved AI Regulation Bills Into Law in California",
     "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "Harvey hits $15.5b, Fox-Roku deal under scrutiny, and Archimed's new fund",
@@ -160,8 +161,7 @@
     "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
     "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.",
     "Australian venture capital firm Blackbird raises $752m from Asian investors",
-    "SEC Proposes “Regulation Crypto Assets”",
-    "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It"
+    "SEC Proposes “Regulation Crypto Assets”"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -326,6 +326,7 @@
     "4ae88249fe6d7288712eb3d8f7e849cbe71bd6f3507ec9feb12a1b537b7c1982": 1787441465.6875098,
     "4b2035e1835153bdb7dd163ed60468ad95e7b5335774b377a8457c74853bb10a": 1786847074.3875756,
     "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
+    "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
     "4d71a14a73fb71b8e70683664260a411222bd882e235578c3b6eb544a21eadda": 1785732043.9635842,
     "4da369f1bd5bbb6b8763be9e7b35b0faede3979073bc676f74804647d087978f": 1786109551.9494088,
