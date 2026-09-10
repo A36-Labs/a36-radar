@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789048135.3702185,
+  "last_post_at": 1789060773.891368,
   "last_urgent_at": 1789048135.3702185,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "The Next Web",
     "TechCrunch Startups",
     "BleepingComputer",
     "Gizmodo",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Pluang",
     "reuters.com",
-    "news.bitcoin.com",
-    "The Motley Fool"
+    "news.bitcoin.com"
   ],
   "recent_titles": [
+    "IBM and NASA release an open-source lunar foundation model",
     "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
     "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
     "Newsom Signs AI Industry-Approved AI Regulation Bills Into Law in California",
@@ -160,8 +161,7 @@
     "SA energy startup Yellow raises undisclosed Series C funding round -",
     "Nvidia shares set for $280 billion price swing after earnings, options show",
     "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
-    "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.",
-    "Australian venture capital firm Blackbird raises $752m from Asian investors"
+    "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years."
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -489,6 +489,7 @@
     "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
     "a2b977823f374cf24f0dc19df4f5c0f1658eccbfd726db9d66d9377935295df1": 1787079745.2236626,
     "a2ded51fc291c64f9f38a94e7370c47d9c5c58461872df7e5dcbfa151b483a1b": 1787648096.201888,
+    "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
     "a34aa0dbb18939f5a299f26cb29877763d2f088c975ebd5cad41bd740a269b06": 1788990945.1269774,
     "a3beb18fd80032bff2d3f71748635e0934f4862a1e7d1d7a74b16788f5367359": 1786870305.9517193,
     "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
