@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789033011.2115119,
-  "last_urgent_at": 1789033011.2115119,
+  "last_post_at": 1789048135.3702185,
+  "last_urgent_at": 1789048135.3702185,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "BleepingComputer",
     "Gizmodo",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Pluang",
     "reuters.com",
     "news.bitcoin.com",
-    "The Motley Fool",
-    "Modern Ghana"
+    "The Motley Fool"
   ],
   "recent_titles": [
+    "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
     "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
     "Newsom Signs AI Industry-Approved AI Regulation Bills Into Law in California",
     "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -160,8 +161,7 @@
     "Nvidia shares set for $280 billion price swing after earnings, options show",
     "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
     "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.",
-    "Australian venture capital firm Blackbird raises $752m from Asian investors",
-    "SEC Proposes “Regulation Crypto Assets”"
+    "Australian venture capital firm Blackbird raises $752m from Asian investors"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -622,6 +622,7 @@
     "e5bcff3d805eab9e03292725345a3449041ea96c5254d50234a204c2679cf897": 1786799016.1831157,
     "e60df6ffca717f4c008db454c12f16e1886254003024504fd9f93cd414460951": 1788783767.3784025,
     "e6410aeb30a0a1dd36803a4a98c330c93f40746333760a088a85dda892ed874f": 1787714934.089281,
+    "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
     "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
