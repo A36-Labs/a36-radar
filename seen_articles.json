@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789156239.2228677,
+  "last_post_at": 1789164282.4555843,
   "last_urgent_at": 1789069864.1156232,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Crunchbase News",
     "TechCrunch",
     "CNBC",
@@ -38,10 +39,10 @@
     "Axios",
     "Reuters",
     "finance.biggo.com",
-    "techflowpost.com",
-    "BleepingComputer"
+    "techflowpost.com"
   ],
   "recent_titles": [
+    "Florida confirms DMV database breached via stolen police account",
     "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
     "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "Rep. Lori Trahan on AI regulation: It's past time for Congress to get off the sidelines and act",
@@ -160,8 +161,7 @@
     "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch",
     "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back",
     "Accel-backed Keenable is indexing the web for AI agents",
-    "AI Security Startup Working With Anthropic and Google Raises $140 Million",
-    "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review"
+    "AI Security Startup Working With Anthropic and Google Raises $140 Million"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -641,6 +641,7 @@
     "e9613970bf3dc38756874ff4ae9f67d9ae87a206323c949973cef107723207d8": 1787471483.5800183,
     "e9846842d0f376308a8975746d80a3989aa048a9ebe46ce409721d4913254f48": 1787179549.3674655,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
+    "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
     "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
     "eaaf5a157c8de8ee22df43705585f287b3d8b657e20915d4f48b101746dfa799": 1787003114.2899542,
     "eae4cfafee8a522445f6bfbe3d5fc21a42d52abea3507f10c4f82118521f34e5": 1786898237.27734,
