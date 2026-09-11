@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789077837.485604,
+  "last_post_at": 1789085127.2736948,
   "last_urgent_at": 1789069864.1156232,
   "recent_categories": [
+    "Fintech & Payments",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "The National Law Review",
     "pluang.com",
     "Data Center Richness | Substack",
     "The Next Web",
@@ -38,10 +39,10 @@
     "CyberScoop",
     "TechCrunch Startups",
     "BleepingComputer",
-    "BleepingComputer",
-    "Pluang"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Fintech Agrees to Acquire National Bank Partner for $590 Million",
     "Crypto venture funding hits $21B in 2026 despite Bitcoin's 50% drop, signaling industry maturity.",
     "Inside Ecolab’s $4.75 Billion CoolIT Acquisition",
     "IBM and NASA release an open-source lunar foundation model",
@@ -160,8 +161,7 @@
     "Linux Foundation Submits OpenMDW for Open-Source Review",
     "Japan's Consumer Affairs Agency Unveils Interim Proposal for Dark Pattern Regulation; Crypto Assets Likely Excluded",
     "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
-    "SA energy startup Yellow raises undisclosed Series C funding round -",
-    "Nvidia shares set for $280 billion price swing after earnings, options show"
+    "SA energy startup Yellow raises undisclosed Series C funding round -"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -219,6 +219,7 @@
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
     "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
     "14572a32c775cfd3f1362e0134d2196602a08f41412a057f60e087ffe3e0f90c": 1787541167.213442,
+    "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
     "17674887f8ef9b5b7ee0c0c0c1f6d8c40845cb7e8688aa5610ad22cabd372d44": 1786877042.2425308,
