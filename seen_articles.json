@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789085127.2736948,
+  "last_post_at": 1789101132.195211,
   "last_urgent_at": 1789069864.1156232,
   "recent_categories": [
+    "Frontier Tech",
     "Fintech & Payments",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "dqindia.com",
     "The National Law Review",
     "pluang.com",
     "Data Center Richness | Substack",
@@ -38,10 +39,10 @@
     "starnewskorea.com",
     "CyberScoop",
     "TechCrunch Startups",
-    "BleepingComputer",
     "BleepingComputer"
   ],
   "recent_titles": [
+    "Silvaco announces partnership with Dassault Systèmes to advance first-time-right semiconductor manufacturing",
     "Fintech Agrees to Acquire National Bank Partner for $590 Million",
     "Crypto venture funding hits $21B in 2026 despite Bitcoin's 50% drop, signaling industry maturity.",
     "Inside Ecolab’s $4.75 Billion CoolIT Acquisition",
@@ -160,8 +161,7 @@
     "Real Brokerage completes $880M Re/Max acquisition, creating one of nation's largest brokerages",
     "Linux Foundation Submits OpenMDW for Open-Source Review",
     "Japan's Consumer Affairs Agency Unveils Interim Proposal for Dark Pattern Regulation; Crypto Assets Likely Excluded",
-    "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
-    "SA energy startup Yellow raises undisclosed Series C funding round -"
+    "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -402,6 +402,7 @@
     "6e2a6189fdbf65c638f131751654180931f2cc06a0fe0733b8f644ac8844f3fb": 1787660284.9362,
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
+    "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
     "6f7c373f3f64d2745a510f3c38c23b98e5f7d4ee87e6d3c006b203bb234d46f9": 1787698174.6074634,
     "70219785f289d7b7f532d03ca78951cf314c8f6f39c56733af9c2294b46d0d73": 1787611687.155361,
     "70a0e192d741a8c0193f99c5a9bc76b6ea8a259d4098b27fc0fd662333fa1200": 1788374867.2442904,
