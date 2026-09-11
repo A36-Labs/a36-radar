@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789146616.1236134,
+  "last_post_at": 1789156239.2228677,
   "last_urgent_at": 1789069864.1156232,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Frontier Tech"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "TechCrunch",
     "CNBC",
     "verdict.co.uk",
@@ -38,10 +39,10 @@
     "Reuters",
     "finance.biggo.com",
     "techflowpost.com",
-    "BleepingComputer",
-    "starnewskorea.com"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
     "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "Rep. Lori Trahan on AI regulation: It's past time for Congress to get off the sidelines and act",
     "AI inference startup Positron raises $875m at $5bn valuation",
@@ -160,8 +161,7 @@
     "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back",
     "Accel-backed Keenable is indexing the web for AI agents",
     "AI Security Startup Working With Anthropic and Google Raises $140 Million",
-    "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review",
-    "Real Brokerage completes $880M Re/Max acquisition, creating one of nation's largest brokerages"
+    "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -627,6 +627,7 @@
     "e2a4d7885d401200af762be4eb8d202c53c00cd381b5113b5278ae9b7390f88a": 1786794689.4549189,
     "e33ec1a77a87319273092c78283dfa5be9df542939c03f191f5971bdab4b3e54": 1787241771.0023737,
     "e44b5c1eb68a7aed88cdc44daea5e21a54ea77aaf4792a4eea24d70eb0c78c0f": 1787191492.9855237,
+    "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
     "e5bcff3d805eab9e03292725345a3449041ea96c5254d50234a204c2679cf897": 1786799016.1831157,
     "e60df6ffca717f4c008db454c12f16e1886254003024504fd9f93cd414460951": 1788783767.3784025,
     "e6410aeb30a0a1dd36803a4a98c330c93f40746333760a088a85dda892ed874f": 1787714934.089281,
