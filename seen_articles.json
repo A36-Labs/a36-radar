@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789117556.3588347,
+  "last_post_at": 1789133497.0002685,
   "last_urgent_at": 1789069864.1156232,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Frontier Tech",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Frontier Tech",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "CNBC",
     "verdict.co.uk",
     "dqindia.com",
     "The National Law Review",
@@ -38,10 +39,10 @@
     "techflowpost.com",
     "BleepingComputer",
     "starnewskorea.com",
-    "CyberScoop",
-    "TechCrunch Startups"
+    "CyberScoop"
   ],
   "recent_titles": [
+    "Rep. Lori Trahan on AI regulation: It's past time for Congress to get off the sidelines and act",
     "AI inference startup Positron raises $875m at $5bn valuation",
     "Silvaco announces partnership with Dassault Systèmes to advance first-time-right semiconductor manufacturing",
     "Fintech Agrees to Acquire National Bank Partner for $590 Million",
@@ -160,8 +161,7 @@
     "AI Security Startup Working With Anthropic and Google Raises $140 Million",
     "Nvidia's Third Structured Non-Acquisition in Nine Months: $27 Billion to Sidestep Merger Review",
     "Real Brokerage completes $880M Re/Max acquisition, creating one of nation's largest brokerages",
-    "Linux Foundation Submits OpenMDW for Open-Source Review",
-    "Japan's Consumer Affairs Agency Unveils Interim Proposal for Dark Pattern Regulation; Crypto Assets Likely Excluded"
+    "Linux Foundation Submits OpenMDW for Open-Source Review"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -471,6 +471,7 @@
     "94d78b76edac7ecb79937aef8b59c84c273a409ee987f86c5dbcf8c3a024646b": 1787012584.1655338,
     "951ec9b3501dc9ea6bf29c7ac5cf3214e8237bcb4db4c154efad6e76f0b7285c": 1785987960.9926963,
     "95300d1f5fe0042c5109cba3038d4eb4e3c26525a5104eaad46a208421ceeaf0": 1786958524.544105,
+    "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
     "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
