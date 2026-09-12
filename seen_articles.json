@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789217341.8435287,
+  "last_post_at": 1789228400.0895278,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "AI Insider",
     "BeInCrypto",
     "simplywall.st",
     "BNN Bloomberg",
@@ -38,10 +39,10 @@
     "The Next Web",
     "TechCrunch Startups",
     "BleepingComputer",
-    "Gizmodo",
-    "TechCrunch AI"
+    "Gizmodo"
   ],
   "recent_titles": [
+    "Vecna Robotics Raises $31M in Funding to Expand Warehouse Automation",
     "Nvidia Could Make Anthropic IPO Bigger than SpaceX With $10 Billion",
     "How Stablecoin Card Partnership At Marqeta (MQ) Has Changed Its Investment Story",
     "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
@@ -160,8 +161,7 @@
     "Robotics startup Generalist reaches $3B valuation, sources say",
     "LACMA data breach last year exposed social security and medical data",
     "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion",
-    "Tim Draper's $80M Orion Fund launches Cardano accelerator",
-    "Comcast $117.5 mn data breach settlement wins federal approval"
+    "Tim Draper's $80M Orion Fund launches Cardano accelerator"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -497,6 +497,7 @@
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
     "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
+    "a26e2162b0329e452a6286321dcc02a45130c537dd2eb404bb2a1453e84a2ead": 1789228400.0895278,
     "a2b977823f374cf24f0dc19df4f5c0f1658eccbfd726db9d66d9377935295df1": 1787079745.2236626,
     "a2ded51fc291c64f9f38a94e7370c47d9c5c58461872df7e5dcbfa151b483a1b": 1787648096.201888,
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
