@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789172036.5319514,
+  "last_post_at": 1789188267.6659057,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "VC & Accelerators",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "BNN Bloomberg",
     "Reuters",
     "BleepingComputer",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "Gizmodo",
     "TechCrunch AI",
     "Axios",
-    "Reuters",
-    "finance.biggo.com"
+    "Reuters"
   ],
   "recent_titles": [
+    "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
     "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports",
     "Florida confirms DMV database breached via stolen police account",
     "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
@@ -160,8 +161,7 @@
     "Tim Draper's $80M Orion Fund launches Cardano accelerator",
     "Comcast $117.5 mn data breach settlement wins federal approval",
     "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch",
-    "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back",
-    "Accel-backed Keenable is indexing the web for AI agents"
+    "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -345,6 +345,7 @@
     "51fb164ea333213f45697dd315ccc7e8f1c8b4ee0425f36ebb8fe1ba8b3dba12": 1787670603.2784553,
     "541d51116d515c5e6fbac4c70011970bed46caa9ce367915f6d90b35f1ff0847": 1787366557.2543042,
     "54e742fdc4625aaa9c795907b3f0889fc332d6ceb994d29fb646adac0a1458d7": 1786783790.9382899,
+    "55069b81601ce81d7dd75080500b8f265887c37ce04958da0d3863bdd53c657e": 1789188267.6659057,
     "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
     "559a4c4dd819d3f17379e75d74b629a0868a08487e196ae1bc45e5ce27e0c0f9": 1787313560.999591,
     "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
