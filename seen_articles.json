@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789228400.0895278,
+  "last_post_at": 1789237133.3487499,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "CoinDesk",
     "AI Insider",
     "BeInCrypto",
     "simplywall.st",
@@ -38,10 +39,10 @@
     "Data Center Richness | Substack",
     "The Next Web",
     "TechCrunch Startups",
-    "BleepingComputer",
-    "Gizmodo"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
     "Vecna Robotics Raises $31M in Funding to Expand Warehouse Automation",
     "Nvidia Could Make Anthropic IPO Bigger than SpaceX With $10 Billion",
     "How Stablecoin Card Partnership At Marqeta (MQ) Has Changed Its Investment Story",
@@ -160,8 +161,7 @@
     "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
     "Robotics startup Generalist reaches $3B valuation, sources say",
     "LACMA data breach last year exposed social security and medical data",
-    "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion",
-    "Tim Draper's $80M Orion Fund launches Cardano accelerator"
+    "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -265,6 +265,7 @@
     "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
     "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
     "2a4cfec7518b10e73fddcfd667f4be7fa9672024f9dfc491bde70eebb34f0ebd": 1787351765.5914705,
+    "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c3779acf92f34fd4c6ede6416f03cf9df3e3448545860de546f8267344f26e2": 1787113175.5624294,
     "2c849647acf5ef05e5c6f4f9225aa9cb702da391a2b1e47310e66a13cfcf72b0": 1785997133.1680982,
