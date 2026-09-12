@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789203175.3773015,
+  "last_post_at": 1789217341.8435287,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "BeInCrypto",
     "simplywall.st",
     "BNN Bloomberg",
     "Reuters",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "BleepingComputer",
     "Gizmodo",
-    "TechCrunch AI",
-    "Axios"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Nvidia Could Make Anthropic IPO Bigger than SpaceX With $10 Billion",
     "How Stablecoin Card Partnership At Marqeta (MQ) Has Changed Its Investment Story",
     "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
     "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports",
@@ -160,8 +161,7 @@
     "LACMA data breach last year exposed social security and medical data",
     "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion",
     "Tim Draper's $80M Orion Fund launches Cardano accelerator",
-    "Comcast $117.5 mn data breach settlement wins federal approval",
-    "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch"
+    "Comcast $117.5 mn data breach settlement wins federal approval"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -684,6 +684,7 @@
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
+    "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
     "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
