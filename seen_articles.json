@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789188267.6659057,
+  "last_post_at": 1789203175.3773015,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "AI & Agents",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
-    "VC & Accelerators",
-    "Startups & Funding"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "simplywall.st",
     "BNN Bloomberg",
     "Reuters",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Gizmodo",
     "TechCrunch AI",
-    "Axios",
-    "Reuters"
+    "Axios"
   ],
   "recent_titles": [
+    "How Stablecoin Card Partnership At Marqeta (MQ) Has Changed Its Investment Story",
     "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
     "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports",
     "Florida confirms DMV database breached via stolen police account",
@@ -160,8 +161,7 @@
     "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion",
     "Tim Draper's $80M Orion Fund launches Cardano accelerator",
     "Comcast $117.5 mn data breach settlement wins federal approval",
-    "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch",
-    "Celanese (CE) On Its Robotics Partnership And Why The Valuation Narrative Is Back"
+    "Stablecoin Market Cap Reaches $6.888 Billion Ahead of AQAv2 Launch"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -251,6 +251,7 @@
     "20fafa6d4d47904761fca035f152e42efeeaaee089f606f74031cf652774de9e": 1786267256.2286808,
     "22983ac0f2ba2ca3f9f4bffc5c2342c493a2abae4b233f48709a54572db9f0e3": 1787085342.907133,
     "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
+    "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "25c8a2e84bf0eca74338536bf6f3d1fb8d992a313533f368c16059f6ce9f0603": 1787168692.4900212,
     "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
     "2713abeb4ddcce6c46331c98ff7cab8df5b5db3c9db08ecda7315db3a9b83248": 1788297458.911165,
