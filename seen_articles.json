@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789259252.603763,
+  "last_post_at": 1789276782.6728384,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Fintech & Payments",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "defensorianna.gob.ar",
     "TechCrunch AI",
     "CoinDesk",
     "finsmes.com",
@@ -38,10 +39,10 @@
     "verdict.co.uk",
     "dqindia.com",
     "The National Law Review",
-    "pluang.com",
-    "Data Center Richness | Substack"
+    "pluang.com"
   ],
   "recent_titles": [
+    "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion",
     "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "OpenAI IPO won't happen this year, says Sam Altman",
     "The top movements reshaping iGaming: technology, media, and regulation",
@@ -160,8 +161,7 @@
     "AI Agents Are Getting More Autonomous. Alice Raises $140M to Keep Them in Check",
     "AI² Robotics and Pharmaron Form Strategic Partnership",
     "Hottest cybersecurity open-source tools of the month: August 2026",
-    "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
-    "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers"
+    "Crypto greed gauge hits highest since just before October’s $19 billion wipeout"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -436,6 +436,7 @@
     "7d0d6670644089af7b57e63d1ab01cdf595689f6b07efbf123f77d58af37eb77": 1786995375.481608,
     "7d64e45b4cd22533b1a96c8b4811573acfd55d43625975c8e92a820369199165": 1787875111.8864057,
     "7d6e526bdd621448933573bd0a16a0db51a39b98d945c7d9c34d0ebc766f4a0b": 1787172559.8413188,
+    "7eb50f9a589aa1a875e6f77cb53899cb505ad9d4cd29a594b1b92054e5eeb32c": 1789276782.6728384,
     "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
     "7f53ebaadd828baee0cd80bd41419c25cd8bf14b0171a67bd1196cd87dba1050": 1789146616.1236134,
     "80387b42a4f02fc4201a01f0f36b2df79c024578ba6ebb34720988d91bd7036c": 1788982080.8316088,
