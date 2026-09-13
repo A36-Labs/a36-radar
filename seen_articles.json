@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789252735.2042747,
+  "last_post_at": 1789259252.603763,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Fintech & Payments",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "AI & Agents"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "CoinDesk",
     "finsmes.com",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "dqindia.com",
     "The National Law Review",
     "pluang.com",
-    "Data Center Richness | Substack",
-    "The Next Web"
+    "Data Center Richness | Substack"
   ],
   "recent_titles": [
+    "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "OpenAI IPO won't happen this year, says Sam Altman",
     "The top movements reshaping iGaming: technology, media, and regulation",
     "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
@@ -160,8 +161,7 @@
     "AI² Robotics and Pharmaron Form Strategic Partnership",
     "Hottest cybersecurity open-source tools of the month: August 2026",
     "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
-    "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
-    "Robotics startup Generalist reaches $3B valuation, sources say"
+    "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -428,6 +428,7 @@
     "78a04de5cff9a38fe21549d1e376c4ae32191c6c3a743ba8a54cac1a7afc3ea0": 1787663904.3709397,
     "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
     "7b5edc44871d0fab5941f2985955538d8613230f14d522b9ab4dc9a1c441da1a": 1787553321.6685357,
+    "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
     "7c221124509ca3a464dc26b23ad32031b0f53956d5e8d7c575619ea64245ff01": 1787145343.2354076,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
     "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
