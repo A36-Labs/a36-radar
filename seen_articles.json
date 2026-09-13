@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789321473.7455816,
+  "last_post_at": 1789329250.6655872,
   "last_urgent_at": 1789310327.8867402,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Startup Fortune",
     "rediff.com",
     "BleepingComputer",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Crunchbase News",
     "TechCrunch",
-    "CNBC",
-    "verdict.co.uk"
+    "CNBC"
   ],
   "recent_titles": [
+    "Anthropic Is Reportedly Heading Toward a $2 Trillion Nasdaq IPO in October",
     "India's Semiconductor Sector Attracts $1.4 Billion in Equity Funding",
     "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
     "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -160,8 +161,7 @@
     "Volato Group Signs $500M Merger With Alignment Engine to Build AI Infrastructure Platform",
     "IBM Completes Acquisition of HRL Laboratories to Accelerate the Future of Quantum",
     "Sector Snapshot: Legal Tech Funding Down Slightly From All-Time High",
-    "Robotics startup Generalist hits $3B valuation after fresh funding - report",
-    "AI Agents Are Getting More Autonomous. Alice Raises $140M to Keep Them in Check"
+    "Robotics startup Generalist hits $3B valuation after fresh funding - report"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -216,6 +216,7 @@
     "129f2d0e9fa4b5506db7c231b022ea874dfff347e129848bb69bbd59a0144e94": 1787514067.395525,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
     "1392b1f225005e713af4595fd62e9577880a84969cbd2a4c764302d17da4f128": 1787602411.3820255,
+    "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
     "1448986ae152b873f16ca7975e14f319f1ac1b3139f8f0916550787968e61591": 1786524924.3068938,
     "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
     "14572a32c775cfd3f1362e0134d2196602a08f41412a057f60e087ffe3e0f90c": 1787541167.213442,
