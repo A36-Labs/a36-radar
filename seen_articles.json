@@ -1,8 +1,9 @@
 {
-  "last_post_at": 1789295008.0384543,
-  "last_urgent_at": 1789172036.5319514,
+  "last_post_at": 1789310327.8867402,
+  "last_urgent_at": 1789310327.8867402,
   "recent_categories": [
     "Cybersecurity & Cloud",
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
-    "Frontier Tech",
-    "Fintech & Payments"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "The Hacker News",
     "defensorianna.gob.ar",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "TechCrunch",
     "CNBC",
     "verdict.co.uk",
-    "dqindia.com",
-    "The National Law Review"
+    "dqindia.com"
   ],
   "recent_titles": [
+    "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
     "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
     "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion",
     "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
@@ -160,8 +161,7 @@
     "Sector Snapshot: Legal Tech Funding Down Slightly From All-Time High",
     "Robotics startup Generalist hits $3B valuation after fresh funding - report",
     "AI Agents Are Getting More Autonomous. Alice Raises $140M to Keep Them in Check",
-    "AI² Robotics and Pharmaron Form Strategic Partnership",
-    "Hottest cybersecurity open-source tools of the month: August 2026"
+    "AI² Robotics and Pharmaron Form Strategic Partnership"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -297,6 +297,7 @@
     "388bacc45504dd8e1758d1b744c45d0ecf43bcf9dc9b0c6c5ad7d312156f747d": 1786807901.2294278,
     "38ab1a046638787cb0d72c6a80ac9a33a60cad027db5428ab59f8f144f2d1686": 1787382326.0040903,
     "38dd6134b89798a02b83c76b64702405b43c93656749d728068f8cf02f15122d": 1786802804.2871442,
+    "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
     "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
     "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
     "3b9bfe05677a07434d4321c1ebcbde929ba2c796da74ac4c7959bc3957cd75cb": 1786955022.8050838,
