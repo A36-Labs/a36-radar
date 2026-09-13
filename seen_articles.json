@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789276782.6728384,
+  "last_post_at": 1789295008.0384543,
   "last_urgent_at": 1789172036.5319514,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Frontier Tech",
-    "Fintech & Payments",
-    "Web3 & Digital Assets"
+    "Fintech & Payments"
   ],
   "recent_sources": [
+    "The Hacker News",
     "defensorianna.gob.ar",
     "TechCrunch AI",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "CNBC",
     "verdict.co.uk",
     "dqindia.com",
-    "The National Law Review",
-    "pluang.com"
+    "The National Law Review"
   ],
   "recent_titles": [
+    "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
     "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion",
     "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "OpenAI IPO won't happen this year, says Sam Altman",
@@ -160,8 +161,7 @@
     "Robotics startup Generalist hits $3B valuation after fresh funding - report",
     "AI Agents Are Getting More Autonomous. Alice Raises $140M to Keep Them in Check",
     "AI² Robotics and Pharmaron Form Strategic Partnership",
-    "Hottest cybersecurity open-source tools of the month: August 2026",
-    "Crypto greed gauge hits highest since just before October’s $19 billion wipeout"
+    "Hottest cybersecurity open-source tools of the month: August 2026"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -463,6 +463,7 @@
     "8a49aacf01cb0d13aa17f09416e72f161c03989a9b0a40e6a38d2f45984010ad": 1787203132.680748,
     "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
     "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
+    "8c29ae5683ae40876531f0279b37e97ef6330cdd62768770142c97eb1d85f7a5": 1789295008.0384543,
     "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
     "8cd3fded74c2ac5f0545105c34d2541199c516de7d63d4fde4732e254eac6d26": 1787592222.8208559,
     "8d29b6b0f0f4ac967b099b7c3b119be8d0ebc5db20c38950dd6fe4cbe0e6ac27": 1787536443.3553667,
