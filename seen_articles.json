@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789338180.563906,
+  "last_post_at": 1789345121.9856682,
   "last_urgent_at": 1789310327.8867402,
   "recent_categories": [
+    "Startups & Funding",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Indian Startup News",
     "Bitget",
     "Startup Fortune",
     "rediff.com",
@@ -38,10 +39,10 @@
     "BNN Bloomberg",
     "Reuters",
     "BleepingComputer",
-    "Crunchbase News",
-    "TechCrunch"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Indian startups raised over $412 million from September 7 to September 12, 2026; Pixxel tops the list",
     "Nu digital bank launch expands into the U.S. with 3.50% APY accounts",
     "Anthropic Is Reportedly Heading Toward a $2 Trillion Nasdaq IPO in October",
     "India's Semiconductor Sector Attracts $1.4 Billion in Equity Funding",
@@ -160,8 +161,7 @@
     "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
     "Academy Mortgage Agrees to $2 Million Data Breach Settlement",
     "Volato Group Signs $500M Merger With Alignment Engine to Build AI Infrastructure Platform",
-    "IBM Completes Acquisition of HRL Laboratories to Accelerate the Future of Quantum",
-    "Sector Snapshot: Legal Tech Funding Down Slightly From All-Time High"
+    "IBM Completes Acquisition of HRL Laboratories to Accelerate the Future of Quantum"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -503,6 +503,7 @@
     "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a058f1dafacce4c52d87cdb5c577760cc26dc1364f6b7705a4811a7db49073ca": 1788824627.6750333,
+    "a10225f8255c19fac2239a7d9b4e20fb887d9db87e602c6da0045774507a6e1b": 1789345121.9856682,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
     "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
