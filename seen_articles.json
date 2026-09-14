@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789382844.7358165,
+  "last_post_at": 1789403936.9645634,
   "last_urgent_at": 1789310327.8867402,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "VC & Accelerators",
     "Startups & Funding",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "AI & Agents",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "Airbnb Newsroom",
     "Indian Startup News",
     "Bitget",
@@ -38,10 +39,10 @@
     "BeInCrypto",
     "simplywall.st",
     "BNN Bloomberg",
-    "Reuters",
-    "BleepingComputer"
+    "Reuters"
   ],
   "recent_titles": [
+    "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
     "Airbnb announces first housing accelerator investment in Austin, TX",
     "Indian startups raised over $412 million from September 7 to September 12, 2026; Pixxel tops the list",
     "Nu digital bank launch expands into the U.S. with 3.50% APY accounts",
@@ -160,8 +161,7 @@
     "Nvidia Acquires Hugging Face for $12.9 Billion",
     "Critical Avada WordPress theme flaw enables zero-click RCE",
     "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
-    "Academy Mortgage Agrees to $2 Million Data Breach Settlement",
-    "Volato Group Signs $500M Merger With Alignment Engine to Build AI Infrastructure Platform"
+    "Academy Mortgage Agrees to $2 Million Data Breach Settlement"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -320,6 +320,7 @@
     "4213301c3dd74b64a4694164149231f1ef361c7ac4f2672cefa7e0ff1da6f6bf": 1787566821.8918493,
     "4459523963ae050297f891d5ea220da28147ab54d1644642f6b6b007f090639f": 1786728833.7736254,
     "4461b39ad8af5ffd1754a5568a80f0ce0de97296b53fb1b942f41504367c0757": 1787246126.8095887,
+    "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "4566294ccb40c3c398b87a9aa99f74252f928f0870f9668fa58e01ca0e0f8821": 1786915852.698227,
     "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "466e50702af82a8c63600ad67eac0b4298cc1e9f61a7bb7aa85c4caa5862167a": 1787475200.0388858,
