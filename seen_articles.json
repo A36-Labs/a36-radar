@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789418334.3878849,
+  "last_post_at": 1789428741.4428759,
   "last_urgent_at": 1789418334.3878849,
   "recent_categories": [
+    "Policy & Regulation",
     "VC & Accelerators",
     "Web3 & Digital Assets",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "AI & Agents"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Bloomberg Government News",
     "pulse2.com",
     "Cointelegraph",
     "Airbnb Newsroom",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "AI Insider",
     "BeInCrypto",
-    "simplywall.st",
-    "BNN Bloomberg"
+    "simplywall.st"
   ],
   "recent_titles": [
+    "AI Regulation Needs ‘Decisive’ Action, Top House Democrat Argues",
     "Airbnb Commits $250 Million To Housing Accelerator Aimed At Unlocking More Than $5 Billion",
     "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
     "Airbnb announces first housing accelerator investment in Austin, TX",
@@ -160,8 +161,7 @@
     "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
     "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
     "Nvidia Acquires Hugging Face for $12.9 Billion",
-    "Critical Avada WordPress theme flaw enables zero-click RCE",
-    "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most"
+    "Critical Avada WordPress theme flaw enables zero-click RCE"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -174,6 +174,7 @@
     "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
     "02f20307b1809dd43a962787ca5d61fc6de2f3657ed6a5d75344becdc8785b41": 1787182914.1027505,
     "0318b728bddffada57088556eef7edbf35c2b1c5bc8426ccb2d3032eb6e409b0": 1788137759.5588465,
+    "03a4d2cd5f850ddf0b07c8b70eeaa0ba343c3c77ede3ad6dc5548d3199feceec": 1789428741.4428759,
     "03f752b14de085b293cd75291f84e1fca175ed1343de4209625f930948cfaaa8": 1787320556.1591268,
     "041601e0a6ea1c8612a3d53ed233fd7708b2753b8fb3c6d2a18ee92ac430e28d": 1786624153.8507273,
     "04b014fb3d9e588a1e59e6ec6a89532c7d8b445472f8e171a6d6fbebe0a0ecbb": 1786596080.4139109,
