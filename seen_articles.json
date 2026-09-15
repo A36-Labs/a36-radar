@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789437160.6432672,
-  "last_urgent_at": 1789418334.3878849,
+  "last_post_at": 1789457929.5818737,
+  "last_urgent_at": 1789457929.5818737,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Axios",
     "Bloomberg Government News",
     "pulse2.com",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "finsmes.com",
     "CoinDesk",
-    "AI Insider",
-    "BeInCrypto"
+    "AI Insider"
   ],
   "recent_titles": [
+    "Cisco patches Secure Email Gateway zero-day exploited in attacks",
     "Temporal worth $12.55b, OpenAI's camera acquisition, and DoD's tungsten buy",
     "AI Regulation Needs ‘Decisive’ Action, Top House Democrat Argues",
     "Airbnb Commits $250 Million To Housing Accelerator Aimed At Unlocking More Than $5 Billion",
@@ -160,8 +161,7 @@
     "Nvidia’s $12.9B Hugging Face Deal Must Pass Antitrust Review Its Quasi-Mergers Dodged",
     "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
     "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-    "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
-    "Nvidia Acquires Hugging Face for $12.9 Billion"
+    "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -602,6 +602,7 @@
     "cdc1c1c90291460ace2970bf93f1f419718d4f8ba6749944478cd25975639762": 1786200262.4983444,
     "cdd25898f00e5aaa0fb9eac791ede5c6b2a4b4e2ec9e800fc14c313f0ad96efb": 1785870641.104463,
     "ce7f898821cca66b32343bc919fa1770c37e15df1d9b363e5345337c2d47f102": 1786084979.7290184,
+    "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d03e1f27bd82dfda590f8d413389a976cbb08cc37e9acd4f9a0e008af011aaa4": 1787165385.4279246,
     "d09deb90d2d251fedd4ea8927b5a3888360a57028be3b54a6dc17b970d29b16a": 1787141711.8237572,
