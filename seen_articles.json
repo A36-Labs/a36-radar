@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789504139.248583,
-  "last_urgent_at": 1789493933.9223053,
+  "last_post_at": 1789513763.8527327,
+  "last_urgent_at": 1789513763.8527327,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Startups & Funding",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "fool.com",
     "TechCrunch AI",
     "TechCrunch Startups",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "The Hacker News",
     "defensorianna.gob.ar",
-    "TechCrunch AI",
-    "CoinDesk"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
     "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
     "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
     "New Italian unicorn Exein rides the physical AI wave",
@@ -160,8 +161,7 @@
     "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
     "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
     "AI assistant startup Instinct reaches $2.5bn valuation after $250m funding round",
-    "Andreessen Horowitz Announces $1.1B 'Machine Age Fund' for AI Hardware & Infrastructure Investments",
-    "Nvidia’s $12.9B Hugging Face Deal Must Pass Antitrust Review Its Quasi-Mergers Dodged"
+    "Andreessen Horowitz Announces $1.1B 'Machine Age Fund' for AI Hardware & Infrastructure Investments"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -594,6 +594,7 @@
     "c63fc640eabb5e1ef13dc74527989fa8cff132f3f899097d369ceb31428aa7ac": 1788347465.0073433,
     "c6ed841213b85f19c9a605ad88649dd1f6fa3152f9db2826fd5dc7cc01998702": 1787049657.241761,
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
+    "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
