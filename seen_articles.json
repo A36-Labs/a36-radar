@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789560746.0741222,
+  "last_post_at": 1789578478.2605371,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Policy & Regulation",
     "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Cybersecurity & Cloud"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Bloomberg Law News",
     "outlookbusiness.com",
     "CoinDesk",
     "Reuters",
@@ -38,10 +39,10 @@
     "Indian Startup News",
     "Bitget",
     "Startup Fortune",
-    "rediff.com",
-    "BleepingComputer"
+    "rediff.com"
   ],
   "recent_titles": [
+    "United Nations Chief Calls for Coordinating Global AI Regulation",
     "India’s Semiconductor Sector Draws $1.4Bn; Bengaluru Takes 40.1% Share",
     "Crypto longs worth $570 million wiped out as Clarity Act fails",
     "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
@@ -160,8 +161,7 @@
     "Google changes spam policy in EU to avert antitrust fine",
     "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z",
     "OpenAI Agents Coordinated Hugging Face Breach at Scale",
-    "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-    "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost"
+    "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -496,7 +496,6 @@
     "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
     "98f2dd048335716b91e1908d1bddea0953b78c4047cef5ed6c5d190490a99fcf": 1785700889.9548657,
-    "99f58715ee6a28c6d9198dc8c83be48ae321c2b201bc94d16d744657f67b3173": 1785688878.7908254,
     "9a000c24d257ba5a10842f1d6627c49fe53dd7b03a8d167782c5d1cd85da837b": 1787231242.2813187,
     "9a0ac7c4486825ee89cb7d7d8bb536f02096d2996132b23c4e823877cd8ec114": 1787210750.8808126,
     "9b07eb5cea15b090013f163827609ca43a47df77d20849fb698e44bcb206f8d7": 1786546060.625501,
@@ -528,6 +527,7 @@
     "a6a439c8770542d649d1e4895fb52644eafcbf9e2038cd18377750ce96dbe41f": 1787581323.1705828,
     "a75e7bc2283f64fddc5fb8a168ef577e62e1299aad0cbb3001dd3060170f1d8d": 1787525675.3609865,
     "a7801aa807b0d1a675534dcc59b5b73c396d3753fde7d1e9e8c8067b79ab5619": 1786421065.2667177,
+    "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
     "aa3fe482cb711f8ddaff1a25c156356b7f690c046507cc87252f631ed1382d09": 1786204284.2487767,
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
@@ -638,7 +638,6 @@
     "dadb1079a8ad681dbbc051690eda367f3253f3bbddb029618681d4904b0ca5ed": 1786253497.6184828,
     "db3066ba7b5c357bbf77713f42f07af8fc1a43b4c36faf3fdd7bddf6528153a5": 1785781776.1543922,
     "db31e89f5956bd597de9ff439615f60a3ebd54bc2969b2767254c55377edf9b3": 1786441521.5519352,
-    "dbaf28a6c1a465738ec511aa3a6f23071d8721d16724ba86b9a3440061ca07e4": 1785683431.0342455,
     "dbef8888d1528ed9231154e8f87154eb38a9d020450d28b6560c0ec5ba09f62c": 1788120086.473551,
     "dc2eeec1dc11400177fe8e03fb456d516d74ada24f90cc3a6eba96d2e651e111": 1788520248.533977,
     "dd5fc15a07710880c4613795110c1f953191eefb3a5e2dc42a9bb9e83d4e5cfe": 1786981499.3031235,
