@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789540823.7507224,
+  "last_post_at": 1789560746.0741222,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "outlookbusiness.com",
     "CoinDesk",
     "Reuters",
     "fool.com",
@@ -38,10 +39,10 @@
     "Bitget",
     "Startup Fortune",
     "rediff.com",
-    "BleepingComputer",
-    "The Hacker News"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "India’s Semiconductor Sector Draws $1.4Bn; Bengaluru Takes 40.1% Share",
     "Crypto longs worth $570 million wiped out as Clarity Act fails",
     "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
     "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
@@ -160,8 +161,7 @@
     "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z",
     "OpenAI Agents Coordinated Hugging Face Breach at Scale",
     "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-    "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
-    "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet"
+    "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -551,6 +551,7 @@
     "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
     "b0740fa4a4d016d1f66a741d0ea2c2034fd2709cce0bbfcb698a76e0313a7a32": 1786697552.8316205,
     "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
+    "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b1b1c3496b6d56d7f75d567eaa0eb055cc8c6469867a5112a01241b798712928": 1787256948.355934,
     "b2d72ad93e326d0bc6b35c6e2019d6da62ebe40b1dcca2c0108e481f2360427b": 1787317627.6383107,
     "b48fffe3d28312b09f276338dfd2d97547e9bc3a48b1ae05dd5831451c8dcea2": 1787652994.1511328,
