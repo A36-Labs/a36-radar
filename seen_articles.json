@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789513763.8527327,
-  "last_urgent_at": 1789513763.8527327,
+  "last_post_at": 1789522139.6168242,
+  "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Reuters",
     "fool.com",
     "TechCrunch AI",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "rediff.com",
     "BleepingComputer",
     "The Hacker News",
-    "defensorianna.gob.ar",
-    "TechCrunch AI"
+    "defensorianna.gob.ar"
   ],
   "recent_titles": [
+    "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
     "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
     "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
     "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
@@ -160,8 +161,7 @@
     "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
     "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
     "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-    "AI assistant startup Instinct reaches $2.5bn valuation after $250m funding round",
-    "Andreessen Horowitz Announces $1.1B 'Machine Age Fund' for AI Hardware & Infrastructure Investments"
+    "AI assistant startup Instinct reaches $2.5bn valuation after $250m funding round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -228,6 +228,7 @@
     "17674887f8ef9b5b7ee0c0c0c1f6d8c40845cb7e8688aa5610ad22cabd372d44": 1786877042.2425308,
     "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
+    "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "19d74ba56c7689852eff4c4ad45d36d8d99afef161ca413b8d61e652fd5c56f4": 1786536228.4634604,
     "1a90c36379a31994a727f9b38da11246ca77968b7d6356c46c651a084607981d": 1786139578.7538576,
     "1abc932309b497f3f0b56cc7dd2bffbb2228a245173e11ec76a9f871541b7710": 1786359114.2255287,
