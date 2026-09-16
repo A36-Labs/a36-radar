@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789522139.6168242,
+  "last_post_at": 1789540823.7507224,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Cybersecurity & Cloud",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Reuters",
     "fool.com",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Startup Fortune",
     "rediff.com",
     "BleepingComputer",
-    "The Hacker News",
-    "defensorianna.gob.ar"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Crypto longs worth $570 million wiped out as Clarity Act fails",
     "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
     "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
     "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
@@ -160,8 +161,7 @@
     "OpenAI Agents Coordinated Hugging Face Breach at Scale",
     "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
     "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
-    "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-    "AI assistant startup Instinct reaches $2.5bn valuation after $250m funding round"
+    "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -207,6 +207,7 @@
     "0dbdf7a37fd337c174695162f7bc0a021071f430603524b1632bada59366ad61": 1787064426.1464493,
     "0deb3b9bb62104f895013a778f6b614c14cde8f65f4623de13a64f6016b549e7": 1787747296.4464016,
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
+    "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
