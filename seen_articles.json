@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789676056.6748195,
+  "last_post_at": 1789685671.0554128,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Frontier Tech",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Dealroom",
     "TechCrunch AI",
     "The Robot Report",
     "FinTech Futures",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "TechCrunch Startups",
     "BleepingComputer",
-    "Axios",
-    "Bloomberg Government News"
+    "Axios"
   ],
   "recent_titles": [
+    "GAC-backed flying car startup Gaoyu raises ~$120M Series A",
     "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
     "Robotics investments reach $4.9B in August 2026",
     "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding",
@@ -160,8 +161,7 @@
     "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise with US$ 1 billion Revenue by FY28 - HappiestMinds",
     "Biotech Startup Investment Held Steady Even As AI Funding Surged",
     "Oura Targets US$3 Billion IPO at More Than US$16 Billion Valuation",
-    "a16z Launches $1.1B Machine Age Fund for AI",
-    "Hugging Face launches Microduck, a $399 open-source robot duck"
+    "a16z Launches $1.1B Machine Age Fund for AI"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -193,6 +193,7 @@
     "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
     "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
     "096f3703717dd029a0f5610cfa5503f4adb12114670274b0ff989087c984194b": 1788361744.3495393,
+    "098c258b9d4fa8f2a522698b12905c269cb17c5e2d0456b27b114710e4a8dd07": 1789685671.0554128,
     "098fc3550c67e9a67d8b25f4451362ca99df976d962b944bfc280c95e88c75ae": 1788600527.940505,
     "09b14b41ce96d7df35edc69d40847f1d86f6f88dd209a283451c8413afcb24f8": 1786927824.37008,
     "0a62a1d480ab92a967acd1d75084a4322aedb72afc56893e6421b1ee4fbf9d6d": 1788111405.2985842,
@@ -316,7 +317,6 @@
     "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
     "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
     "3ee0b841980729eb49e976da0b6808eef405dbc1b00a15f336a2f4b338644db2": 1785891079.6105769,
-    "3fe7082e47f4fa344d8327094e8e4f75032f5ad3858bf233be8ab9e1cf5d5f95": 1785792866.548016,
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
     "405a737f72d34e5f5945dc1b5de6f89ed79defb98ddece2c46ed01347512d3d3": 1787557378.9805996,
     "40f566e0a889cf9544b407fc987c5657b7020f63f08b36fbe15003719b549c84": 1787841378.0301557,
@@ -327,7 +327,6 @@
     "4461b39ad8af5ffd1754a5568a80f0ce0de97296b53fb1b942f41504367c0757": 1787246126.8095887,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "4566294ccb40c3c398b87a9aa99f74252f928f0870f9668fa58e01ca0e0f8821": 1786915852.698227,
-    "45fdc157e9b0d9558f35b0ef6e537f93ca99df9cb774289a34f9a85f97bee1ae": 1785796679.5545752,
     "466e50702af82a8c63600ad67eac0b4298cc1e9f61a7bb7aa85c4caa5862167a": 1787475200.0388858,
     "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
@@ -369,7 +368,6 @@
     "5c00cdd9e23d4536cb9926708357f9a85b0d09802e93edd563370af5e6474f1b": 1787676712.1392136,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
     "5ccecbf10f9f08c1f96decf3a031f639fa77e11657d618dc40b3ba746451e185": 1787018589.6494143,
-    "5d454fbf05519d8801b246df369c473223cb089709c9c27b20960a95921e6034": 1785788216.2395058,
     "5d49df2e53f6cee0118b263d1f891ab3a9d0f04bd089fc1e25260f43146e7b89": 1789117556.3588347,
     "5ddc8d3f048ab0c80b16cff0bd222e47355c60f6133f254b86a3cbe4a66a0d18": 1786910406.8455408,
     "5dfa2cbd8919a49535a0190382e870770f982cdbb9fe4986c2ecaadb3bd29a41": 1787609440.66824,
