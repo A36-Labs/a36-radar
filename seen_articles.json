@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789663983.0280683,
+  "last_post_at": 1789676056.6748195,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "AI & Agents",
     "Frontier Tech",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "VC & Accelerators"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "The Robot Report",
     "FinTech Futures",
     "Retail Technology Innovation Hub",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "BleepingComputer",
     "Axios",
-    "Bloomberg Government News",
-    "pulse2.com"
+    "Bloomberg Government News"
   ],
   "recent_titles": [
+    "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
     "Robotics investments reach $4.9B in August 2026",
     "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding",
     "TRG announces its acquisition of 2025 RTIH Innovation Awards winner Vista Technology Support",
@@ -160,8 +161,7 @@
     "Biotech Startup Investment Held Steady Even As AI Funding Surged",
     "Oura Targets US$3 Billion IPO at More Than US$16 Billion Valuation",
     "a16z Launches $1.1B Machine Age Fund for AI",
-    "Hugging Face launches Microduck, a $399 open-source robot duck",
-    "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?"
+    "Hugging Face launches Microduck, a $399 open-source robot duck"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -505,6 +505,7 @@
     "9f0fdcb8ddc718d1082439c334847fdf1690b4f3f31f673f894692526db6d424": 1787377062.9392743,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a058f1dafacce4c52d87cdb5c577760cc26dc1364f6b7705a4811a7db49073ca": 1788824627.6750333,
+    "a0b15426f63900bad93ffa7548d6dcc358063be1176ff526a19a43bd57f33c23": 1789676056.6748195,
     "a10225f8255c19fac2239a7d9b4e20fb887d9db87e602c6da0045774507a6e1b": 1789345121.9856682,
     "a19829237d8c40ee5f9c0b54d9f76d67081307e772116982237965cfa072ee1b": 1786134009.721828,
     "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
@@ -631,7 +632,6 @@
     "da980a19a843bfa0806961f8a5d641dec05ecc27e00d594d83ba658de147bcdc": 1786007813.7413337,
     "dad5f85000278f1fce6f7f4a9afad9ffbf8ccbe729acae528fee9a54f0b3e63c": 1789599741.3587873,
     "dadb1079a8ad681dbbc051690eda367f3253f3bbddb029618681d4904b0ca5ed": 1786253497.6184828,
-    "db3066ba7b5c357bbf77713f42f07af8fc1a43b4c36faf3fdd7bddf6528153a5": 1785781776.1543922,
     "db31e89f5956bd597de9ff439615f60a3ebd54bc2969b2767254c55377edf9b3": 1786441521.5519352,
     "dbef8888d1528ed9231154e8f87154eb38a9d020450d28b6560c0ec5ba09f62c": 1788120086.473551,
     "dc2eeec1dc11400177fe8e03fb456d516d74ada24f90cc3a6eba96d2e651e111": 1788520248.533977,
