@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789599741.3587873,
+  "last_post_at": 1789608071.8224158,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Web3 & Digital Assets",
     "VC & Accelerators",
-    "Startups & Funding",
-    "Fintech & Payments"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Pulse 2.0",
     "Yahoo Finance",
     "Bloomberg Law News",
@@ -38,10 +39,10 @@
     "pulse2.com",
     "Cointelegraph",
     "Airbnb Newsroom",
-    "Indian Startup News",
-    "Bitget"
+    "Indian Startup News"
   ],
   "recent_titles": [
+    "Spain's data agency gets first report of AI-powered data breach",
     "barq Raises $329.5 Million Series A At $1.85 Billion Valuation As Saudi Fintech Expands Payments Partnerships",
     "Bain Capital Ventures Announces $1.6B New Fund to Invest in Founders Building for an Abundant Post-AGI World",
     "United Nations Chief Calls for Coordinating Global AI Regulation",
@@ -160,8 +161,7 @@
     "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
     "Bitcoin shorts squeezed $6.55B in August – Weak demand raises September doubts",
     "Ticket Resale Platform Tixel Warns Users Of Data Breach In Metabase Zero-Day Attack",
-    "Google changes spam policy in EU to avert antitrust fine",
-    "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z"
+    "Google changes spam policy in EU to avert antitrust fine"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -359,7 +359,6 @@
     "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
     "559a4c4dd819d3f17379e75d74b629a0868a08487e196ae1bc45e5ce27e0c0f9": 1787313560.999591,
     "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
-    "576eb797df67a8f60d1e415ead23a387671b302aa0399f6552d443f0fe793b9d": 1785712611.561543,
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
     "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
     "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
@@ -478,6 +477,7 @@
     "8d29b6b0f0f4ac967b099b7c3b119be8d0ebc5db20c38950dd6fe4cbe0e6ac27": 1787536443.3553667,
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
     "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
+    "8e7fd0505ce61006647bc7715a1032c3e912358c72d9b852d24244e2057fbcaf": 1789608071.8224158,
     "8ec5b9cc04f7467c0bfc6dce8d5a7b77c20e12e6a4fd658619833c8c6a74e4c1": 1785801314.1665478,
     "8efda7e33af1e040c6f38553360187ff64ab7bb76e504a7013f4279ab02b1983": 1787494162.9885552,
     "8f68d9cae058456e758b40ae39692cea581ac9ec9e5e16ffcbae6b6584bb6e26": 1788305008.7645707,
@@ -659,7 +659,6 @@
     "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e6d1220b72dcf14119f0f5afe98b7d7256334e379a20a1b69a1b2cfaa723d2ad": 1786617243.2745974,
     "e7462a308001cc5ea490a608a2620cadbb7501dc5e662a2220674ba7399b3ceb": 1786089736.4309726,
-    "e7b67f88527e6cac9c8b2d0ae84317e530fe2d46cc97988d2c5f88676ec038c5": 1785718876.7598042,
     "e7ea0ff75d84ba8649f9f3656b00149377b3c36d78415951e07f6370c76e67e1": 1787403428.352448,
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
