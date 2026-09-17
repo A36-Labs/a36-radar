@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789625628.7670014,
+  "last_post_at": 1789645946.910035,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "VC & Accelerators",
-    "Web3 & Digital Assets",
-    "VC & Accelerators"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "FinTech Futures",
     "Retail Technology Innovation Hub",
     "BleepingComputer",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "Axios",
     "Bloomberg Government News",
     "pulse2.com",
-    "Cointelegraph",
-    "Airbnb Newsroom"
+    "Cointelegraph"
   ],
   "recent_titles": [
+    "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding",
     "TRG announces its acquisition of 2025 RTIH Innovation Awards winner Vista Technology Support",
     "Spain's data agency gets first report of AI-powered data breach",
     "barq Raises $329.5 Million Series A At $1.85 Billion Valuation As Saudi Fintech Expands Payments Partnerships",
@@ -160,8 +161,7 @@
     "a16z Launches $1.1B Machine Age Fund for AI",
     "Hugging Face launches Microduck, a $399 open-source robot duck",
     "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
-    "Bitcoin shorts squeezed $6.55B in August – Weak demand raises September doubts",
-    "Ticket Resale Platform Tixel Warns Users Of Data Breach In Metabase Zero-Day Attack"
+    "Bitcoin shorts squeezed $6.55B in August – Weak demand raises September doubts"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -279,7 +279,6 @@
     "2d704645e5fd7cc75cefd848661328d2fe1c86c0930ab1b04371bebf114aee62": 1786774458.8707151,
     "2e0553881798ae66100823a8b938edeea96d389eeae19134dfb55ec9dc9da07e": 1787386336.661562,
     "2e449710995ae0bacf3586fcce63651cfd596a8a44f2f314cf0938e2d2c7d75a": 1786330943.9278576,
-    "2e8941517d6a9f0352746121797c2f9394b8204f5f5ec910f812020ddaaf0bb8": 1785744952.127454,
     "2ea04f98184b926e8acae1e0839584b218bd4c1de10015fa90d1017562f5c36d": 1787282748.4262226,
     "2eee3a18be91b01f97c7852c94a329067c8dc4d60e64716b02b57e36af2010ee": 1787604824.7737763,
     "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
@@ -505,7 +504,6 @@
     "9d86f4cea914235e4110b2c9949cd88e04fee547f6a59b6bb8f437a0c59dd77a": 1786195060.0851758,
     "9e14e11ac2eb86078d37b76739611a3b07eaadcc5f0759ff2247127aa2fffc13": 1787118098.6730926,
     "9f0fdcb8ddc718d1082439c334847fdf1690b4f3f31f673f894692526db6d424": 1787377062.9392743,
-    "9fc089d3c9dd8de459d1f5a8152b4ffa09efd3838b3980794427375fbc5d83c5": 1785757826.9026768,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a058f1dafacce4c52d87cdb5c577760cc26dc1364f6b7705a4811a7db49073ca": 1788824627.6750333,
     "a10225f8255c19fac2239a7d9b4e20fb887d9db87e602c6da0045774507a6e1b": 1789345121.9856682,
@@ -664,6 +662,7 @@
     "e8322d13f0e23ab99c20fc5fffd693aa8bf5e1e3a3afeb260284fd0c3020d9d8": 1786552904.4122183,
     "e90743776d0c7c70aad91342f31f735a86ff05a6d9421a73ec2d4645100be2b7": 1788684678.974887,
     "e9613970bf3dc38756874ff4ae9f67d9ae87a206323c949973cef107723207d8": 1787471483.5800183,
+    "e9765a30d5035b2faa3529dfd310115a0c5715923d2b1e466a1dce44f0a15f4d": 1789645946.910035,
     "e9846842d0f376308a8975746d80a3989aa048a9ebe46ce409721d4913254f48": 1787179549.3674655,
     "ea52b7cc09969986e3afc4476239cc27fce46144e8c276f80abeeefe486f5728": 1785835003.158353,
     "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
