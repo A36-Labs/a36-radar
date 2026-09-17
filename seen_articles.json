@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789608071.8224158,
+  "last_post_at": 1789625628.7670014,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "VC & Accelerators",
     "Web3 & Digital Assets",
-    "VC & Accelerators",
-    "Startups & Funding"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Retail Technology Innovation Hub",
     "BleepingComputer",
     "Pulse 2.0",
     "Yahoo Finance",
@@ -38,10 +39,10 @@
     "Bloomberg Government News",
     "pulse2.com",
     "Cointelegraph",
-    "Airbnb Newsroom",
-    "Indian Startup News"
+    "Airbnb Newsroom"
   ],
   "recent_titles": [
+    "TRG announces its acquisition of 2025 RTIH Innovation Awards winner Vista Technology Support",
     "Spain's data agency gets first report of AI-powered data breach",
     "barq Raises $329.5 Million Series A At $1.85 Billion Valuation As Saudi Fintech Expands Payments Partnerships",
     "Bain Capital Ventures Announces $1.6B New Fund to Invest in Founders Building for an Abundant Post-AGI World",
@@ -160,14 +161,14 @@
     "Hugging Face launches Microduck, a $399 open-source robot duck",
     "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
     "Bitcoin shorts squeezed $6.55B in August – Weak demand raises September doubts",
-    "Ticket Resale Platform Tixel Warns Users Of Data Breach In Metabase Zero-Day Attack",
-    "Google changes spam policy in EU to avert antitrust fine"
+    "Ticket Resale Platform Tixel Warns Users Of Data Breach In Metabase Zero-Day Attack"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
     "0184154c16fc8fff7b99fe0dc03f59cbb8f25ef594ed7959d292f11d2e19e254": 1787973694.947714,
+    "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
     "023e421c8ebd7135874440f5cdbf8da090f24255988730f3d9b3edb8ff7d5ae2": 1787055372.781394,
     "028dbd37fe27aaf0f4f9089102dc79bcfb837a5f1f8495c1c2b1cb486f347d8c": 1787691055.905807,
@@ -340,7 +341,6 @@
     "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
-    "4d71a14a73fb71b8e70683664260a411222bd882e235578c3b6eb544a21eadda": 1785732043.9635842,
     "4da369f1bd5bbb6b8763be9e7b35b0faede3979073bc676f74804647d087978f": 1786109551.9494088,
     "4dbbf0fa95c596d35e4de901db5db6e69858be8a95bdd0d0f63d1a7310ad7ebc": 1786208374.5390155,
     "4e6d0c7fba9b1d59b60ce3564d363a9df68f3650e07be9c4899cb35d99e8c8cc": 1788045996.7369466,
