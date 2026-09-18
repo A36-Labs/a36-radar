@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789729548.6631486,
+  "last_post_at": 1789743468.9803452,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Startups & Funding"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "pulse2.com",
     "Tampa Bay Business and Wealth",
     "VitalLaw.com",
     "CNBC",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "Reuters",
     "fool.com",
-    "TechCrunch AI",
-    "TechCrunch Startups"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Hanwha Finance Expands Abu Dhabi Partnership Across Digital Assets, Stablecoins And Cross-Border Financial Infrastructure",
     "Tampa Startups Surpass $2 Billion in Capital Raised",
     "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review",
     "AI safety requires an informed public regulator and private-sector partnership, says Jim Cramer",
@@ -160,8 +161,7 @@
     "Wafer, An Inference Provider That Uses Non-Nvidia Chips, Lands Acquisition Offers and $200 Million-Plus Valuation",
     "Key Issues in Consumer Data Breach Litigation",
     "US to press G20 on light-touch AI regulation",
-    "Bitwise’s Solana ETF Hits $1 Billion AUM Just 10 Months After Launch",
-    "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise with US$ 1 billion Revenue by FY28 - HappiestMinds"
+    "Bitwise’s Solana ETF Hits $1 Billion AUM Just 10 Months After Launch"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -316,7 +316,6 @@
     "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
     "3dacf551e153ce76cb6b9f9d6e3182089f2de7fd70eeacedfb8d2a2ae7922de9": 1786448049.2839653,
     "3dbdc0368d4af84d7bffe0a81d76b2b05f74cae51cafdea002dceef46a1a2a34": 1786881156.4122944,
-    "3ec2e25c9added16b097621c5bffbc30626b1a4fc798ddb3e0dccd69e56c8889": 1785849728.42867,
     "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
     "3ee0b841980729eb49e976da0b6808eef405dbc1b00a15f336a2f4b338644db2": 1785891079.6105769,
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
@@ -366,6 +365,7 @@
     "5aaf349657aca5fa98e6218512496f8139df89935004380bf71754f410ac84f6": 1787325537.7836702,
     "5b3da35fdcbd4b329dbc371019606e2a0b88b220644de6a605d4255eb1474b44": 1788398694.761299,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
+    "5ba54aefbc89fb7f2a05401e2a7fbd78900e3ae58cc99be0922810e7ab9c0a4e": 1789743468.9803452,
     "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c00cdd9e23d4536cb9926708357f9a85b0d09802e93edd563370af5e6474f1b": 1787676712.1392136,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
@@ -481,7 +481,6 @@
     "8f68d9cae058456e758b40ae39692cea581ac9ec9e5e16ffcbae6b6584bb6e26": 1788305008.7645707,
     "8f81e85f56f6a254ef62776489461c6eccbdbfd679a64fd9de879f892a3f0c67": 1788038402.860343,
     "913d2408ff63ee55aaa6add2ce1abe16ef3e7b250d4939ccc8408558c0b544e4": 1789338180.563906,
-    "92a3009e17231e9bd6453730f241770d2851b2620350007e7f8df774c588875c": 1785843383.7002814,
     "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
     "939e3d09acefe233266f144e9df302274bd535df494fbc08965bc1a8468174c8": 1786945566.0214603,
     "9457b37dea6625faba9d44d4324c6660db2209441376c73c13e01238cd52138e": 1786261083.2906961,
