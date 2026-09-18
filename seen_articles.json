@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789743468.9803452,
-  "last_urgent_at": 1789522139.6168242,
+  "last_post_at": 1789755687.299764,
+  "last_urgent_at": 1789755687.299764,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "AI & Agents"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Quantum Computing Report",
     "pulse2.com",
     "Tampa Bay Business and Wealth",
     "VitalLaw.com",
@@ -38,10 +39,10 @@
     "outlookbusiness.com",
     "CoinDesk",
     "Reuters",
-    "fool.com",
-    "TechCrunch AI"
+    "fool.com"
   ],
   "recent_titles": [
+    "EigenQ and Silicon Valley Acquisition Corp. Secure $45M Committed Convertible Financing Ahead of $3B SPAC Merger",
     "Hanwha Finance Expands Abu Dhabi Partnership Across Digital Assets, Stablecoins And Cross-Border Financial Infrastructure",
     "Tampa Startups Surpass $2 Billion in Capital Raised",
     "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review",
@@ -160,8 +161,7 @@
     "Sequoia Financial Acquires $2.3 Billion BSW Wealth Partners, Expands in Colorado",
     "Wafer, An Inference Provider That Uses Non-Nvidia Chips, Lands Acquisition Offers and $200 Million-Plus Valuation",
     "Key Issues in Consumer Data Breach Litigation",
-    "US to press G20 on light-touch AI regulation",
-    "Bitwise’s Solana ETF Hits $1 Billion AUM Just 10 Months After Launch"
+    "US to press G20 on light-touch AI regulation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -397,6 +397,7 @@
     "6766d10e6117222b1a470cba1cebb5c892edd7eb563da51dba4b020b509a0eca": 1787371764.2878537,
     "677f572eaba6bae12dfcda537711ed16fcac6b153885bef0498632fd3acec835": 1786113344.5830698,
     "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
+    "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
     "68c502297e8380dee9c0161fb5508bcd22632a97fa51c211c91ebe6ba7a93c1d": 1787627453.081897,
     "68df9e41a4d8089da9c736576605137c267ec6c5d95dcaeec97712ed4cc36891": 1788391925.1213722,
@@ -471,7 +472,6 @@
     "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
     "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
     "8c29ae5683ae40876531f0279b37e97ef6330cdd62768770142c97eb1d85f7a5": 1789295008.0384543,
-    "8cb0d863517b969f52975e9e0d1f58f5d2800a267c0ecdf7f246d42e95f50d38": 1785864337.7595708,
     "8cd3fded74c2ac5f0545105c34d2541199c516de7d63d4fde4732e254eac6d26": 1787592222.8208559,
     "8d29b6b0f0f4ac967b099b7c3b119be8d0ebc5db20c38950dd6fe4cbe0e6ac27": 1787536443.3553667,
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
@@ -593,7 +593,6 @@
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
     "cbda1f3b5ced491e787aca0d93f090f4b48a95e5df19f9e72fc3b59457b43794": 1787587182.7922015,
-    "ccd6c77a8633680612eb7006100b3c98959363c2cb64e148dcd26f9f792818dc": 1785858260.500798,
     "cd497664fd9f16610a88cf0ced1de2f3f0493c6c075fb3f2a23a0234f36e4fd3": 1787703941.7011993,
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
