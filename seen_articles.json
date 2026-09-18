@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789694055.8578749,
+  "last_post_at": 1789711339.938865,
   "last_urgent_at": 1789522139.6168242,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "VitalLaw.com",
     "CNBC",
     "Dealroom",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "fool.com",
     "TechCrunch AI",
     "TechCrunch Startups",
-    "TechCrunch Startups",
-    "BleepingComputer"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review",
     "AI safety requires an informed public regulator and private-sector partnership, says Jim Cramer",
     "GAC-backed flying car startup Gaoyu raises ~$120M Series A",
     "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
@@ -160,8 +161,7 @@
     "US to press G20 on light-touch AI regulation",
     "Bitwise’s Solana ETF Hits $1 Billion AUM Just 10 Months After Launch",
     "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise with US$ 1 billion Revenue by FY28 - HappiestMinds",
-    "Biotech Startup Investment Held Steady Even As AI Funding Surged",
-    "Oura Targets US$3 Billion IPO at More Than US$16 Billion Valuation"
+    "Biotech Startup Investment Held Steady Even As AI Funding Surged"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -192,6 +192,7 @@
     "088e6666ceb893fa35b2a99ed49d134d38bf12f8f5ec9412276e21392f09c168": 1788016063.5907354,
     "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
     "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
+    "0936b9ddd91512f1098f19fa8dfc91b3bbe7fd57f36ef21129c42a5e46a7d9c7": 1789711339.938865,
     "096f3703717dd029a0f5610cfa5503f4adb12114670274b0ff989087c984194b": 1788361744.3495393,
     "098c258b9d4fa8f2a522698b12905c269cb17c5e2d0456b27b114710e4a8dd07": 1789685671.0554128,
     "098fc3550c67e9a67d8b25f4451362ca99df976d962b944bfc280c95e88c75ae": 1788600527.940505,
@@ -493,7 +494,6 @@
     "9a0ac7c4486825ee89cb7d7d8bb536f02096d2996132b23c4e823877cd8ec114": 1787210750.8808126,
     "9b07eb5cea15b090013f163827609ca43a47df77d20849fb698e44bcb206f8d7": 1786546060.625501,
     "9bf9b515e19ac444294f048b5b59e0e4c39d31eb91c122139852685fe2941424": 1786370632.234835,
-    "9c150af82d9e26bfc3ca470b48458de9bbdc54274cc85ef68059736393e08b05": 1785814308.692388,
     "9d00c676f3b2765f5bbb1b7afd9bfe9b931713c18b9c7f2a1ecd3eb9b0996ca8": 1786829489.0012884,
     "9d04025c5c6d13fcc33b4af3e46f0e835ae0bf1d38111b122c95421651761b21": 1787250229.1501458,
     "9d2da14227d076df6da44127055fa6c7cbafe26ce7a745abad54aa4905863d61": 1786902709.3646052,
