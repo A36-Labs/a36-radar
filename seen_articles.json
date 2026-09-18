@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789755687.299764,
-  "last_urgent_at": 1789755687.299764,
+  "last_post_at": 1789765463.5150003,
+  "last_urgent_at": 1789765463.5150003,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "Quantum Computing Report",
     "pulse2.com",
     "Tampa Bay Business and Wealth",
@@ -38,10 +39,10 @@
     "Bloomberg Law News",
     "outlookbusiness.com",
     "CoinDesk",
-    "Reuters",
-    "fool.com"
+    "Reuters"
   ],
   "recent_titles": [
+    "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
     "EigenQ and Silicon Valley Acquisition Corp. Secure $45M Committed Convertible Financing Ahead of $3B SPAC Merger",
     "Hanwha Finance Expands Abu Dhabi Partnership Across Digital Assets, Stablecoins And Cross-Border Financial Infrastructure",
     "Tampa Startups Surpass $2 Billion in Capital Raised",
@@ -160,8 +161,7 @@
     "Cornerstone Robotics Announces Strategic Partnership with Medtronic to Expand Global Access to Robotic-assisted Surgery – Ortho Spine News",
     "Sequoia Financial Acquires $2.3 Billion BSW Wealth Partners, Expands in Colorado",
     "Wafer, An Inference Provider That Uses Non-Nvidia Chips, Lands Acquisition Offers and $200 Million-Plus Valuation",
-    "Key Issues in Consumer Data Breach Litigation",
-    "US to press G20 on light-touch AI regulation"
+    "Key Issues in Consumer Data Breach Litigation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -481,6 +481,7 @@
     "8f68d9cae058456e758b40ae39692cea581ac9ec9e5e16ffcbae6b6584bb6e26": 1788305008.7645707,
     "8f81e85f56f6a254ef62776489461c6eccbdbfd679a64fd9de879f892a3f0c67": 1788038402.860343,
     "913d2408ff63ee55aaa6add2ce1abe16ef3e7b250d4939ccc8408558c0b544e4": 1789338180.563906,
+    "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
     "939e3d09acefe233266f144e9df302274bd535df494fbc08965bc1a8468174c8": 1786945566.0214603,
     "9457b37dea6625faba9d44d4324c6660db2209441376c73c13e01238cd52138e": 1786261083.2906961,
@@ -552,7 +553,6 @@
     "b62ba380e14a299f4af5220284d16ed28176b07056530a54ea5d59ad4a5fe626": 1786127247.2719388,
     "b6926407dce983c3237e90ac8d0ce7699cb5c14da0fca12277cbc7b6094c7749": 1787225827.0607793,
     "b736c8c713573b3f2127339904a2e569bb298eef79c0880ef1ca0588e334a9f3": 1786873651.9186046,
-    "b846a2060546d35a8e39ff6efce1c16a308d66a80ac5ddf73787a1b7ff6f86d9": 1785876414.5665753,
     "b885e450b1b823dc40b619d0ead80c8391af7038783ac89f32b1e2cf9f114fea": 1787299281.6987426,
     "b9323ba81dde3226601517a178ff1507584b98c1d86f1d71b47492e55054ad91": 1786425572.5023675,
     "b9b040195df075f8a5d67695bef12562133ca7d5389d26fbddb54adae91c8755": 1787915790.70858,
@@ -597,7 +597,6 @@
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
     "cdc1c1c90291460ace2970bf93f1f419718d4f8ba6749944478cd25975639762": 1786200262.4983444,
-    "cdd25898f00e5aaa0fb9eac791ede5c6b2a4b4e2ec9e800fc14c313f0ad96efb": 1785870641.104463,
     "ce7f898821cca66b32343bc919fa1770c37e15df1d9b363e5345337c2d47f102": 1786084979.7290184,
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
