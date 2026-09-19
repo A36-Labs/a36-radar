@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789854168.2326117,
+  "last_post_at": 1789861230.982246,
   "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "AI & Agents",
-    "Frontier Tech",
-    "Fintech & Payments"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Straight Arrow",
     "BleepingComputer",
     "The Herald Journal",
@@ -38,10 +39,10 @@
     "CNBC",
     "Dealroom",
     "TechCrunch AI",
-    "The Robot Report",
-    "FinTech Futures"
+    "The Robot Report"
   ],
   "recent_titles": [
+    "Identity Visibility in 2026: The Foundation of Identity Security",
     "AI companies violated antitrust law with agreement to slow pace of development, lawsuit says",
     "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
     "AI Antitrust Lawsuit | Nation | hjnews.com",
@@ -160,8 +161,7 @@
     "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
     "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "Mamdani announces AI ban for young students in NYC schools",
-    "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "AI Startup Wonderful Raises Funds at $5 Billion Valuation"
+    "Wonderful more than doubles its valuation to $5B in under 6 months"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -250,7 +250,6 @@
     "1efa96cec47991bbe689dec8d5accc2f0766425ba90dfe25da25f299e02542d7": 1787657874.3018477,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "1f80750a77986ed26510a863e3f6418ec287ccf74424757312d41f95cf58a6c1": 1787998608.321642,
-    "1ff1ca762979c1e7b111851989827c475ab5e2d515d1e01b90ebc5c8870c6487": 1785971669.730236,
     "2007f4b35fc2d10fa654f0621688f865d6f4175bd28cfc626f6d660cb8f62eef": 1786437608.4053264,
     "2046aaea443bca4a609ca11974287b4df42475d7ee9af3f5749a4f37aacad94c": 1786355033.0926883,
     "20a33963b2483a051cae872d1ebebb3f198c457d78d3075d43e5525794fcd1ba": 1786853898.6397312,
@@ -305,6 +304,7 @@
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
     "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
     "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
+    "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3b9bfe05677a07434d4321c1ebcbde929ba2c796da74ac4c7959bc3957cd75cb": 1786955022.8050838,
     "3c056ed15eb012b0e8e3c28514143437bbc0c6cde951fca8538215bf632ed3d2": 1787630683.0245097,
     "3c3c516cbebe3c078b5eda080ad6768cf55cc8f0b45f9985fc508c0ec766b452": 1786374769.9398928,
@@ -559,7 +559,6 @@
     "ba6de2e952bc1b2e93fe599011b19d487c149ba6ed20cd2a4a2b2117710e03ab": 1787293212.0510242,
     "bacfe32ead5f1d1a15809467a967cc04d9842e81cad73e17286026f253ea642b": 1787107575.4123557,
     "bb0dca84b99d34a422c587c7af64da761f35573c5b946f789ca70e95911766e7": 1786382038.9873805,
-    "bb1094eaa7c0389ffde9e047eb003202cd6f61fb3be81d80123fb78c11cbb98b": 1785967246.5060616,
     "bbd027ea3c064ab94003267b4296cae76de0838d957ad2b354422380f82a4a29": 1786227161.3109221,
     "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
     "bcf20f8c40dc729b11adfabaa33b00c1642b74be8dc6ff954b7e545963d71a61": 1787339056.4637625,
