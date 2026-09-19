@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789837989.5193324,
+  "last_post_at": 1789845856.8775513,
   "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Frontier Tech",
     "Fintech & Payments",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "The Herald Journal",
     "TheEnergyMag",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "The Robot Report",
     "FinTech Futures",
-    "Retail Technology Innovation Hub",
-    "BleepingComputer"
+    "Retail Technology Innovation Hub"
   ],
   "recent_titles": [
+    "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
     "AI Antitrust Lawsuit | Nation | hjnews.com",
     "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs",
     "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
@@ -160,8 +161,7 @@
     "Mamdani announces AI ban for young students in NYC schools",
     "Wonderful more than doubles its valuation to $5B in under 6 months",
     "AI Startup Wonderful Raises Funds at $5 Billion Valuation",
-    "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
-    "Goldman Sachs, BofA among 21 firms planning joint US dollar stablecoin launch in 2027"
+    "The IPO Window Is Closing. Here Are 8 Startups To Watch."
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -325,10 +325,10 @@
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "4566294ccb40c3c398b87a9aa99f74252f928f0870f9668fa58e01ca0e0f8821": 1786915852.698227,
     "466e50702af82a8c63600ad67eac0b4298cc1e9f61a7bb7aa85c4caa5862167a": 1787475200.0388858,
-    "478fa075c6ab91f2762dab7996b4765938dee997f7700753d7b38f68301013cd": 1785950083.2542367,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "47e114ef3466c246bdd0180eaeabd17174195d0d0e1d96ce4573a7c9f57aaefb": 1787751472.9156222,
     "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
+    "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
     "4a1a5bda90e05eb8866f4f3e0fd4b9ca1e7ca04db5a6edf831c930b39810956f": 1788936370.1359289,
     "4ae88249fe6d7288712eb3d8f7e849cbe71bd6f3507ec9feb12a1b537b7c1982": 1787441465.6875098,
@@ -574,7 +574,6 @@
     "c08c67be0b47ed63ef69766cfba17fddd02f6ac84f0b2de1f7652971d75c0ba1": 1787577958.407109,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
-    "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
     "c24c059e790a3cea41d51fa02fdacbd4d15b3204821bbb63faae248d69da3ee6": 1787095947.9210358,
     "c263332c36b42655cac4229b7b2161d82ada139d657b1b1149326ee68d762244": 1787521968.600367,
