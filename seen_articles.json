@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789780639.4411366,
-  "last_urgent_at": 1789765463.5150003,
+  "last_post_at": 1789797669.7651966,
+  "last_urgent_at": 1789797669.7651966,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
-    "Policy & Regulation",
-    "Frontier Tech"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Crypto News",
     "Reuters",
     "ADTmag",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Pulse 2.0",
     "Yahoo Finance",
-    "Bloomberg Law News",
-    "outlookbusiness.com"
+    "Bloomberg Law News"
   ],
   "recent_titles": [
+    "Anthropic targets November IPO at potential $2 trillion valuation",
     "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
     "Google and Speakeasy Open-Source SDK Generator After Vendor Shutdown",
     "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
@@ -160,8 +161,7 @@
     "Goldman Sachs, BofA among 21 firms planning joint US dollar stablecoin launch in 2027",
     "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
     "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "Cornerstone Robotics Announces Strategic Partnership with Medtronic to Expand Global Access to Robotic-assisted Surgery – Ortho Spine News",
-    "Sequoia Financial Acquires $2.3 Billion BSW Wealth Partners, Expands in Colorado"
+    "Cornerstone Robotics Announces Strategic Partnership with Medtronic to Expand Global Access to Robotic-assisted Surgery – Ortho Spine News"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -693,13 +693,13 @@
     "f8f2dcf6e5410981393ce5ab48642d54a1275cb93d5333344d08a7b6c93435bb": 1788534019.089479,
     "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
+    "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
     "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
     "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
-    "fed1637fe142151ed72fd5fb7c94e805be86c958bc8d1df35e144660e74128ab": 1785902001.7782054,
     "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437,
     "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907,
     "ffdb701222e6522cefb2f79162cc6e4a22130373e5a49150fb61628a772f03f0": 1787450189.1760128
