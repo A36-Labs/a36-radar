@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789815039.9417398,
-  "last_urgent_at": 1789797669.7651966,
+  "last_post_at": 1789826524.5993502,
+  "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TheEnergyMag",
     "Cointelegraph",
     "Crypto News",
     "Reuters",
@@ -38,10 +39,10 @@
     "FinTech Futures",
     "Retail Technology Innovation Hub",
     "BleepingComputer",
-    "Pulse 2.0",
-    "Yahoo Finance"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs",
     "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
     "Anthropic targets November IPO at potential $2 trillion valuation",
     "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
@@ -160,8 +161,7 @@
     "AI Startup Wonderful Raises Funds at $5 Billion Valuation",
     "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
     "Goldman Sachs, BofA among 21 firms planning joint US dollar stablecoin launch in 2027",
-    "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
-    "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B"
+    "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -602,7 +602,6 @@
     "d03e1f27bd82dfda590f8d413389a976cbb08cc37e9acd4f9a0e008af011aaa4": 1787165385.4279246,
     "d09deb90d2d251fedd4ea8927b5a3888360a57028be3b54a6dc17b970d29b16a": 1787141711.8237572,
     "d1d0ce71f86e35b975cf724b13c6fa3bc8ff8f18b4b20ab414f253b75e9bb2ba": 1787563684.3110976,
-    "d1e145f41cc0962b1816f70517c519c8ca78ea174a1a2e458a5ae142ac6a434a": 1785929931.1010184,
     "d1f64289e61edb2dc4cc40b6b4a138b7510790ac5ece1c52d0c9b9bdae6480cb": 1787123483.669754,
     "d273fcb7bf676a82345315ba167576ff9bdfdcceedff3a19dcf94a92b1cb5281": 1787154668.1702054,
     "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
@@ -628,6 +627,7 @@
     "dbef8888d1528ed9231154e8f87154eb38a9d020450d28b6560c0ec5ba09f62c": 1788120086.473551,
     "dc2eeec1dc11400177fe8e03fb456d516d74ada24f90cc3a6eba96d2e651e111": 1788520248.533977,
     "dd5fc15a07710880c4613795110c1f953191eefb3a5e2dc42a9bb9e83d4e5cfe": 1786981499.3031235,
+    "dd6b393eaedecd1ee96b239d763a158fe9bb3dace8d17d267eb4739d6c5656bb": 1789826524.5993502,
     "de1b99a9a37142ccb51bd10268da93192d24c7c3be7a2dcf24dc3d7db2bab801": 1789382844.7358165,
     "de754ee29039cc82c16dddb7264a96203c0b78bef0ba1ad6f4712d37f11bea0f": 1786236139.6458712,
     "dec058fa83cc84823dec588e645dbf9eae4022603778468180670d9f96e306a0": 1789016072.4957483,
@@ -670,7 +670,6 @@
     "f17c6b6c2f11aa871cfefe1782a43157e66b8715a9d2af67e007e7cc212eb29c": 1787454736.5336194,
     "f1adcdbb2c76c6171ca8872d5203aea0c491c5673b0b3cbbde27ddb64af524a2": 1786816373.9527972,
     "f1f23e457da50e5c69b3262ea77a7fc2b09c662e45661783a20d78eeded9c5fa": 1786702441.7415993,
-    "f2e6feefb8033fe7db1956f555e487dc2b9d8b534f18f9fe929a49bed8c072e1": 1785936414.2476006,
     "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
