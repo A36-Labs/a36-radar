@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789826524.5993502,
+  "last_post_at": 1789837989.5193324,
   "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "The Herald Journal",
     "TheEnergyMag",
     "Cointelegraph",
     "Crypto News",
@@ -38,10 +39,10 @@
     "The Robot Report",
     "FinTech Futures",
     "Retail Technology Innovation Hub",
-    "BleepingComputer",
-    "Pulse 2.0"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "AI Antitrust Lawsuit | Nation | hjnews.com",
     "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs",
     "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
     "Anthropic targets November IPO at potential $2 trillion valuation",
@@ -160,8 +161,7 @@
     "Wonderful more than doubles its valuation to $5B in under 6 months",
     "AI Startup Wonderful Raises Funds at $5 Billion Valuation",
     "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
-    "Goldman Sachs, BofA among 21 firms planning joint US dollar stablecoin launch in 2027",
-    "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value"
+    "Goldman Sachs, BofA among 21 firms planning joint US dollar stablecoin launch in 2027"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -563,7 +563,6 @@
     "bb1094eaa7c0389ffde9e047eb003202cd6f61fb3be81d80123fb78c11cbb98b": 1785967246.5060616,
     "bbd027ea3c064ab94003267b4296cae76de0838d957ad2b354422380f82a4a29": 1786227161.3109221,
     "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
-    "bcd00c19571fc700155ef6aa10daee90784b6e6be6be382470160edc72ee0f10": 1785944958.4138012,
     "bcf20f8c40dc729b11adfabaa33b00c1642b74be8dc6ff954b7e545963d71a61": 1787339056.4637625,
     "bcf8e0e16c8e07e205bc1f5cebfd8959078f17aeef65e34b2d5beb344782046e": 1787391413.4831598,
     "bd1cb110aa55a1442b7766ac3443a02007834c0431a4c11e7d29e4454f1f6f29": 1786322348.0038161,
@@ -574,6 +573,7 @@
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
     "c08c67be0b47ed63ef69766cfba17fddd02f6ac84f0b2de1f7652971d75c0ba1": 1787577958.407109,
     "c0f536b6c9ebd1d56f93610219d7002ff29f3831baf47c5e989c7525a54834a2": 1786097748.869018,
+    "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c107aa2bf88a4f57136e057b14da65387c27457fc51590ecc0e263dccc09ddc5": 1785956301.9283216,
     "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
     "c24c059e790a3cea41d51fa02fdacbd4d15b3204821bbb63faae248d69da3ee6": 1787095947.9210358,
