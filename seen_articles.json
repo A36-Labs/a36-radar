@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789861230.982246,
+  "last_post_at": 1789868622.4103997,
   "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "AI & Agents",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
-    "AI & Agents",
-    "Frontier Tech"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Breaking News, Latest News and Videos",
     "The Hacker News",
     "Straight Arrow",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "VitalLaw.com",
     "CNBC",
     "Dealroom",
-    "TechCrunch AI",
-    "The Robot Report"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - ABC News",
     "Identity Visibility in 2026: The Foundation of Identity Security",
     "AI companies violated antitrust law with agreement to slow pace of development, lawsuit says",
     "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
@@ -160,8 +161,7 @@
     "Meta launches Muse Spark 1.3 with stronger coding and AI agents to rival OpenAI, Anthropic",
     "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
     "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "Mamdani announces AI ban for young students in NYC schools",
-    "Wonderful more than doubles its valuation to $5B in under 6 months"
+    "Mamdani announces AI ban for young students in NYC schools"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -463,7 +463,6 @@
     "888f0d8fe5974426110346eb87fd356e20e446e03f1f7dbaa8a538a583fe4900": 1787416592.3773596,
     "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
     "893ba463c4614a3dc8f8e611f416c364824a5a7bf23cb75d1a5c8f5a39711ca3": 1787710302.3874457,
-    "89597237bc5be98a28d9a8e4590ed3cc6388dd84c95b4be83b593914b5c45e51": 1785975247.2482498,
     "8987660ab62494e22ea28eb412d924a3a6f257100ae3e1defcf50bd3b079342b": 1788221279.4683597,
     "8a49aacf01cb0d13aa17f09416e72f161c03989a9b0a40e6a38d2f45984010ad": 1787203132.680748,
     "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
@@ -653,6 +652,7 @@
     "e9765a30d5035b2faa3529dfd310115a0c5715923d2b1e466a1dce44f0a15f4d": 1789645946.910035,
     "e9846842d0f376308a8975746d80a3989aa048a9ebe46ce409721d4913254f48": 1787179549.3674655,
     "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
+    "ea5d3790ab74a03cafe493d90854e875a3a384633c9b0fe718739f73cfbd1048": 1789868622.4103997,
     "ea6ff7a38102bb4279e17666a6dc54ad0260dd96d6a80362189e803703d31370": 1786612896.7220361,
     "eaaf5a157c8de8ee22df43705585f287b3d8b657e20915d4f48b101746dfa799": 1787003114.2899542,
     "eae4cfafee8a522445f6bfbe3d5fc21a42d52abea3507f10c4f82118521f34e5": 1786898237.27734,
