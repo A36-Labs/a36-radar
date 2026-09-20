@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789921048.8828669,
+  "last_post_at": 1789930407.9346542,
   "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TradingKey",
     "Substack",
     "The Information",
     "Gasgoo",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "Quantum Computing Report",
     "pulse2.com",
-    "Tampa Bay Business and Wealth",
-    "VitalLaw.com"
+    "Tampa Bay Business and Wealth"
   ],
   "recent_titles": [
+    "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion",
     "Asia's weekly TOP10 crypto news: Japan Advances Asset Tokenization, Jiangsu Labels RWA Financing illegal and MOEX to Launch BTC ETH Perpetual Futures and Top10 News",
     "Fund Focused on Bootstrapped Founders Raises $950 Million",
     "Xense Robotics and Dewu Form Strategic Partnership to Advance Smart Authentication",
@@ -160,8 +161,7 @@
     "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
     "HPE patches critical ArubaOS-CX remote code execution flaw",
     "Critical Elementor Pro flaw exploited to take over WordPress sites",
-    "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
-    "Meta launches Muse Spark 1.3 with stronger coding and AI agents to rival OpenAI, Anthropic"
+    "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -585,6 +585,7 @@
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
     "cbda1f3b5ced491e787aca0d93f090f4b48a95e5df19f9e72fc3b59457b43794": 1787587182.7922015,
+    "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
     "cd497664fd9f16610a88cf0ced1de2f3f0493c6c075fb3f2a23a0234f36e4fd3": 1787703941.7011993,
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
