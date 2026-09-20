@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789939746.829448,
+  "last_post_at": 1789946913.473035,
   "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "Policy & Regulation",
     "Open Source & DevTools",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Crypto News",
     "TradingKey",
     "Substack",
@@ -38,10 +39,10 @@
     "Reuters",
     "ADTmag",
     "TechCrunch Startups",
-    "Quantum Computing Report",
-    "pulse2.com"
+    "Quantum Computing Report"
   ],
   "recent_titles": [
+    "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
     "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release",
     "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion",
     "Asia's weekly TOP10 crypto news: Japan Advances Asset Tokenization, Jiangsu Labels RWA Financing illegal and MOEX to Launch BTC ETH Perpetual Futures and Top10 News",
@@ -160,8 +161,7 @@
     "Crusoe reportedly raises $3B at a $30B valuation",
     "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice",
     "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-    "HPE patches critical ArubaOS-CX remote code execution flaw",
-    "Critical Elementor Pro flaw exploited to take over WordPress sites"
+    "HPE patches critical ArubaOS-CX remote code execution flaw"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -327,6 +327,7 @@
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "47e114ef3466c246bdd0180eaeabd17174195d0d0e1d96ce4573a7c9f57aaefb": 1787751472.9156222,
     "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
+    "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
     "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
     "49ec7eb7e76e36752de5569697743aab6bfa170f3d9934849f6223dcf3660208": 1786143053.683319,
     "4a1a5bda90e05eb8866f4f3e0fd4b9ca1e7ca04db5a6edf831c930b39810956f": 1788936370.1359289,
