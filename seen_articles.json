@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789930407.9346542,
+  "last_post_at": 1789939746.829448,
   "last_urgent_at": 1789826524.5993502,
   "recent_categories": [
+    "Open Source & DevTools",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Crypto News",
     "TradingKey",
     "Substack",
     "The Information",
@@ -38,10 +39,10 @@
     "ADTmag",
     "TechCrunch Startups",
     "Quantum Computing Report",
-    "pulse2.com",
-    "Tampa Bay Business and Wealth"
+    "pulse2.com"
   ],
   "recent_titles": [
+    "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release",
     "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion",
     "Asia's weekly TOP10 crypto news: Japan Advances Asset Tokenization, Jiangsu Labels RWA Financing illegal and MOEX to Launch BTC ETH Perpetual Futures and Top10 News",
     "Fund Focused on Bootstrapped Founders Raises $950 Million",
@@ -160,8 +161,7 @@
     "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice",
     "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
     "HPE patches critical ArubaOS-CX remote code execution flaw",
-    "Critical Elementor Pro flaw exploited to take over WordPress sites",
-    "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues"
+    "Critical Elementor Pro flaw exploited to take over WordPress sites"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -367,6 +367,7 @@
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
     "5ccecbf10f9f08c1f96decf3a031f639fa77e11657d618dc40b3ba746451e185": 1787018589.6494143,
     "5d49df2e53f6cee0118b263d1f891ab3a9d0f04bd089fc1e25260f43146e7b89": 1789117556.3588347,
+    "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
     "5ddc8d3f048ab0c80b16cff0bd222e47355c60f6133f254b86a3cbe4a66a0d18": 1786910406.8455408,
     "5dfa2cbd8919a49535a0190382e870770f982cdbb9fe4986c2ecaadb3bd29a41": 1787609440.66824,
     "5e7e6bf53b43088bf4a5525818e08f0a2cfb44a34a9db9d653688c9104c7573d": 1786885012.6308877,
