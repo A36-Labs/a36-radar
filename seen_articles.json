@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1789954500.175478,
+  "last_post_at": 1789974459.0729573,
   "last_urgent_at": 1789954500.175478,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Startups & Funding"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "FinTech Futures",
     "Morningstar Australia",
     "Bloomberg.com",
     "Crypto News",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "Crypto News",
     "Reuters",
-    "ADTmag",
-    "TechCrunch Startups"
+    "ADTmag"
   ],
   "recent_titles": [
+    "Ryft lands £20m Series B to fund EU and US expansion",
     "Ahead of an IPO, the maths behind Databrick’s $190 billion valuation doesn’t add up",
     "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
     "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release",
@@ -160,8 +161,7 @@
     "Nvidia buys open-source AI co. Hugging Face for $13b",
     "a16z Expands Its Fifth Growth Fund to $8.5 Billion",
     "Crusoe reportedly raises $3B at a $30B valuation",
-    "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice",
-    "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks"
+    "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -464,6 +464,7 @@
     "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
     "893ba463c4614a3dc8f8e611f416c364824a5a7bf23cb75d1a5c8f5a39711ca3": 1787710302.3874457,
     "8987660ab62494e22ea28eb412d924a3a6f257100ae3e1defcf50bd3b079342b": 1788221279.4683597,
+    "89c98d61c52714c1330cc9d036d0cb1b5cd605c3ee528547ad69cc96569937c0": 1789974459.0729573,
     "8a49aacf01cb0d13aa17f09416e72f161c03989a9b0a40e6a38d2f45984010ad": 1787203132.680748,
     "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
     "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
@@ -510,7 +511,6 @@
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
     "a34aa0dbb18939f5a299f26cb29877763d2f088c975ebd5cad41bd740a269b06": 1788990945.1269774,
     "a3beb18fd80032bff2d3f71748635e0934f4862a1e7d1d7a74b16788f5367359": 1786870305.9517193,
-    "a3d4fcfa623e048f70fdf89d1d5040d42f9aabc9add3bbd4b8651803e6774c9a": 1786073769.2423925,
     "a5ef68d3910a2bf197a170f8d68b8fa03d3c0ce9e7ba5d68cd8fe2de7a84099d": 1788328875.5095563,
     "a631af890f28cf7aa4b22e547f29ce3e9764600842d228bcbaab1d550a346fb2": 1786742063.802998,
     "a6a439c8770542d649d1e4895fb52644eafcbf9e2038cd18377750ce96dbe41f": 1787581323.1705828,
@@ -592,7 +592,6 @@
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
     "cdc1c1c90291460ace2970bf93f1f419718d4f8ba6749944478cd25975639762": 1786200262.4983444,
-    "ce7f898821cca66b32343bc919fa1770c37e15df1d9b363e5345337c2d47f102": 1786084979.7290184,
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
     "d03e1f27bd82dfda590f8d413389a976cbb08cc37e9acd4f9a0e008af011aaa4": 1787165385.4279246,
@@ -693,7 +692,6 @@
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
-    "fdf3694de1fe7949dca84d278886461cf81e4f46561ada68ed4b8866e94bc8e5": 1786080123.5102007,
     "fe2c61ed20f03732257c5a121a84e0d279bf9660ee6a86f096ec67ad20c728a5": 1786889337.6924217,
     "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
     "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437,
