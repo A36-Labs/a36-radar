@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790039796.226397,
+  "last_post_at": 1790058102.1831868,
   "last_urgent_at": 1790000404.2970216,
   "recent_categories": [
+    "Policy & Regulation",
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Scripps News",
     "marketscreener.com",
     "BleepingComputer",
     "Morningstar",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "Straight Arrow",
     "BleepingComputer",
-    "The Herald Journal",
-    "TheEnergyMag"
+    "The Herald Journal"
   ],
   "recent_titles": [
+    "AI powerhouses face antitrust lawsuit",
     "IonQ, Inc. and SDT, Inc. Announce Strategic Partnership to Bring Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
     "BigCommerce alerts merchants of data breach linked to Ribon apps",
     "The PenFed Foundation for Military Heroes Announces Veteran Entrepreneur Accelerator Program September 2026 Cohort",
@@ -160,8 +161,7 @@
     "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
     "Nscale seeks about $3.5 billion pre-IPO funding, source says",
-    "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
-    "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO"
+    "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -225,7 +225,6 @@
     "1453460eefc96b58cfff1f4c7e84cc6857d3265036000b43153be7c1acc0e9d0": 1786771099.48371,
     "14572a32c775cfd3f1362e0134d2196602a08f41412a057f60e087ffe3e0f90c": 1787541167.213442,
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
-    "15e7bcae2fab63bd5e494a304d7ef39e8b153923bcfb4a36e193b2a768252e5c": 1786160904.9687045,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
     "17674887f8ef9b5b7ee0c0c0c1f6d8c40845cb7e8688aa5610ad22cabd372d44": 1786877042.2425308,
     "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
@@ -368,14 +367,12 @@
     "5e7e6bf53b43088bf4a5525818e08f0a2cfb44a34a9db9d653688c9104c7573d": 1786885012.6308877,
     "5e8a5319142858c95f30910ec693386c26286dc1721ada19b669fbe4fb9613e3": 1787573846.701366,
     "5f0b1293156023694274daac154cb823bf3290324c88b2a7514a4e1c59fa1a35": 1786974972.407771,
-    "5f353926bfe5a425532177da7474823736f9583ccf69e6cb9521324a605db2f3": 1786167143.9328957,
     "5f41e60d862b9777734b08015ee5c4ca26781d8543f76fe57a81207a938130fa": 1786444684.7163203,
     "5faacf234d705cd844e63f8f74bc8d8d200146c09d4cddf77d17105204b5d5ed": 1786451249.6498172,
     "5fda7fae630e1b22477c66fbe6fe8220f95da9de333f5a3c4da04cfe0f2d72e3": 1787195284.6275413,
     "6026ad776bb28d6cf30002c2664479c7900308e92a942e13b9f60c9b1d9896f0": 1787801031.3052645,
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
     "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
-    "60e671d8a0c1b88bb32abb99aa0a9dd89bc0d63550011c8481672487e179b3e6": 1786155642.4968526,
     "613e73fca7906e6500fdf0f50124a88a3ab4c692ddc7a00c9f80ce6dc91592af": 1786837930.405983,
     "61a8eb87389ee76062b2e6bf30245481d305d6ebafba1791c5040800dc3b0300": 1786736053.948614,
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
@@ -494,6 +491,7 @@
     "9f0fdcb8ddc718d1082439c334847fdf1690b4f3f31f673f894692526db6d424": 1787377062.9392743,
     "9fe124371d3d14a376907a6c60a501cc6d747dc86bd1d0c09d426b24d84ffd64": 1786541990.0569823,
     "a058f1dafacce4c52d87cdb5c577760cc26dc1364f6b7705a4811a7db49073ca": 1788824627.6750333,
+    "a07663565d841dccfbc375cedaacd3f2a7c6203e5ac7c3860bb4333aa4bb7bad": 1790058102.1831868,
     "a0b15426f63900bad93ffa7548d6dcc358063be1176ff526a19a43bd57f33c23": 1789676056.6748195,
     "a10225f8255c19fac2239a7d9b4e20fb887d9db87e602c6da0045774507a6e1b": 1789345121.9856682,
     "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
