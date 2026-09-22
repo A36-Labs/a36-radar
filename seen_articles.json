@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790095856.757123,
-  "last_urgent_at": 1790095856.757123,
+  "last_post_at": 1790107035.9716556,
+  "last_urgent_at": 1790107035.9716556,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "AI & Agents",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Pulse 2.0",
     "BleepingComputer",
     "Reuters",
     "Scripps News",
@@ -38,10 +39,10 @@
     "The Information",
     "Gasgoo",
     "Breaking News, Latest News and Videos",
-    "The Hacker News",
-    "Straight Arrow"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Nscale IPO Filing Reveals $103.4 Billion In Active And Contracted AI Infrastructure Agreements",
     "Check Point warns of Management Server zero-day exploited in attacks",
     "Accelevation targets up to $5.4 billion valuation in US IPO",
     "AI powerhouses face antitrust lawsuit",
@@ -160,8 +161,7 @@
     "Solana Mobile Announces Upcoming Hackathon with RadiantsDAO",
     "Indian Govt, Intel launch agentic AI skilling programme for future workforce",
     "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-    "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?"
+    "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -328,7 +328,6 @@
     "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
-    "4dbbf0fa95c596d35e4de901db5db6e69858be8a95bdd0d0f63d1a7310ad7ebc": 1786208374.5390155,
     "4e6d0c7fba9b1d59b60ce3564d363a9df68f3650e07be9c4899cb35d99e8c8cc": 1788045996.7369466,
     "4e8b6ae46c1dc977dd7c1fc40a5c7e950b9605b9cfdd83fd62c6207b03d80fdd": 1787058837.3330169,
     "4e8fd6ce0430ad92f8d1e4fbd3b0c01233c95ddb0d3ea3c058557f6594b08e53": 1786306987.904544,
@@ -401,6 +400,7 @@
     "6c9dadafcc432488dcd19b3cf56eaa50958fc8e4ca7d759691f39ae98d1485df": 1787617452.8310134,
     "6cac435f878f86e5bfe03e1b7d9f8c4e83442f53fe7fc709094862d1df6cb185": 1786993414.8592236,
     "6d03b537c2fc106ab941c24658d2c09056be88e5877f17817ee6ab4efd47cdf7": 1787092592.5980258,
+    "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6e2a6189fdbf65c638f131751654180931f2cc06a0fe0733b8f644ac8844f3fb": 1787660284.9362,
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
     "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
@@ -598,7 +598,6 @@
     "d7b84d271c132b43bc42e3b3e7445d4011a918a09ba37e2efddbc55decb12282": 1787260739.0530665,
     "d87be08854b9701c0b899516cbdcff1548ee391f286de0bac2f7dfdc444b3b54": 1788074578.1327183,
     "d8d9ebe62b2a17cfb48ce3ed4d02307d579c1ee4d63b3653c281689ba8974410": 1787430917.4551787,
-    "d943d4a8308a85a5ba52402b7da4b6a80bf667bd7b899c2e447516d856da5787": 1786218061.6023836,
     "dad5f85000278f1fce6f7f4a9afad9ffbf8ccbe729acae528fee9a54f0b3e63c": 1789599741.3587873,
     "dadb1079a8ad681dbbc051690eda367f3253f3bbddb029618681d4904b0ca5ed": 1786253497.6184828,
     "db31e89f5956bd597de9ff439615f60a3ebd54bc2969b2767254c55377edf9b3": 1786441521.5519352,
@@ -650,7 +649,6 @@
     "f1adcdbb2c76c6171ca8872d5203aea0c491c5673b0b3cbbde27ddb64af524a2": 1786816373.9527972,
     "f1f23e457da50e5c69b3262ea77a7fc2b09c662e45661783a20d78eeded9c5fa": 1786702441.7415993,
     "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
-    "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
