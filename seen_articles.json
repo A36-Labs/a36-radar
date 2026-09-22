@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790058102.1831868,
-  "last_urgent_at": 1790000404.2970216,
+  "last_post_at": 1790078080.0022545,
+  "last_urgent_at": 1790078080.0022545,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Frontier Tech",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Reuters",
     "Scripps News",
     "marketscreener.com",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Breaking News, Latest News and Videos",
     "The Hacker News",
     "Straight Arrow",
-    "BleepingComputer",
-    "The Herald Journal"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Accelevation targets up to $5.4 billion valuation in US IPO",
     "AI powerhouses face antitrust lawsuit",
     "IonQ, Inc. and SDT, Inc. Announce Strategic Partnership to Bring Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
     "BigCommerce alerts merchants of data breach linked to Ribon apps",
@@ -160,8 +161,7 @@
     "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
     "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "AI Acqui-Hires and Antitrust: When Is Hiring Talent a Merger?",
-    "Nscale seeks about $3.5 billion pre-IPO funding, source says",
-    "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul"
+    "Nscale seeks about $3.5 billion pre-IPO funding, source says"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -215,7 +215,6 @@
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
     "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
     "11d6a56f7d848916988a60a62cb2e5809094a8b1c8eaf5bbec19e5de3a52444b": 1787323720.5588133,
-    "122e08cccf2616782b66c48ff9bfaac6a93676feda359f138d3e415d0a62e002": 1786174378.2247891,
     "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
     "129f2d0e9fa4b5506db7c231b022ea874dfff347e129848bb69bbd59a0144e94": 1787514067.395525,
     "12af3a501c5f5fa3330341b5e7614db2435eb9f9b2ff2d52a595894ad23278dd": 1786389942.8108015,
@@ -279,7 +278,6 @@
     "2f8a9a6206f96b97d0cc4bca93ac68d074bd528bef4cd42c9dc90b5a32f3b2cc": 1786665181.9794347,
     "3098e856648a318a4641c38f88f304e57d0dd46ccf01faa088d6a38354dbbfa9": 1788053799.6491952,
     "3104d2fa476d8ada84f363720f1b78a06085524f3516339438155fd681243f0b": 1786999197.220122,
-    "32785342796b527e6c7611b01ecc020419141744a114771ad018916f2d23d55a": 1786184541.0321813,
     "330b627c27d79a0087f85c9b69a1448808170ed7191b776319dd2fd50051b684": 1787680851.7576313,
     "330f2d040219e1e6c4dcc22d733f076d3a4a074f0507aba11c43456c19dd5134": 1787597685.6908643,
     "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
@@ -441,7 +439,6 @@
     "806986fe44255f9bb0e89cff13853a276b9e5610f2fb6d9bfeb7ea28b22671e3": 1787952450.4289844,
     "81221e5bb50279592ca1a779c04b380e50b19d9ae16a605aa2e0476331288b4d": 1786564393.766864,
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
-    "82106fcbdece1bdef3dbd805f01268afe924f5025b1248595648e2f082b01257": 1786189118.5266616,
     "826bd8fe61193d548638bb0b30501c6ec8d3395f9d25852e44e66773d86c99eb": 1786658823.285808,
     "836d4ac4554f452abde519096befe5194252ae2215a800fd52fca03aa29c11b5": 1787305749.333969,
     "851aeff70d8510d5fd93d4b02e46d502508e6d21929426ec728e4835205277ff": 1787421238.1834831,
@@ -508,6 +505,7 @@
     "a75e7bc2283f64fddc5fb8a168ef577e62e1299aad0cbb3001dd3060170f1d8d": 1787525675.3609865,
     "a7801aa807b0d1a675534dcc59b5b73c396d3753fde7d1e9e8c8067b79ab5619": 1786421065.2667177,
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
+    "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "a987667531085bbc1ae87bb6ce44577a00dc740c5c0a7c1c97a6a168d8fe35c2": 1786231200.4069722,
     "aa3fe482cb711f8ddaff1a25c156356b7f690c046507cc87252f631ed1382d09": 1786204284.2487767,
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
@@ -657,7 +655,6 @@
     "f31cb93e5129b2827ed4ca7d02a1e9193560c724410145e108979bb4490adefc": 1786212956.822135,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
-    "f48fed022b9cfa89c06f1a50ebc58e3ecf3b1f72d66b7afb7929580c0592185b": 1786179953.2635164,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
     "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
