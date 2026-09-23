@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790165315.5182762,
+  "last_post_at": 1790183689.0464597,
   "last_urgent_at": 1790117650.2674227,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "AI & Agents",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Open Source & DevTools",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Indian Startup News",
     "israeldefense.co.il",
     "TradingView",
@@ -38,10 +39,10 @@
     "Morningstar Australia",
     "Bloomberg.com",
     "Crypto News",
-    "TradingKey",
-    "Substack"
+    "TradingKey"
   ],
   "recent_titles": [
+    "Burnham Seeks `Sweet Spot’ in AI Regulation",
     "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million",
     "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
     "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
@@ -160,8 +161,7 @@
     "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
     "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone",
     "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion",
-    "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-    "Arkansas launching fourth Lithium Technology Accelerator Cohort with Magnolia visit"
+    "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -201,7 +201,6 @@
     "0afa7dfd979acd18725859e487cd3d6c50e1377acab33ba0beb68a5d6c4093d6": 1788917842.0007885,
     "0b654b097172760c9ad50ff4a804ca18e554a5c6bec3b0b560dfeb4ca2120304": 1786362151.4920819,
     "0baa6bdd8d7f3ea012304a70ce62b3b3aa5dd9bc2ae21a3f1ee3cd97f429f19c": 1786762850.4530015,
-    "0c59ee4619855ea97358b91f8f6337efd3f22276b7bbfd040a4c46eaa9509e1c": 1786287399.0847654,
     "0c851329d1e91d708af5f302b7b632f8149b8d5bf066092f228cf23eeec0b0e1": 1788971588.585144,
     "0cb283a961d489c95c59f8f2ea85dc5623517cef927b425f3409d051160eb39a": 1787207383.3539445,
     "0d049354aa285fb1e8b9843acbd28de9bed920d62d6d3e289eef9b25e76dd501": 1787398247.1263301,
@@ -338,6 +337,7 @@
     "50ca9dd4339b5d2719b734fb6b35acc19207b96ecb2b76b3a935f0a61db607ff": 1788470810.4387414,
     "51fb164ea333213f45697dd315ccc7e8f1c8b4ee0425f36ebb8fe1ba8b3dba12": 1787670603.2784553,
     "522dba463a194f29d162d4f36238a40607cbb720843d55b6adef3d43ab7eccbf": 1790019382.5158012,
+    "52bb09a4f6ae3af58b7e4b5e8523ea9bc1d0434abf469e9ae18dbd5df528eeb1": 1790183689.0464597,
     "541d51116d515c5e6fbac4c70011970bed46caa9ce367915f6d90b35f1ff0847": 1787366557.2543042,
     "54dfcafccab5c62c586496f3b959a4ebb0194b54e2aebf3add674cf3302fd754": 1789476883.0519447,
     "54e742fdc4625aaa9c795907b3f0889fc332d6ceb994d29fb646adac0a1458d7": 1786783790.9382899,
@@ -375,7 +375,6 @@
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "6285c876d1e2e60b75ce4e3584fc9af70bc225d7399495ecfc12310348b9be07": 1787499696.1003344,
     "6366f5a6f74842395ac0cf6032e94e9380aee9ecba943ca6230d26900cd90ebd": 1787547966.4664097,
-    "644f9be3884b61cba84c37298ac78c5cdcbbb35bccf39dfde4c564d62cf30cab": 1786282424.4139445,
     "64fb94076147682447ff1bb5e90997b9c3ba6c30afcef637020f2d0ac3761fcf": 1786753452.5252879,
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
     "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
@@ -654,7 +653,6 @@
     "f6a52acfe2827e41aff5f76f8b30b26c9fd1dca48115e9908b0607f539f99d72": 1787061674.5283573,
     "f6a83fc9a583af5016fa4b5aaca827bc1c1f0a588c44e8a93e85f045ad184c1b": 1788623985.0688732,
     "f73baa1cb8ab1a79c519f1dc863a3000230f11fd26f8eabae98b508e649bd84f": 1788188548.1795115,
-    "f76722c6887dc7583ed1310b38e997376ef44492cada405a5e6c0a2db217be6d": 1786292153.72319,
     "f79c0da3ff22536e088a5a5df4537c876ab52779b47ee8b7dbf45834cadd0e4f": 1786826091.8259943,
     "f7e916032b1b1a9f88d4f64421c97ff2babd114ac47bf6cf1f48debc2c0ef91a": 1786779523.6138108,
     "f8c515a196a15e09576cdda44f12626915a84c553cbc0869737a76cb4ddcbf5d": 1787518583.8953943,
