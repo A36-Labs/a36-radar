@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790183689.0464597,
-  "last_urgent_at": 1790117650.2674227,
+  "last_post_at": 1790195420.8148146,
+  "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Open Source & DevTools",
-    "Markets, IPOs & M&A"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Межа. Новини України.",
     "Bloomberg.com",
     "Indian Startup News",
     "israeldefense.co.il",
@@ -38,10 +39,10 @@
     "FinTech Futures",
     "Morningstar Australia",
     "Bloomberg.com",
-    "Crypto News",
-    "TradingKey"
+    "Crypto News"
   ],
   "recent_titles": [
+    "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation",
     "Burnham Seeks `Sweet Spot’ in AI Regulation",
     "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million",
     "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
@@ -160,8 +161,7 @@
     "New euro stablecoin EURR gains $665K market cap days after launch with Revolut partnership.",
     "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
     "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone",
-    "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion",
-    "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials"
+    "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -225,7 +225,6 @@
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
     "17674887f8ef9b5b7ee0c0c0c1f6d8c40845cb7e8688aa5610ad22cabd372d44": 1786877042.2425308,
-    "17c4a7c2ddb6e8b6d9464d1ad28c38d84527f92ad0828971b8759c46f72178f9": 1786302554.5684235,
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "19d74ba56c7689852eff4c4ad45d36d8d99afef161ca413b8d61e652fd5c56f4": 1786536228.4634604,
@@ -286,7 +285,6 @@
     "36b6e9983f22fbf49000091201fc87a00ae9ad59d9628ec50bdf1e90b578e954": 1786724890.2204318,
     "36c142a3fbb84dedc24bfc4e08938e93a9127f4e236340edf63e6defe756bc62": 1787623562.2418582,
     "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
-    "37c18c2e3167b198e32d3e2fb7fd2504ae41acbbcbe4292275d40b1bd792c92a": 1786297369.933973,
     "386a3fc56e8402ce14b7059117e71ed5c0c8be4d9b413cbc45edf1d3cee208a2": 1786811792.8338273,
     "388bacc45504dd8e1758d1b744c45d0ecf43bcf9dc9b0c6c5ad7d312156f747d": 1786807901.2294278,
     "38ab1a046638787cb0d72c6a80ac9a33a60cad027db5428ab59f8f144f2d1686": 1787382326.0040903,
@@ -329,7 +327,6 @@
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
     "4e6d0c7fba9b1d59b60ce3564d363a9df68f3650e07be9c4899cb35d99e8c8cc": 1788045996.7369466,
     "4e8b6ae46c1dc977dd7c1fc40a5c7e950b9605b9cfdd83fd62c6207b03d80fdd": 1787058837.3330169,
-    "4e8fd6ce0430ad92f8d1e4fbd3b0c01233c95ddb0d3ea3c058557f6594b08e53": 1786306987.904544,
     "4ea4ff1fb351de177b3cab573a7d91a0fb03f7c642e553320c4cab8e81a556b2": 1788478214.6478639,
     "4f1eee3433eb221c61ef3f9a71fd8cbcb0faf236e5c802d0444aca6a6df54c2f": 1789493933.9223053,
     "4fac5cb7d3db0ee2bc8c616a0eb74911965db3a7abd75e2ba751b91407deed5c": 1786738054.0460236,
@@ -546,6 +543,7 @@
     "bd8f594df4f6b89688b450dc911318a300bf59ad49cb4a45922a305e034134b8": 1786718154.866428,
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
+    "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
     "bfb6ab15d357553227946325cd9c3310021739ab4e65a4f237d62395389cc68b": 1787462253.8007793,
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
     "c08c67be0b47ed63ef69766cfba17fddd02f6ac84f0b2de1f7652971d75c0ba1": 1787577958.407109,
