@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790145410.601702,
+  "last_post_at": 1790165315.5182762,
   "last_urgent_at": 1790117650.2674227,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Open Source & DevTools",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Indian Startup News",
     "israeldefense.co.il",
     "TradingView",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Crypto News",
     "TradingKey",
-    "Substack",
-    "The Information"
+    "Substack"
   ],
   "recent_titles": [
+    "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million",
     "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
     "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
     "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
@@ -160,8 +161,7 @@
     "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone",
     "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion",
     "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-    "Arkansas launching fourth Lithium Technology Accelerator Cohort with Magnolia visit",
-    "Solana Mobile Announces Upcoming Hackathon with RadiantsDAO"
+    "Arkansas launching fourth Lithium Technology Accelerator Cohort with Magnolia visit"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -235,7 +235,6 @@
     "1b219d6a51189a7553552a96413594603681fb6c8fea3f04e5bbc7c4f8a42b95": 1786588865.3434782,
     "1b6589f47db45fdd4cfdbba43758d937ae461659bdafb029ebfa23c78374b204": 1788586696.505149,
     "1c8d6961ef0a8fad7a91a5ef824a874eb245f00ff61ddcb8143255a46e0d4566": 1786750944.1399589,
-    "1cdc326e0cab149f5f70dab13bc811e1e678b9e4edf759354e9976917796dab0": 1786276233.3103006,
     "1cf0a0d0b5bb4a415fdd0b26383793f20410aa8b37185b43bf7ff1d66addd1f9": 1786963553.6819963,
     "1d664ddf0d7e85da99479b069ec3f86dde3d94ecaceba6687e5fe0177fe718a0": 1786675160.447255,
     "1da6caf53d008daedf15bcde342830afcc52d01039e0d954f7967220b2771648": 1787043016.5686479,
@@ -247,7 +246,6 @@
     "2007f4b35fc2d10fa654f0621688f865d6f4175bd28cfc626f6d660cb8f62eef": 1786437608.4053264,
     "2046aaea443bca4a609ca11974287b4df42475d7ee9af3f5749a4f37aacad94c": 1786355033.0926883,
     "20a33963b2483a051cae872d1ebebb3f198c457d78d3075d43e5525794fcd1ba": 1786853898.6397312,
-    "20fafa6d4d47904761fca035f152e42efeeaaee089f606f74031cf652774de9e": 1786267256.2286808,
     "22983ac0f2ba2ca3f9f4bffc5c2342c493a2abae4b233f48709a54572db9f0e3": 1787085342.907133,
     "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
@@ -329,6 +327,7 @@
     "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
+    "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
     "4e6d0c7fba9b1d59b60ce3564d363a9df68f3650e07be9c4899cb35d99e8c8cc": 1788045996.7369466,
     "4e8b6ae46c1dc977dd7c1fc40a5c7e950b9605b9cfdd83fd62c6207b03d80fdd": 1787058837.3330169,
     "4e8fd6ce0430ad92f8d1e4fbd3b0c01233c95ddb0d3ea3c058557f6594b08e53": 1786306987.904544,
@@ -462,7 +461,6 @@
     "8cd3fded74c2ac5f0545105c34d2541199c516de7d63d4fde4732e254eac6d26": 1787592222.8208559,
     "8d29b6b0f0f4ac967b099b7c3b119be8d0ebc5db20c38950dd6fe4cbe0e6ac27": 1787536443.3553667,
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
-    "8e7d4f3369ab1f2f4c0a7491ff1cbeb3c5823489455d016d272b816e1c06366e": 1786272504.6247342,
     "8e7fd0505ce61006647bc7715a1032c3e912358c72d9b852d24244e2057fbcaf": 1789608071.8224158,
     "8efda7e33af1e040c6f38553360187ff64ab7bb76e504a7013f4279ab02b1983": 1787494162.9885552,
     "8f68d9cae058456e758b40ae39692cea581ac9ec9e5e16ffcbae6b6584bb6e26": 1788305008.7645707,
@@ -471,7 +469,6 @@
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
     "939e3d09acefe233266f144e9df302274bd535df494fbc08965bc1a8468174c8": 1786945566.0214603,
-    "9457b37dea6625faba9d44d4324c6660db2209441376c73c13e01238cd52138e": 1786261083.2906961,
     "94d78b76edac7ecb79937aef8b59c84c273a409ee987f86c5dbcf8c3a024646b": 1787012584.1655338,
     "95300d1f5fe0042c5109cba3038d4eb4e3c26525a5104eaad46a208421ceeaf0": 1786958524.544105,
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
