@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790126790.280994,
+  "last_post_at": 1790145410.601702,
   "last_urgent_at": 1790117650.2674227,
   "recent_categories": [
+    "AI & Agents",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "israeldefense.co.il",
     "TradingView",
     "TechCrunch Startups",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "Crypto News",
     "TradingKey",
     "Substack",
-    "The Information",
-    "Gasgoo"
+    "The Information"
   ],
   "recent_titles": [
+    "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
     "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
     "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
     "Nscale IPO Filing Reveals $103.4 Billion In Active And Contracted AI Infrastructure Agreements",
@@ -160,8 +161,7 @@
     "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion",
     "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
     "Arkansas launching fourth Lithium Technology Accelerator Cohort with Magnolia visit",
-    "Solana Mobile Announces Upcoming Hackathon with RadiantsDAO",
-    "Indian Govt, Intel launch agentic AI skilling programme for future workforce"
+    "Solana Mobile Announces Upcoming Hackathon with RadiantsDAO"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -321,6 +321,7 @@
     "47e114ef3466c246bdd0180eaeabd17174195d0d0e1d96ce4573a7c9f57aaefb": 1787751472.9156222,
     "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
     "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
+    "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
     "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
     "4a1a5bda90e05eb8866f4f3e0fd4b9ca1e7ca04db5a6edf831c930b39810956f": 1788936370.1359289,
     "4ae88249fe6d7288712eb3d8f7e849cbe71bd6f3507ec9feb12a1b537b7c1982": 1787441465.6875098,
@@ -508,7 +509,6 @@
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
     "ab31525d059810cb0e76faa803377a18358d0fc45ca89f08ab5efc550eac8784": 1787529169.8731337,
-    "ab504c212c1956cd0edc49ed8cf18b2e8c99a77d49efe30e9d884f6ade5de8fb": 1786249980.177544,
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
     "aba0bbdf595da2b71bd93e48bfda6489fd08da46fbf0522f2fce2948f92d76f6": 1787742972.7388544,
@@ -598,7 +598,6 @@
     "d87be08854b9701c0b899516cbdcff1548ee391f286de0bac2f7dfdc444b3b54": 1788074578.1327183,
     "d8d9ebe62b2a17cfb48ce3ed4d02307d579c1ee4d63b3653c281689ba8974410": 1787430917.4551787,
     "dad5f85000278f1fce6f7f4a9afad9ffbf8ccbe729acae528fee9a54f0b3e63c": 1789599741.3587873,
-    "dadb1079a8ad681dbbc051690eda367f3253f3bbddb029618681d4904b0ca5ed": 1786253497.6184828,
     "db31e89f5956bd597de9ff439615f60a3ebd54bc2969b2767254c55377edf9b3": 1786441521.5519352,
     "dbbc0074d69b0732a3277f14a0a543fb1ad1afd41a3208796b8f90cbe3a6d04d": 1789906693.5845923,
     "dbef8888d1528ed9231154e8f87154eb38a9d020450d28b6560c0ec5ba09f62c": 1788120086.473551,
