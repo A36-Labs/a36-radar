@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790195420.8148146,
+  "last_post_at": 1790204805.5973039,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Open Source & DevTools"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Yahoo Finance",
     "Межа. Новини України.",
     "Bloomberg.com",
     "Indian Startup News",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "FinTech Futures",
     "Morningstar Australia",
-    "Bloomberg.com",
-    "Crypto News"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
     "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation",
     "Burnham Seeks `Sweet Spot’ in AI Regulation",
     "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million",
@@ -160,8 +161,7 @@
     "Flock announces security changes after dozens of reports of law enforcement abuse and public backlash - ABC News",
     "New euro stablecoin EURR gains $665K market cap days after launch with Revolut partnership.",
     "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
-    "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone",
-    "Nvidia Reportedly in Talks to Invest $2.5 Billion in Murati's Startup at Valuation of at Least $40 Billion"
+    "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -424,7 +424,6 @@
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
     "7c221124509ca3a464dc26b23ad32031b0f53956d5e8d7c575619ea64245ff01": 1787145343.2354076,
     "7c44a3f4691cb74706af6fe9ad4274fc7994786c6c2b209554f6c3d95392e9db": 1786705925.8648098,
-    "7c568012b1f549e8c9da0eeebfa7f4691de8b01d70e13b32bed1dbdce228dd47": 1786311934.5080097,
     "7cc494b6780f0c072957c8107701c1d40e2d94010c07e1748558e7949f3ff84a": 1786482653.2280223,
     "7d0d6670644089af7b57e63d1ab01cdf595689f6b07efbf123f77d58af37eb77": 1786995375.481608,
     "7d64e45b4cd22533b1a96c8b4811573acfd55d43625975c8e92a820369199165": 1787875111.8864057,
@@ -519,7 +518,6 @@
     "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
     "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
     "b0740fa4a4d016d1f66a741d0ea2c2034fd2709cce0bbfcb698a76e0313a7a32": 1786697552.8316205,
-    "b09d895dccae7302c75fbb2a4c6f6139bd800d1643a99fd0d46dfbcc2798fa3b": 1786316084.711405,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b1b1c3496b6d56d7f75d567eaa0eb055cc8c6469867a5112a01241b798712928": 1787256948.355934,
     "b2d72ad93e326d0bc6b35c6e2019d6da62ebe40b1dcca2c0108e481f2360427b": 1787317627.6383107,
@@ -659,6 +657,7 @@
     "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
     "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
+    "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
