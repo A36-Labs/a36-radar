@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790251311.5224128,
+  "last_post_at": 1790269449.8409107,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Frontier Tech",
     "Cybersecurity & Cloud",
-    "VC & Accelerators",
-    "Markets, IPOs & M&A"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "BleepingComputer",
     "Bisinfotech",
     "AD HOC NEWS",
@@ -38,10 +39,10 @@
     "Scripps News",
     "marketscreener.com",
     "BleepingComputer",
-    "Morningstar",
-    "Bloomberg.com"
+    "Morningstar"
   ],
   "recent_titles": [
+    "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
     "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
     "Kawasaki Robotics, Dexterity expand partnership",
     "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy",
@@ -160,8 +161,7 @@
     "From Claude to the Stock Market: Anthropic’s IPO Filing, Explained.",
     "'Numbat': Perplexity's open-source tool can track rogue AI agents",
     "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion",
-    "OWASP Launches OASIS AI To Automate Fixes For Open Source Software Vulnerabilities",
-    "Flock announces security changes after dozens of reports of law enforcement abuse and public backlash - ABC News"
+    "OWASP Launches OASIS AI To Automate Fixes For Open Source Software Vulnerabilities"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -292,8 +292,8 @@
     "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
     "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3b9bfe05677a07434d4321c1ebcbde929ba2c796da74ac4c7959bc3957cd75cb": 1786955022.8050838,
+    "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
     "3c056ed15eb012b0e8e3c28514143437bbc0c6cde951fca8538215bf632ed3d2": 1787630683.0245097,
-    "3c3c516cbebe3c078b5eda080ad6768cf55cc8f0b45f9985fc508c0ec766b452": 1786374769.9398928,
     "3c53bdbd4859041a949cd34615af0ddeeb36fd9c533068825dbac2af8a980bcc": 1786687410.1054802,
     "3d8caaa7ef22e29e66a0983e965fefeb08c87920c0a89bdcacabf061a71d1361": 1788555142.2127693,
     "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
@@ -373,7 +373,6 @@
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
     "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
     "6599a9d4aff1e325bdd4b297fb1813051ceafd8349ef7f00f50e23d495057445": 1786985428.7088354,
-    "65c0ed43a1e6e47cf8cb5a889745e158e37b719f90d6aaf7620ec4043823b0b9": 1786378373.3468823,
     "6739a1dd7cdb43e060c957b545971eafab9a33ed8a3a8aa21fd8ab0461c797b1": 1788716800.5563352,
     "6766d10e6117222b1a470cba1cebb5c892edd7eb563da51dba4b020b509a0eca": 1787371764.2878537,
     "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
@@ -468,7 +467,6 @@
     "9a0ac7c4486825ee89cb7d7d8bb536f02096d2996132b23c4e823877cd8ec114": 1787210750.8808126,
     "9b07eb5cea15b090013f163827609ca43a47df77d20849fb698e44bcb206f8d7": 1786546060.625501,
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
-    "9bf9b515e19ac444294f048b5b59e0e4c39d31eb91c122139852685fe2941424": 1786370632.234835,
     "9d00c676f3b2765f5bbb1b7afd9bfe9b931713c18b9c7f2a1ecd3eb9b0996ca8": 1786829489.0012884,
     "9d04025c5c6d13fcc33b4af3e46f0e835ae0bf1d38111b122c95421651761b21": 1787250229.1501458,
     "9d2da14227d076df6da44127055fa6c7cbafe26ce7a745abad54aa4905863d61": 1786902709.3646052,
