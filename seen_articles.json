@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790281586.6222003,
+  "last_post_at": 1790292266.0337453,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Frontier Tech",
-    "Cybersecurity & Cloud"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "TradingView",
     "Benzinga",
     "Cointelegraph",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Reuters",
     "Scripps News",
-    "marketscreener.com",
-    "BleepingComputer"
+    "marketscreener.com"
   ],
   "recent_titles": [
+    "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC",
     "Databricks’ Latest Acquisition Brings Spreadsheet Startup Into Its $190 Billion AI Push",
     "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
     "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
@@ -160,8 +161,7 @@
     "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m",
     "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E",
     "From Claude to the Stock Market: Anthropic’s IPO Filing, Explained.",
-    "'Numbat': Perplexity's open-source tool can track rogue AI agents",
-    "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion"
+    "'Numbat': Perplexity's open-source tool can track rogue AI agents"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -213,7 +213,6 @@
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
-    "11c1693731c63eabd6f829bfc44aa42c7ffd83dbc795bb31a50a8a3c6d659b61": 1786396005.148272,
     "11d6a56f7d848916988a60a62cb2e5809094a8b1c8eaf5bbec19e5de3a52444b": 1787323720.5588133,
     "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
     "129f2d0e9fa4b5506db7c231b022ea874dfff347e129848bb69bbd59a0144e94": 1787514067.395525,
@@ -554,6 +553,7 @@
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
+    "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
     "cbda1f3b5ced491e787aca0d93f090f4b48a95e5df19f9e72fc3b59457b43794": 1787587182.7922015,
     "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
     "cd497664fd9f16610a88cf0ced1de2f3f0493c6c075fb3f2a23a0234f36e4fd3": 1787703941.7011993,
@@ -624,7 +624,6 @@
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
-    "ed7f3388778b7dc76ef5ee526bbbd216d0ef3b12896ffc4bad6e63e1818ce11e": 1786402328.2573574,
     "f135ee8c580325bb6cb561819ea0a38754414d6f9464f99ca85a68f2631e5c70": 1786747072.2805998,
     "f17c6b6c2f11aa871cfefe1782a43157e66b8715a9d2af67e007e7cc212eb29c": 1787454736.5336194,
     "f1adcdbb2c76c6171ca8872d5203aea0c491c5673b0b3cbbde27ddb64af524a2": 1786816373.9527972,
