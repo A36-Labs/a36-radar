@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790204805.5973039,
+  "last_post_at": 1790212893.7010887,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "Open Source & DevTools",
     "VC & Accelerators",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "AD HOC NEWS",
     "Yahoo Finance",
     "Межа. Новини України.",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "Morningstar",
     "Bloomberg.com",
     "FinTech Futures",
-    "Morningstar Australia",
-    "Bloomberg.com"
+    "Morningstar Australia"
   ],
   "recent_titles": [
+    "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy",
     "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
     "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation",
     "Burnham Seeks `Sweet Spot’ in AI Regulation",
@@ -160,8 +161,7 @@
     "OWASP Launches OASIS AI To Automate Fixes For Open Source Software Vulnerabilities",
     "Flock announces security changes after dozens of reports of law enforcement abuse and public backlash - ABC News",
     "New euro stablecoin EURR gains $665K market cap days after launch with Revolut partnership.",
-    "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
-    "German spacetech Isar Aerospace’s second rocket launch reaches orbit in milestone"
+    "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -205,6 +205,7 @@
     "0cb283a961d489c95c59f8f2ea85dc5623517cef927b425f3409d051160eb39a": 1787207383.3539445,
     "0d049354aa285fb1e8b9843acbd28de9bed920d62d6d3e289eef9b25e76dd501": 1787398247.1263301,
     "0d1cb9d4ed62401045633d1dace8b84cef10829dc2cc514d6f8567b3eb84a6fe": 1786601276.2777438,
+    "0d5157a7bb0874e46955c268df81da109aedb24076b6fcc3a02cb981b8af75c1": 1790212893.7010887,
     "0dbdf7a37fd337c174695162f7bc0a021071f430603524b1632bada59366ad61": 1787064426.1464493,
     "0deb3b9bb62104f895013a778f6b614c14cde8f65f4623de13a64f6016b549e7": 1787747296.4464016,
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
@@ -537,7 +538,6 @@
     "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
     "bcf20f8c40dc729b11adfabaa33b00c1642b74be8dc6ff954b7e545963d71a61": 1787339056.4637625,
     "bcf8e0e16c8e07e205bc1f5cebfd8959078f17aeef65e34b2d5beb344782046e": 1787391413.4831598,
-    "bd1cb110aa55a1442b7766ac3443a02007834c0431a4c11e7d29e4454f1f6f29": 1786322348.0038161,
     "bd8f594df4f6b89688b450dc911318a300bf59ad49cb4a45922a305e034134b8": 1786718154.866428,
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
