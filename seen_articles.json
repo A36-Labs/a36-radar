@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790212893.7010887,
+  "last_post_at": 1790230906.728705,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "Frontier Tech",
     "Open Source & DevTools",
     "VC & Accelerators",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Bisinfotech",
     "AD HOC NEWS",
     "Yahoo Finance",
     "Межа. Новини України.",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Morningstar",
     "Bloomberg.com",
-    "FinTech Futures",
-    "Morningstar Australia"
+    "FinTech Futures"
   ],
   "recent_titles": [
+    "Kawasaki Robotics, Dexterity expand partnership",
     "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy",
     "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
     "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation",
@@ -160,8 +161,7 @@
     "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion",
     "OWASP Launches OASIS AI To Automate Fixes For Open Source Software Vulnerabilities",
     "Flock announces security changes after dozens of reports of law enforcement abuse and public backlash - ABC News",
-    "New euro stablecoin EURR gains $665K market cap days after launch with Revolut partnership.",
-    "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn"
+    "New euro stablecoin EURR gains $665K market cap days after launch with Revolut partnership."
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -268,7 +268,6 @@
     "2d0c4a42b65c561b6e7f2a7d806b54ad7fd3442009f805d4e05d8f386778a954": 1786714507.4313748,
     "2d704645e5fd7cc75cefd848661328d2fe1c86c0930ab1b04371bebf114aee62": 1786774458.8707151,
     "2e0553881798ae66100823a8b938edeea96d389eeae19134dfb55ec9dc9da07e": 1787386336.661562,
-    "2e449710995ae0bacf3586fcce63651cfd596a8a44f2f314cf0938e2d2c7d75a": 1786330943.9278576,
     "2ea04f98184b926e8acae1e0839584b218bd4c1de10015fa90d1017562f5c36d": 1787282748.4262226,
     "2eee3a18be91b01f97c7852c94a329067c8dc4d60e64716b02b57e36af2010ee": 1787604824.7737763,
     "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
@@ -342,7 +341,6 @@
     "55069b81601ce81d7dd75080500b8f265887c37ce04958da0d3863bdd53c657e": 1789188267.6659057,
     "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
     "559a4c4dd819d3f17379e75d74b629a0868a08487e196ae1bc45e5ce27e0c0f9": 1787313560.999591,
-    "5648c55982ca0e44e91f275736cdb99b106f5d88e9d584bc2780a775b97903c4": 1786337358.463199,
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
     "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
     "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
@@ -389,7 +387,6 @@
     "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
     "6a24ef4438650f07bb5c8cb8015937d6e1747796cc26d7227b85898766533e9c": 1787288414.3659408,
     "6aa90119eaa0c075a286a9b48a6bbfce6aa69c6c16be2cf83ef772947658d1e4": 1787022341.7641623,
-    "6ac8dd5a53ae0a93c7a4837dec58a60758264dd5cd42da600941f17415e013ac": 1786341904.5025363,
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
     "6b5ca39ada2d5bc5d66822a4c3d142420c433d9c5054f22b51b70c00728fe284": 1787635317.7241771,
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
@@ -501,6 +498,7 @@
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
+    "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
     "ab31525d059810cb0e76faa803377a18358d0fc45ca89f08ab5efc550eac8784": 1787529169.8731337,
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
