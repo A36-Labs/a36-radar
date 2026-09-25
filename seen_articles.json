@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790319249.673358,
+  "last_post_at": 1790340206.7052262,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "verdict.co.uk",
     "TechCrunch",
     "CBS 19 News",
     "TradingView",
@@ -38,10 +39,10 @@
     "TradingView",
     "TechCrunch Startups",
     "Pulse 2.0",
-    "BleepingComputer",
-    "Reuters"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Enterprise browser startup Island raises $400m at $6.4bn valuation",
     "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "Warner pushing new AI safety regulation legislation",
     "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC",
@@ -160,8 +161,7 @@
     "LG Electronics-owned Bear Robotics eyes up to $300 mn pre-IPO funding",
     "Google-backed Indian space startup raises $100 million in latest funding round",
     "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession",
-    "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m",
-    "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E"
+    "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -239,7 +239,6 @@
     "1efa96cec47991bbe689dec8d5accc2f0766425ba90dfe25da25f299e02542d7": 1787657874.3018477,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "1f80750a77986ed26510a863e3f6418ec287ccf74424757312d41f95cf58a6c1": 1787998608.321642,
-    "2007f4b35fc2d10fa654f0621688f865d6f4175bd28cfc626f6d660cb8f62eef": 1786437608.4053264,
     "20a33963b2483a051cae872d1ebebb3f198c457d78d3075d43e5525794fcd1ba": 1786853898.6397312,
     "22983ac0f2ba2ca3f9f4bffc5c2342c493a2abae4b233f48709a54572db9f0e3": 1787085342.907133,
     "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
@@ -295,7 +294,6 @@
     "3c53bdbd4859041a949cd34615af0ddeeb36fd9c533068825dbac2af8a980bcc": 1786687410.1054802,
     "3d8caaa7ef22e29e66a0983e965fefeb08c87920c0a89bdcacabf061a71d1361": 1788555142.2127693,
     "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
-    "3dacf551e153ce76cb6b9f9d6e3182089f2de7fd70eeacedfb8d2a2ae7922de9": 1786448049.2839653,
     "3dbdc0368d4af84d7bffe0a81d76b2b05f74cae51cafdea002dceef46a1a2a34": 1786881156.4122944,
     "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
     "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
@@ -357,12 +355,11 @@
     "5e7e6bf53b43088bf4a5525818e08f0a2cfb44a34a9db9d653688c9104c7573d": 1786885012.6308877,
     "5e8a5319142858c95f30910ec693386c26286dc1721ada19b669fbe4fb9613e3": 1787573846.701366,
     "5f0b1293156023694274daac154cb823bf3290324c88b2a7514a4e1c59fa1a35": 1786974972.407771,
-    "5f41e60d862b9777734b08015ee5c4ca26781d8543f76fe57a81207a938130fa": 1786444684.7163203,
-    "5faacf234d705cd844e63f8f74bc8d8d200146c09d4cddf77d17105204b5d5ed": 1786451249.6498172,
     "5fda7fae630e1b22477c66fbe6fe8220f95da9de333f5a3c4da04cfe0f2d72e3": 1787195284.6275413,
     "6026ad776bb28d6cf30002c2664479c7900308e92a942e13b9f60c9b1d9896f0": 1787801031.3052645,
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
     "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
+    "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
     "613e73fca7906e6500fdf0f50124a88a3ab4c692ddc7a00c9f80ce6dc91592af": 1786837930.405983,
     "61a8eb87389ee76062b2e6bf30245481d305d6ebafba1791c5040800dc3b0300": 1786736053.948614,
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
@@ -405,7 +402,6 @@
     "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
-    "7646515576474e09feadbb0ee76571afa622dfe266f84882a1fa34bfdfa434fe": 1786434167.6319113,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
     "77925f88725106d32a433017e2fdd6fba614f374f12ece0a4377aa8cf03736ea": 1787010100.7123568,
     "77aa4e92ff93d66cca8448de9a98c97a89633304616f18946867639361b65270": 1787407563.0885918,
@@ -581,7 +577,6 @@
     "d87be08854b9701c0b899516cbdcff1548ee391f286de0bac2f7dfdc444b3b54": 1788074578.1327183,
     "d8d9ebe62b2a17cfb48ce3ed4d02307d579c1ee4d63b3653c281689ba8974410": 1787430917.4551787,
     "dad5f85000278f1fce6f7f4a9afad9ffbf8ccbe729acae528fee9a54f0b3e63c": 1789599741.3587873,
-    "db31e89f5956bd597de9ff439615f60a3ebd54bc2969b2767254c55377edf9b3": 1786441521.5519352,
     "dbbc0074d69b0732a3277f14a0a543fb1ad1afd41a3208796b8f90cbe3a6d04d": 1789906693.5845923,
     "dbef8888d1528ed9231154e8f87154eb38a9d020450d28b6560c0ec5ba09f62c": 1788120086.473551,
     "dc2eeec1dc11400177fe8e03fb456d516d74ada24f90cc3a6eba96d2e651e111": 1788520248.533977,
