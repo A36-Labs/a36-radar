@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790301115.4319355,
+  "last_post_at": 1790319249.673358,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "VC & Accelerators",
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch",
     "CBS 19 News",
     "TradingView",
     "Benzinga",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "Pulse 2.0",
     "BleepingComputer",
-    "Reuters",
-    "Scripps News"
+    "Reuters"
   ],
   "recent_titles": [
+    "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "Warner pushing new AI safety regulation legislation",
     "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC",
     "Databricks’ Latest Acquisition Brings Spreadsheet Startup Into Its $190 Billion AI Push",
@@ -160,8 +161,7 @@
     "Google-backed Indian space startup raises $100 million in latest funding round",
     "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession",
     "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m",
-    "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E",
-    "From Claude to the Stock Market: Anthropic’s IPO Filing, Explained."
+    "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -380,7 +380,6 @@
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "68c502297e8380dee9c0161fb5508bcd22632a97fa51c211c91ebe6ba7a93c1d": 1787627453.081897,
     "68df9e41a4d8089da9c736576605137c267ec6c5d95dcaeec97712ed4cc36891": 1788391925.1213722,
-    "697181c7ec26ec49474c4f2405ece0d62546172eb00f80cdbc030b060ce3c021": 1786415030.1532152,
     "6a24ef4438650f07bb5c8cb8015937d6e1747796cc26d7227b85898766533e9c": 1787288414.3659408,
     "6aa90119eaa0c075a286a9b48a6bbfce6aa69c6c16be2cf83ef772947658d1e4": 1787022341.7641623,
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
@@ -488,7 +487,6 @@
     "a631af890f28cf7aa4b22e547f29ce3e9764600842d228bcbaab1d550a346fb2": 1786742063.802998,
     "a6a439c8770542d649d1e4895fb52644eafcbf9e2038cd18377750ce96dbe41f": 1787581323.1705828,
     "a75e7bc2283f64fddc5fb8a168ef577e62e1299aad0cbb3001dd3060170f1d8d": 1787525675.3609865,
-    "a7801aa807b0d1a675534dcc59b5b73c396d3753fde7d1e9e8c8067b79ab5619": 1786421065.2667177,
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
@@ -520,7 +518,6 @@
     "b6926407dce983c3237e90ac8d0ce7699cb5c14da0fca12277cbc7b6094c7749": 1787225827.0607793,
     "b736c8c713573b3f2127339904a2e569bb298eef79c0880ef1ca0588e334a9f3": 1786873651.9186046,
     "b885e450b1b823dc40b619d0ead80c8391af7038783ac89f32b1e2cf9f114fea": 1787299281.6987426,
-    "b9323ba81dde3226601517a178ff1507584b98c1d86f1d71b47492e55054ad91": 1786425572.5023675,
     "b9b040195df075f8a5d67695bef12562133ca7d5389d26fbddb54adae91c8755": 1787915790.70858,
     "b9e6438284300d5e3e27e36192c5ffb97584a7982d7bd1587378f3f8ac06b427": 1787237468.4885237,
     "b9f8bd3a9b272f51ea692bb80785849949928d2997374ba38931f9b5a572c6eb": 1788287087.1918485,
@@ -540,6 +537,7 @@
     "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
     "c24c059e790a3cea41d51fa02fdacbd4d15b3204821bbb63faae248d69da3ee6": 1787095947.9210358,
     "c263332c36b42655cac4229b7b2161d82ada139d657b1b1149326ee68d762244": 1787521968.600367,
+    "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
     "c340997fb7aa245a38d2f98f5c1dc6f5101a1cdd14ae8f0251fcecd99cb5a04d": 1787037077.0929494,
     "c3ceed21b1b47dd5f5e06fade9cae563879e87a9d313577f51d40ec83990243a": 1787760232.7327974,
     "c41a8a984840198774fdc7609c2bbcdb15026000f32a4b2a3180e9ceea04a4e2": 1787571543.6092925,
