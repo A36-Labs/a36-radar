@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790357719.232289,
-  "last_urgent_at": 1790357719.232289,
+  "last_post_at": 1790369054.3457315,
+  "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "AI & Agents",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch",
     "BleepingComputer",
     "verdict.co.uk",
     "TechCrunch",
@@ -38,10 +39,10 @@
     "Indian Startup News",
     "israeldefense.co.il",
     "TradingView",
-    "TechCrunch Startups",
-    "Pulse 2.0"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
     "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
     "Enterprise browser startup Island raises $400m at $6.4bn valuation",
     "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -160,8 +161,7 @@
     "Robots protest in Poland over AI regulation concerns",
     "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
     "LG Electronics-owned Bear Robotics eyes up to $300 mn pre-IPO funding",
-    "Google-backed Indian space startup raises $100 million in latest funding round",
-    "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession"
+    "Google-backed Indian space startup raises $100 million in latest funding round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -257,7 +257,6 @@
     "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
     "2a4cfec7518b10e73fddcfd667f4be7fa9672024f9dfc491bde70eebb34f0ebd": 1787351765.5914705,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
-    "2c0440bcea6735b841ea27583823a7bbcfd33c31600f5b7403566ce19856c659": 1786476622.5625901,
     "2c3779acf92f34fd4c6ede6416f03cf9df3e3448545860de546f8267344f26e2": 1787113175.5624294,
     "2d0c4a42b65c561b6e7f2a7d806b54ad7fd3442009f805d4e05d8f386778a954": 1786714507.4313748,
     "2d704645e5fd7cc75cefd848661328d2fe1c86c0930ab1b04371bebf114aee62": 1786774458.8707151,
@@ -388,7 +387,6 @@
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6e2a6189fdbf65c638f131751654180931f2cc06a0fe0733b8f644ac8844f3fb": 1787660284.9362,
     "6e30b601a4721e38e3bacb2c80cb787b8506fdbdfcc0577a4017763374603e7e": 1786863884.119002,
-    "6eb0048c429191ce0a17023b6b371dccda884622438f1fa8ba47435eaf8277a2": 1786471881.8774054,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
     "6f7c373f3f64d2745a510f3c38c23b98e5f7d4ee87e6d3c006b203bb234d46f9": 1787698174.6074634,
     "70219785f289d7b7f532d03ca78951cf314c8f6f39c56733af9c2294b46d0d73": 1787611687.155361,
@@ -541,6 +539,7 @@
     "c63fc640eabb5e1ef13dc74527989fa8cff132f3f899097d369ceb31428aa7ac": 1788347465.0073433,
     "c6ed841213b85f19c9a605ad88649dd1f6fa3152f9db2826fd5dc7cc01998702": 1787049657.241761,
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
+    "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
     "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
     "c9dff5ea31ceb1c11dccee3be8e5661998f77fa02d516a978ed4aef5152411e5": 1786486152.2859004,
     "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
