@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790292266.0337453,
+  "last_post_at": 1790301115.4319355,
   "last_urgent_at": 1790195420.8148146,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Frontier Tech"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "CBS 19 News",
     "TradingView",
     "Benzinga",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "Pulse 2.0",
     "BleepingComputer",
     "Reuters",
-    "Scripps News",
-    "marketscreener.com"
+    "Scripps News"
   ],
   "recent_titles": [
+    "Warner pushing new AI safety regulation legislation",
     "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC",
     "Databricks’ Latest Acquisition Brings Spreadsheet Startup Into Its $190 Billion AI Push",
     "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
@@ -160,8 +161,7 @@
     "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession",
     "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m",
     "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E",
-    "From Claude to the Stock Market: Anthropic’s IPO Filing, Explained.",
-    "'Numbat': Perplexity's open-source tool can track rogue AI agents"
+    "From Claude to the Stock Market: Anthropic’s IPO Filing, Explained."
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -325,6 +325,7 @@
     "4e8b6ae46c1dc977dd7c1fc40a5c7e950b9605b9cfdd83fd62c6207b03d80fdd": 1787058837.3330169,
     "4ea4ff1fb351de177b3cab573a7d91a0fb03f7c642e553320c4cab8e81a556b2": 1788478214.6478639,
     "4f1eee3433eb221c61ef3f9a71fd8cbcb0faf236e5c802d0444aca6a6df54c2f": 1789493933.9223053,
+    "4f593279d082018b2ee7fb316005ede8b098c7f8805042699fee9118ad411415": 1790301115.4319355,
     "4fac5cb7d3db0ee2bc8c616a0eb74911965db3a7abd75e2ba751b91407deed5c": 1786738054.0460236,
     "50bdf3fa0ff95a40b76266aad0772ed3e525e1629f3b14b661ee02c0a41d1a13": 1789773300.5285013,
     "50ca9dd4339b5d2719b734fb6b35acc19207b96ecb2b76b3a935f0a61db607ff": 1788470810.4387414,
@@ -632,7 +633,6 @@
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
-    "f52fb63f3004faea6f7b0ce1fc0eca1e582bf91c9d5cfa403ca6d8e438738e76": 1786406674.6662803,
     "f5641cfbd2db44862f61c4a2f42962a698972bc5e81a85cc764470333d0d5976": 1786533231.2636273,
     "f57b115cea81fd69573e553936548cd14b065438cbf215032e78f88863e237ce": 1786979492.9467695,
     "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
