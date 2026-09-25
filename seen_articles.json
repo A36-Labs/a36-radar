@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790340206.7052262,
-  "last_urgent_at": 1790195420.8148146,
+  "last_post_at": 1790357719.232289,
+  "last_urgent_at": 1790357719.232289,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "verdict.co.uk",
     "TechCrunch",
     "CBS 19 News",
@@ -38,10 +39,10 @@
     "israeldefense.co.il",
     "TradingView",
     "TechCrunch Startups",
-    "Pulse 2.0",
-    "BleepingComputer"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
     "Enterprise browser startup Island raises $400m at $6.4bn valuation",
     "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "Warner pushing new AI safety regulation legislation",
@@ -160,8 +161,7 @@
     "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
     "LG Electronics-owned Bear Robotics eyes up to $300 mn pre-IPO funding",
     "Google-backed Indian space startup raises $100 million in latest funding round",
-    "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession",
-    "Tom Brady and Gisele Bündchen linked to $32 billion FTX collapse after bankruptcy documents revealed $2 m"
+    "Bitcoin Dormant for 15 Years: $120 Becomes Over ¥400 Million as Vintage Wallets Awaken in Succession"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -172,7 +172,6 @@
     "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
     "023e421c8ebd7135874440f5cdbf8da090f24255988730f3d9b3edb8ff7d5ae2": 1787055372.781394,
     "028dbd37fe27aaf0f4f9089102dc79bcfb837a5f1f8495c1c2b1cb486f347d8c": 1787691055.905807,
-    "02b6ec6aaa8d62bab9bbb1ead9dac8e860c2fc861ccc972c8cc8249c948bd1b0": 1786468641.0434864,
     "02f20307b1809dd43a962787ca5d61fc6de2f3657ed6a5d75344becdc8785b41": 1787182914.1027505,
     "0318b728bddffada57088556eef7edbf35c2b1c5bc8426ccb2d3032eb6e409b0": 1788137759.5588465,
     "03a4d2cd5f850ddf0b07c8b70eeaa0ba343c3c77ede3ad6dc5548d3199feceec": 1789428741.4428759,
@@ -296,7 +295,6 @@
     "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
     "3dbdc0368d4af84d7bffe0a81d76b2b05f74cae51cafdea002dceef46a1a2a34": 1786881156.4122944,
     "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
-    "403aff2d95395db31216a69cd44902510704ffbff85b6a76d5a046f05f48fcb9": 1786464874.5035574,
     "405a737f72d34e5f5945dc1b5de6f89ed79defb98ddece2c46ed01347512d3d3": 1787557378.9805996,
     "40f566e0a889cf9544b407fc987c5657b7020f63f08b36fbe15003719b549c84": 1787841378.0301557,
     "41919bc662f6d37b285b316687b54c5b8750329807cc7f6304e15487814d3a05": 1787544651.694869,
@@ -340,6 +338,7 @@
     "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
     "5838c49fb83f5302f73eb66327d7ffccd6061a848ea064ef94b3673869c87736": 1787032208.9236553,
     "5a0a747bce27385009d962eb4df19b30a27ad65b9c5b2810f17d03d2e141b025": 1787213318.7159805,
+    "5a73aa7e366ba8681775aa1f202eb986045729f5c7fdd4a006d985058119022f": 1790357719.232289,
     "5aaf349657aca5fa98e6218512496f8139df89935004380bf71754f410ac84f6": 1787325537.7836702,
     "5b3da35fdcbd4b329dbc371019606e2a0b88b220644de6a605d4255eb1474b44": 1788398694.761299,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
@@ -500,7 +499,6 @@
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "af88f135364144b24fddf685faa3b80fb054659cfd9fb4f5b972d75762ce0058": 1786918313.7391076,
     "afdc94668d1bea937c11f9bbbce47efe2d1cf3b4a4395c4c23638245350edc8c": 1787434304.0323257,
-    "afeed61774edd389e871af567678a422ef7ccecfa2a2093c25edf09b2b673d28": 1786461162.0164704,
     "b0326add6b3366e2ced18f7260929f3ef6b0f4129e6bf6cbe636331508b33fc2": 1787569154.8820686,
     "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
     "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
@@ -524,7 +522,6 @@
     "bcf8e0e16c8e07e205bc1f5cebfd8959078f17aeef65e34b2d5beb344782046e": 1787391413.4831598,
     "bd8f594df4f6b89688b450dc911318a300bf59ad49cb4a45922a305e034134b8": 1786718154.866428,
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
-    "bf0deff6b48870cbadce00f8b007e1109aa4084723d56f74f852af6e3e59ed6a": 1786456979.1419697,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
     "bfb6ab15d357553227946325cd9c3310021739ab4e65a4f237d62395389cc68b": 1787462253.8007793,
     "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
