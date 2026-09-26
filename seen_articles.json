@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790450903.850589,
+  "last_post_at": 1790460640.5314872,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Frontier Tech",
-    "Open Source & DevTools",
-    "VC & Accelerators"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "pulse2.com",
     "CyberSecurityNews",
     "AI Insider",
     "Forbes",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "BleepingComputer",
     "Bisinfotech",
-    "AD HOC NEWS",
-    "Yahoo Finance"
+    "AD HOC NEWS"
   ],
   "recent_titles": [
+    "Nscale Raises $3.36 Billion In Pre-IPO Convertible Financing Led By Third Point",
     "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
     "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture",
     "Corgi Is Now Worth $5 Billion Thanks To Four Funding Rounds Five Months",
@@ -160,8 +161,7 @@
     "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
     "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
     "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-    "Anthropic cancels $6B acquisition of AI startup Decart after due diligence.",
-    "French AI company Mistral hits $24 billion valuation in funding round"
+    "Anthropic cancels $6B acquisition of AI startup Decart after due diligence."
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -335,7 +335,6 @@
     "5a73aa7e366ba8681775aa1f202eb986045729f5c7fdd4a006d985058119022f": 1790357719.232289,
     "5aaf349657aca5fa98e6218512496f8139df89935004380bf71754f410ac84f6": 1787325537.7836702,
     "5b3da35fdcbd4b329dbc371019606e2a0b88b220644de6a605d4255eb1474b44": 1788398694.761299,
-    "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba54aefbc89fb7f2a05401e2a7fbd78900e3ae58cc99be0922810e7ab9c0a4e": 1789743468.9803452,
     "5c00cdd9e23d4536cb9926708357f9a85b0d09802e93edd563370af5e6474f1b": 1787676712.1392136,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
@@ -389,7 +388,6 @@
     "71df71105db73e29e072f1e29efc0ad076b5fdb16abe1e4a03cee2dd3ded3340": 1788743233.4245145,
     "721589671db35645dad3fb6e7052fa9698cee38b488c8d3aed605cb3a9bff4d9": 1787506807.02646,
     "72440f6ab8bd7d5b185d74b7aa15004754a5772eeec947414e3f58a6db1c733b": 1788129700.2553298,
-    "7280ef4821a71d68bdc96356093888cf86e549ad3e8df41ea0391ece0c32245d": 1786568298.216912,
     "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
@@ -412,7 +410,6 @@
     "80387b42a4f02fc4201a01f0f36b2df79c024578ba6ebb34720988d91bd7036c": 1788982080.8316088,
     "806986fe44255f9bb0e89cff13853a276b9e5610f2fb6d9bfeb7ea28b22671e3": 1787952450.4289844,
     "80ec416e86835c7181bfb630cbac6d9997d8e77aeefdad223c9046b23988d932": 1790379523.026365,
-    "81221e5bb50279592ca1a779c04b380e50b19d9ae16a605aa2e0476331288b4d": 1786564393.766864,
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
     "826bd8fe61193d548638bb0b30501c6ec8d3395f9d25852e44e66773d86c99eb": 1786658823.285808,
     "836d4ac4554f452abde519096befe5194252ae2215a800fd52fca03aa29c11b5": 1787305749.333969,
@@ -542,6 +539,7 @@
     "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
     "cd497664fd9f16610a88cf0ced1de2f3f0493c6c075fb3f2a23a0234f36e4fd3": 1787703941.7011993,
     "cd6e59c36c64611caaefcc172926868baf17c8daaba511578e73345e2caa3483": 1786988957.4782045,
+    "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
     "cdb892e4fa76b96c5cce0fb4ad079ae2ace79d844e31ce06698f850d1bad8ce8": 1786693592.600222,
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
     "cf0b09976fa4ecdfb8f8e71caa3ce4a26433f9cd4d25d562463901f3c71a68be": 1786607902.4434588,
