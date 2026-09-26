@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790388238.6350396,
+  "last_post_at": 1790408133.697823,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Fintech & Payments",
     "AI & Agents",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Policy & Regulation",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "FinTech Global",
     "TechCrunch AI",
     "TechCrunch",
@@ -38,10 +39,10 @@
     "Yahoo Finance",
     "Межа. Новини України.",
     "Bloomberg.com",
-    "Indian Startup News",
-    "israeldefense.co.il"
+    "Indian Startup News"
   ],
   "recent_titles": [
+    "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
     "Pair of $400m rounds drive this week’s FinTech funding",
     "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
@@ -160,8 +161,7 @@
     "French AI company Mistral hits $24 billion valuation in funding round",
     "Capital B Buys 376 Bitcoin for $29.4M as Treasury Grows to 3,521 BTC",
     "Anthropic Seeking $15 Billion in Debt Before Its IPO: Is That a Warning Sign or a Bullish Signal for AI Infrastructure Stocks?",
-    "Robots protest in Poland over AI regulation concerns",
-    "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor"
+    "Robots protest in Poland over AI regulation concerns"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -188,6 +188,7 @@
     "06d8a4f668ab37973c2faeb9476d0c6df7301f033cc342bb18d0cc70e89f77f9": 1787234688.559211,
     "0731846bee432b0c717eb5b871ef8c279673e8a76c2bcfcfe84a6fd1e809bd69": 1787028405.6164684,
     "07358ad98f4a9350716d38cde127e11e341d6741aded577cc74c1294a1b0710f": 1787503089.8275945,
+    "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
     "088e6666ceb893fa35b2a99ed49d134d38bf12f8f5ec9412276e21392f09c168": 1788016063.5907354,
     "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
     "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
@@ -330,7 +331,6 @@
     "54dfcafccab5c62c586496f3b959a4ebb0194b54e2aebf3add674cf3302fd754": 1789476883.0519447,
     "54e742fdc4625aaa9c795907b3f0889fc332d6ceb994d29fb646adac0a1458d7": 1786783790.9382899,
     "55069b81601ce81d7dd75080500b8f265887c37ce04958da0d3863bdd53c657e": 1789188267.6659057,
-    "558eaf11c1e6534888737cd68b6f4bdd097fe0cde34e97759184d8a80812a7f4": 1786502372.541836,
     "559a4c4dd819d3f17379e75d74b629a0868a08487e196ae1bc45e5ce27e0c0f9": 1787313560.999591,
     "57e69dbb305045756854ef1d12e2f711c4a71476f01f6c5c36949b2f0f046fa2": 1786759308.62669,
     "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
@@ -341,7 +341,6 @@
     "5b3da35fdcbd4b329dbc371019606e2a0b88b220644de6a605d4255eb1474b44": 1788398694.761299,
     "5b96650ebf1b376a2a9a630974356dcde77409987c60dc98fb79703b6fd25544": 1786571853.787843,
     "5ba54aefbc89fb7f2a05401e2a7fbd78900e3ae58cc99be0922810e7ab9c0a4e": 1789743468.9803452,
-    "5ba9afa378680ef8a41a5c7467761c4c5d31262a2b19851994c904bee1e4bbe0": 1786514585.5112865,
     "5c00cdd9e23d4536cb9926708357f9a85b0d09802e93edd563370af5e6474f1b": 1787676712.1392136,
     "5c783d25a82227a380dc56616e4ec92f8b0d424ab9b6896874944531f20ab05a": 1786649482.4602768,
     "5ccecbf10f9f08c1f96decf3a031f639fa77e11657d618dc40b3ba746451e185": 1787018589.6494143,
@@ -564,7 +563,6 @@
     "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
     "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
-    "d639a4fce72bbe36d8c90e25a7e62caeef0389a3c6b0a84764651a3db5c43b63": 1786508986.5569785,
     "d6d82318b5d63d32a97abcd14e8a8c31d26cea9600d6b0e69e29395c1d7451a0": 1787137882.6504948,
     "d725da2a430219b08387ca7a5975c04092960a0ae4945a39adeca9eae64c66fb": 1787694502.947729,
     "d7ab94dd18c7080705d3de9b2e2c2e1107acd7facde76aca417d4484a12986f5": 1786858704.599998,
