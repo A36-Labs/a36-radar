@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790379523.026365,
+  "last_post_at": 1790388238.6350396,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Fintech & Payments",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
-    "AI & Agents",
-    "Web3 & Digital Assets"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "FinTech Global",
     "TechCrunch AI",
     "TechCrunch",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Межа. Новини України.",
     "Bloomberg.com",
     "Indian Startup News",
-    "israeldefense.co.il",
-    "TradingView"
+    "israeldefense.co.il"
   ],
   "recent_titles": [
+    "Pair of $400m rounds drive this week’s FinTech funding",
     "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
     "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
@@ -160,8 +161,7 @@
     "Capital B Buys 376 Bitcoin for $29.4M as Treasury Grows to 3,521 BTC",
     "Anthropic Seeking $15 Billion in Debt Before Its IPO: Is That a Warning Sign or a Bullish Signal for AI Infrastructure Stocks?",
     "Robots protest in Poland over AI regulation concerns",
-    "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-    "LG Electronics-owned Bear Robotics eyes up to $300 mn pre-IPO funding"
+    "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -437,6 +437,7 @@
     "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
     "8c29ae5683ae40876531f0279b37e97ef6330cdd62768770142c97eb1d85f7a5": 1789295008.0384543,
     "8c3e1d917e67cd10f5e75834402aefbf01f901d201cc4ca6f3610b6e9f363535": 1789815039.9417398,
+    "8c5da3e1ced1c5a4415088862918359166039f86f09eabec3efaaef4c2127ec1": 1790388238.6350396,
     "8cd3fded74c2ac5f0545105c34d2541199c516de7d63d4fde4732e254eac6d26": 1787592222.8208559,
     "8d29b6b0f0f4ac967b099b7c3b119be8d0ebc5db20c38950dd6fe4cbe0e6ac27": 1787536443.3553667,
     "8d49b1656560628edf1ab458ad683c42a382e2124211ad53d1f9dc97f1552619": 1787051495.6682765,
@@ -633,7 +634,6 @@
     "f8e154c54f7f1eaf8647e9161d1d2c9cb30603d67066807d7513fb02437b2175": 1789854168.2326117,
     "f8f2dcf6e5410981393ce5ab48642d54a1275cb93d5333344d08a7b6c93435bb": 1788534019.089479,
     "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
-    "fa445f22e0e0da6ffa73475ca1a3fb6b8a0870709c98d622f6cd11798b5d9b56": 1786492996.5886555,
     "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
     "fbd2f0de87fc5a3dbf045f667fdb57f9edcfa8359b822cf5cc8051c599bb2287": 1786681865.4446685,
