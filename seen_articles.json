@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790441023.476095,
+  "last_post_at": 1790450903.850589,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Open Source & DevTools",
     "Frontier Tech",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "Open Source & DevTools",
-    "VC & Accelerators",
-    "Startups & Funding"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "CyberSecurityNews",
     "AI Insider",
     "Forbes",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Bisinfotech",
     "AD HOC NEWS",
-    "Yahoo Finance",
-    "Межа. Новини України."
+    "Yahoo Finance"
   ],
   "recent_titles": [
+    "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
     "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture",
     "Corgi Is Now Worth $5 Billion Thanks To Four Funding Rounds Five Months",
     "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
@@ -160,8 +161,7 @@
     "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
     "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
     "Anthropic cancels $6B acquisition of AI startup Decart after due diligence.",
-    "French AI company Mistral hits $24 billion valuation in funding round",
-    "Capital B Buys 376 Bitcoin for $29.4M as Treasury Grows to 3,521 BTC"
+    "French AI company Mistral hits $24 billion valuation in funding round"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -213,7 +213,6 @@
     "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
     "11d6a56f7d848916988a60a62cb2e5809094a8b1c8eaf5bbec19e5de3a52444b": 1787323720.5588133,
-    "12457161cfcbd4ceafa02731a5fed472fe7655b157fea38529bd25f2d5f19e74": 1786560091.9236777,
     "129f2d0e9fa4b5506db7c231b022ea874dfff347e129848bb69bbd59a0144e94": 1787514067.395525,
     "1392b1f225005e713af4595fd62e9577880a84969cbd2a4c764302d17da4f128": 1787602411.3820255,
     "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
@@ -280,7 +279,6 @@
     "38ab1a046638787cb0d72c6a80ac9a33a60cad027db5428ab59f8f144f2d1686": 1787382326.0040903,
     "38dd6134b89798a02b83c76b64702405b43c93656749d728068f8cf02f15122d": 1786802804.2871442,
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
-    "39da435117ef9dd3d59947f47e5cc20c0410572f2298ad17dd82e09e6db574ef": 1786556758.451714,
     "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
     "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3b9bfe05677a07434d4321c1ebcbde929ba2c796da74ac4c7959bc3957cd75cb": 1786955022.8050838,
@@ -418,6 +416,7 @@
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
     "826bd8fe61193d548638bb0b30501c6ec8d3395f9d25852e44e66773d86c99eb": 1786658823.285808,
     "836d4ac4554f452abde519096befe5194252ae2215a800fd52fca03aa29c11b5": 1787305749.333969,
+    "8416205444159a9fc6b9e60dcca0dea1c118ae1e3f5334908ecaa73bf748e08d": 1790450903.850589,
     "851aeff70d8510d5fd93d4b02e46d502508e6d21929426ec728e4835205277ff": 1787421238.1834831,
     "85f6c6dabc44f8c7f55fc3f859a90321bc4796674462ba587f2f93d63d511e79": 1787198598.0647845,
     "8619d792309d6a15c0100282da83b66d8187a304ee9ca8a0600d9036f1d88c09": 1787771835.3670282,
