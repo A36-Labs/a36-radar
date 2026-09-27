@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790539516.5556958,
+  "last_post_at": 1790549992.3663523,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "VC & Accelerators",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Capital Brief",
     "instagram.com",
     "BleepingComputer",
     "Substack",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "verdict.co.uk",
     "TechCrunch",
-    "CBS 19 News",
-    "TradingView"
+    "CBS 19 News"
   ],
   "recent_titles": [
+    "Short-sellers circle as Firmus gears up for $7b IPO",
     "Between September 21 and September 26, 2026, as many as 19 Indian startups from diverse sectors raised over $397 million in funding from investors. These sectors include EV, Foodtech, Cleantech, Healthtech, Defencetech, Footwear, Fintech, AI, Cleantec",
     "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
     "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News",
@@ -160,8 +161,7 @@
     "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
     "Tether and Fasanara Capital Launch Stablecoin-Based Private Credit Fund, Targeting Up to $3 Billion",
     "Anthropic Targets $2 Trillion Valuation as Wall Street Faces Largest AI IPO Test Yet",
-    "Google warns of new Chrome zero-day bug exploited in attacks",
-    "Samsung Electronics Signs Strategic Partnership with French Mistral AI to Co-Develop 'Semiconductor-Specialized AI' Models"
+    "Google warns of new Chrome zero-day bug exploited in attacks"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -406,7 +406,6 @@
     "806986fe44255f9bb0e89cff13853a276b9e5610f2fb6d9bfeb7ea28b22671e3": 1787952450.4289844,
     "80ec416e86835c7181bfb630cbac6d9997d8e77aeefdad223c9046b23988d932": 1790379523.026365,
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
-    "826bd8fe61193d548638bb0b30501c6ec8d3395f9d25852e44e66773d86c99eb": 1786658823.285808,
     "836d4ac4554f452abde519096befe5194252ae2215a800fd52fca03aa29c11b5": 1787305749.333969,
     "8416205444159a9fc6b9e60dcca0dea1c118ae1e3f5334908ecaa73bf748e08d": 1790450903.850589,
     "851aeff70d8510d5fd93d4b02e46d502508e6d21929426ec728e4835205277ff": 1787421238.1834831,
@@ -447,6 +446,7 @@
     "9d00c676f3b2765f5bbb1b7afd9bfe9b931713c18b9c7f2a1ecd3eb9b0996ca8": 1786829489.0012884,
     "9d04025c5c6d13fcc33b4af3e46f0e835ae0bf1d38111b122c95421651761b21": 1787250229.1501458,
     "9d2da14227d076df6da44127055fa6c7cbafe26ce7a745abad54aa4905863d61": 1786902709.3646052,
+    "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
     "9e14e11ac2eb86078d37b76739611a3b07eaadcc5f0759ff2247127aa2fffc13": 1787118098.6730926,
     "9f0fdcb8ddc718d1082439c334847fdf1690b4f3f31f673f894692526db6d424": 1787377062.9392743,
     "a058f1dafacce4c52d87cdb5c577760cc26dc1364f6b7705a4811a7db49073ca": 1788824627.6750333,
@@ -474,7 +474,6 @@
     "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
     "aba0bbdf595da2b71bd93e48bfda6489fd08da46fbf0522f2fce2948f92d76f6": 1787742972.7388544,
-    "ac909fe660c7b1898a0a488c7c89fe7e9117a25525a3122fbfd2053834489656": 1786655326.0515604,
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
     "ae4d292a1ae8542d5de60c25f74ea99aeaa5f5edcf7c05b769d7570d2e1dee1e": 1786936565.0089798,
