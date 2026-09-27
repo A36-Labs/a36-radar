@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790510160.2882934,
+  "last_post_at": 1790528053.4651978,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "AI & Agents",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Policy & Regulation",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Substack",
     "Startup Fortune",
     "qz.com",
@@ -38,10 +39,10 @@
     "TechCrunch",
     "CBS 19 News",
     "TradingView",
-    "Benzinga",
-    "Cointelegraph"
+    "Benzinga"
   ],
   "recent_titles": [
+    "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
     "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News",
     "How OpenAI's AI Agents Chained Nine Zero-Days to Breach Hugging Face",
     "mRNA flu vaccine wins FDA approval, promising a faster shot",
@@ -160,8 +161,7 @@
     "Anthropic Targets $2 Trillion Valuation as Wall Street Faces Largest AI IPO Test Yet",
     "Google warns of new Chrome zero-day bug exploited in attacks",
     "Samsung Electronics Signs Strategic Partnership with French Mistral AI to Co-Develop 'Semiconductor-Specialized AI' Models",
-    "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
-    "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market"
+    "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -177,7 +177,6 @@
     "03a4d2cd5f850ddf0b07c8b70eeaa0ba343c3c77ede3ad6dc5548d3199feceec": 1789428741.4428759,
     "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
     "03f752b14de085b293cd75291f84e1fca175ed1343de4209625f930948cfaaa8": 1787320556.1591268,
-    "041601e0a6ea1c8612a3d53ed233fd7708b2753b8fb3c6d2a18ee92ac430e28d": 1786624153.8507273,
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "0555cbd48c8ec56232bed29e8cb4203d43c6bda9d6ed41b72758428fefa35d57": 1788730979.7348585,
     "05890f3e2e28c10add062e3ce4ece45c532b510b9e865f7fe6fd613ac97078e0": 1787046892.7620113,
@@ -209,7 +208,6 @@
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
     "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
     "10013420b961f6bd185815efafa745ef510fef52a6541538e44da284cfa35627": 1786906244.4331348,
-    "103d7ccf57636c2bcd400c98b81b6b3d6f00b01ee3a3c99233e362bc16c21ed2": 1786633890.6676998,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
     "11d6a56f7d848916988a60a62cb2e5809094a8b1c8eaf5bbec19e5de3a52444b": 1787323720.5588133,
     "129f2d0e9fa4b5506db7c231b022ea874dfff347e129848bb69bbd59a0144e94": 1787514067.395525,
@@ -503,6 +501,7 @@
     "b9f8bd3a9b272f51ea692bb80785849949928d2997374ba38931f9b5a572c6eb": 1788287087.1918485,
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
     "ba6de2e952bc1b2e93fe599011b19d487c149ba6ed20cd2a4a2b2117710e03ab": 1787293212.0510242,
+    "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
     "bacfe32ead5f1d1a15809467a967cc04d9842e81cad73e17286026f253ea642b": 1787107575.4123557,
     "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
     "bcf20f8c40dc729b11adfabaa33b00c1642b74be8dc6ff954b7e545963d71a61": 1787339056.4637625,
@@ -531,7 +530,6 @@
     "c85a9a2a090be3d8efe0c21ae3fe816d5c541e4c08ac31afbe798911b31ce590": 1786867918.4470525,
     "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
     "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
-    "ca5b533fea8143ad388873d72221b4e2b9fa1d822d64e6012edcac0efc05e3c5": 1786637639.1537044,
     "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
     "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
     "cbda1f3b5ced491e787aca0d93f090f4b48a95e5df19f9e72fc3b59457b43794": 1787587182.7922015,
@@ -550,7 +548,6 @@
     "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
-    "d36707bea030d925fd884db0714250a28de0452ffb9cc3ecdcd86bb71f53d2b8": 1786629900.2007694,
     "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
     "d46617b1333b284083912362f68505b89cd7f2823bd4303bc97ab102464f94ba": 1786952191.3298202,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
