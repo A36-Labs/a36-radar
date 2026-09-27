@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790469752.3256779,
+  "last_post_at": 1790488344.3827167,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "AI & Agents",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Cybersecurity & Cloud",
-    "Frontier Tech"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Startup Fortune",
     "qz.com",
     "pulse2.com",
     "CyberSecurityNews",
@@ -38,10 +39,10 @@
     "TradingView",
     "Benzinga",
     "Cointelegraph",
-    "BleepingComputer",
-    "Bisinfotech"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "How OpenAI's AI Agents Chained Nine Zero-Days to Breach Hugging Face",
     "mRNA flu vaccine wins FDA approval, promising a faster shot",
     "Nscale Raises $3.36 Billion In Pre-IPO Convertible Financing Led By Third Point",
     "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
@@ -160,8 +161,7 @@
     "Samsung Electronics Signs Strategic Partnership with French Mistral AI to Co-Develop 'Semiconductor-Specialized AI' Models",
     "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
     "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-    "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor"
+    "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -178,7 +178,7 @@
     "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
     "03f752b14de085b293cd75291f84e1fca175ed1343de4209625f930948cfaaa8": 1787320556.1591268,
     "041601e0a6ea1c8612a3d53ed233fd7708b2753b8fb3c6d2a18ee92ac430e28d": 1786624153.8507273,
-    "04b014fb3d9e588a1e59e6ec6a89532c7d8b445472f8e171a6d6fbebe0a0ecbb": 1786596080.4139109,
+    "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "0555cbd48c8ec56232bed29e8cb4203d43c6bda9d6ed41b72758428fefa35d57": 1788730979.7348585,
     "05890f3e2e28c10add062e3ce4ece45c532b510b9e865f7fe6fd613ac97078e0": 1787046892.7620113,
     "05929916c8aefee2860db065c5fd953ea92238a0f0ff1880d377ce940535211b": 1788631932.237248,
@@ -224,7 +224,6 @@
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1b06dd1eb20b1b1f943098cbbc4d7fe94997bea95ac2addee3ae92e68dd52135": 1787425896.0880406,
-    "1b219d6a51189a7553552a96413594603681fb6c8fea3f04e5bbc7c4f8a42b95": 1786588865.3434782,
     "1b6589f47db45fdd4cfdbba43758d937ae461659bdafb029ebfa23c78374b204": 1788586696.505149,
     "1c8d6961ef0a8fad7a91a5ef824a874eb245f00ff61ddcb8143255a46e0d4566": 1786750944.1399589,
     "1cf0a0d0b5bb4a415fdd0b26383793f20410aa8b37185b43bf7ff1d66addd1f9": 1786963553.6819963,
