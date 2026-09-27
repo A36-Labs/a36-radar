@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790460640.5314872,
+  "last_post_at": 1790469752.3256779,
   "last_urgent_at": 1790369054.3457315,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
-    "Frontier Tech",
-    "Open Source & DevTools"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "qz.com",
     "pulse2.com",
     "CyberSecurityNews",
     "AI Insider",
@@ -38,10 +39,10 @@
     "Benzinga",
     "Cointelegraph",
     "BleepingComputer",
-    "Bisinfotech",
-    "AD HOC NEWS"
+    "Bisinfotech"
   ],
   "recent_titles": [
+    "mRNA flu vaccine wins FDA approval, promising a faster shot",
     "Nscale Raises $3.36 Billion In Pre-IPO Convertible Financing Led By Third Point",
     "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
     "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture",
@@ -160,8 +161,7 @@
     "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
     "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
     "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-    "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-    "Anthropic cancels $6B acquisition of AI startup Decart after due diligence."
+    "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -495,7 +495,6 @@
     "b1b1c3496b6d56d7f75d567eaa0eb055cc8c6469867a5112a01241b798712928": 1787256948.355934,
     "b2d72ad93e326d0bc6b35c6e2019d6da62ebe40b1dcca2c0108e481f2360427b": 1787317627.6383107,
     "b48fffe3d28312b09f276338dfd2d97547e9bc3a48b1ae05dd5831451c8dcea2": 1787652994.1511328,
-    "b5600f5fdcf8d09fb04cc31c8874e2925db7100db408e5e45ed3047257bf8bcc": 1786578827.714459,
     "b57720012f4814984a39e6614e2adbcc69dd8be073258e443de3efc3f672d84f": 1787782814.1050217,
     "b6926407dce983c3237e90ac8d0ce7699cb5c14da0fca12277cbc7b6094c7749": 1787225827.0607793,
     "b736c8c713573b3f2127339904a2e569bb298eef79c0880ef1ca0588e334a9f3": 1786873651.9186046,
@@ -503,6 +502,7 @@
     "b9b040195df075f8a5d67695bef12562133ca7d5389d26fbddb54adae91c8755": 1787915790.70858,
     "b9e6438284300d5e3e27e36192c5ffb97584a7982d7bd1587378f3f8ac06b427": 1787237468.4885237,
     "b9f8bd3a9b272f51ea692bb80785849949928d2997374ba38931f9b5a572c6eb": 1788287087.1918485,
+    "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
     "ba6de2e952bc1b2e93fe599011b19d487c149ba6ed20cd2a4a2b2117710e03ab": 1787293212.0510242,
     "bacfe32ead5f1d1a15809467a967cc04d9842e81cad73e17286026f253ea642b": 1787107575.4123557,
     "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
@@ -611,7 +611,6 @@
     "f3fb51b339a4f039947767921cd2e199c2438d4ad77636c2721ef67a5b288057": 1786791365.7419612,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
     "f57b115cea81fd69573e553936548cd14b065438cbf215032e78f88863e237ce": 1786979492.9467695,
-    "f5ea8f97b2d95e2b2adb3165f441a6c580f6a43129a8901ae0e201519d110f88": 1786575301.8381763,
     "f62e0a29a8a1a1b74c61ac5b75717b6756cb046b81696a7c5be42f6f6ea2b457": 1787483278.7103639,
     "f6a52acfe2827e41aff5f76f8b30b26c9fd1dca48115e9908b0607f539f99d72": 1787061674.5283573,
     "f6a83fc9a583af5016fa4b5aaca827bc1c1f0a588c44e8a93e85f045ad184c1b": 1788623985.0688732,
