@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790710236.1695037,
+  "last_post_at": 1790723407.2034397,
   "last_urgent_at": 1790710236.1695037,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "Crunchbase News",
     "Reuters",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "qz.com",
     "pulse2.com",
     "CyberSecurityNews",
-    "AI Insider",
-    "Forbes"
+    "AI Insider"
   ],
   "recent_titles": [
+    "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
     "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
     "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
     "Apple patches CoreGraphics zero-day flaw exploited in attacks",
@@ -160,8 +161,7 @@
     "Fintech Agrees to Acquire National Bank Partner for $590 Million",
     "Crypto venture funding hits $21B in 2026 despite Bitcoin's 50% drop, signaling industry maturity.",
     "Inside Ecolab’s $4.75 Billion CoolIT Acquisition",
-    "IBM and NASA release an open-source lunar foundation model",
-    "Defense tech Mach Industries doubles valuation to $3.7B in 3 months"
+    "IBM and NASA release an open-source lunar foundation model"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -426,7 +426,6 @@
     "9a000c24d257ba5a10842f1d6627c49fe53dd7b03a8d167782c5d1cd85da837b": 1787231242.2813187,
     "9a0ac7c4486825ee89cb7d7d8bb536f02096d2996132b23c4e823877cd8ec114": 1787210750.8808126,
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
-    "9d00c676f3b2765f5bbb1b7afd9bfe9b931713c18b9c7f2a1ecd3eb9b0996ca8": 1786829489.0012884,
     "9d04025c5c6d13fcc33b4af3e46f0e835ae0bf1d38111b122c95421651761b21": 1787250229.1501458,
     "9d2da14227d076df6da44127055fa6c7cbafe26ce7a745abad54aa4905863d61": 1786902709.3646052,
     "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
@@ -490,7 +489,6 @@
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
     "bfb6ab15d357553227946325cd9c3310021739ab4e65a4f237d62395389cc68b": 1787462253.8007793,
-    "c00e727356de44bd7a30cb40f06d4c71fdaac327cf390ba792a9f84ba3e2dbcc": 1786833747.9665344,
     "c08c67be0b47ed63ef69766cfba17fddd02f6ac84f0b2de1f7652971d75c0ba1": 1787577958.407109,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
@@ -577,11 +575,11 @@
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
     "f57b115cea81fd69573e553936548cd14b065438cbf215032e78f88863e237ce": 1786979492.9467695,
+    "f5c293af621de0cbf03df68110f958385d8a9a2cea3f0cdaca92edc6edbc11a3": 1790723407.2034397,
     "f62e0a29a8a1a1b74c61ac5b75717b6756cb046b81696a7c5be42f6f6ea2b457": 1787483278.7103639,
     "f6a52acfe2827e41aff5f76f8b30b26c9fd1dca48115e9908b0607f539f99d72": 1787061674.5283573,
     "f6a83fc9a583af5016fa4b5aaca827bc1c1f0a588c44e8a93e85f045ad184c1b": 1788623985.0688732,
     "f73baa1cb8ab1a79c519f1dc863a3000230f11fd26f8eabae98b508e649bd84f": 1788188548.1795115,
-    "f79c0da3ff22536e088a5a5df4537c876ab52779b47ee8b7dbf45834cadd0e4f": 1786826091.8259943,
     "f8c515a196a15e09576cdda44f12626915a84c553cbc0869737a76cb4ddcbf5d": 1787518583.8953943,
     "f8e154c54f7f1eaf8647e9161d1d2c9cb30603d67066807d7513fb02437b2175": 1789854168.2326117,
     "f8f2dcf6e5410981393ce5ab48642d54a1275cb93d5333344d08a7b6c93435bb": 1788534019.089479,
