@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790632364.8270416,
+  "last_post_at": 1790646636.5100975,
   "last_urgent_at": 1790632364.8270416,
   "recent_categories": [
+    "Frontier Tech",
     "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Fintech & Payments",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "TradingView",
     "TechCrunch AI",
     "SiliconANGLE",
     "KTPL Blog",
@@ -38,10 +39,10 @@
     "Forbes",
     "Cointelegraph",
     "FinTech Global",
-    "TechCrunch AI",
-    "TechCrunch"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "AIxCrypto Holdings (NASDAQ: AIXC soon to be traded under FFR), Signs Term Sheet with Faraday Future to Acquire its Robotics Business at an Estimated $200 Million Valuation, Aiming to be the First Nasdaq-Listed Pure-Play Robotics Ecosystem Company",
     "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
     "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation",
     "Dollar Shave Club Exit Strategy: $1B Acquisition",
@@ -160,8 +161,7 @@
     "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
     "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
     "Newsom Signs AI Industry-Approved AI Regulation Bills Into Law in California",
-    "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "Harvey hits $15.5b, Fox-Roku deal under scrutiny, and Archimed's new fund"
+    "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -223,7 +223,6 @@
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1b06dd1eb20b1b1f943098cbbc4d7fe94997bea95ac2addee3ae92e68dd52135": 1787425896.0880406,
     "1b6589f47db45fdd4cfdbba43758d937ae461659bdafb029ebfa23c78374b204": 1788586696.505149,
-    "1c8d6961ef0a8fad7a91a5ef824a874eb245f00ff61ddcb8143255a46e0d4566": 1786750944.1399589,
     "1cf0a0d0b5bb4a415fdd0b26383793f20410aa8b37185b43bf7ff1d66addd1f9": 1786963553.6819963,
     "1da6caf53d008daedf15bcde342830afcc52d01039e0d954f7967220b2771648": 1787043016.5686479,
     "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
@@ -346,7 +345,6 @@
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "6285c876d1e2e60b75ce4e3584fc9af70bc225d7399495ecfc12310348b9be07": 1787499696.1003344,
     "6366f5a6f74842395ac0cf6032e94e9380aee9ecba943ca6230d26900cd90ebd": 1787547966.4664097,
-    "64fb94076147682447ff1bb5e90997b9c3ba6c30afcef637020f2d0ac3761fcf": 1786753452.5252879,
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
     "6513a3dea0d1b38a1ac12cdc13b815840b7937ab00ea748ab0ebc600f3d9f335": 1786767412.0327346,
     "6599a9d4aff1e325bdd4b297fb1813051ceafd8349ef7f00f50e23d495057445": 1786985428.7088354,
@@ -433,6 +431,7 @@
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
     "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
+    "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
     "9a000c24d257ba5a10842f1d6627c49fe53dd7b03a8d167782c5d1cd85da837b": 1787231242.2813187,
     "9a0ac7c4486825ee89cb7d7d8bb536f02096d2996132b23c4e823877cd8ec114": 1787210750.8808126,
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
@@ -583,7 +582,6 @@
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
-    "f135ee8c580325bb6cb561819ea0a38754414d6f9464f99ca85a68f2631e5c70": 1786747072.2805998,
     "f17c6b6c2f11aa871cfefe1782a43157e66b8715a9d2af67e007e7cc212eb29c": 1787454736.5336194,
     "f1adcdbb2c76c6171ca8872d5203aea0c491c5673b0b3cbbde27ddb64af524a2": 1786816373.9527972,
     "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
