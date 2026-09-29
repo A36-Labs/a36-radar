@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790691661.1928234,
-  "last_urgent_at": 1790632364.8270416,
+  "last_post_at": 1790710236.1695037,
+  "last_urgent_at": 1790710236.1695037,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Frontier Tech",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "Reuters",
     "BleepingComputer",
     "TradingView",
@@ -38,10 +39,10 @@
     "pulse2.com",
     "CyberSecurityNews",
     "AI Insider",
-    "Forbes",
-    "Cointelegraph"
+    "Forbes"
   ],
   "recent_titles": [
+    "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
     "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
     "Apple patches CoreGraphics zero-day flaw exploited in attacks",
     "AIxCrypto Holdings (NASDAQ: AIXC soon to be traded under FFR), Signs Term Sheet with Faraday Future to Acquire its Robotics Business at an Estimated $200 Million Valuation, Aiming to be the First Nasdaq-Listed Pure-Play Robotics Ecosystem Company",
@@ -160,8 +161,7 @@
     "Crypto venture funding hits $21B in 2026 despite Bitcoin's 50% drop, signaling industry maturity.",
     "Inside Ecolab’s $4.75 Billion CoolIT Acquisition",
     "IBM and NASA release an open-source lunar foundation model",
-    "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-    "CISA: WatchGuard RCE flaw now exploited in ransomware attacks"
+    "Defense tech Mach Industries doubles valuation to $3.7B in 3 months"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -231,6 +231,7 @@
     "22983ac0f2ba2ca3f9f4bffc5c2342c493a2abae4b233f48709a54572db9f0e3": 1787085342.907133,
     "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
+    "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "25c8a2e84bf0eca74338536bf6f3d1fb8d992a313533f368c16059f6ce9f0603": 1787168692.4900212,
     "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
@@ -263,8 +264,6 @@
     "359cb0e6a7cf54f7a96756eb840ab04865f706f63e6d91f4f4eea9176938978b": 1787479717.8024204,
     "36c142a3fbb84dedc24bfc4e08938e93a9127f4e236340edf63e6defe756bc62": 1787623562.2418582,
     "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
-    "386a3fc56e8402ce14b7059117e71ed5c0c8be4d9b413cbc45edf1d3cee208a2": 1786811792.8338273,
-    "388bacc45504dd8e1758d1b744c45d0ecf43bcf9dc9b0c6c5ad7d312156f747d": 1786807901.2294278,
     "38ab1a046638787cb0d72c6a80ac9a33a60cad027db5428ab59f8f144f2d1686": 1787382326.0040903,
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
     "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
@@ -346,7 +345,6 @@
     "6766d10e6117222b1a470cba1cebb5c892edd7eb563da51dba4b020b509a0eca": 1787371764.2878537,
     "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
-    "683d0fe27b0f7154c6d82a53c87884c8be8f49cf1f09f57b7f70563638c85316": 1786821049.4947705,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "68c502297e8380dee9c0161fb5508bcd22632a97fa51c211c91ebe6ba7a93c1d": 1787627453.081897,
     "68df9e41a4d8089da9c736576605137c267ec6c5d95dcaeec97712ed4cc36891": 1788391925.1213722,
@@ -575,7 +573,6 @@
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
     "f17c6b6c2f11aa871cfefe1782a43157e66b8715a9d2af67e007e7cc212eb29c": 1787454736.5336194,
-    "f1adcdbb2c76c6171ca8872d5203aea0c491c5673b0b3cbbde27ddb64af524a2": 1786816373.9527972,
     "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
