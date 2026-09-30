@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790799402.2137806,
+  "last_post_at": 1790812678.071006,
   "last_urgent_at": 1790799402.2137806,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Web3 & Digital Assets",
-    "AI & Agents"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Food & Beverage Magazine",
     "TechCrunch Startups",
     "BleepingComputer",
     "Cryptonews.net",
@@ -38,10 +39,10 @@
     "Capital Brief",
     "instagram.com",
     "BleepingComputer",
-    "Substack",
-    "Startup Fortune"
+    "Substack"
   ],
   "recent_titles": [
+    "Jam Packd Wins Blueberry Boost Accelerator, Aims at the $13B Jam Category",
     "AI voice startup ElevenLabs doubles valuation to $22B",
     "Cisco warns of new SD-WAN zero-day exploited in attacks",
     "HSBC prepares RedCoin stablecoin launch with payments in focus",
@@ -160,8 +161,7 @@
     "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
     "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "Rep. Lori Trahan on AI regulation: It's past time for Congress to get off the sidelines and act",
-    "AI inference startup Positron raises $875m at $5bn valuation",
-    "Silvaco announces partnership with Dassault Systèmes to advance first-time-right semiconductor manufacturing"
+    "AI inference startup Positron raises $875m at $5bn valuation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -255,7 +255,6 @@
     "330f2d040219e1e6c4dcc22d733f076d3a4a074f0507aba11c43456c19dd5134": 1787597685.6908643,
     "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
     "3461fd6e09582df2fe55da57e94c4789ed04e2bc8b96195da74a9525f8765c66": 1787156363.9804044,
-    "34a524a5f373d24181668f6cbdc839f8451524e9f2b834c39ebf7df6450bb774": 1786923093.9291263,
     "34ec19f31e10649b9d56e7be1a5e8decd700a3a499fb21b8e4cfef498571ee0f": 1787219184.6526337,
     "3541858a058cca11f964728d33dbeb512202784f6517500de66881de367678e1": 1789921048.8828669,
     "359cb0e6a7cf54f7a96756eb840ab04865f706f63e6d91f4f4eea9176938978b": 1787479717.8024204,
@@ -279,7 +278,6 @@
     "4213301c3dd74b64a4694164149231f1ef361c7ac4f2672cefa7e0ff1da6f6bf": 1787566821.8918493,
     "4461b39ad8af5ffd1754a5568a80f0ce0de97296b53fb1b942f41504367c0757": 1787246126.8095887,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
-    "4566294ccb40c3c398b87a9aa99f74252f928f0870f9668fa58e01ca0e0f8821": 1786915852.698227,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "466e50702af82a8c63600ad67eac0b4298cc1e9f61a7bb7aa85c4caa5862167a": 1787475200.0388858,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
@@ -307,6 +305,7 @@
     "52bb09a4f6ae3af58b7e4b5e8523ea9bc1d0434abf469e9ae18dbd5df528eeb1": 1790183689.0464597,
     "541d51116d515c5e6fbac4c70011970bed46caa9ce367915f6d90b35f1ff0847": 1787366557.2543042,
     "54dfcafccab5c62c586496f3b959a4ebb0194b54e2aebf3add674cf3302fd754": 1789476883.0519447,
+    "54e300a894d57b600db50bbf1472a143894f1b8abf0013f260fd9b005459495c": 1790812678.071006,
     "55069b81601ce81d7dd75080500b8f265887c37ce04958da0d3863bdd53c657e": 1789188267.6659057,
     "559a4c4dd819d3f17379e75d74b629a0868a08487e196ae1bc45e5ce27e0c0f9": 1787313560.999591,
     "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
@@ -451,7 +450,6 @@
     "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
     "af1e53a43fc96adf815e4881706dbf4b647d101d86573736a8abeb592275a53a": 1787348092.8972309,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
-    "af88f135364144b24fddf685faa3b80fb054659cfd9fb4f5b972d75762ce0058": 1786918313.7391076,
     "afdc94668d1bea937c11f9bbbce47efe2d1cf3b4a4395c4c23638245350edc8c": 1787434304.0323257,
     "b0326add6b3366e2ced18f7260929f3ef6b0f4129e6bf6cbe636331508b33fc2": 1787569154.8820686,
     "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
