@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790723407.2034397,
+  "last_post_at": 1790734302.7479858,
   "last_urgent_at": 1790710236.1695037,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Frontier Tech"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "TechCrunch Startups",
     "Crunchbase News",
     "Reuters",
@@ -38,10 +39,10 @@
     "Startup Fortune",
     "qz.com",
     "pulse2.com",
-    "CyberSecurityNews",
-    "AI Insider"
+    "CyberSecurityNews"
   ],
   "recent_titles": [
+    "Watch AI Safety Debate Deepens as Trump Backs Self-Regulation",
     "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
     "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
     "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
@@ -160,8 +161,7 @@
     "Silvaco announces partnership with Dassault Systèmes to advance first-time-right semiconductor manufacturing",
     "Fintech Agrees to Acquire National Bank Partner for $590 Million",
     "Crypto venture funding hits $21B in 2026 despite Bitcoin's 50% drop, signaling industry maturity.",
-    "Inside Ecolab’s $4.75 Billion CoolIT Acquisition",
-    "IBM and NASA release an open-source lunar foundation model"
+    "Inside Ecolab’s $4.75 Billion CoolIT Acquisition"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -238,7 +238,6 @@
     "2713abeb4ddcce6c46331c98ff7cab8df5b5db3c9db08ecda7315db3a9b83248": 1788297458.911165,
     "272193e9980a1f7a58df709d0317c1d5f037e6b54c9f8bf2fc982557e4cb04aa": 1788646478.400819,
     "27a725fb7a204246324449fd6522faac9bce4068f72f38fbf20eae7c0ad4130c": 1787001132.3535445,
-    "27c30ab66b34c507a5aea7d6c3fcde26a63c8f78f5e5764cb5c864d47be98ce9": 1786841560.7759066,
     "282ffb304b8120f0d715fa4723c5daa8542aaaceb612d34713e51d70e8ea32f5": 1788095724.2149377,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
     "287a6025f27bbd2beade61f91db21689458afb6d3db5964df5c955400128672a": 1787729021.8901145,
@@ -268,6 +267,7 @@
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
     "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
     "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
+    "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
     "3b9bfe05677a07434d4321c1ebcbde929ba2c796da74ac4c7959bc3957cd75cb": 1786955022.8050838,
     "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
     "3c056ed15eb012b0e8e3c28514143437bbc0c6cde951fca8538215bf632ed3d2": 1787630683.0245097,
@@ -335,7 +335,6 @@
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
     "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
-    "613e73fca7906e6500fdf0f50124a88a3ab4c692ddc7a00c9f80ce6dc91592af": 1786837930.405983,
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "6285c876d1e2e60b75ce4e3584fc9af70bc225d7399495ecfc12310348b9be07": 1787499696.1003344,
     "6366f5a6f74842395ac0cf6032e94e9380aee9ecba943ca6230d26900cd90ebd": 1787547966.4664097,
