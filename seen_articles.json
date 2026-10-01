@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790812678.071006,
+  "last_post_at": 1790833336.3062165,
   "last_urgent_at": 1790799402.2137806,
   "recent_categories": [
+    "Fintech & Payments",
     "VC & Accelerators",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "Web3 & Digital Assets"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "finance.yahoo.com",
     "Food & Beverage Magazine",
     "TechCrunch Startups",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "ababnews.com",
     "Capital Brief",
     "instagram.com",
-    "BleepingComputer",
-    "Substack"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "AsiaFIN's Partner D'Voyager and Faysal Bank Sign Strategic Partnership to Accelerate Digital Banking in Pakistan",
     "Jam Packd Wins Blueberry Boost Accelerator, Aims at the $13B Jam Category",
     "AI voice startup ElevenLabs doubles valuation to $22B",
     "Cisco warns of new SD-WAN zero-day exploited in attacks",
@@ -160,8 +161,7 @@
     "Florida confirms DMV database breached via stolen police account",
     "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
     "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "Rep. Lori Trahan on AI regulation: It's past time for Congress to get off the sidelines and act",
-    "AI inference startup Positron raises $875m at $5bn valuation"
+    "Rep. Lori Trahan on AI regulation: It's past time for Congress to get off the sidelines and act"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -169,7 +169,6 @@
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
     "0184154c16fc8fff7b99fe0dc03f59cbb8f25ef594ed7959d292f11d2e19e254": 1787973694.947714,
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
-    "021bbcf10e908991109ce2c8d838beb54e6eab6ad506b01eb0b79626cab65f31": 1786942959.115503,
     "023e421c8ebd7135874440f5cdbf8da090f24255988730f3d9b3edb8ff7d5ae2": 1787055372.781394,
     "028dbd37fe27aaf0f4f9089102dc79bcfb837a5f1f8495c1c2b1cb486f347d8c": 1787691055.905807,
     "02f20307b1809dd43a962787ca5d61fc6de2f3657ed6a5d75344becdc8785b41": 1787182914.1027505,
@@ -195,7 +194,6 @@
     "096f3703717dd029a0f5610cfa5503f4adb12114670274b0ff989087c984194b": 1788361744.3495393,
     "098c258b9d4fa8f2a522698b12905c269cb17c5e2d0456b27b114710e4a8dd07": 1789685671.0554128,
     "098fc3550c67e9a67d8b25f4451362ca99df976d962b944bfc280c95e88c75ae": 1788600527.940505,
-    "09b14b41ce96d7df35edc69d40847f1d86f6f88dd209a283451c8413afcb24f8": 1786927824.37008,
     "0a62a1d480ab92a967acd1d75084a4322aedb72afc56893e6421b1ee4fbf9d6d": 1788111405.2985842,
     "0afa7dfd979acd18725859e487cd3d6c50e1377acab33ba0beb68a5d6c4093d6": 1788917842.0007885,
     "0b5351dfcdabf365a5405deac66cf99c8a90626847a30503d5286669bafb51ab": 1790781831.2545953,
@@ -366,7 +364,6 @@
     "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
     "786d3ef2cb85c72ab194fa1de4822166cf01ff6e1a8f36fda58d4c7dbf0613d7": 1786967129.044869,
     "78a04de5cff9a38fe21549d1e376c4ae32191c6c3a743ba8a54cac1a7afc3ea0": 1787663904.3709397,
-    "797f849709929fc86bd46017f81f67d50959e16c7bac3942813f2643bce29685": 1786932720.301131,
     "7b5edc44871d0fab5941f2985955538d8613230f14d522b9ab4dc9a1c441da1a": 1787553321.6685357,
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
     "7c221124509ca3a464dc26b23ad32031b0f53956d5e8d7c575619ea64245ff01": 1787145343.2354076,
@@ -412,6 +409,7 @@
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
     "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
+    "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
     "9a000c24d257ba5a10842f1d6627c49fe53dd7b03a8d167782c5d1cd85da837b": 1787231242.2813187,
     "9a0ac7c4486825ee89cb7d7d8bb536f02096d2996132b23c4e823877cd8ec114": 1787210750.8808126,
@@ -446,7 +444,6 @@
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
-    "ae4d292a1ae8542d5de60c25f74ea99aeaa5f5edcf7c05b769d7570d2e1dee1e": 1786936565.0089798,
     "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
     "af1e53a43fc96adf815e4881706dbf4b647d101d86573736a8abeb592275a53a": 1787348092.8972309,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
