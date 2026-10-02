@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790892064.9304628,
+  "last_post_at": 1790905035.689581,
   "last_urgent_at": 1790892064.9304628,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "AI & Agents",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "VC & Accelerators"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Ars Technica",
     "TechCrunch Startups",
     "PR Newswire",
     "Reuters",
@@ -38,10 +39,10 @@
     "TradingView",
     "TechCrunch AI",
     "SiliconANGLE",
-    "KTPL Blog",
-    "ababnews.com"
+    "KTPL Blog"
   ],
   "recent_titles": [
+    "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
     "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
     "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety",
     "AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round",
@@ -160,8 +161,7 @@
     "Nvidia Could Make Anthropic IPO Bigger than SpaceX With $10 Billion",
     "How Stablecoin Card Partnership At Marqeta (MQ) Has Changed Its Investment Story",
     "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-    "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports",
-    "Florida confirms DMV database breached via stolen police account"
+    "AI startup Discovery Loop seeks around $50 billion valuation, Business Insider reports"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -352,7 +352,6 @@
     "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
-    "77925f88725106d32a433017e2fdd6fba614f374f12ece0a4377aa8cf03736ea": 1787010100.7123568,
     "77aa4e92ff93d66cca8448de9a98c97a89633304616f18946867639361b65270": 1787407563.0885918,
     "782c35b93b330bcd58f1544cb10abadf7bf9e14a44a5b9d9dd0d0bda0f944666": 1787133396.6373932,
     "78a04de5cff9a38fe21549d1e376c4ae32191c6c3a743ba8a54cac1a7afc3ea0": 1787663904.3709397,
@@ -374,7 +373,6 @@
     "85f6c6dabc44f8c7f55fc3f859a90321bc4796674462ba587f2f93d63d511e79": 1787198598.0647845,
     "8619d792309d6a15c0100282da83b66d8187a304ee9ca8a0600d9036f1d88c09": 1787771835.3670282,
     "888f0d8fe5974426110346eb87fd356e20e446e03f1f7dbaa8a538a583fe4900": 1787416592.3773596,
-    "88fd1c85c9ef69ed5039ee67e2dd612679d8903102808e683f58599c65b36439": 1787006707.833875,
     "893ba463c4614a3dc8f8e611f416c364824a5a7bf23cb75d1a5c8f5a39711ca3": 1787710302.3874457,
     "8987660ab62494e22ea28eb412d924a3a6f257100ae3e1defcf50bd3b079342b": 1788221279.4683597,
     "89c98d61c52714c1330cc9d036d0cb1b5cd605c3ee528547ad69cc96569937c0": 1789974459.0729573,
@@ -394,7 +392,6 @@
     "913d2408ff63ee55aaa6add2ce1abe16ef3e7b250d4939ccc8408558c0b544e4": 1789338180.563906,
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
-    "94d78b76edac7ecb79937aef8b59c84c273a409ee987f86c5dbcf8c3a024646b": 1787012584.1655338,
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
     "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
@@ -508,6 +505,7 @@
     "dbbc0074d69b0732a3277f14a0a543fb1ad1afd41a3208796b8f90cbe3a6d04d": 1789906693.5845923,
     "dbef8888d1528ed9231154e8f87154eb38a9d020450d28b6560c0ec5ba09f62c": 1788120086.473551,
     "dc2eeec1dc11400177fe8e03fb456d516d74ada24f90cc3a6eba96d2e651e111": 1788520248.533977,
+    "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
     "dd6b393eaedecd1ee96b239d763a158fe9bb3dace8d17d267eb4739d6c5656bb": 1789826524.5993502,
     "ddc4f44b537cf14b8448fad329b8e591356d901883987a694dfba79287c42b8b": 1790876656.755922,
     "de1b99a9a37142ccb51bd10268da93192d24c7c3be7a2dcf24dc3d7db2bab801": 1789382844.7358165,
