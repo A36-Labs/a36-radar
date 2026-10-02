@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790968525.3624153,
+  "last_post_at": 1790982258.8012402,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Frontier Tech"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Crunchbase News",
     "CyberSecurityNews",
     "The Globe and Mail",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "Crunchbase News",
     "Reuters",
-    "BleepingComputer",
-    "TradingView"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
     "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
     "OpenClaw Launches Free Open-source Enterprise Agent Platform for AI Agents",
     "SBI Holdings Finalizes Acquisition of Crypto Firm Bitbank",
@@ -160,8 +161,7 @@
     "OpenAI IPO won't happen this year, says Sam Altman",
     "The top movements reshaping iGaming: technology, media, and regulation",
     "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-    "Vecna Robotics Raises $31M in Funding to Expand Warehouse Automation",
-    "Nvidia Could Make Anthropic IPO Bigger than SpaceX With $10 Billion"
+    "Vecna Robotics Raises $31M in Funding to Expand Warehouse Automation"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -218,7 +218,6 @@
     "1efa96cec47991bbe689dec8d5accc2f0766425ba90dfe25da25f299e02542d7": 1787657874.3018477,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "1f80750a77986ed26510a863e3f6418ec287ccf74424757312d41f95cf58a6c1": 1787998608.321642,
-    "22983ac0f2ba2ca3f9f4bffc5c2342c493a2abae4b233f48709a54572db9f0e3": 1787085342.907133,
     "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
@@ -252,7 +251,6 @@
     "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
     "38ab1a046638787cb0d72c6a80ac9a33a60cad027db5428ab59f8f144f2d1686": 1787382326.0040903,
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
-    "39eaa15a7609978ada85992be22b08146e826e50c6dc07f1d0dd9f8d89e4290f": 1787088850.952803,
     "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
     "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
@@ -322,6 +320,7 @@
     "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
+    "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
     "68c502297e8380dee9c0161fb5508bcd22632a97fa51c211c91ebe6ba7a93c1d": 1787627453.081897,
     "68df9e41a4d8089da9c736576605137c267ec6c5d95dcaeec97712ed4cc36891": 1788391925.1213722,
     "6a24ef4438650f07bb5c8cb8015937d6e1747796cc26d7227b85898766533e9c": 1787288414.3659408,
@@ -329,7 +328,6 @@
     "6b5ca39ada2d5bc5d66822a4c3d142420c433d9c5054f22b51b70c00728fe284": 1787635317.7241771,
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
     "6c9dadafcc432488dcd19b3cf56eaa50958fc8e4ca7d759691f39ae98d1485df": 1787617452.8310134,
-    "6d03b537c2fc106ab941c24658d2c09056be88e5877f17817ee6ab4efd47cdf7": 1787092592.5980258,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6e2a6189fdbf65c638f131751654180931f2cc06a0fe0733b8f644ac8844f3fb": 1787660284.9362,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
