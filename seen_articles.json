@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790949975.6659448,
-  "last_urgent_at": 1790892064.9304628,
+  "last_post_at": 1790968525.3624153,
+  "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Frontier Tech",
-    "AI & Agents"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "CyberSecurityNews",
     "The Globe and Mail",
     "Ars Technica",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "Reuters",
     "BleepingComputer",
-    "TradingView",
-    "TechCrunch AI"
+    "TradingView"
   ],
   "recent_titles": [
+    "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
     "OpenClaw Launches Free Open-source Enterprise Agent Platform for AI Agents",
     "SBI Holdings Finalizes Acquisition of Crypto Firm Bitbank",
     "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
@@ -160,8 +161,7 @@
     "The top movements reshaping iGaming: technology, media, and regulation",
     "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
     "Vecna Robotics Raises $31M in Funding to Expand Warehouse Automation",
-    "Nvidia Could Make Anthropic IPO Bigger than SpaceX With $10 Billion",
-    "How Stablecoin Card Partnership At Marqeta (MQ) Has Changed Its Investment Story"
+    "Nvidia Could Make Anthropic IPO Bigger than SpaceX With $10 Billion"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -199,7 +199,6 @@
     "0ccdfd2e4cbb20214297574151d0c92cc5ed038a91d289b94716edd7cb83c65e": 1790559279.275614,
     "0d049354aa285fb1e8b9843acbd28de9bed920d62d6d3e289eef9b25e76dd501": 1787398247.1263301,
     "0d5157a7bb0874e46955c268df81da109aedb24076b6fcc3a02cb981b8af75c1": 1790212893.7010887,
-    "0dbdf7a37fd337c174695162f7bc0a021071f430603524b1632bada59366ad61": 1787064426.1464493,
     "0deb3b9bb62104f895013a778f6b614c14cde8f65f4623de13a64f6016b549e7": 1787747296.4464016,
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
     "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
@@ -383,7 +382,6 @@
     "913d2408ff63ee55aaa6add2ce1abe16ef3e7b250d4939ccc8408558c0b544e4": 1789338180.563906,
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
-    "9399bd4779b2b68fadc14078b213b59b5bc0e01fbd6b2695f3251285ba366620": 1787072060.4991927,
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
     "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
@@ -404,7 +402,6 @@
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
     "a26e2162b0329e452a6286321dcc02a45130c537dd2eb404bb2a1453e84a2ead": 1789228400.0895278,
-    "a2b977823f374cf24f0dc19df4f5c0f1658eccbfd726db9d66d9377935295df1": 1787079745.2236626,
     "a2ded51fc291c64f9f38a94e7370c47d9c5c58461872df7e5dcbfa151b483a1b": 1787648096.201888,
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
     "a34aa0dbb18939f5a299f26cb29877763d2f088c975ebd5cad41bd740a269b06": 1788990945.1269774,
@@ -468,7 +465,6 @@
     "c63fc640eabb5e1ef13dc74527989fa8cff132f3f899097d369ceb31428aa7ac": 1788347465.0073433,
     "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
     "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
-    "cb36e9af81e07c99c17db4b2cfb14a570cea32491f56a4fdd53c5c7502086ba4": 1787068288.929695,
     "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
     "cbda1f3b5ced491e787aca0d93f090f4b48a95e5df19f9e72fc3b59457b43794": 1787587182.7922015,
     "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
@@ -485,10 +481,10 @@
     "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
-    "d3c18e545e30ec5da47d56c6a7f669abc3f759b8879c1cd998c890d768835213": 1787074650.1594727,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
     "d6d82318b5d63d32a97abcd14e8a8c31d26cea9600d6b0e69e29395c1d7451a0": 1787137882.6504948,
     "d725da2a430219b08387ca7a5975c04092960a0ae4945a39adeca9eae64c66fb": 1787694502.947729,
+    "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
     "d7b84d271c132b43bc42e3b3e7445d4011a918a09ba37e2efddbc55decb12282": 1787260739.0530665,
     "d87be08854b9701c0b899516cbdcff1548ee391f286de0bac2f7dfdc444b3b54": 1788074578.1327183,
     "d8d9ebe62b2a17cfb48ce3ed4d02307d579c1ee4d63b3653c281689ba8974410": 1787430917.4551787,
