@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791058193.2141578,
+  "last_post_at": 1791068981.858395,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Fintech & Payments",
     "VC & Accelerators",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "Web3 & Digital Assets"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Techpoint Africa",
     "SaasRise",
     "The Hacker News",
     "Egypt Independent",
@@ -38,10 +39,10 @@
     "finance.yahoo.com",
     "Food & Beverage Magazine",
     "TechCrunch Startups",
-    "BleepingComputer",
-    "Cryptonews.net"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Standard Chartered Foundation Women in Tech Accelerator winners in Nigeria Announced",
     "Clay raises $115M in Series D funding round at $7.1B valuation",
     "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
     "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report",
@@ -160,8 +161,7 @@
     "Anthropic Is Reportedly Heading Toward a $2 Trillion Nasdaq IPO in October",
     "India's Semiconductor Sector Attracts $1.4 Billion in Equity Funding",
     "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-    "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-    "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion"
+    "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -273,7 +273,6 @@
     "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
     "4a1a5bda90e05eb8866f4f3e0fd4b9ca1e7ca04db5a6edf831c930b39810956f": 1788936370.1359289,
     "4ae88249fe6d7288712eb3d8f7e849cbe71bd6f3507ec9feb12a1b537b7c1982": 1787441465.6875098,
-    "4bee2e3e5104f140e9b00279892bc20c987b77314eecb2c02902d0fb92ae892d": 1787175936.8988905,
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
@@ -343,7 +342,6 @@
     "7b5edc44871d0fab5941f2985955538d8613230f14d522b9ab4dc9a1c441da1a": 1787553321.6685357,
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
     "7d64e45b4cd22533b1a96c8b4811573acfd55d43625975c8e92a820369199165": 1787875111.8864057,
-    "7d6e526bdd621448933573bd0a16a0db51a39b98d945c7d9c34d0ebc766f4a0b": 1787172559.8413188,
     "7eb50f9a589aa1a875e6f77cb53899cb505ad9d4cd29a594b1b92054e5eeb32c": 1789276782.6728384,
     "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
     "7f53ebaadd828baee0cd80bd41419c25cd8bf14b0171a67bd1196cd87dba1050": 1789146616.1236134,
@@ -468,6 +466,7 @@
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
+    "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
     "d725da2a430219b08387ca7a5975c04092960a0ae4945a39adeca9eae64c66fb": 1787694502.947729,
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
     "d7b84d271c132b43bc42e3b3e7445d4011a918a09ba37e2efddbc55decb12282": 1787260739.0530665,
@@ -500,7 +499,6 @@
     "e90743776d0c7c70aad91342f31f735a86ff05a6d9421a73ec2d4645100be2b7": 1788684678.974887,
     "e9613970bf3dc38756874ff4ae9f67d9ae87a206323c949973cef107723207d8": 1787471483.5800183,
     "e9765a30d5035b2faa3529dfd310115a0c5715923d2b1e466a1dce44f0a15f4d": 1789645946.910035,
-    "e9846842d0f376308a8975746d80a3989aa048a9ebe46ce409721d4913254f48": 1787179549.3674655,
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
     "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
     "ea5d3790ab74a03cafe493d90854e875a3a384633c9b0fe718739f73cfbd1048": 1789868622.4103997,
