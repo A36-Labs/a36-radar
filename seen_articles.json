@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1790982258.8012402,
+  "last_post_at": 1790992413.3035684,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "SiliconANGLE",
     "CoinDesk",
     "Crunchbase News",
     "CyberSecurityNews",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "TechCrunch Startups",
     "Crunchbase News",
-    "Reuters",
-    "BleepingComputer"
+    "Reuters"
   ],
   "recent_titles": [
+    "Robotics AI developer FieldAI reportedly raising $700M in funding",
     "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
     "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
     "OpenClaw Launches Free Open-source Enterprise Agent Platform for AI Agents",
@@ -160,8 +161,7 @@
     "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "OpenAI IPO won't happen this year, says Sam Altman",
     "The top movements reshaping iGaming: technology, media, and regulation",
-    "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-    "Vecna Robotics Raises $31M in Funding to Expand Warehouse Automation"
+    "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -242,6 +242,7 @@
     "3098e856648a318a4641c38f88f304e57d0dd46ccf01faa088d6a38354dbbfa9": 1788053799.6491952,
     "330b627c27d79a0087f85c9b69a1448808170ed7191b776319dd2fd50051b684": 1787680851.7576313,
     "330f2d040219e1e6c4dcc22d733f076d3a4a074f0507aba11c43456c19dd5134": 1787597685.6908643,
+    "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
     "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
     "3461fd6e09582df2fe55da57e94c4789ed04e2bc8b96195da74a9525f8765c66": 1787156363.9804044,
     "34ec19f31e10649b9d56e7be1a5e8decd700a3a499fb21b8e4cfef498571ee0f": 1787219184.6526337,
@@ -269,7 +270,6 @@
     "466e50702af82a8c63600ad67eac0b4298cc1e9f61a7bb7aa85c4caa5862167a": 1787475200.0388858,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "47e114ef3466c246bdd0180eaeabd17174195d0d0e1d96ce4573a7c9f57aaefb": 1787751472.9156222,
-    "4870f25061d32d4e40097932eac624c032f21a36f8ff2c6dbd7f75f6e8f5df98": 1787104148.7165568,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
     "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
@@ -451,7 +451,6 @@
     "c08c67be0b47ed63ef69766cfba17fddd02f6ac84f0b2de1f7652971d75c0ba1": 1787577958.407109,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c22d2f8caa625649a6f4434a4e433e89fc53d3032d554c2d56ab215ec092858d": 1787129446.1614606,
-    "c24c059e790a3cea41d51fa02fdacbd4d15b3204821bbb63faae248d69da3ee6": 1787095947.9210358,
     "c263332c36b42655cac4229b7b2161d82ada139d657b1b1149326ee68d762244": 1787521968.600367,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
     "c3ceed21b1b47dd5f5e06fade9cae563879e87a9d313577f51d40ec83990243a": 1787760232.7327974,
