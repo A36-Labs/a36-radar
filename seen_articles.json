@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791033516.1513002,
+  "last_post_at": 1791048385.919296,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Egypt Independent",
     "CryptoRank",
     "SiliconANGLE",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "BleepingComputer",
     "Cryptonews.net",
-    "Bloomberg.com",
-    "TechCrunch Startups"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
     "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report",
     "Crypto Regulation: Absa Secures Regulatory Approval for Digital Asset Custody Services",
     "Robotics AI developer FieldAI reportedly raising $700M in funding",
@@ -160,8 +161,7 @@
     "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
     "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
     "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion",
-    "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "OpenAI IPO won't happen this year, says Sam Altman"
+    "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -184,7 +184,6 @@
     "07358ad98f4a9350716d38cde127e11e341d6741aded577cc74c1294a1b0710f": 1787503089.8275945,
     "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
     "088e6666ceb893fa35b2a99ed49d134d38bf12f8f5ec9412276e21392f09c168": 1788016063.5907354,
-    "08bb0748a39c0b6875a4e718ab64a5b590b622e9d478a2ac6a81fd5e93b6427f": 1787150850.5698872,
     "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
     "0936b9ddd91512f1098f19fa8dfc91b3bbe7fd57f36ef21129c42a5e46a7d9c7": 1789711339.938865,
@@ -243,7 +242,6 @@
     "330f2d040219e1e6c4dcc22d733f076d3a4a074f0507aba11c43456c19dd5134": 1787597685.6908643,
     "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
     "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
-    "3461fd6e09582df2fe55da57e94c4789ed04e2bc8b96195da74a9525f8765c66": 1787156363.9804044,
     "34ec19f31e10649b9d56e7be1a5e8decd700a3a499fb21b8e4cfef498571ee0f": 1787219184.6526337,
     "3541858a058cca11f964728d33dbeb512202784f6517500de66881de367678e1": 1789921048.8828669,
     "359cb0e6a7cf54f7a96756eb840ab04865f706f63e6d91f4f4eea9176938978b": 1787479717.8024204,
@@ -468,7 +466,6 @@
     "d03e1f27bd82dfda590f8d413389a976cbb08cc37e9acd4f9a0e008af011aaa4": 1787165385.4279246,
     "d1d0ce71f86e35b975cf724b13c6fa3bc8ff8f18b4b20ab414f253b75e9bb2ba": 1787563684.3110976,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
-    "d273fcb7bf676a82345315ba167576ff9bdfdcceedff3a19dcf94a92b1cb5281": 1787154668.1702054,
     "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
@@ -529,6 +526,7 @@
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
     "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
+    "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296,
     "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
     "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437,
     "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907,
