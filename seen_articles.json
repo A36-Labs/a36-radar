@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791048385.919296,
+  "last_post_at": 1791058193.2141578,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "SaasRise",
     "The Hacker News",
     "Egypt Independent",
     "CryptoRank",
@@ -38,10 +39,10 @@
     "Food & Beverage Magazine",
     "TechCrunch Startups",
     "BleepingComputer",
-    "Cryptonews.net",
-    "Bloomberg.com"
+    "Cryptonews.net"
   ],
   "recent_titles": [
+    "Clay raises $115M in Series D funding round at $7.1B valuation",
     "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
     "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report",
     "Crypto Regulation: Absa Secures Regulatory Approval for Digital Asset Custody Services",
@@ -160,8 +161,7 @@
     "India's Semiconductor Sector Attracts $1.4 Billion in Equity Funding",
     "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
     "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-    "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion",
-    "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026"
+    "Bike Startup - E Bike Startup Zoomo Raises Extra 20 Million For European Expansion"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -220,7 +220,6 @@
     "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
-    "25c8a2e84bf0eca74338536bf6f3d1fb8d992a313533f368c16059f6ce9f0603": 1787168692.4900212,
     "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "2713abeb4ddcce6c46331c98ff7cab8df5b5db3c9db08ecda7315db3a9b83248": 1788297458.911165,
@@ -234,6 +233,7 @@
     "2a4cfec7518b10e73fddcfd667f4be7fa9672024f9dfc491bde70eebb34f0ebd": 1787351765.5914705,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2e0553881798ae66100823a8b938edeea96d389eeae19134dfb55ec9dc9da07e": 1787386336.661562,
+    "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
     "2ea04f98184b926e8acae1e0839584b218bd4c1de10015fa90d1017562f5c36d": 1787282748.4262226,
     "2eee3a18be91b01f97c7852c94a329067c8dc4d60e64716b02b57e36af2010ee": 1787604824.7737763,
     "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
@@ -408,7 +408,6 @@
     "aa918b7cfef82c433a676c823fc199bfca16961ec7e28b35fab7b9ba8f3a3b9c": 1787330853.8039742,
     "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
     "ab31525d059810cb0e76faa803377a18358d0fc45ca89f08ab5efc550eac8784": 1787529169.8731337,
-    "ab91bdb51d814db819a6e172105248d9f40441d091b730f885d7bbfa0c220551": 1787160980.6875181,
     "ab98c714797f136ea6b6f4d468a1c0cea2f580a481233bb02f13bdb08a00b656": 1787394912.4692106,
     "aba0bbdf595da2b71bd93e48bfda6489fd08da46fbf0522f2fce2948f92d76f6": 1787742972.7388544,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
@@ -463,7 +462,6 @@
     "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
     "cde3e5399648d36c07fdfe5eedda5772de58fba3c3ebe02f8f075fdf90357cd8": 1790539516.5556958,
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
-    "d03e1f27bd82dfda590f8d413389a976cbb08cc37e9acd4f9a0e008af011aaa4": 1787165385.4279246,
     "d1d0ce71f86e35b975cf724b13c6fa3bc8ff8f18b4b20ab414f253b75e9bb2ba": 1787563684.3110976,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
     "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
