@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791068981.858395,
+  "last_post_at": 1791081873.6254995,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "VC & Accelerators",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Fintech & Payments",
     "VC & Accelerators",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Cryptonews.net",
     "Techpoint Africa",
     "SaasRise",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "Reuters",
     "finance.yahoo.com",
     "Food & Beverage Magazine",
-    "TechCrunch Startups",
-    "BleepingComputer"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Cosmos Partners with Blockdaemon, Securing Over $110B",
     "Standard Chartered Foundation Women in Tech Accelerator winners in Nigeria Announced",
     "Clay raises $115M in Series D funding round at $7.1B valuation",
     "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
@@ -160,8 +161,7 @@
     "Nu digital bank launch expands into the U.S. with 3.50% APY accounts",
     "Anthropic Is Reportedly Heading Toward a $2 Trillion Nasdaq IPO in October",
     "India's Semiconductor Sector Attracts $1.4 Billion in Equity Funding",
-    "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-    "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data"
+    "Hackers exploit Tencent app flaw to deploy GrayRabbit malware"
   ],
   "seen": {
     "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
@@ -170,7 +170,6 @@
     "0184154c16fc8fff7b99fe0dc03f59cbb8f25ef594ed7959d292f11d2e19e254": 1787973694.947714,
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
     "028dbd37fe27aaf0f4f9089102dc79bcfb837a5f1f8495c1c2b1cb486f347d8c": 1787691055.905807,
-    "02f20307b1809dd43a962787ca5d61fc6de2f3657ed6a5d75344becdc8785b41": 1787182914.1027505,
     "0318b728bddffada57088556eef7edbf35c2b1c5bc8426ccb2d3032eb6e409b0": 1788137759.5588465,
     "03a4d2cd5f850ddf0b07c8b70eeaa0ba343c3c77ede3ad6dc5548d3199feceec": 1789428741.4428759,
     "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
@@ -460,6 +459,7 @@
     "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
     "cde3e5399648d36c07fdfe5eedda5772de58fba3c3ebe02f8f075fdf90357cd8": 1790539516.5556958,
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
+    "cf300a8228a03ccc3de73fbcbe954738a967d0f22290fc3ac09a4c040b94096d": 1791081873.6254995,
     "d1d0ce71f86e35b975cf724b13c6fa3bc8ff8f18b4b20ab414f253b75e9bb2ba": 1787563684.3110976,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
     "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
@@ -489,7 +489,6 @@
     "e22869c9b3f1027e10d552c410756eb74b0ad5e81231b166df8d322d19c2153b": 1787344566.7319415,
     "e25b0916c39b70be127fb0a8979aa70b96d4b824ec766640d25392be039eb953": 1787309591.052387,
     "e33ec1a77a87319273092c78283dfa5be9df542939c03f191f5971bdab4b3e54": 1787241771.0023737,
-    "e44b5c1eb68a7aed88cdc44daea5e21a54ea77aaf4792a4eea24d70eb0c78c0f": 1787191492.9855237,
     "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
     "e60df6ffca717f4c008db454c12f16e1886254003024504fd9f93cd414460951": 1788783767.3784025,
     "e6410aeb30a0a1dd36803a4a98c330c93f40746333760a088a85dda892ed874f": 1787714934.089281,
