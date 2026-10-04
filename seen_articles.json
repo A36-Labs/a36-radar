@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791138025.1711354,
+  "last_post_at": 1791150093.3790064,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Startups & Funding",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "The Ken",
     "Rescana",
     "Cointelegraph",
     "infoq.com",
@@ -38,10 +39,10 @@
     "The Globe and Mail",
     "Ars Technica",
     "TechCrunch Startups",
-    "PR Newswire",
-    "Reuters"
+    "PR Newswire"
   ],
   "recent_titles": [
+    "Nvidia-Yotta’s GPU money trail, Snapdeal’s IPO plan, Go Digit’s silver lining, India’s $12B startup fund, and more",
     "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products",
     "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
     "Pizza Bot: Open-Source Inbox for Background AI Agents",
@@ -160,11 +161,9 @@
     "Airbnb Commits $250 Million To Housing Accelerator Aimed At Unlocking More Than $5 Billion",
     "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
     "Airbnb announces first housing accelerator investment in Austin, TX",
-    "Indian startups raised over $412 million from September 7 to September 12, 2026; Pixxel tops the list",
-    "Nu digital bank launch expands into the U.S. with 3.50% APY accounts"
+    "Indian startups raised over $412 million from September 7 to September 12, 2026; Pixxel tops the list"
   ],
   "seen": {
-    "007a69f32550ab23cb178d776e44c3dc5747bf6384396c0f9a8f588f4d6d6053": 1787253418.9216084,
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
     "0184154c16fc8fff7b99fe0dc03f59cbb8f25ef594ed7959d292f11d2e19e254": 1787973694.947714,
@@ -373,7 +372,6 @@
     "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
-    "9d04025c5c6d13fcc33b4af3e46f0e835ae0bf1d38111b122c95421651761b21": 1787250229.1501458,
     "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
     "9f0fdcb8ddc718d1082439c334847fdf1690b4f3f31f673f894692526db6d424": 1787377062.9392743,
     "a058f1dafacce4c52d87cdb5c577760cc26dc1364f6b7705a4811a7db49073ca": 1788824627.6750333,
@@ -409,7 +407,6 @@
     "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
     "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
-    "b1b1c3496b6d56d7f75d567eaa0eb055cc8c6469867a5112a01241b798712928": 1787256948.355934,
     "b2d72ad93e326d0bc6b35c6e2019d6da62ebe40b1dcca2c0108e481f2360427b": 1787317627.6383107,
     "b48fffe3d28312b09f276338dfd2d97547e9bc3a48b1ae05dd5831451c8dcea2": 1787652994.1511328,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
@@ -459,7 +456,6 @@
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
     "d725da2a430219b08387ca7a5975c04092960a0ae4945a39adeca9eae64c66fb": 1787694502.947729,
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
-    "d7b84d271c132b43bc42e3b3e7445d4011a918a09ba37e2efddbc55decb12282": 1787260739.0530665,
     "d87be08854b9701c0b899516cbdcff1548ee391f286de0bac2f7dfdc444b3b54": 1788074578.1327183,
     "d8d9ebe62b2a17cfb48ce3ed4d02307d579c1ee4d63b3653c281689ba8974410": 1787430917.4551787,
     "dad5f85000278f1fce6f7f4a9afad9ffbf8ccbe729acae528fee9a54f0b3e63c": 1789599741.3587873,
@@ -486,6 +482,7 @@
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
     "e90743776d0c7c70aad91342f31f735a86ff05a6d9421a73ec2d4645100be2b7": 1788684678.974887,
     "e9613970bf3dc38756874ff4ae9f67d9ae87a206323c949973cef107723207d8": 1787471483.5800183,
+    "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
     "e9765a30d5035b2faa3529dfd310115a0c5715923d2b1e466a1dce44f0a15f4d": 1789645946.910035,
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
     "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
