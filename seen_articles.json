@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791150093.3790064,
+  "last_post_at": 1791159266.7586284,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "24/7 Wall St.",
     "The Ken",
     "Rescana",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "CyberSecurityNews",
     "The Globe and Mail",
     "Ars Technica",
-    "TechCrunch Startups",
-    "PR Newswire"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Broadcom's Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
     "Nvidia-Yotta’s GPU money trail, Snapdeal’s IPO plan, Go Digit’s silver lining, India’s $12B startup fund, and more",
     "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products",
     "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
@@ -160,8 +161,7 @@
     "AI Regulation Needs ‘Decisive’ Action, Top House Democrat Argues",
     "Airbnb Commits $250 Million To Housing Accelerator Aimed At Unlocking More Than $5 Billion",
     "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
-    "Airbnb announces first housing accelerator investment in Austin, TX",
-    "Indian startups raised over $412 million from September 7 to September 12, 2026; Pixxel tops the list"
+    "Airbnb announces first housing accelerator investment in Austin, TX"
   ],
   "seen": {
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
@@ -176,7 +176,6 @@
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "0555cbd48c8ec56232bed29e8cb4203d43c6bda9d6ed41b72758428fefa35d57": 1788730979.7348585,
     "05929916c8aefee2860db065c5fd953ea92238a0f0ff1880d377ce940535211b": 1788631932.237248,
-    "05bba497944c7994f06505c91b1ef933c00036e2e55d412a41bca015ce54c78a": 1787266184.154906,
     "061352ea0d712106d5bedf24358328364e3a699f8ad6d33480752b78880d1656": 1790251311.5224128,
     "07358ad98f4a9350716d38cde127e11e341d6741aded577cc74c1294a1b0710f": 1787503089.8275945,
     "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
@@ -213,7 +212,6 @@
     "1efa96cec47991bbe689dec8d5accc2f0766425ba90dfe25da25f299e02542d7": 1787657874.3018477,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "1f80750a77986ed26510a863e3f6418ec287ccf74424757312d41f95cf58a6c1": 1787998608.321642,
-    "23c1d5c36abe74324fe552026f58c942163aaa71f0da01a74c1f4be2d6163697": 1787269514.3926592,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
@@ -326,6 +324,7 @@
     "71df71105db73e29e072f1e29efc0ad076b5fdb16abe1e4a03cee2dd3ded3340": 1788743233.4245145,
     "721589671db35645dad3fb6e7052fa9698cee38b488c8d3aed605cb3a9bff4d9": 1787506807.02646,
     "72440f6ab8bd7d5b185d74b7aa15004754a5772eeec947414e3f58a6db1c733b": 1788129700.2553298,
+    "73f6622e69607796c4cb01fdd7b63053ebe8466c1264fcfbccff5d9c332a4efe": 1791159266.7586284,
     "741a96ec87489cbf2e659dcc34e69fb85315f4eddcaa41f2e42f25473686ce58": 1787334643.5222723,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
