@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791159266.7586284,
+  "last_post_at": 1791179671.2097235,
   "last_urgent_at": 1790968525.3624153,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "AI & Agents",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Reuters",
     "24/7 Wall St.",
     "The Ken",
     "Rescana",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "CyberSecurityNews",
     "The Globe and Mail",
-    "Ars Technica",
-    "TechCrunch Startups"
+    "Ars Technica"
   ],
   "recent_titles": [
+    "OKX joint venture files with SEC to launch tokenized trading platform",
     "Broadcom's Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
     "Nvidia-Yotta’s GPU money trail, Snapdeal’s IPO plan, Go Digit’s silver lining, India’s $12B startup fund, and more",
     "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products",
@@ -160,8 +161,7 @@
     "Temporal worth $12.55b, OpenAI's camera acquisition, and DoD's tungsten buy",
     "AI Regulation Needs ‘Decisive’ Action, Top House Democrat Argues",
     "Airbnb Commits $250 Million To Housing Accelerator Aimed At Unlocking More Than $5 Billion",
-    "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
-    "Airbnb announces first housing accelerator investment in Austin, TX"
+    "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury"
   ],
   "seen": {
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
@@ -227,7 +227,6 @@
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2e0553881798ae66100823a8b938edeea96d389eeae19134dfb55ec9dc9da07e": 1787386336.661562,
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
-    "2ea04f98184b926e8acae1e0839584b218bd4c1de10015fa90d1017562f5c36d": 1787282748.4262226,
     "2eee3a18be91b01f97c7852c94a329067c8dc4d60e64716b02b57e36af2010ee": 1787604824.7737763,
     "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
     "3098e856648a318a4641c38f88f304e57d0dd46ccf01faa088d6a38354dbbfa9": 1788053799.6491952,
@@ -309,7 +308,6 @@
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
     "68c502297e8380dee9c0161fb5508bcd22632a97fa51c211c91ebe6ba7a93c1d": 1787627453.081897,
     "68df9e41a4d8089da9c736576605137c267ec6c5d95dcaeec97712ed4cc36891": 1788391925.1213722,
-    "6a24ef4438650f07bb5c8cb8015937d6e1747796cc26d7227b85898766533e9c": 1787288414.3659408,
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
     "6b5ca39ada2d5bc5d66822a4c3d142420c433d9c5054f22b51b70c00728fe284": 1787635317.7241771,
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
@@ -343,6 +341,7 @@
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
     "836d4ac4554f452abde519096befe5194252ae2215a800fd52fca03aa29c11b5": 1787305749.333969,
     "8416205444159a9fc6b9e60dcca0dea1c118ae1e3f5334908ecaa73bf748e08d": 1790450903.850589,
+    "848dc66cdd00023b2e554a54fa5adb3b6aaeb28bb5276f268648f32df42c77bc": 1791179671.2097235,
     "851aeff70d8510d5fd93d4b02e46d502508e6d21929426ec728e4835205277ff": 1787421238.1834831,
     "8619d792309d6a15c0100282da83b66d8187a304ee9ca8a0600d9036f1d88c09": 1787771835.3670282,
     "888f0d8fe5974426110346eb87fd356e20e446e03f1f7dbaa8a538a583fe4900": 1787416592.3773596,
@@ -467,7 +466,6 @@
     "de1b99a9a37142ccb51bd10268da93192d24c7c3be7a2dcf24dc3d7db2bab801": 1789382844.7358165,
     "dec058fa83cc84823dec588e645dbf9eae4022603778468180670d9f96e306a0": 1789016072.4957483,
     "df164476c5461aafcdb8f03046d285dbe562a41437293ccee8dcabf1732a249c": 1789663983.0280683,
-    "df4bf652268bba89a67b54fb56ecf8fe2b264bb514f091151f405107a14c1310": 1787278238.4393303,
     "dfd8bf8d52d112f4ace11024da4fd9cedbb5acc8fe02b303cf8dfbf6686968f8": 1788668905.1946037,
     "e17cb56c3fdae139cf2d14f77ee5be367f5eb478f6b8da2ffdfe86bf9f3fa89f": 1790580962.408113,
     "e1be9598f180fdc6500e4f7ea41bfb59338bacb912804ea682c01edf15970ea9": 1788803612.206538,
