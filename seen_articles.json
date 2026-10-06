@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791236179.595158,
+  "last_post_at": 1791251572.8644342,
   "last_urgent_at": 1791210391.0002651,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "cwg.com",
     "Reuters",
     "Reuters",
@@ -38,10 +39,10 @@
     "CryptoRank",
     "SiliconANGLE",
     "CoinDesk",
-    "Crunchbase News",
-    "CyberSecurityNews"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Schneider Expands in AI With Record $23 Billion Acquisition",
     "Deliveroo and Coco Robotics announce exclusive partnership to scale robot deliveries across the UK - 05.10.26",
     "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
     "OKX joint venture files with SEC to launch tokenized trading platform",
@@ -160,8 +161,7 @@
     "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
     "New Italian unicorn Exein rides the physical AI wave",
     "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-    "Temporal worth $12.55b, OpenAI's camera acquisition, and DoD's tungsten buy",
-    "AI Regulation Needs ‘Decisive’ Action, Top House Democrat Argues"
+    "Temporal worth $12.55b, OpenAI's camera acquisition, and DoD's tungsten buy"
   ],
   "seen": {
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
@@ -221,7 +221,6 @@
     "287a6025f27bbd2beade61f91db21689458afb6d3db5964df5c955400128672a": 1787729021.8901145,
     "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
     "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
-    "2a4cfec7518b10e73fddcfd667f4be7fa9672024f9dfc491bde70eebb34f0ebd": 1787351765.5914705,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2e0553881798ae66100823a8b938edeea96d389eeae19134dfb55ec9dc9da07e": 1787386336.661562,
@@ -265,6 +264,7 @@
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4ce8987983718a3f618df795e389839f118f091b66c446c3a594151e61bd2f0f": 1787412715.4337585,
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
+    "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
     "4e6d0c7fba9b1d59b60ce3564d363a9df68f3650e07be9c4899cb35d99e8c8cc": 1788045996.7369466,
     "4ea4ff1fb351de177b3cab573a7d91a0fb03f7c642e553320c4cab8e81a556b2": 1788478214.6478639,
     "4f1eee3433eb221c61ef3f9a71fd8cbcb0faf236e5c802d0444aca6a6df54c2f": 1789493933.9223053,
@@ -345,7 +345,6 @@
     "8987660ab62494e22ea28eb412d924a3a6f257100ae3e1defcf50bd3b079342b": 1788221279.4683597,
     "89c98d61c52714c1330cc9d036d0cb1b5cd605c3ee528547ad69cc96569937c0": 1789974459.0729573,
     "8a0a2f7da311d38c1805607f4e5ebd7dab34df83f24a51ad862ca36d4e572e24": 1791033516.1513002,
-    "8aef73760c4de13b883347eafdcd71e06ff72cdc603b9e348dded1f187cefadb": 1787363182.6040144,
     "8b46a37688d752a9d04a28aac87cfabee50378fcbf390ebb4d66799b9861842c": 1787489912.424944,
     "8c29ae5683ae40876531f0279b37e97ef6330cdd62768770142c97eb1d85f7a5": 1789295008.0384543,
     "8c3e1d917e67cd10f5e75834402aefbf01f901d201cc4ca6f3610b6e9f363535": 1789815039.9417398,
@@ -392,7 +391,6 @@
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
-    "aebaadbdd31e5a2071f2d0340f8a72100616167e7755ed8d9a1ff3665b99f961": 1787355268.632908,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "afdc94668d1bea937c11f9bbbce47efe2d1cf3b4a4395c4c23638245350edc8c": 1787434304.0323257,
     "b0326add6b3366e2ced18f7260929f3ef6b0f4129e6bf6cbe636331508b33fc2": 1787569154.8820686,
