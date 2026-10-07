@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791333451.8385212,
+  "last_post_at": 1791354960.854151,
   "last_urgent_at": 1791320132.3284938,
   "recent_categories": [
+    "Policy & Regulation",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "VC & Accelerators",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "CNBC",
     "AD HOC NEWS",
     "TechCrunch Startups",
     "TradingView",
@@ -38,10 +39,10 @@
     "Cryptonews.net",
     "Techpoint Africa",
     "SaasRise",
-    "The Hacker News",
-    "Egypt Independent"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Andrew Cuomo on crypto regulation: Clarity fails, ambiguity prevails",
     "Fujitsu launches four AI agents: what it means for Fujitsu stock",
     "AI computing startup Lambda to raise $4B ahead of planned IPO",
     "Crypto exchange OKX valued at $25B in funding round, including Circle, Stanchart",
@@ -160,8 +161,7 @@
     "India’s Semiconductor Sector Draws $1.4Bn; Bengaluru Takes 40.1% Share",
     "Crypto longs worth $570 million wiped out as Clarity Act fails",
     "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
-    "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
-    "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
+    "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything."
   ],
   "seen": {
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
@@ -173,6 +173,7 @@
     "03a4d2cd5f850ddf0b07c8b70eeaa0ba343c3c77ede3ad6dc5548d3199feceec": 1789428741.4428759,
     "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
+    "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
     "0555cbd48c8ec56232bed29e8cb4203d43c6bda9d6ed41b72758428fefa35d57": 1788730979.7348585,
     "05929916c8aefee2860db065c5fd953ea92238a0f0ff1880d377ce940535211b": 1788631932.237248,
     "061352ea0d712106d5bedf24358328364e3a699f8ad6d33480752b78880d1656": 1790251311.5224128,
@@ -398,7 +399,6 @@
     "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
-    "bfb6ab15d357553227946325cd9c3310021739ab4e65a4f237d62395389cc68b": 1787462253.8007793,
     "c08c67be0b47ed63ef69766cfba17fddd02f6ac84f0b2de1f7652971d75c0ba1": 1787577958.407109,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c263332c36b42655cac4229b7b2161d82ada139d657b1b1149326ee68d762244": 1787521968.600367,
@@ -423,7 +423,6 @@
     "d060941f1c061335c10e207f35496d713e75cf9737392a0982ff496790078585": 1791301947.5576448,
     "d1d0ce71f86e35b975cf724b13c6fa3bc8ff8f18b4b20ab414f253b75e9bb2ba": 1787563684.3110976,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
-    "d2e7b236a98e125da60ebd4b091b55d2603ee0caa74979c8b121e8c559d204aa": 1787466028.5465293,
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
@@ -461,7 +460,6 @@
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
-    "f17c6b6c2f11aa871cfefe1782a43157e66b8715a9d2af67e007e7cc212eb29c": 1787454736.5336194,
     "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
     "f4f48172a0679ae02573630ac5c26d18d78058524b69e8175159f5d0ce130110": 1787560275.6675146,
@@ -479,7 +477,6 @@
     "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296,
     "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
     "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437,
-    "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907,
-    "ffdb701222e6522cefb2f79162cc6e4a22130373e5a49150fb61628a772f03f0": 1787450189.1760128
+    "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907
   }
 }
