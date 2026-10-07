@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791320132.3284938,
+  "last_post_at": 1791333451.8385212,
   "last_urgent_at": 1791320132.3284938,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "AD HOC NEWS",
     "TechCrunch Startups",
     "TradingView",
     "reuters.com",
@@ -38,10 +39,10 @@
     "Techpoint Africa",
     "SaasRise",
     "The Hacker News",
-    "Egypt Independent",
-    "CryptoRank"
+    "Egypt Independent"
   ],
   "recent_titles": [
+    "Fujitsu launches four AI agents: what it means for Fujitsu stock",
     "AI computing startup Lambda to raise $4B ahead of planned IPO",
     "Crypto exchange OKX valued at $25B in funding round, including Circle, Stanchart",
     "Software startup Vinci raises $250 million at a $1.5 billion valuation",
@@ -160,8 +161,7 @@
     "Crypto longs worth $570 million wiped out as Clarity Act fails",
     "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
     "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
-    "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round"
+    "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
   ],
   "seen": {
     "01598175fdc5bc945f3549b84c4f402c649c1cb68b8488834b2ae84c9c86fac8": 1787497729.9925175,
@@ -234,6 +234,7 @@
     "359cb0e6a7cf54f7a96756eb840ab04865f706f63e6d91f4f4eea9176938978b": 1787479717.8024204,
     "36c142a3fbb84dedc24bfc4e08938e93a9127f4e236340edf63e6defe756bc62": 1787623562.2418582,
     "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
+    "39575ee5a140e52a5e76fa442a55a1a01c66d7a3a212b81488dae60935c1efa3": 1791333451.8385212,
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
     "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
@@ -257,7 +258,6 @@
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
     "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
     "4a1a5bda90e05eb8866f4f3e0fd4b9ca1e7ca04db5a6edf831c930b39810956f": 1788936370.1359289,
-    "4ae88249fe6d7288712eb3d8f7e849cbe71bd6f3507ec9feb12a1b537b7c1982": 1787441465.6875098,
     "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
@@ -382,7 +382,6 @@
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
-    "afdc94668d1bea937c11f9bbbce47efe2d1cf3b4a4395c4c23638245350edc8c": 1787434304.0323257,
     "b0326add6b3366e2ced18f7260929f3ef6b0f4129e6bf6cbe636331508b33fc2": 1787569154.8820686,
     "b042beacd3ff49b8c4a5833be4f63b76f2d7e149c2ae9368ec9dcafc52727f32": 1787510689.7127023,
     "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
@@ -476,7 +475,6 @@
     "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
     "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
-    "fc3e756e2528ad543477129a9526fe47af9fa2ca8b871156eeef66e460ee19d4": 1787438025.7876906,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
     "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296,
     "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
