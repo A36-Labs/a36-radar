@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791487870.4561458,
-  "last_urgent_at": 1791487870.4561458,
+  "last_post_at": 1791503723.4834254,
+  "last_urgent_at": 1791503723.4834254,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Decrypt",
     "Nashville Post",
     "TechCrunch Startups",
     "Reuters",
@@ -38,10 +39,10 @@
     "Reuters",
     "Reuters",
     "24/7 Wall St.",
-    "The Ken",
-    "Rescana"
+    "The Ken"
   ],
   "recent_titles": [
+    "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
     "Asurion finalizes acquisition of U.K. company with $1.63B in revenue",
     "China’s Manus raises over $500M in first funding round since split with Meta",
     "Breakingviews - COMMENTARY: Shaky $4 bln neocloud IPO pricks AI bubble",
@@ -160,8 +161,7 @@
     "Robotics investments reach $4.9B in August 2026",
     "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding",
     "TRG announces its acquisition of 2025 RTIH Innovation Awards winner Vista Technology Support",
-    "Spain's data agency gets first report of AI-powered data breach",
-    "barq Raises $329.5 Million Series A At $1.85 Billion Valuation As Saudi Fintech Expands Payments Partnerships"
+    "Spain's data agency gets first report of AI-powered data breach"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -195,7 +195,6 @@
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
     "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
-    "1392b1f225005e713af4595fd62e9577880a84969cbd2a4c764302d17da4f128": 1787602411.3820255,
     "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
@@ -220,7 +219,6 @@
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
-    "2eee3a18be91b01f97c7852c94a329067c8dc4d60e64716b02b57e36af2010ee": 1787604824.7737763,
     "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
     "3098e856648a318a4641c38f88f304e57d0dd46ccf01faa088d6a38354dbbfa9": 1788053799.6491952,
     "330b627c27d79a0087f85c9b69a1448808170ed7191b776319dd2fd50051b684": 1787680851.7576313,
@@ -276,7 +274,6 @@
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
     "5d49df2e53f6cee0118b263d1f891ab3a9d0f04bd089fc1e25260f43146e7b89": 1789117556.3588347,
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
-    "5dfa2cbd8919a49535a0190382e870770f982cdbb9fe4986c2ecaadb3bd29a41": 1787609440.66824,
     "6026ad776bb28d6cf30002c2664479c7900308e92a942e13b9f60c9b1d9896f0": 1787801031.3052645,
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
     "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
@@ -298,7 +295,6 @@
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
     "6f7c373f3f64d2745a510f3c38c23b98e5f7d4ee87e6d3c006b203bb234d46f9": 1787698174.6074634,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
-    "70219785f289d7b7f532d03ca78951cf314c8f6f39c56733af9c2294b46d0d73": 1787611687.155361,
     "70a0e192d741a8c0193f99c5a9bc76b6ea8a259d4098b27fc0fd662333fa1200": 1788374867.2442904,
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
     "71df71105db73e29e072f1e29efc0ad076b5fdb16abe1e4a03cee2dd3ded3340": 1788743233.4245145,
@@ -437,6 +433,7 @@
     "f025972615a45462921fa4aa3b5fca7b04f53575f9cb0ac99d930b02da55710a": 1791418106.4219954,
     "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
+    "f47e8120452d11a071875718cce284acd0a82bd967dd121685748c9a8f60c4c6": 1791503723.4834254,
     "f5c293af621de0cbf03df68110f958385d8a9a2cea3f0cdaca92edc6edbc11a3": 1790723407.2034397,
     "f6a83fc9a583af5016fa4b5aaca827bc1c1f0a588c44e8a93e85f045ad184c1b": 1788623985.0688732,
     "f73baa1cb8ab1a79c519f1dc863a3000230f11fd26f8eabae98b508e649bd84f": 1788188548.1795115,
