@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791418106.4219954,
-  "last_urgent_at": 1791418106.4219954,
+  "last_post_at": 1791440338.2195764,
+  "last_urgent_at": 1791440338.2195764,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
-    "AI & Agents",
-    "Web3 & Digital Assets"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Reuters",
     "TechCrunch AI",
     "Axios",
     "StreetInsider",
@@ -38,10 +39,10 @@
     "The Ken",
     "Rescana",
     "Cointelegraph",
-    "infoq.com",
-    "Cryptonews.net"
+    "infoq.com"
   ],
   "recent_titles": [
+    "Breakingviews - COMMENTARY: Shaky $4 bln neocloud IPO pricks AI bubble",
     "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
     "Autonomous freight rail startup Parallel raises $100M Series C",
     "Acquisition Lets AI and Operators Learn From Nearly $2 Billion in Annual Aesthetics Transactions",
@@ -160,8 +161,7 @@
     "Spain's data agency gets first report of AI-powered data breach",
     "barq Raises $329.5 Million Series A At $1.85 Billion Valuation As Saudi Fintech Expands Payments Partnerships",
     "Bain Capital Ventures Announces $1.6B New Fund to Invest in Founders Building for an Abundant Post-AGI World",
-    "United Nations Chief Calls for Coordinating Global AI Regulation",
-    "India’s Semiconductor Sector Draws $1.4Bn; Bengaluru Takes 40.1% Share"
+    "United Nations Chief Calls for Coordinating Global AI Regulation"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -197,7 +197,6 @@
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
     "1392b1f225005e713af4595fd62e9577880a84969cbd2a4c764302d17da4f128": 1787602411.3820255,
     "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
-    "14572a32c775cfd3f1362e0134d2196602a08f41412a057f60e087ffe3e0f90c": 1787541167.213442,
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
@@ -236,6 +235,7 @@
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
     "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
+    "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
     "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
     "3c056ed15eb012b0e8e3c28514143437bbc0c6cde951fca8538215bf632ed3d2": 1787630683.0245097,
     "3d8caaa7ef22e29e66a0983e965fefeb08c87920c0a89bdcacabf061a71d1361": 1788555142.2127693,
@@ -244,7 +244,6 @@
     "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
     "405a737f72d34e5f5945dc1b5de6f89ed79defb98ddece2c46ed01347512d3d3": 1787557378.9805996,
     "40f566e0a889cf9544b407fc987c5657b7020f63f08b36fbe15003719b549c84": 1787841378.0301557,
-    "41919bc662f6d37b285b316687b54c5b8750329807cc7f6304e15487814d3a05": 1787544651.694869,
     "4213301c3dd74b64a4694164149231f1ef361c7ac4f2672cefa7e0ff1da6f6bf": 1787566821.8918493,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
@@ -287,10 +286,8 @@
     "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
-    "6366f5a6f74842395ac0cf6032e94e9380aee9ecba943ca6230d26900cd90ebd": 1787547966.4664097,
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
     "6739a1dd7cdb43e060c957b545971eafab9a33ed8a3a8aa21fd8ab0461c797b1": 1788716800.5563352,
-    "67afbf6e41c91bf1763c20bb2a1de69d01edbef21b2843c986bfc209b2804e16": 1787550663.8464441,
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
@@ -337,7 +334,6 @@
     "8c3e1d917e67cd10f5e75834402aefbf01f901d201cc4ca6f3610b6e9f363535": 1789815039.9417398,
     "8c5da3e1ced1c5a4415088862918359166039f86f09eabec3efaaef4c2127ec1": 1790388238.6350396,
     "8cd3fded74c2ac5f0545105c34d2541199c516de7d63d4fde4732e254eac6d26": 1787592222.8208559,
-    "8d29b6b0f0f4ac967b099b7c3b119be8d0ebc5db20c38950dd6fe4cbe0e6ac27": 1787536443.3553667,
     "8e7fd0505ce61006647bc7715a1032c3e912358c72d9b852d24244e2057fbcaf": 1789608071.8224158,
     "8f68d9cae058456e758b40ae39692cea581ac9ec9e5e16ffcbae6b6584bb6e26": 1788305008.7645707,
     "8f81e85f56f6a254ef62776489461c6eccbdbfd679a64fd9de879f892a3f0c67": 1788038402.860343,
