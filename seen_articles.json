@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791525566.4402003,
-  "last_urgent_at": 1791503723.4834254,
+  "last_post_at": 1791551243.275132,
+  "last_urgent_at": 1791551243.275132,
   "recent_categories": [
+    "AI & Agents",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Startups & Funding",
-    "Policy & Regulation",
-    "Startups & Funding"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "The Hacker News",
     "CoinDesk",
     "Decrypt",
     "Nashville Post",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "cwg.com",
     "Reuters",
-    "Reuters",
-    "24/7 Wall St."
+    "Reuters"
   ],
   "recent_titles": [
+    "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
     "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
     "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
     "Asurion finalizes acquisition of U.K. company with $1.63B in revenue",
@@ -160,8 +161,7 @@
     "GAC-backed flying car startup Gaoyu raises ~$120M Series A",
     "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
     "Robotics investments reach $4.9B in August 2026",
-    "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding",
-    "TRG announces its acquisition of 2025 RTIH Innovation Awards winner Vista Technology Support"
+    "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -202,7 +202,6 @@
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1b6589f47db45fdd4cfdbba43758d937ae461659bdafb029ebfa23c78374b204": 1788586696.505149,
     "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
-    "1efa96cec47991bbe689dec8d5accc2f0766425ba90dfe25da25f299e02542d7": 1787657874.3018477,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "1f80750a77986ed26510a863e3f6418ec287ccf74424757312d41f95cf58a6c1": 1787998608.321642,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
@@ -263,6 +262,7 @@
     "52bb09a4f6ae3af58b7e4b5e8523ea9bc1d0434abf469e9ae18dbd5df528eeb1": 1790183689.0464597,
     "54dfcafccab5c62c586496f3b959a4ebb0194b54e2aebf3add674cf3302fd754": 1789476883.0519447,
     "54e300a894d57b600db50bbf1472a143894f1b8abf0013f260fd9b005459495c": 1790812678.071006,
+    "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
     "55069b81601ce81d7dd75080500b8f265887c37ce04958da0d3863bdd53c657e": 1789188267.6659057,
     "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
     "5989a9659de2d1ecfff00d1c50c1faaab5b1bb16c2b6629a074dd743d9a9b58b": 1791138025.1711354,
@@ -287,7 +287,6 @@
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
-    "6e2a6189fdbf65c638f131751654180931f2cc06a0fe0733b8f644ac8844f3fb": 1787660284.9362,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
     "6f7c373f3f64d2745a510f3c38c23b98e5f7d4ee87e6d3c006b203bb234d46f9": 1787698174.6074634,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
@@ -342,7 +341,6 @@
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
     "a26e2162b0329e452a6286321dcc02a45130c537dd2eb404bb2a1453e84a2ead": 1789228400.0895278,
-    "a2ded51fc291c64f9f38a94e7370c47d9c5c58461872df7e5dcbfa151b483a1b": 1787648096.201888,
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
     "a34aa0dbb18939f5a299f26cb29877763d2f088c975ebd5cad41bd740a269b06": 1788990945.1269774,
     "a5ef68d3910a2bf197a170f8d68b8fa03d3c0ce9e7ba5d68cd8fe2de7a84099d": 1788328875.5095563,
@@ -357,7 +355,6 @@
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
-    "b48fffe3d28312b09f276338dfd2d97547e9bc3a48b1ae05dd5831451c8dcea2": 1787652994.1511328,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
     "b57720012f4814984a39e6614e2adbcc69dd8be073258e443de3efc3f672d84f": 1787782814.1050217,
     "b9b040195df075f8a5d67695bef12562133ca7d5389d26fbddb54adae91c8755": 1787915790.70858,
@@ -441,7 +438,6 @@
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
     "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296,
     "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
-    "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437,
-    "ff439587c64f3c670045ae73c0de98bd6a36062bc40d079a35aad5f567534f30": 1787641445.0966907
+    "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437
   }
 }
