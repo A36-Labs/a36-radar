@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791571913.6474025,
-  "last_urgent_at": 1791571913.6474025,
+  "last_post_at": 1791586747.552866,
+  "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Reuters",
     "36Kr",
     "The Hacker News",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "TradingView",
     "reuters.com",
     "Bloomberg.com",
-    "cwg.com",
-    "Reuters"
+    "cwg.com"
   ],
   "recent_titles": [
+    "EXCLUSIVE: Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
     "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions Unveiled, Top Single Deal Hits $11 Billion Valuation",
     "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
     "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
@@ -160,14 +161,12 @@
     "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review",
     "AI safety requires an informed public regulator and private-sector partnership, says Jim Cramer",
     "GAC-backed flying car startup Gaoyu raises ~$120M Series A",
-    "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "Robotics investments reach $4.9B in August 2026"
+    "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
     "0184154c16fc8fff7b99fe0dc03f59cbb8f25ef594ed7959d292f11d2e19e254": 1787973694.947714,
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
-    "028dbd37fe27aaf0f4f9089102dc79bcfb837a5f1f8495c1c2b1cb486f347d8c": 1787691055.905807,
     "0318b728bddffada57088556eef7edbf35c2b1c5bc8426ccb2d3032eb6e409b0": 1788137759.5588465,
     "03a4d2cd5f850ddf0b07c8b70eeaa0ba343c3c77ede3ad6dc5548d3199feceec": 1789428741.4428759,
     "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
@@ -178,7 +177,6 @@
     "061352ea0d712106d5bedf24358328364e3a699f8ad6d33480752b78880d1656": 1790251311.5224128,
     "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
     "088e6666ceb893fa35b2a99ed49d134d38bf12f8f5ec9412276e21392f09c168": 1788016063.5907354,
-    "0913f4ab733eda2112c1d68e9c6c19572b016a9a93508b00694c0a2de57a3c2f": 1787686857.917801,
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
     "0936b9ddd91512f1098f19fa8dfc91b3bbe7fd57f36ef21129c42a5e46a7d9c7": 1789711339.938865,
     "096f3703717dd029a0f5610cfa5503f4adb12114670274b0ff989087c984194b": 1788361744.3495393,
@@ -245,6 +243,7 @@
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
     "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
     "4a1a5bda90e05eb8866f4f3e0fd4b9ca1e7ca04db5a6edf831c930b39810956f": 1788936370.1359289,
+    "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
     "4c39d2185587e19ab3f6b0c9230c93ed915b3e5b9ee312c53f563f599cf4d366": 1791525566.4402003,
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
@@ -285,7 +284,6 @@
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
-    "6f7c373f3f64d2745a510f3c38c23b98e5f7d4ee87e6d3c006b203bb234d46f9": 1787698174.6074634,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "70a0e192d741a8c0193f99c5a9bc76b6ea8a259d4098b27fc0fd662333fa1200": 1788374867.2442904,
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
@@ -388,7 +386,6 @@
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
-    "d725da2a430219b08387ca7a5975c04092960a0ae4945a39adeca9eae64c66fb": 1787694502.947729,
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
     "d87be08854b9701c0b899516cbdcff1548ee391f286de0bac2f7dfdc444b3b54": 1788074578.1327183,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
