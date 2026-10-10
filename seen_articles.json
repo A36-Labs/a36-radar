@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791658673.827221,
+  "last_post_at": 1791671194.5859864,
   "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "AI & Agents",
     "Cybersecurity & Cloud",
     "Fintech & Payments",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "eGamers.io",
     "Startup Fortune",
     "www.daily-sun.com",
     "Vocal",
@@ -38,10 +39,10 @@
     "Axios",
     "StreetInsider",
     "CNBC",
-    "AD HOC NEWS",
-    "TechCrunch Startups"
+    "AD HOC NEWS"
   ],
   "recent_titles": [
+    "OpenAI’s revenue climbs again as the company pursues $30 billion in new funding",
     "How to Structure an AI Agent Data Breach Notification Clause Before You Sign",
     "ONE Bank launches Bangla QR payments at UIU",
     "Lightspeed Launches $250 Million India AI-First Fund, Betting Technology Will Outpace Internet Growth",
@@ -160,8 +161,7 @@
     "Google and Speakeasy Open-Source SDK Generator After Vendor Shutdown",
     "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
     "EigenQ and Silicon Valley Acquisition Corp. Secure $45M Committed Convertible Financing Ahead of $3B SPAC Merger",
-    "Hanwha Finance Expands Abu Dhabi Partnership Across Digital Assets, Stablecoins And Cross-Border Financial Infrastructure",
-    "Tampa Startups Surpass $2 Billion in Capital Raised"
+    "Hanwha Finance Expands Abu Dhabi Partnership Across Digital Assets, Stablecoins And Cross-Border Financial Infrastructure"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -273,6 +273,7 @@
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
+    "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
     "6739a1dd7cdb43e060c957b545971eafab9a33ed8a3a8aa21fd8ab0461c797b1": 1788716800.5563352,
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
@@ -303,7 +304,6 @@
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
     "8416205444159a9fc6b9e60dcca0dea1c118ae1e3f5334908ecaa73bf748e08d": 1790450903.850589,
     "848dc66cdd00023b2e554a54fa5adb3b6aaeb28bb5276f268648f32df42c77bc": 1791179671.2097235,
-    "8619d792309d6a15c0100282da83b66d8187a304ee9ca8a0600d9036f1d88c09": 1787771835.3670282,
     "8987660ab62494e22ea28eb412d924a3a6f257100ae3e1defcf50bd3b079342b": 1788221279.4683597,
     "89c98d61c52714c1330cc9d036d0cb1b5cd605c3ee528547ad69cc96569937c0": 1789974459.0729573,
     "8a0a2f7da311d38c1805607f4e5ebd7dab34df83f24a51ad862ca36d4e572e24": 1791033516.1513002,
@@ -345,7 +345,6 @@
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
-    "b57720012f4814984a39e6614e2adbcc69dd8be073258e443de3efc3f672d84f": 1787782814.1050217,
     "b9b040195df075f8a5d67695bef12562133ca7d5389d26fbddb54adae91c8755": 1787915790.70858,
     "b9f8bd3a9b272f51ea692bb80785849949928d2997374ba38931f9b5a572c6eb": 1788287087.1918485,
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
