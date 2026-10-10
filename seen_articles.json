@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791621571.38435,
+  "last_post_at": 1791643737.4364736,
   "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "Fintech & Payments",
     "VC & Accelerators",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "AI & Agents",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "www.daily-sun.com",
     "Vocal",
     "OneSafe",
     "Reuters",
@@ -38,10 +39,10 @@
     "CNBC",
     "AD HOC NEWS",
     "TechCrunch Startups",
-    "TradingView",
-    "reuters.com"
+    "TradingView"
   ],
   "recent_titles": [
+    "ONE Bank launches Bangla QR payments at UIU",
     "Lightspeed Launches $250 Million India AI-First Fund, Betting Technology Will Outpace Internet Growth",
     "Stablecoin Regulation: $1B Card Spending Surge Explained",
     "EXCLUSIVE: Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
@@ -160,8 +161,7 @@
     "EigenQ and Silicon Valley Acquisition Corp. Secure $45M Committed Convertible Financing Ahead of $3B SPAC Merger",
     "Hanwha Finance Expands Abu Dhabi Partnership Across Digital Assets, Stablecoins And Cross-Border Financial Infrastructure",
     "Tampa Startups Surpass $2 Billion in Capital Raised",
-    "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review",
-    "AI safety requires an informed public regulator and private-sector partnership, says Jim Cramer"
+    "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -189,7 +189,6 @@
     "0c851329d1e91d708af5f302b7b632f8149b8d5bf066092f228cf23eeec0b0e1": 1788971588.585144,
     "0ccdfd2e4cbb20214297574151d0c92cc5ed038a91d289b94716edd7cb83c65e": 1790559279.275614,
     "0d5157a7bb0874e46955c268df81da109aedb24076b6fcc3a02cb981b8af75c1": 1790212893.7010887,
-    "0deb3b9bb62104f895013a778f6b614c14cde8f65f4623de13a64f6016b549e7": 1787747296.4464016,
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
     "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
@@ -237,7 +236,6 @@
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
-    "47e114ef3466c246bdd0180eaeabd17174195d0d0e1d96ce4573a7c9f57aaefb": 1787751472.9156222,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
     "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
@@ -324,6 +322,7 @@
     "96b3eb649ff73ad0d3ed28bf7f60c1738d28b4f188a49fe2a39e5c334aa583c8": 1791014405.9573197,
     "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
+    "996fd72e547a900a15038af4ed60cf112496a9bc5552d97e5d533a5cf1707fd6": 1791643737.4364736,
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
     "9c8bba905fc4de85e98a6d2e9c28fabc7cf26a5fab36fdef25f90d9693d4f124": 1791571913.6474025,
     "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
@@ -341,10 +340,8 @@
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
-    "aba0bbdf595da2b71bd93e48bfda6489fd08da46fbf0522f2fce2948f92d76f6": 1787742972.7388544,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
-    "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
