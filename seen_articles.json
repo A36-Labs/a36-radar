@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791598572.30811,
+  "last_post_at": 1791621571.38435,
   "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "VC & Accelerators",
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Vocal",
     "OneSafe",
     "Reuters",
     "36Kr",
@@ -38,10 +39,10 @@
     "AD HOC NEWS",
     "TechCrunch Startups",
     "TradingView",
-    "reuters.com",
-    "Bloomberg.com"
+    "reuters.com"
   ],
   "recent_titles": [
+    "Lightspeed Launches $250 Million India AI-First Fund, Betting Technology Will Outpace Internet Growth",
     "Stablecoin Regulation: $1B Card Spending Surge Explained",
     "EXCLUSIVE: Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
     "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions Unveiled, Top Single Deal Hits $11 Billion Valuation",
@@ -160,8 +161,7 @@
     "Hanwha Finance Expands Abu Dhabi Partnership Across Digital Assets, Stablecoins And Cross-Border Financial Infrastructure",
     "Tampa Startups Surpass $2 Billion in Capital Raised",
     "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review",
-    "AI safety requires an informed public regulator and private-sector partnership, says Jim Cramer",
-    "GAC-backed flying car startup Gaoyu raises ~$120M Series A"
+    "AI safety requires an informed public regulator and private-sector partnership, says Jim Cramer"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -210,7 +210,6 @@
     "272193e9980a1f7a58df709d0317c1d5f037e6b54c9f8bf2fc982557e4cb04aa": 1788646478.400819,
     "282ffb304b8120f0d715fa4723c5daa8542aaaceb612d34713e51d70e8ea32f5": 1788095724.2149377,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
-    "287a6025f27bbd2beade61f91db21689458afb6d3db5964df5c955400128672a": 1787729021.8901145,
     "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
     "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
@@ -234,6 +233,7 @@
     "3e157c154cc538daa3f5e01a00aa55690723b14f87d09df34eb1d43c530546e2": 1790691661.1928234,
     "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
     "40f566e0a889cf9544b407fc987c5657b7020f63f08b36fbe15003719b549c84": 1787841378.0301557,
+    "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
@@ -333,7 +333,6 @@
     "a10225f8255c19fac2239a7d9b4e20fb887d9db87e602c6da0045774507a6e1b": 1789345121.9856682,
     "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
-    "a24bdcd255d176c3ad137ff8194ed9cd822f853f27f77946acc115f260f03ac4": 1787720515.88211,
     "a26e2162b0329e452a6286321dcc02a45130c537dd2eb404bb2a1453e84a2ead": 1789228400.0895278,
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
     "a34aa0dbb18939f5a299f26cb29877763d2f088c975ebd5cad41bd740a269b06": 1788990945.1269774,
@@ -347,7 +346,6 @@
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "adb87c8a76de466fe5c3b70f2581b644d6f0086a2c247e2248fd9f82a1ba7d93": 1787738509.3828654,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
-    "b058537194f565f41a58d88a34adaaae2ae6fcd66ed161ff3126c0fc4ed585ab": 1787732483.2096062,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
     "b57720012f4814984a39e6614e2adbcc69dd8be073258e443de3efc3f672d84f": 1787782814.1050217,
@@ -402,7 +400,6 @@
     "e1be9598f180fdc6500e4f7ea41bfb59338bacb912804ea682c01edf15970ea9": 1788803612.206538,
     "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
     "e60df6ffca717f4c008db454c12f16e1886254003024504fd9f93cd414460951": 1788783767.3784025,
-    "e6410aeb30a0a1dd36803a4a98c330c93f40746333760a088a85dda892ed874f": 1787714934.089281,
     "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
     "e90743776d0c7c70aad91342f31f735a86ff05a6d9421a73ec2d4645100be2b7": 1788684678.974887,
@@ -430,7 +427,6 @@
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
     "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296,
-    "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423,
-    "ff42b9555c62f93695654870e5a3f6da3eeef5b63615cc3b574867eb6349b5cb": 1787725317.6663437
+    "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423
   }
 }
