@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791586747.552866,
+  "last_post_at": 1791598572.30811,
   "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "OneSafe",
     "Reuters",
     "36Kr",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "TradingView",
     "reuters.com",
-    "Bloomberg.com",
-    "cwg.com"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Stablecoin Regulation: $1B Card Spending Surge Explained",
     "EXCLUSIVE: Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
     "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions Unveiled, Top Single Deal Hits $11 Billion Valuation",
     "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
@@ -160,8 +161,7 @@
     "Tampa Startups Surpass $2 Billion in Capital Raised",
     "MERGERS AND ACQUISITIONS—FDIC proposes extensive modernization of BMA bank merger review",
     "AI safety requires an informed public regulator and private-sector partnership, says Jim Cramer",
-    "GAC-backed flying car startup Gaoyu raises ~$120M Series A",
-    "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire"
+    "GAC-backed flying car startup Gaoyu raises ~$120M Series A"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -306,7 +306,6 @@
     "8416205444159a9fc6b9e60dcca0dea1c118ae1e3f5334908ecaa73bf748e08d": 1790450903.850589,
     "848dc66cdd00023b2e554a54fa5adb3b6aaeb28bb5276f268648f32df42c77bc": 1791179671.2097235,
     "8619d792309d6a15c0100282da83b66d8187a304ee9ca8a0600d9036f1d88c09": 1787771835.3670282,
-    "893ba463c4614a3dc8f8e611f416c364824a5a7bf23cb75d1a5c8f5a39711ca3": 1787710302.3874457,
     "8987660ab62494e22ea28eb412d924a3a6f257100ae3e1defcf50bd3b079342b": 1788221279.4683597,
     "89c98d61c52714c1330cc9d036d0cb1b5cd605c3ee528547ad69cc96569937c0": 1789974459.0729573,
     "8a0a2f7da311d38c1805607f4e5ebd7dab34df83f24a51ad862ca36d4e572e24": 1791033516.1513002,
@@ -374,7 +373,6 @@
     "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
     "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
     "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
-    "cd497664fd9f16610a88cf0ced1de2f3f0493c6c075fb3f2a23a0234f36e4fd3": 1787703941.7011993,
     "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
     "cde3e5399648d36c07fdfe5eedda5772de58fba3c3ebe02f8f075fdf90357cd8": 1790539516.5556958,
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
@@ -417,6 +415,7 @@
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
+    "efae4015e10bebe0a12c6197e24b48417923236c0fbd6f52fa58136b48197f64": 1791598572.30811,
     "f025972615a45462921fa4aa3b5fca7b04f53575f9cb0ac99d930b02da55710a": 1791418106.4219954,
     "f2f4bee2888451a543142cd3127745d439add10fbc0eafc14213de49006fcb21": 1788448537.5903924,
     "f3676808861f878c790e60a555d6db509b69ef89a0c4286ea7ed93246b106d44": 1788312052.0877054,
