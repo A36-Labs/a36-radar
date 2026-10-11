@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791727950.99479,
+  "last_post_at": 1791745215.6124213,
   "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Startups & Funding"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Pulse 2.0",
     "The Economic Times",
     "Vietnam.vn",
     "TOKENPOST",
@@ -38,10 +39,10 @@
     "Nashville Post",
     "TechCrunch Startups",
     "Reuters",
-    "TechCrunch AI",
-    "Axios"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "TypeSafe Raises $870 Million Series A At $7.5 Billion Valuation To Expand Jev’s Capabilities",
     "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
     "The US is investing $350 million in defense quantum computing, while Japan is purchasing UAVs to intercept targets in Ukraine.",
     "Nvidia Weighs Acquisition of $25 Billion-Valued Reflection AI",
@@ -160,8 +161,7 @@
     "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs",
     "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
     "Anthropic targets November IPO at potential $2 trillion valuation",
-    "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
-    "Google and Speakeasy Open-Source SDK Generator After Vendor Shutdown"
+    "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -203,6 +203,7 @@
     "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "1f80750a77986ed26510a863e3f6418ec287ccf74424757312d41f95cf58a6c1": 1787998608.321642,
+    "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
@@ -233,7 +234,6 @@
     "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
     "3e157c154cc538daa3f5e01a00aa55690723b14f87d09df34eb1d43c530546e2": 1790691661.1928234,
     "3ed9258cbeefa246943d2e9202f71a4344425e7785aed8b90b4c178dbd7241c8": 1788028760.7956045,
-    "40f566e0a889cf9544b407fc987c5657b7020f63f08b36fbe15003719b549c84": 1787841378.0301557,
     "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
