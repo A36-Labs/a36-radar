@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791681159.0360405,
+  "last_post_at": 1791703181.4858701,
   "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Vietnam.vn",
     "TOKENPOST",
     "eGamers.io",
     "Startup Fortune",
@@ -38,10 +39,10 @@
     "Reuters",
     "TechCrunch AI",
     "Axios",
-    "StreetInsider",
-    "CNBC"
+    "StreetInsider"
   ],
   "recent_titles": [
+    "The US is investing $350 million in defense quantum computing, while Japan is purchasing UAVs to intercept targets in Ukraine.",
     "Nvidia Weighs Acquisition of $25 Billion-Valued Reflection AI",
     "OpenAI’s revenue climbs again as the company pursues $30 billion in new funding",
     "How to Structure an AI Agent Data Breach Notification Clause Before You Sign",
@@ -160,8 +161,7 @@
     "Anthropic targets November IPO at potential $2 trillion valuation",
     "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
     "Google and Speakeasy Open-Source SDK Generator After Vendor Shutdown",
-    "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-    "EigenQ and Silicon Valley Acquisition Corp. Secure $45M Committed Convertible Financing Ahead of $3B SPAC Merger"
+    "Y Combinator insurance tech alum Angle Health hits $2.7B valuation"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -193,6 +193,7 @@
     "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
     "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
+    "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
     "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
@@ -268,7 +269,6 @@
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
     "5d49df2e53f6cee0118b263d1f891ab3a9d0f04bd089fc1e25260f43146e7b89": 1789117556.3588347,
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
-    "6026ad776bb28d6cf30002c2664479c7900308e92a942e13b9f60c9b1d9896f0": 1787801031.3052645,
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
     "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
