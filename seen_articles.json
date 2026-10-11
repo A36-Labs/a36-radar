@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791745215.6124213,
+  "last_post_at": 1791758943.230541,
   "last_urgent_at": 1791586747.552866,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "AI & Agents"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Decrypt",
     "Pulse 2.0",
     "The Economic Times",
     "Vietnam.vn",
@@ -38,10 +39,10 @@
     "Decrypt",
     "Nashville Post",
     "TechCrunch Startups",
-    "Reuters",
-    "TechCrunch AI"
+    "Reuters"
   ],
   "recent_titles": [
+    "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
     "TypeSafe Raises $870 Million Series A At $7.5 Billion Valuation To Expand Jev’s Capabilities",
     "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
     "The US is investing $350 million in defense quantum computing, while Japan is purchasing UAVs to intercept targets in Ukraine.",
@@ -160,8 +161,7 @@
     "AI Antitrust Lawsuit | Nation | hjnews.com",
     "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs",
     "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
-    "Anthropic targets November IPO at potential $2 trillion valuation",
-    "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing"
+    "Anthropic targets November IPO at potential $2 trillion valuation"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -323,6 +323,7 @@
     "96b3eb649ff73ad0d3ed28bf7f60c1738d28b4f188a49fe2a39e5c334aa583c8": 1791014405.9573197,
     "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
+    "97b5beca77e182a7ccab6a0054b38200051a67f20a8988c261ea475ae514160a": 1791758943.230541,
     "996fd72e547a900a15038af4ed60cf112496a9bc5552d97e5d533a5cf1707fd6": 1791643737.4364736,
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
     "9c8bba905fc4de85e98a6d2e9c28fabc7cf26a5fab36fdef25f90d9693d4f124": 1791571913.6474025,
