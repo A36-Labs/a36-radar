@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791793156.1848714,
-  "last_urgent_at": 1791769898.0330148,
+  "last_post_at": 1791828209.4570048,
+  "last_urgent_at": 1791828209.4570048,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "MyNorthwest.com",
     "Open Source For You",
     "GuruFocus",
     "Decrypt",
@@ -38,10 +39,10 @@
     "36Kr",
     "The Hacker News",
     "CoinDesk",
-    "Decrypt",
-    "Nashville Post"
+    "Decrypt"
   ],
   "recent_titles": [
+    "Amazon reportedly weighs $7B startup acquisition as AI spending accelerates",
     "Open-Source Voice AI Runs Entirely On ESP32-S3",
     "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition",
     "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
@@ -160,8 +161,7 @@
     "Identity Visibility in 2026: The Foundation of Identity Security",
     "AI companies violated antitrust law with agreement to slow pace of development, lawsuit says",
     "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-    "AI Antitrust Lawsuit | Nation | hjnews.com",
-    "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs"
+    "AI Antitrust Lawsuit | Nation | hjnews.com"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -344,11 +344,11 @@
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
+    "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
-    "b9b040195df075f8a5d67695bef12562133ca7d5389d26fbddb54adae91c8755": 1787915790.70858,
     "b9f8bd3a9b272f51ea692bb80785849949928d2997374ba38931f9b5a572c6eb": 1788287087.1918485,
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
     "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
