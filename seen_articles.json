@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791758943.230541,
-  "last_urgent_at": 1791586747.552866,
+  "last_post_at": 1791769898.0330148,
+  "last_urgent_at": 1791769898.0330148,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "GuruFocus",
     "Decrypt",
     "Pulse 2.0",
     "The Economic Times",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "Decrypt",
     "Nashville Post",
-    "TechCrunch Startups",
-    "Reuters"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition",
     "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
     "TypeSafe Raises $870 Million Series A At $7.5 Billion Valuation To Expand Jev’s Capabilities",
     "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
@@ -160,8 +161,7 @@
     "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
     "AI Antitrust Lawsuit | Nation | hjnews.com",
     "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs",
-    "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
-    "Anthropic targets November IPO at potential $2 trillion valuation"
+    "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -196,6 +196,7 @@
     "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
     "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
+    "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
@@ -294,7 +295,6 @@
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
-    "7d64e45b4cd22533b1a96c8b4811573acfd55d43625975c8e92a820369199165": 1787875111.8864057,
     "7d99552e7fd313aa0e484f5f00557be2aa56cdafd39a313bd415f9e6f39358cf": 1791124350.6112869,
     "7eb50f9a589aa1a875e6f77cb53899cb505ad9d4cd29a594b1b92054e5eeb32c": 1789276782.6728384,
     "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
