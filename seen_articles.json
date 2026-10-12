@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791769898.0330148,
+  "last_post_at": 1791793156.1848714,
   "last_urgent_at": 1791769898.0330148,
   "recent_categories": [
+    "Open Source & DevTools",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Open Source For You",
     "GuruFocus",
     "Decrypt",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "CoinDesk",
     "Decrypt",
-    "Nashville Post",
-    "TechCrunch Startups"
+    "Nashville Post"
   ],
   "recent_titles": [
+    "Open-Source Voice AI Runs Entirely On ESP32-S3",
     "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition",
     "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
     "TypeSafe Raises $870 Million Series A At $7.5 Billion Valuation To Expand Jev’s Capabilities",
@@ -160,8 +161,7 @@
     "AI companies violated antitrust law with agreement to slow pace of development, lawsuit says",
     "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
     "AI Antitrust Lawsuit | Nation | hjnews.com",
-    "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs",
-    "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report"
+    "Nscale’s IPO Filing Reveals $103B in AI Contracts with Heavy Funding Needs"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -220,6 +220,7 @@
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
     "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
     "3098e856648a318a4641c38f88f304e57d0dd46ccf01faa088d6a38354dbbfa9": 1788053799.6491952,
+    "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
     "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
     "3541858a058cca11f964728d33dbeb512202784f6517500de66881de367678e1": 1789921048.8828669,
