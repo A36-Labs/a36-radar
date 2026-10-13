@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791828209.4570048,
+  "last_post_at": 1791851638.6394706,
   "last_urgent_at": 1791828209.4570048,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Reuters",
     "MyNorthwest.com",
     "Open Source For You",
     "GuruFocus",
@@ -38,10 +39,10 @@
     "Reuters",
     "36Kr",
     "The Hacker News",
-    "CoinDesk",
-    "Decrypt"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "IonQ to buy cybersecurity firm Elisity in up to $1.3 billion deal",
     "Amazon reportedly weighs $7B startup acquisition as AI spending accelerates",
     "Open-Source Voice AI Runs Entirely On ESP32-S3",
     "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition",
@@ -160,8 +161,7 @@
     "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - ABC News",
     "Identity Visibility in 2026: The Foundation of Identity Security",
     "AI companies violated antitrust law with agreement to slow pace of development, lawsuit says",
-    "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-    "AI Antitrust Lawsuit | Nation | hjnews.com"
+    "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -301,7 +301,6 @@
     "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
     "7f53ebaadd828baee0cd80bd41419c25cd8bf14b0171a67bd1196cd87dba1050": 1789146616.1236134,
     "80387b42a4f02fc4201a01f0f36b2df79c024578ba6ebb34720988d91bd7036c": 1788982080.8316088,
-    "806986fe44255f9bb0e89cff13853a276b9e5610f2fb6d9bfeb7ea28b22671e3": 1787952450.4289844,
     "80ec416e86835c7181bfb630cbac6d9997d8e77aeefdad223c9046b23988d932": 1790379523.026365,
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
     "8416205444159a9fc6b9e60dcca0dea1c118ae1e3f5334908ecaa73bf748e08d": 1790450903.850589,
@@ -357,6 +356,7 @@
     "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
+    "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
     "c46c642258dac5e844877adf8fd9c6d7e738cdc0bd4404a91f3aa07810454c70": 1788240033.3996158,
