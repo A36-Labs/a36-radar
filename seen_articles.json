@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791988947.5217628,
+  "last_post_at": 1792004357.6278722,
   "last_urgent_at": 1791935586.5446475,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Cybersecurity & Cloud"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Unite.AI",
     "ESG Today",
     "Bloomberg.com",
     "Dealroom",
@@ -38,10 +39,10 @@
     "The Economic Times",
     "Vietnam.vn",
     "TOKENPOST",
-    "eGamers.io",
-    "Startup Fortune"
+    "eGamers.io"
   ],
   "recent_titles": [
+    "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents",
     "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
     "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
     "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI",
@@ -160,8 +161,7 @@
     "Ryft lands £20m Series B to fund EU and US expansion",
     "Ahead of an IPO, the maths behind Databrick’s $190 billion valuation doesn’t add up",
     "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-    "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release",
-    "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion"
+    "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -182,7 +182,6 @@
     "098c258b9d4fa8f2a522698b12905c269cb17c5e2d0456b27b114710e4a8dd07": 1789685671.0554128,
     "098fc3550c67e9a67d8b25f4451362ca99df976d962b944bfc280c95e88c75ae": 1788600527.940505,
     "09cfe8172b9d66a0a20ccad892fe5403ef4297b588d3bc0087c6c31d5b7dc3d1": 1791276809.4524825,
-    "0a62a1d480ab92a967acd1d75084a4322aedb72afc56893e6421b1ee4fbf9d6d": 1788111405.2985842,
     "0afa7dfd979acd18725859e487cd3d6c50e1377acab33ba0beb68a5d6c4093d6": 1788917842.0007885,
     "0b5351dfcdabf365a5405deac66cf99c8a90626847a30503d5286669bafb51ab": 1790781831.2545953,
     "0c851329d1e91d708af5f302b7b632f8149b8d5bf066092f228cf23eeec0b0e1": 1788971588.585144,
@@ -273,6 +272,7 @@
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
+    "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
     "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
     "6739a1dd7cdb43e060c957b545971eafab9a33ed8a3a8aa21fd8ab0461c797b1": 1788716800.5563352,
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
