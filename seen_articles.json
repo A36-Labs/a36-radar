@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791935586.5446475,
+  "last_post_at": 1791953078.458353,
   "last_urgent_at": 1791935586.5446475,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Cybersecurity & Cloud",
     "Fintech & Payments",
-    "VC & Accelerators",
-    "Policy & Regulation"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Dealroom",
     "Decrypt",
     "BleepingComputer",
     "Kalkine Media",
@@ -38,10 +39,10 @@
     "eGamers.io",
     "Startup Fortune",
     "www.daily-sun.com",
-    "Vocal",
-    "OneSafe"
+    "Vocal"
   ],
   "recent_titles": [
+    "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI",
     "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
     "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
     "Horizon Space Acquisition I Corp. and ArcheNova Biotech Finalize $2 Billion Merger Agreement",
@@ -160,8 +161,7 @@
     "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release",
     "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion",
     "Asia's weekly TOP10 crypto news: Japan Advances Asset Tokenization, Jiangsu Labels RWA Financing illegal and MOEX to Launch BTC ETH Perpetual Futures and Top10 News",
-    "Fund Focused on Bootstrapped Founders Raises $950 Million",
-    "Xense Robotics and Dewu Form Strategic Partnership to Advance Smart Authentication"
+    "Fund Focused on Bootstrapped Founders Raises $950 Million"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -197,6 +197,7 @@
     "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
+    "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1b6589f47db45fdd4cfdbba43758d937ae461659bdafb029ebfa23c78374b204": 1788586696.505149,
     "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
@@ -216,7 +217,6 @@
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
     "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
-    "3098e856648a318a4641c38f88f304e57d0dd46ccf01faa088d6a38354dbbfa9": 1788053799.6491952,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
