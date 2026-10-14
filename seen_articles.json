@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791953078.458353,
+  "last_post_at": 1791971227.1800022,
   "last_urgent_at": 1791935586.5446475,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Cybersecurity & Cloud",
-    "Fintech & Payments",
-    "VC & Accelerators"
+    "Fintech & Payments"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Dealroom",
     "Decrypt",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "TOKENPOST",
     "eGamers.io",
     "Startup Fortune",
-    "www.daily-sun.com",
-    "Vocal"
+    "www.daily-sun.com"
   ],
   "recent_titles": [
+    "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
     "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI",
     "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
     "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
@@ -160,8 +161,7 @@
     "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
     "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release",
     "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion",
-    "Asia's weekly TOP10 crypto news: Japan Advances Asset Tokenization, Jiangsu Labels RWA Financing illegal and MOEX to Launch BTC ETH Perpetual Futures and Top10 News",
-    "Fund Focused on Bootstrapped Founders Raises $950 Million"
+    "Asia's weekly TOP10 crypto news: Japan Advances Asset Tokenization, Jiangsu Labels RWA Financing illegal and MOEX to Launch BTC ETH Perpetual Futures and Top10 News"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -289,6 +289,7 @@
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
     "71df71105db73e29e072f1e29efc0ad076b5fdb16abe1e4a03cee2dd3ded3340": 1788743233.4245145,
     "72440f6ab8bd7d5b185d74b7aa15004754a5772eeec947414e3f58a6db1c733b": 1788129700.2553298,
+    "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "73f6622e69607796c4cb01fdd7b63053ebe8466c1264fcfbccff5d9c332a4efe": 1791159266.7586284,
     "7508171905e7f806d54cbfc1c9fecbb11fe41776bb5443ccffef493d5e5a3417": 1791402924.448929,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
@@ -379,7 +380,6 @@
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
-    "d87be08854b9701c0b899516cbdcff1548ee391f286de0bac2f7dfdc444b3b54": 1788074578.1327183,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
     "dad5f85000278f1fce6f7f4a9afad9ffbf8ccbe729acae528fee9a54f0b3e63c": 1789599741.3587873,
     "dbbc0074d69b0732a3277f14a0a543fb1ad1afd41a3208796b8f90cbe3a6d04d": 1789906693.5845923,
