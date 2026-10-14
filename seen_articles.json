@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1791971227.1800022,
+  "last_post_at": 1791988947.5217628,
   "last_urgent_at": 1791935586.5446475,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "AI & Agents",
-    "Cybersecurity & Cloud",
-    "Fintech & Payments"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "ESG Today",
     "Bloomberg.com",
     "Dealroom",
     "Decrypt",
@@ -38,10 +39,10 @@
     "Vietnam.vn",
     "TOKENPOST",
     "eGamers.io",
-    "Startup Fortune",
-    "www.daily-sun.com"
+    "Startup Fortune"
   ],
   "recent_titles": [
+    "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
     "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
     "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI",
     "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
@@ -160,8 +161,7 @@
     "Ahead of an IPO, the maths behind Databrick’s $190 billion valuation doesn’t add up",
     "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
     "Open-source Memecoin launchpad adds 1,373 lines of solidity in latest development release",
-    "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion",
-    "Asia's weekly TOP10 crypto news: Japan Advances Asset Tokenization, Jiangsu Labels RWA Financing illegal and MOEX to Launch BTC ETH Perpetual Futures and Top10 News"
+    "Nscale IPO: Nvidia-Backed AI Cloud Provider Plans US Listing, Valuation May Reach $35 Billion"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -209,7 +209,6 @@
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "2713abeb4ddcce6c46331c98ff7cab8df5b5db3c9db08ecda7315db3a9b83248": 1788297458.911165,
     "272193e9980a1f7a58df709d0317c1d5f037e6b54c9f8bf2fc982557e4cb04aa": 1788646478.400819,
-    "282ffb304b8120f0d715fa4723c5daa8542aaaceb612d34713e51d70e8ea32f5": 1788095724.2149377,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
     "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
     "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
@@ -377,6 +376,7 @@
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
+    "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
