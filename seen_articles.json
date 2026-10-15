@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792091043.4185154,
+  "last_post_at": 1792102300.788147,
   "last_urgent_at": 1792091043.4185154,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Markets, IPOs & M&A"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Reuters",
     "Decrypt",
     "Central Oregon Daily",
     "Smart Water Magazine",
@@ -38,10 +39,10 @@
     "Reuters",
     "Reuters",
     "MyNorthwest.com",
-    "Open Source For You",
-    "GuruFocus"
+    "Open Source For You"
   ],
   "recent_titles": [
+    "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
     "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
     "Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round",
     "European Commission unveils Water Resilience Investment Accelerator",
@@ -160,8 +161,7 @@
     "Check Point warns of Management Server zero-day exploited in attacks",
     "Accelevation targets up to $5.4 billion valuation in US IPO",
     "AI powerhouses face antitrust lawsuit",
-    "IonQ, Inc. and SDT, Inc. Announce Strategic Partnership to Bring Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
-    "BigCommerce alerts merchants of data breach linked to Ribon apps"
+    "IonQ, Inc. and SDT, Inc. Announce Strategic Partnership to Bring Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -209,7 +209,6 @@
     "2713abeb4ddcce6c46331c98ff7cab8df5b5db3c9db08ecda7315db3a9b83248": 1788297458.911165,
     "272193e9980a1f7a58df709d0317c1d5f037e6b54c9f8bf2fc982557e4cb04aa": 1788646478.400819,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
-    "2a04178496cd0a081c0fd729e29843e5bc8d06094575d0cb14cdc43a16c7a440": 1788209247.7558284,
     "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
@@ -299,6 +298,7 @@
     "7eb50f9a589aa1a875e6f77cb53899cb505ad9d4cd29a594b1b92054e5eeb32c": 1789276782.6728384,
     "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
     "7f53ebaadd828baee0cd80bd41419c25cd8bf14b0171a67bd1196cd87dba1050": 1789146616.1236134,
+    "7f678ce2eaaf83ff716c37f695863adca867d904b6e66577dc91fe10244b1391": 1792102300.788147,
     "80387b42a4f02fc4201a01f0f36b2df79c024578ba6ebb34720988d91bd7036c": 1788982080.8316088,
     "80ec416e86835c7181bfb630cbac6d9997d8e77aeefdad223c9046b23988d932": 1790379523.026365,
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
