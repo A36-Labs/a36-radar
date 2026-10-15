@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792041026.388876,
+  "last_post_at": 1792058699.4834464,
   "last_urgent_at": 1791935586.5446475,
   "recent_categories": [
+    "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Smart Water Magazine",
     "Financial Times",
     "Axios",
     "CryptoNinjas",
@@ -38,10 +39,10 @@
     "Open Source For You",
     "GuruFocus",
     "Decrypt",
-    "Pulse 2.0",
-    "The Economic Times"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "European Commission unveils Water Resilience Investment Accelerator",
     "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
     "Scoop: Bedrock Robotics raising $600M to automate construction",
     "Federated Hermes Targets $14B Tokenized Fund Market With Prometheum Q1 2027 Launch",
@@ -160,8 +161,7 @@
     "IonQ, Inc. and SDT, Inc. Announce Strategic Partnership to Bring Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
     "BigCommerce alerts merchants of data breach linked to Ribon apps",
     "The PenFed Foundation for Military Heroes Announces Veteran Entrepreneur Accelerator Program September 2026 Cohort",
-    "Smart Ring Maker Oura, Backers Seek $2.2 Billion in US IPO",
-    "Ryft lands £20m Series B to fund EU and US expansion"
+    "Smart Ring Maker Oura, Backers Seek $2.2 Billion in US IPO"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -235,6 +235,7 @@
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
+    "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
     "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
@@ -424,7 +425,6 @@
     "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
-    "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296,
-    "fe334980a3ec4bd6d9e186e97a931f8da13d7d1eaf8d1a57fca06f0fa12bbbb9": 1788159512.2339423
+    "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296
   }
 }
