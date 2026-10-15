@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792024576.893949,
+  "last_post_at": 1792041026.388876,
   "last_urgent_at": 1791935586.5446475,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Policy & Regulation",
-    "Frontier Tech"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Financial Times",
     "Axios",
     "CryptoNinjas",
     "Unite.AI",
@@ -38,10 +39,10 @@
     "GuruFocus",
     "Decrypt",
     "Pulse 2.0",
-    "The Economic Times",
-    "Vietnam.vn"
+    "The Economic Times"
   ],
   "recent_titles": [
+    "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
     "Scoop: Bedrock Robotics raising $600M to automate construction",
     "Federated Hermes Targets $14B Tokenized Fund Market With Prometheum Q1 2027 Launch",
     "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents",
@@ -160,13 +161,11 @@
     "BigCommerce alerts merchants of data breach linked to Ribon apps",
     "The PenFed Foundation for Military Heroes Announces Veteran Entrepreneur Accelerator Program September 2026 Cohort",
     "Smart Ring Maker Oura, Backers Seek $2.2 Billion in US IPO",
-    "Ryft lands £20m Series B to fund EU and US expansion",
-    "Ahead of an IPO, the maths behind Databrick’s $190 billion valuation doesn’t add up"
+    "Ryft lands £20m Series B to fund EU and US expansion"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
-    "0318b728bddffada57088556eef7edbf35c2b1c5bc8426ccb2d3032eb6e409b0": 1788137759.5588465,
     "03a4d2cd5f850ddf0b07c8b70eeaa0ba343c3c77ede3ad6dc5548d3199feceec": 1789428741.4428759,
     "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
@@ -234,6 +233,7 @@
     "3e157c154cc538daa3f5e01a00aa55690723b14f87d09df34eb1d43c530546e2": 1790691661.1928234,
     "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
+    "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
