@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792143698.4854188,
+  "last_post_at": 1792160480.299889,
   "last_urgent_at": 1792091043.4185154,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "AI & Agents",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "CyberSecurityNews",
     "Pulse 2.0",
     "Kalkine Media",
@@ -38,10 +39,10 @@
     "Dealroom",
     "Decrypt",
     "BleepingComputer",
-    "Kalkine Media",
-    "Reuters"
+    "Kalkine Media"
   ],
   "recent_titles": [
+    "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
     "Proofpoint to Acquire Varonis in Massive $6.3 Billion AI Cybersecurity Deal",
     "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI Agents In Commercial Real Estate Lending",
     "Ultrobotix Launches Exploratory Partnership on Humanoid Robotics with Israeli Food Manufacturer",
@@ -160,8 +161,7 @@
     "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
     "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
     "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "Nscale IPO Filing Reveals $103.4 Billion In Active And Contracted AI Infrastructure Agreements",
-    "Check Point warns of Management Server zero-day exploited in attacks"
+    "Nscale IPO Filing Reveals $103.4 Billion In Active And Contracted AI Infrastructure Agreements"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -246,6 +246,7 @@
     "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
     "4c39d2185587e19ab3f6b0c9230c93ed915b3e5b9ee312c53f563f599cf4d366": 1791525566.4402003,
     "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
+    "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
     "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
     "4ea4ff1fb351de177b3cab573a7d91a0fb03f7c642e553320c4cab8e81a556b2": 1788478214.6478639,
@@ -378,7 +379,6 @@
     "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
-    "d30d7e4ad59c182d84ba0f14473487c3947d6a7bfac372dafcd690a9df7757f7": 1788257748.8203897,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
