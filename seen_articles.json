@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792126592.6519156,
+  "last_post_at": 1792143698.4854188,
   "last_urgent_at": 1792091043.4185154,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "AI & Agents",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CyberSecurityNews",
     "Pulse 2.0",
     "Kalkine Media",
     "Reuters",
@@ -38,10 +39,10 @@
     "Decrypt",
     "BleepingComputer",
     "Kalkine Media",
-    "Reuters",
     "Reuters"
   ],
   "recent_titles": [
+    "Proofpoint to Acquire Varonis in Massive $6.3 Billion AI Cybersecurity Deal",
     "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI Agents In Commercial Real Estate Lending",
     "Ultrobotix Launches Exploratory Partnership on Humanoid Robotics with Israeli Food Manufacturer",
     "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
@@ -160,8 +161,7 @@
     "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
     "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
     "Nscale IPO Filing Reveals $103.4 Billion In Active And Contracted AI Infrastructure Agreements",
-    "Check Point warns of Management Server zero-day exploited in attacks",
-    "Accelevation targets up to $5.4 billion valuation in US IPO"
+    "Check Point warns of Management Server zero-day exploited in attacks"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -233,6 +233,7 @@
     "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
+    "46433255a5367ef8b4c502c435e29212db4dff38d81922265eb69025a26b7924": 1792143698.4854188,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
@@ -359,7 +360,6 @@
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
-    "c46c642258dac5e844877adf8fd9c6d7e738cdc0bd4404a91f3aa07810454c70": 1788240033.3996158,
     "c49123acfcb972d8f65296e4b444252e216ae57774deca51cd610c1b35c25969": 1790000404.2970216,
     "c5b7f3445b635626f43269c2b62d72a81933c6f28c9a19f4a83e4b602986713d": 1788569579.2964551,
     "c5e25a534fc0888e516ed1967b5ce9d59ad80081c078d160f2f7768b05310401": 1790095856.757123,
