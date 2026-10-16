@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792174409.6254666,
-  "last_urgent_at": 1792174409.6254666,
+  "last_post_at": 1792185780.3649104,
+  "last_urgent_at": 1792185780.3649104,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Reuters",
     "Benzinga",
     "Crunchbase News",
     "CyberSecurityNews",
@@ -38,10 +39,10 @@
     "ESG Today",
     "Bloomberg.com",
     "Dealroom",
-    "Decrypt",
-    "BleepingComputer"
+    "Decrypt"
   ],
   "recent_titles": [
+    "SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports",
     "Deal Dispatch: Ithaca Holdings Buys Bumble for $1.3B, The Knot Acquires Zola, Character.ai Bankruptcy",
     "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
     "Proofpoint to Acquire Varonis in Massive $6.3 Billion AI Cybersecurity Deal",
@@ -160,8 +161,7 @@
     "Burnham Seeks `Sweet Spot’ in AI Regulation",
     "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million",
     "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
-    "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
-    "Snorkel AI triples valuation to $3.5B as demand for AI training data booms"
+    "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -206,7 +206,6 @@
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
-    "2713abeb4ddcce6c46331c98ff7cab8df5b5db3c9db08ecda7315db3a9b83248": 1788297458.911165,
     "272193e9980a1f7a58df709d0317c1d5f037e6b54c9f8bf2fc982557e4cb04aa": 1788646478.400819,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
     "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
@@ -348,7 +347,6 @@
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
-    "b9f8bd3a9b272f51ea692bb80785849949928d2997374ba38931f9b5a572c6eb": 1788287087.1918485,
     "ba2542e73d9f336bd7ddb1a17094d4a3f6f1452f398a63e280366ca810b41c6d": 1792024576.893949,
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
     "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
@@ -425,6 +423,7 @@
     "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
     "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
+    "fb6e04f88a26c54e4b6839cdc577b2c93574cbbd8a281a8c01484034af809963": 1792185780.3649104,
     "fce61908dedfcf7b14065505bbc6f0946e92b94c337a1f22c438ad73688183e7": 1792126592.6519156,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
     "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296
