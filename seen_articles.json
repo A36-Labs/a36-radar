@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792160480.299889,
-  "last_urgent_at": 1792091043.4185154,
+  "last_post_at": 1792174409.6254666,
+  "last_urgent_at": 1792174409.6254666,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Benzinga",
     "Crunchbase News",
     "CyberSecurityNews",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Dealroom",
     "Decrypt",
-    "BleepingComputer",
-    "Kalkine Media"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Deal Dispatch: Ithaca Holdings Buys Bumble for $1.3B, The Knot Acquires Zola, Character.ai Bankruptcy",
     "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
     "Proofpoint to Acquire Varonis in Massive $6.3 Billion AI Cybersecurity Deal",
     "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI Agents In Commercial Real Estate Lending",
@@ -160,8 +161,7 @@
     "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million",
     "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
     "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program",
-    "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "Nscale IPO Filing Reveals $103.4 Billion In Active And Contracted AI Infrastructure Agreements"
+    "Snorkel AI triples valuation to $3.5B as demand for AI training data booms"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -319,7 +319,6 @@
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
     "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
-    "9560ced8e2e312a6da49505c7eee051844eb2f36214808bdce78e73b190bf3cc": 1788274723.7833176,
     "96b3eb649ff73ad0d3ed28bf7f60c1738d28b4f188a49fe2a39e5c334aa583c8": 1791014405.9573197,
     "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
@@ -408,6 +407,7 @@
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
     "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
     "ea5d3790ab74a03cafe493d90854e875a3a384633c9b0fe718739f73cfbd1048": 1789868622.4103997,
+    "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
     "eb8daa4f117d5e0f9497831782b5d00f37078953bb1c7eecbe0d24e33d48656f": 1788461169.5458953,
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
