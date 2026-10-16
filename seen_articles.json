@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792110572.9384494,
+  "last_post_at": 1792126592.6519156,
   "last_urgent_at": 1792091043.4185154,
   "recent_categories": [
+    "AI & Agents",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Pulse 2.0",
     "Kalkine Media",
     "Reuters",
     "Decrypt",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Kalkine Media",
     "Reuters",
-    "Reuters",
-    "MyNorthwest.com"
+    "Reuters"
   ],
   "recent_titles": [
+    "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI Agents In Commercial Real Estate Lending",
     "Ultrobotix Launches Exploratory Partnership on Humanoid Robotics with Israeli Food Manufacturer",
     "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
     "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
@@ -160,8 +161,7 @@
     "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
     "Nscale IPO Filing Reveals $103.4 Billion In Active And Contracted AI Infrastructure Agreements",
     "Check Point warns of Management Server zero-day exploited in attacks",
-    "Accelevation targets up to $5.4 billion valuation in US IPO",
-    "AI powerhouses face antitrust lawsuit"
+    "Accelevation targets up to $5.4 billion valuation in US IPO"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -425,6 +425,7 @@
     "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
     "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
+    "fce61908dedfcf7b14065505bbc6f0946e92b94c337a1f22c438ad73688183e7": 1792126592.6519156,
     "fd8f82d3e756fc3084fb17058787ba69c5792a47555f2dfaebc387f9b080e235": 1789217341.8435287,
     "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296
   }
