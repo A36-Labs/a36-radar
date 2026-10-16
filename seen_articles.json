@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792185780.3649104,
+  "last_post_at": 1792194621.052178,
   "last_urgent_at": 1792185780.3649104,
   "recent_categories": [
+    "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Policy & Regulation",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "FinTech Global",
     "Reuters",
     "Benzinga",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "Unite.AI",
     "ESG Today",
     "Bloomberg.com",
-    "Dealroom",
-    "Decrypt"
+    "Dealroom"
   ],
   "recent_titles": [
+    "FinTech funding tops $2.8bn as Ramp leads with $1.85bn raise",
     "SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports",
     "Deal Dispatch: Ithaca Holdings Buys Bumble for $1.3B, The Knot Acquires Zola, Character.ai Bankruptcy",
     "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
@@ -160,8 +161,7 @@
     "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation",
     "Burnham Seeks `Sweet Spot’ in AI Regulation",
     "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million",
-    "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams",
-    "SoFi, Mastercard Launch Stablecoin Settlement Across $25 Billion Card Program"
+    "Chamelio Raises $26M to Put AI Agents to Work in Corporate Legal Teams"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -312,7 +312,6 @@
     "8c3e1d917e67cd10f5e75834402aefbf01f901d201cc4ca6f3610b6e9f363535": 1789815039.9417398,
     "8c5da3e1ced1c5a4415088862918359166039f86f09eabec3efaaef4c2127ec1": 1790388238.6350396,
     "8e7fd0505ce61006647bc7715a1032c3e912358c72d9b852d24244e2057fbcaf": 1789608071.8224158,
-    "8f68d9cae058456e758b40ae39692cea581ac9ec9e5e16ffcbae6b6584bb6e26": 1788305008.7645707,
     "913d2408ff63ee55aaa6add2ce1abe16ef3e7b250d4939ccc8408558c0b544e4": 1789338180.563906,
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
@@ -346,6 +345,7 @@
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
     "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
+    "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
     "ba2542e73d9f336bd7ddb1a17094d4a3f6f1452f398a63e280366ca810b41c6d": 1792024576.893949,
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
