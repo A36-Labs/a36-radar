@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792246222.0068867,
+  "last_post_at": 1792257543.200251,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Web3 & Digital Assets"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Fortune",
     "Indian Startup News",
     "富途牛牛",
@@ -38,10 +39,10 @@
     "Central Oregon Daily",
     "Smart Water Magazine",
     "Financial Times",
-    "Axios",
-    "CryptoNinjas"
+    "Axios"
   ],
   "recent_titles": [
+    "Drupal patches critical RCE flaws, warns exploits may emerge soon",
     "Anthropic’s Dario Amodei is steering a possible $2 trillion IPO—but he says up to 40% of his time goes to making sure company culture is good",
     "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
     "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
@@ -160,8 +161,7 @@
     "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
     "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
     "Kawasaki Robotics, Dexterity expand partnership",
-    "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy",
-    "VC firm Bessemer now has another $5.75B to invest in (what else?) AI"
+    "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -177,7 +177,6 @@
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
     "0936b9ddd91512f1098f19fa8dfc91b3bbe7fd57f36ef21129c42a5e46a7d9c7": 1789711339.938865,
-    "096f3703717dd029a0f5610cfa5503f4adb12114670274b0ff989087c984194b": 1788361744.3495393,
     "098c258b9d4fa8f2a522698b12905c269cb17c5e2d0456b27b114710e4a8dd07": 1789685671.0554128,
     "098fc3550c67e9a67d8b25f4451362ca99df976d962b944bfc280c95e88c75ae": 1788600527.940505,
     "09cfe8172b9d66a0a20ccad892fe5403ef4297b588d3bc0087c6c31d5b7dc3d1": 1791276809.4524825,
@@ -236,6 +235,7 @@
     "46433255a5367ef8b4c502c435e29212db4dff38d81922265eb69025a26b7924": 1792143698.4854188,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
+    "47273f782007afe04e19d65c976c40e4b16a2fc2234d1cb501a5dd8f467b9ac0": 1792257543.200251,
     "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
     "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
