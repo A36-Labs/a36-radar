@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792273336.4715807,
+  "last_post_at": 1792279862.4287822,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Open Source & DevTools",
     "AI & Agents",
     "Frontier Tech",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Register",
     "Forkast News",
     "Pluang",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Kalkine Media",
     "Reuters",
     "Decrypt",
-    "Central Oregon Daily",
-    "Smart Water Magazine"
+    "Central Oregon Daily"
   ],
   "recent_titles": [
+    "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "India’s CERT-In Issues First Incident-Driven Advisory Categorizing AI Agents as an Active Attack Surface",
     "AiMOGA launches Mobo, a home companion humanoid robot, with global pre-orders starting at 2026 Chery Summit",
     "Drupal patches critical RCE flaws, warns exploits may emerge soon",
@@ -160,8 +161,7 @@
     "Warner pushing new AI safety regulation legislation",
     "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC",
     "Databricks’ Latest Acquisition Brings Spreadsheet Startup Into Its $190 Billion AI Push",
-    "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-    "CISA: Ransomware gangs now exploiting critical TeamCity flaw"
+    "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -337,6 +337,7 @@
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a8ab8860cef40bbda987c31e27e0911174cfa0742aad2ad6e7edd4e7747e4770": 1790892064.9304628,
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
+    "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
