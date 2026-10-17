@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792201752.1225312,
+  "last_post_at": 1792217796.4742599,
   "last_urgent_at": 1792185780.3649104,
   "recent_categories": [
+    "Policy & Regulation",
     "Web3 & Digital Assets",
     "Fintech & Payments",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Web3 & Digital Assets",
     "AI & Agents",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "富途牛牛",
     "BigGo Finance",
     "FinTech Global",
     "Reuters",
@@ -38,10 +39,10 @@
     "Axios",
     "CryptoNinjas",
     "Unite.AI",
-    "ESG Today",
-    "Bloomberg.com"
+    "ESG Today"
   ],
   "recent_titles": [
+    "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
     "Coinbase and Marqeta Expand Partnership with Corporate Stablecoin Payment Cards",
     "FinTech funding tops $2.8bn as Ramp leads with $1.85bn raise",
     "SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports",
@@ -160,8 +161,7 @@
     "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy",
     "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
     "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation",
-    "Burnham Seeks `Sweet Spot’ in AI Regulation",
-    "Brahma AI raises $150 million at $2 billion valuation, Multiples invests $100 million"
+    "Burnham Seeks `Sweet Spot’ in AI Regulation"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -199,6 +199,7 @@
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1b6589f47db45fdd4cfdbba43758d937ae461659bdafb029ebfa23c78374b204": 1788586696.505149,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
+    "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
     "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
@@ -335,7 +336,6 @@
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
     "a34aa0dbb18939f5a299f26cb29877763d2f088c975ebd5cad41bd740a269b06": 1788990945.1269774,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
-    "a5ef68d3910a2bf197a170f8d68b8fa03d3c0ce9e7ba5d68cd8fe2de7a84099d": 1788328875.5095563,
     "a8ab8860cef40bbda987c31e27e0911174cfa0742aad2ad6e7edd4e7747e4770": 1790892064.9304628,
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
