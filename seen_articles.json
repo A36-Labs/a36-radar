@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792234633.799072,
-  "last_urgent_at": 1792185780.3649104,
+  "last_post_at": 1792246222.0068867,
+  "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Policy & Regulation",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Web3 & Digital Assets",
-    "AI & Agents"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Fortune",
     "Indian Startup News",
     "富途牛牛",
     "BigGo Finance",
@@ -38,10 +39,10 @@
     "Smart Water Magazine",
     "Financial Times",
     "Axios",
-    "CryptoNinjas",
-    "Unite.AI"
+    "CryptoNinjas"
   ],
   "recent_titles": [
+    "Anthropic’s Dario Amodei is steering a possible $2 trillion IPO—but he says up to 40% of his time goes to making sure company culture is good",
     "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
     "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
     "Coinbase and Marqeta Expand Partnership with Corporate Stablecoin Payment Cards",
@@ -160,8 +161,7 @@
     "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
     "Kawasaki Robotics, Dexterity expand partnership",
     "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy",
-    "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-    "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation"
+    "VC firm Bessemer now has another $5.75B to invest in (what else?) AI"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -363,12 +363,12 @@
     "c5b7f3445b635626f43269c2b62d72a81933c6f28c9a19f4a83e4b602986713d": 1788569579.2964551,
     "c5e25a534fc0888e516ed1967b5ce9d59ad80081c078d160f2f7768b05310401": 1790095856.757123,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
-    "c63fc640eabb5e1ef13dc74527989fa8cff132f3f899097d369ceb31428aa7ac": 1788347465.0073433,
     "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
     "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
     "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
     "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
+    "cd0aed9c49eae32215df2fa5b2cab75b622e1860e17de51101930aa82de45e3e": 1792246222.0068867,
     "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
     "cde3e5399648d36c07fdfe5eedda5772de58fba3c3ebe02f8f075fdf90357cd8": 1790539516.5556958,
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
