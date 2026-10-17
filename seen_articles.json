@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792217796.4742599,
+  "last_post_at": 1792234633.799072,
   "last_urgent_at": 1792185780.3649104,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "AI & Agents",
-    "Startups & Funding"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Indian Startup News",
     "富途牛牛",
     "BigGo Finance",
     "FinTech Global",
@@ -38,10 +39,10 @@
     "Financial Times",
     "Axios",
     "CryptoNinjas",
-    "Unite.AI",
-    "ESG Today"
+    "Unite.AI"
   ],
   "recent_titles": [
+    "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
     "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
     "Coinbase and Marqeta Expand Partnership with Corporate Stablecoin Payment Cards",
     "FinTech funding tops $2.8bn as Ramp leads with $1.85bn raise",
@@ -160,8 +161,7 @@
     "Kawasaki Robotics, Dexterity expand partnership",
     "IBM's Open-Source Offensive: Lightwell Launch, Lunar AI and a $1 Billion Quantum Subsidy",
     "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-    "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation",
-    "Burnham Seeks `Sweet Spot’ in AI Regulation"
+    "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -418,6 +418,7 @@
     "f5c293af621de0cbf03df68110f958385d8a9a2cea3f0cdaca92edc6edbc11a3": 1790723407.2034397,
     "f5d17e7eef96088bb2a4001e6a97a2dcaa64f083321d5b459985fe7edc317dbe": 1791875054.5598104,
     "f6a83fc9a583af5016fa4b5aaca827bc1c1f0a588c44e8a93e85f045ad184c1b": 1788623985.0688732,
+    "f72d0e79f7400cf7362403c27ca6ce498f8328c6135bffc5206cb1db6670ea81": 1792234633.799072,
     "f8e154c54f7f1eaf8647e9161d1d2c9cb30603d67066807d7513fb02437b2175": 1789854168.2326117,
     "f8f2dcf6e5410981393ce5ab48642d54a1275cb93d5333344d08a7b6c93435bb": 1788534019.089479,
     "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
