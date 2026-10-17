@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792265511.633425,
+  "last_post_at": 1792273336.4715807,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "AI & Agents",
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "VC & Accelerators",
-    "Markets, IPOs & M&A"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Forkast News",
     "Pluang",
     "BleepingComputer",
     "Fortune",
@@ -38,10 +39,10 @@
     "Reuters",
     "Decrypt",
     "Central Oregon Daily",
-    "Smart Water Magazine",
-    "Financial Times"
+    "Smart Water Magazine"
   ],
   "recent_titles": [
+    "India’s CERT-In Issues First Incident-Driven Advisory Categorizing AI Agents as an Active Attack Surface",
     "AiMOGA launches Mobo, a home companion humanoid robot, with global pre-orders starting at 2026 Chery Summit",
     "Drupal patches critical RCE flaws, warns exploits may emerge soon",
     "Anthropic’s Dario Amodei is steering a possible $2 trillion IPO—but he says up to 40% of his time goes to making sure company culture is good",
@@ -160,8 +161,7 @@
     "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC",
     "Databricks’ Latest Acquisition Brings Spreadsheet Startup Into Its $190 Billion AI Push",
     "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-    "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-    "Kawasaki Robotics, Dexterity expand partnership"
+    "CISA: Ransomware gangs now exploiting critical TeamCity flaw"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -185,7 +185,6 @@
     "0c851329d1e91d708af5f302b7b632f8149b8d5bf066092f228cf23eeec0b0e1": 1788971588.585144,
     "0ccdfd2e4cbb20214297574151d0c92cc5ed038a91d289b94716edd7cb83c65e": 1790559279.275614,
     "0d5157a7bb0874e46955c268df81da109aedb24076b6fcc3a02cb981b8af75c1": 1790212893.7010887,
-    "0f6ad8f3505157fcb95c76315998f42d9f27411c7e4032b70be22242dc104888": 1788384168.1467261,
     "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
     "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
@@ -357,6 +356,7 @@
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
+    "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
     "c49123acfcb972d8f65296e4b444252e216ae57774deca51cd610c1b35c25969": 1790000404.2970216,
