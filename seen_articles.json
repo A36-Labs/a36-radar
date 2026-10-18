@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792305180.2677822,
+  "last_post_at": 1792323572.8118434,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Builder Ecosystem",
     "Web3 & Digital Assets",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "AI & Agents",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Startup Fortune",
     "The Manila Times",
     "CoinDesk",
     "The Register",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "CyberSecurityNews",
     "Pulse 2.0",
-    "Kalkine Media",
-    "Reuters"
+    "Kalkine Media"
   ],
   "recent_titles": [
+    "Revolut hits a $121.2 billion valuation mark as IPO talk turns serious",
     "U-topia Launches Public Beta as Global Builders Gather for U-Hackathon",
     "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
@@ -160,8 +161,7 @@
     "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
     "Enterprise browser startup Island raises $400m at $6.4bn valuation",
     "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "Warner pushing new AI safety regulation legislation",
-    "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC"
+    "Warner pushing new AI safety regulation legislation"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -283,6 +283,7 @@
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
+    "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
     "71df71105db73e29e072f1e29efc0ad076b5fdb16abe1e4a03cee2dd3ded3340": 1788743233.4245145,
