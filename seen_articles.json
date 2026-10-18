@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792279862.4287822,
+  "last_post_at": 1792286957.4591024,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Open Source & DevTools",
     "AI & Agents",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "CoinDesk",
     "The Register",
     "Forkast News",
     "Pluang",
@@ -38,10 +39,10 @@
     "Pulse 2.0",
     "Kalkine Media",
     "Reuters",
-    "Decrypt",
-    "Central Oregon Daily"
+    "Decrypt"
   ],
   "recent_titles": [
+    "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "India’s CERT-In Issues First Incident-Driven Advisory Categorizing AI Agents as an Active Attack Surface",
     "AiMOGA launches Mobo, a home companion humanoid robot, with global pre-orders starting at 2026 Chery Summit",
@@ -160,8 +161,7 @@
     "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "Warner pushing new AI safety regulation legislation",
     "Cyber startup Island raises $400 million, hits $6.4 billion valuation- CNBC",
-    "Databricks’ Latest Acquisition Brings Spreadsheet Startup Into Its $190 Billion AI Push",
-    "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail"
+    "Databricks’ Latest Acquisition Brings Spreadsheet Startup Into Its $190 Billion AI Push"
   ],
   "seen": {
     "01780e269d748d7ecb231a93c3a56cabffddfdb74af4ecc168f33483c2cabfe6": 1788416853.7417564,
@@ -263,7 +263,6 @@
     "586845c3fe89407a98dde4782994ba742629fe3ceb685eca4a28a0536e3654b9": 1791935586.5446475,
     "5989a9659de2d1ecfff00d1c50c1faaab5b1bb16c2b6629a074dd743d9a9b58b": 1791138025.1711354,
     "5a73aa7e366ba8681775aa1f202eb986045729f5c7fdd4a006d985058119022f": 1790357719.232289,
-    "5b3da35fdcbd4b329dbc371019606e2a0b88b220644de6a605d4255eb1474b44": 1788398694.761299,
     "5ba54aefbc89fb7f2a05401e2a7fbd78900e3ae58cc99be0922810e7ab9c0a4e": 1789743468.9803452,
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
     "5d49df2e53f6cee0118b263d1f891ab3a9d0f04bd089fc1e25260f43146e7b89": 1789117556.3588347,
@@ -280,7 +279,6 @@
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
-    "68df9e41a4d8089da9c736576605137c267ec6c5d95dcaeec97712ed4cc36891": 1788391925.1213722,
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
@@ -302,6 +300,7 @@
     "7f678ce2eaaf83ff716c37f695863adca867d904b6e66577dc91fe10244b1391": 1792102300.788147,
     "7fd990c0b6603d12f49820d4b2197cc4b2ed46adb4b9d3a4d5309c16efe8da64": 1792265511.633425,
     "80387b42a4f02fc4201a01f0f36b2df79c024578ba6ebb34720988d91bd7036c": 1788982080.8316088,
+    "804f130984ddc5c47c2f999173ea3ccfb0c85a458d064853654dfc39bff3d4bd": 1792286957.4591024,
     "80ec416e86835c7181bfb630cbac6d9997d8e77aeefdad223c9046b23988d932": 1790379523.026365,
     "819aa0ef729937b45dcd31db106e18b6c36e0ecfcba83de73391003655306225": 1788709396.5009358,
     "8416205444159a9fc6b9e60dcca0dea1c118ae1e3f5334908ecaa73bf748e08d": 1790450903.850589,
