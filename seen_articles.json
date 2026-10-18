@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792323572.8118434,
+  "last_post_at": 1792335246.6637492,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Builder Ecosystem",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "AI & Agents",
-    "Frontier Tech"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Business Standard",
     "Startup Fortune",
     "The Manila Times",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Benzinga",
     "Crunchbase News",
     "CyberSecurityNews",
-    "Pulse 2.0",
-    "Kalkine Media"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "India's VC funding for startups stays flat at $10.9 billion in 2026 so far",
     "Revolut hits a $121.2 billion valuation mark as IPO talk turns serious",
     "U-topia Launches Public Beta as Global Builders Gather for U-Hackathon",
     "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -160,8 +161,7 @@
     "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
     "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
     "Enterprise browser startup Island raises $400m at $6.4bn valuation",
-    "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "Warner pushing new AI safety regulation legislation"
+    "Lightspeed targets $250M for new India fund, focusing on early-stage AI"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -259,7 +259,6 @@
     "54e300a894d57b600db50bbf1472a143894f1b8abf0013f260fd9b005459495c": 1790812678.071006,
     "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
     "55069b81601ce81d7dd75080500b8f265887c37ce04958da0d3863bdd53c657e": 1789188267.6659057,
-    "57f081193357a041cc059cf213c4cc511c2df568ccdda4d276398686cbc626e6": 1788435643.6970878,
     "586845c3fe89407a98dde4782994ba742629fe3ceb685eca4a28a0536e3654b9": 1791935586.5446475,
     "5989a9659de2d1ecfff00d1c50c1faaab5b1bb16c2b6629a074dd743d9a9b58b": 1791138025.1711354,
     "5a73aa7e366ba8681775aa1f202eb986045729f5c7fdd4a006d985058119022f": 1790357719.232289,
@@ -267,6 +266,7 @@
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
     "5d49df2e53f6cee0118b263d1f891ab3a9d0f04bd089fc1e25260f43146e7b89": 1789117556.3588347,
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
+    "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
     "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
