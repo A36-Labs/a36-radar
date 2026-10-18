@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792346533.9235616,
+  "last_post_at": 1792355646.941615,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Fintech & Payments",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Accountants Daily",
     "PYMNTS.com",
     "Business Standard",
     "Startup Fortune",
@@ -38,10 +39,10 @@
     "FinTech Global",
     "Reuters",
     "Benzinga",
-    "Crunchbase News",
-    "CyberSecurityNews"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Accounting firm investigating ransomware attack",
     "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance",
     "India's VC funding for startups stays flat at $10.9 billion in 2026 so far",
     "Revolut hits a $121.2 billion valuation mark as IPO talk turns serious",
@@ -160,8 +161,7 @@
     "Pair of $400m rounds drive this week’s FinTech funding",
     "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-    "Enterprise browser startup Island raises $400m at $6.4bn valuation"
+    "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -348,6 +348,7 @@
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
+    "b594f873c2599ea4a9bb03781d3678a33c91225c014aa7663ca3d5e523909ffd": 1792355646.941615,
     "b6b3144f3ce8c06a9c3f78aed995250a95086b258f7f316575c3dd99fe5b3909": 1792201752.1225312,
     "ba2542e73d9f336bd7ddb1a17094d4a3f6f1452f398a63e280366ca810b41c6d": 1792024576.893949,
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
@@ -409,7 +410,6 @@
     "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
     "ea5d3790ab74a03cafe493d90854e875a3a384633c9b0fe718739f73cfbd1048": 1789868622.4103997,
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
-    "eb8daa4f117d5e0f9497831782b5d00f37078953bb1c7eecbe0d24e33d48656f": 1788461169.5458953,
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
