@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792430756.022372,
-  "last_urgent_at": 1792246222.0068867,
+  "last_post_at": 1792446220.4691248,
+  "last_urgent_at": 1792446220.4691248,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Reuters",
     "The Economic Times",
     "TradingKey",
@@ -38,10 +39,10 @@
     "Pluang",
     "BleepingComputer",
     "Fortune",
-    "Indian Startup News",
-    "富途牛牛"
+    "Indian Startup News"
   ],
   "recent_titles": [
+    "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
     "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
     "Even Healthcare raises $50 million, triples Series A valuation",
     "SoftBank Said to Consider $18 Billion Acquisition of Allied Universal: What Does AI Security Strategy Mean for SoftBank?",
@@ -160,8 +161,7 @@
     "mRNA flu vaccine wins FDA approval, promising a faster shot",
     "Nscale Raises $3.36 Billion In Pre-IPO Convertible Financing Led By Third Point",
     "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
-    "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture",
-    "Corgi Is Now Worth $5 Billion Thanks To Four Funding Rounds Five Months"
+    "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -225,7 +225,6 @@
     "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
     "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
     "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
-    "3d8caaa7ef22e29e66a0983e965fefeb08c87920c0a89bdcacabf061a71d1361": 1788555142.2127693,
     "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
     "3e157c154cc538daa3f5e01a00aa55690723b14f87d09df34eb1d43c530546e2": 1790691661.1928234,
     "429def63f2e1fcf1a12d8f7a873c79dd7e7b851e628ff18fda6c10f21d0dadaa": 1792362891.6880653,
@@ -330,7 +329,6 @@
     "a07663565d841dccfbc375cedaacd3f2a7c6203e5ac7c3860bb4333aa4bb7bad": 1790058102.1831868,
     "a0b15426f63900bad93ffa7548d6dcc358063be1176ff526a19a43bd57f33c23": 1789676056.6748195,
     "a10225f8255c19fac2239a7d9b4e20fb887d9db87e602c6da0045774507a6e1b": 1789345121.9856682,
-    "a1aeffd865744c8bec6edf8d4ed888551a1de09c19ffd15b57f1e867888f4d21": 1788545991.625948,
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a26e2162b0329e452a6286321dcc02a45130c537dd2eb404bb2a1453e84a2ead": 1789228400.0895278,
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
@@ -348,6 +346,7 @@
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
+    "b53c3a938e5cd75af31f97bca7715aade1240156efe5246f5d6c65de4796596e": 1792446220.4691248,
     "b594f873c2599ea4a9bb03781d3678a33c91225c014aa7663ca3d5e523909ffd": 1792355646.941615,
     "b6b3144f3ce8c06a9c3f78aed995250a95086b258f7f316575c3dd99fe5b3909": 1792201752.1225312,
     "ba2542e73d9f336bd7ddb1a17094d4a3f6f1452f398a63e280366ca810b41c6d": 1792024576.893949,
