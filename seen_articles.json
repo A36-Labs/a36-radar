@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792362891.6880653,
+  "last_post_at": 1792369673.4230442,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Frontier Tech",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Web3 & Digital Assets",
     "Fintech & Payments",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "PR Newswire",
     "Crowdfund Insider",
     "Accountants Daily",
     "PYMNTS.com",
@@ -38,10 +39,10 @@
     "富途牛牛",
     "BigGo Finance",
     "FinTech Global",
-    "Reuters",
-    "Benzinga"
+    "Reuters"
   ],
   "recent_titles": [
+    "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listin",
     "Tokenization, Regulation And Crypto Investing: Digital Assets Thoughts Of The Week",
     "Accounting firm investigating ransomware attack",
     "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance",
@@ -160,8 +161,7 @@
     "Corgi Is Now Worth $5 Billion Thanks To Four Funding Rounds Five Months",
     "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
     "Pair of $400m rounds drive this week’s FinTech funding",
-    "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing"
+    "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -249,7 +249,6 @@
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
     "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
-    "4ea4ff1fb351de177b3cab573a7d91a0fb03f7c642e553320c4cab8e81a556b2": 1788478214.6478639,
     "4f1eee3433eb221c61ef3f9a71fd8cbcb0faf236e5c802d0444aca6a6df54c2f": 1789493933.9223053,
     "4f593279d082018b2ee7fb316005ede8b098c7f8805042699fee9118ad411415": 1790301115.4319355,
     "50bdf3fa0ff95a40b76266aad0772ed3e525e1629f3b14b661ee02c0a41d1a13": 1789773300.5285013,
@@ -295,6 +294,7 @@
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
+    "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
     "7d99552e7fd313aa0e484f5f00557be2aa56cdafd39a313bd415f9e6f39358cf": 1791124350.6112869,
     "7eb50f9a589aa1a875e6f77cb53899cb505ad9d4cd29a594b1b92054e5eeb32c": 1789276782.6728384,
     "7f308523c35b269d6f4d8768420b6aaece41a924976d0b60f0fee9d1f99ec986": 1788697686.626187,
