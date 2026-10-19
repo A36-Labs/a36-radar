@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792369673.4230442,
+  "last_post_at": 1792386880.9582958,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Web3 & Digital Assets",
-    "Fintech & Payments",
-    "Markets, IPOs & M&A"
+    "Fintech & Payments"
   ],
   "recent_sources": [
+    "TradingKey",
     "PR Newswire",
     "Crowdfund Insider",
     "Accountants Daily",
@@ -38,10 +39,10 @@
     "Indian Startup News",
     "富途牛牛",
     "BigGo Finance",
-    "FinTech Global",
-    "Reuters"
+    "FinTech Global"
   ],
   "recent_titles": [
+    "SoftBank Said to Consider $18 Billion Acquisition of Allied Universal: What Does AI Security Strategy Mean for SoftBank?",
     "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listin",
     "Tokenization, Regulation And Crypto Investing: Digital Assets Thoughts Of The Week",
     "Accounting firm investigating ransomware attack",
@@ -160,8 +161,7 @@
     "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture",
     "Corgi Is Now Worth $5 Billion Thanks To Four Funding Rounds Five Months",
     "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-    "Pair of $400m rounds drive this week’s FinTech funding",
-    "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge"
+    "Pair of $400m rounds drive this week’s FinTech funding"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -206,7 +206,6 @@
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "272193e9980a1f7a58df709d0317c1d5f037e6b54c9f8bf2fc982557e4cb04aa": 1788646478.400819,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
-    "2a43146336849ac16d5684e44a197ef84fb04b47965040fcd701c611197b941b": 1788484852.6751072,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
@@ -381,6 +380,7 @@
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
     "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
+    "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
