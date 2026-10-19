@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792386880.9582958,
+  "last_post_at": 1792407382.5333972,
   "last_urgent_at": 1792246222.0068867,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Policy & Regulation",
-    "Web3 & Digital Assets",
-    "Fintech & Payments"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "The Economic Times",
     "TradingKey",
     "PR Newswire",
     "Crowdfund Insider",
@@ -38,10 +39,10 @@
     "Fortune",
     "Indian Startup News",
     "富途牛牛",
-    "BigGo Finance",
-    "FinTech Global"
+    "BigGo Finance"
   ],
   "recent_titles": [
+    "Even Healthcare raises $50 million, triples Series A valuation",
     "SoftBank Said to Consider $18 Billion Acquisition of Allied Universal: What Does AI Security Strategy Mean for SoftBank?",
     "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listin",
     "Tokenization, Regulation And Crypto Investing: Digital Assets Thoughts Of The Week",
@@ -160,8 +161,7 @@
     "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
     "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture",
     "Corgi Is Now Worth $5 Billion Thanks To Four Funding Rounds Five Months",
-    "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-    "Pair of $400m rounds drive this week’s FinTech funding"
+    "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -187,6 +187,7 @@
     "0f89c3f495ed9d69c671b76b49c9211dbb80d673b9f6e9617f6d634a900013ff": 1789540823.7507224,
     "1163b699eaf03463a38872c587d981cc3593de4342c42fc29cdaa1ea7da3ad4c": 1788761068.8517535,
     "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
+    "13047ca1e5e59982fca4bb447862a3417cc0679157f3886d8f2a3a2d25399ce9": 1792407382.5333972,
     "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
@@ -316,7 +317,6 @@
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
-    "95543a9aaee7a2fd8018e9c6e6c1cd9456eb0a0e070e6514da6cf76dc421771a": 1788501777.598139,
     "96b3eb649ff73ad0d3ed28bf7f60c1738d28b4f188a49fe2a39e5c334aa583c8": 1791014405.9573197,
     "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
