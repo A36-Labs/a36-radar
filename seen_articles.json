@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792473963.3665793,
+  "last_post_at": 1792491785.7440207,
   "last_urgent_at": 1792446220.4691248,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Policy & Regulation",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Open Source & DevTools",
     "AI & Agents",
-    "Frontier Tech",
-    "Cybersecurity & Cloud"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "CryptoRank",
     "TechCrunch AI",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "The Register",
     "Forkast News",
-    "Pluang",
-    "BleepingComputer"
+    "Pluang"
   ],
   "recent_titles": [
+    "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
     "US SEC Faces Crypto Regulation Push From Hyperliquid Policy Center",
     "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
     "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
@@ -160,8 +161,7 @@
     "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
     "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News",
     "How OpenAI's AI Agents Chained Nine Zero-Days to Breach Hugging Face",
-    "mRNA flu vaccine wins FDA approval, promising a faster shot",
-    "Nscale Raises $3.36 Billion In Pre-IPO Convertible Financing Led By Third Point"
+    "mRNA flu vaccine wins FDA approval, promising a faster shot"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -177,7 +177,6 @@
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
     "0936b9ddd91512f1098f19fa8dfc91b3bbe7fd57f36ef21129c42a5e46a7d9c7": 1789711339.938865,
     "098c258b9d4fa8f2a522698b12905c269cb17c5e2d0456b27b114710e4a8dd07": 1789685671.0554128,
-    "098fc3550c67e9a67d8b25f4451362ca99df976d962b944bfc280c95e88c75ae": 1788600527.940505,
     "09cfe8172b9d66a0a20ccad892fe5403ef4297b588d3bc0087c6c31d5b7dc3d1": 1791276809.4524825,
     "0afa7dfd979acd18725859e487cd3d6c50e1377acab33ba0beb68a5d6c4093d6": 1788917842.0007885,
     "0b5351dfcdabf365a5405deac66cf99c8a90626847a30503d5286669bafb51ab": 1790781831.2545953,
@@ -195,7 +194,6 @@
     "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
     "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
-    "1b6589f47db45fdd4cfdbba43758d937ae461659bdafb029ebfa23c78374b204": 1788586696.505149,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
@@ -292,6 +290,7 @@
     "7508171905e7f806d54cbfc1c9fecbb11fe41776bb5443ccffef493d5e5a3417": 1791402924.448929,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
+    "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
     "7d99552e7fd313aa0e484f5f00557be2aa56cdafd39a313bd415f9e6f39358cf": 1791124350.6112869,
