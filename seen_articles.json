@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792491785.7440207,
-  "last_urgent_at": 1792446220.4691248,
+  "last_post_at": 1792509647.0929923,
+  "last_urgent_at": 1792509647.0929923,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Builder Ecosystem",
     "Web3 & Digital Assets",
     "Open Source & DevTools",
-    "AI & Agents",
-    "Frontier Tech"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "The Tech Buzz",
     "Cointelegraph",
     "CryptoRank",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "The Manila Times",
     "CoinDesk",
     "The Register",
-    "Forkast News",
-    "Pluang"
+    "Forkast News"
   ],
   "recent_titles": [
+    "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda",
     "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
     "US SEC Faces Crypto Regulation Push From Hyperliquid Policy Center",
     "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
@@ -160,8 +161,7 @@
     "Between September 21 and September 26, 2026, as many as 19 Indian startups from diverse sectors raised over $397 million in funding from investors. These sectors include EV, Foodtech, Cleantech, Healthtech, Defencetech, Footwear, Fintech, AI, Cleantec",
     "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
     "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News",
-    "How OpenAI's AI Agents Chained Nine Zero-Days to Breach Hugging Face",
-    "mRNA flu vaccine wins FDA approval, promising a faster shot"
+    "How OpenAI's AI Agents Chained Nine Zero-Days to Breach Hugging Face"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -341,7 +341,6 @@
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
     "ad2238cb0bf6d96d20ea46afd795fecf4ac891ce127fcc15bfca31ae995fdb25": 1788830961.1456397,
-    "af8865ebf800e6765923f63a1ec35f01a73bd44674ae97c8989a58552acf0619": 1788613216.2720678,
     "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
@@ -367,6 +366,7 @@
     "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
     "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
+    "cb8bea62f179f67ed5d50a656f0b965fddd6e4aea13c9a88da6993b7c4b0bfb8": 1792509647.0929923,
     "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
     "cd0aed9c49eae32215df2fa5b2cab75b622e1860e17de51101930aa82de45e3e": 1792246222.0068867,
     "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
