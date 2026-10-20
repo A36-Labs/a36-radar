@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792524302.2708457,
-  "last_urgent_at": 1792509647.0929923,
+  "last_post_at": 1792535781.706405,
+  "last_urgent_at": 1792535781.706405,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Builder Ecosystem",
-    "Web3 & Digital Assets",
-    "Open Source & DevTools"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Business Insider",
     "The Global Legal Post",
     "The Tech Buzz",
     "Cointelegraph",
@@ -38,10 +39,10 @@
     "Business Standard",
     "Startup Fortune",
     "The Manila Times",
-    "CoinDesk",
-    "The Register"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
     "Wachtell, Covington, Davis Polk in for Salesforce's $5.7bn Braze acquisition",
     "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda",
     "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
@@ -160,8 +161,7 @@
     "Sequoia Partner Pat Grady Releases 15-Minute Video on AI Prepared for Boston College Investment Committee",
     "Short-sellers circle as Firmus gears up for $7b IPO",
     "Between September 21 and September 26, 2026, as many as 19 Indian startups from diverse sectors raised over $397 million in funding from investors. These sectors include EV, Foodtech, Cleantech, Healthtech, Defencetech, Footwear, Fintech, AI, Cleantec",
-    "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
-    "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News"
+    "Citrix admins warned to shut down NetScalers over 2 exploited zero-days"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -201,7 +201,6 @@
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
-    "272193e9980a1f7a58df709d0317c1d5f037e6b54c9f8bf2fc982557e4cb04aa": 1788646478.400819,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
@@ -232,7 +231,6 @@
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47273f782007afe04e19d65c976c40e4b16a2fc2234d1cb501a5dd8f467b9ac0": 1792257543.200251,
-    "47ae6cc521ad8eb399774ff84bfadaa0d5b8959f544ca2d58fe14b0458cd1e29": 1788640162.1731894,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
     "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
@@ -358,6 +356,7 @@
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
+    "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
     "c49123acfcb972d8f65296e4b444252e216ae57774deca51cd610c1b35c25969": 1790000404.2970216,
     "c5e25a534fc0888e516ed1967b5ce9d59ad80081c078d160f2f7768b05310401": 1790095856.757123,
