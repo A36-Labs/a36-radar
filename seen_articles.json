@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792446220.4691248,
+  "last_post_at": 1792457077.826608,
   "last_urgent_at": 1792446220.4691248,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Frontier Tech",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "TechCrunch AI",
     "Reuters",
     "The Economic Times",
@@ -38,10 +39,10 @@
     "Forkast News",
     "Pluang",
     "BleepingComputer",
-    "Fortune",
-    "Indian Startup News"
+    "Fortune"
   ],
   "recent_titles": [
+    "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
     "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
     "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
     "Even Healthcare raises $50 million, triples Series A valuation",
@@ -160,8 +161,7 @@
     "How OpenAI's AI Agents Chained Nine Zero-Days to Breach Hugging Face",
     "mRNA flu vaccine wins FDA approval, promising a faster shot",
     "Nscale Raises $3.36 Billion In Pre-IPO Convertible Financing Led By Third Point",
-    "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery",
-    "SoftBank Invests $225M in Utah's Autonomous Solutions, Forms Construction Robotics Joint Venture"
+    "F-Droid 2.0 Released After 10 years With Major Redesign to Transform Open-Source Android App Discovery"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -199,7 +199,6 @@
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
-    "1f33c1cb98c5a2cba2ce41d5182c6ff4d8bee35dc29911844f09084a360fe408": 1788562843.2346025,
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
@@ -218,6 +217,7 @@
     "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
     "3541858a058cca11f964728d33dbeb512202784f6517500de66881de367678e1": 1789921048.8828669,
     "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
+    "379db88f208995fa49b3c857a26d7f0b9d5434737937f4405bac68e21e5ac613": 1792457077.826608,
     "38ad4cde37dddbf635d898f37fe7db85cb17efb3e400289844802c48ef7de780": 1791381250.6339288,
     "39575ee5a140e52a5e76fa442a55a1a01c66d7a3a212b81488dae60935c1efa3": 1791333451.8385212,
     "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
