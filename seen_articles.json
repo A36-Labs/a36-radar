@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792598900.1513186,
-  "last_urgent_at": 1792598900.1513186,
+  "last_post_at": 1792613674.9690444,
+  "last_urgent_at": 1792613674.9690444,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "Reuters",
     "Fortune",
     "WFRV Local 5",
@@ -38,10 +39,10 @@
     "TradingKey",
     "PR Newswire",
     "Crowdfund Insider",
-    "Accountants Daily",
-    "PYMNTS.com"
+    "Accountants Daily"
   ],
   "recent_titles": [
+    "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
     "Legal AI startup Legora valued at $8.8 billion in new $550 million funding round",
     "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
     "New funding will provide more 4-H robotics kits in Brown County",
@@ -160,8 +161,7 @@
     "Apple patches CoreGraphics zero-day flaw exploited in attacks",
     "AIxCrypto Holdings (NASDAQ: AIXC soon to be traded under FFR), Signs Term Sheet with Faraday Future to Acquire its Robotics Business at an Estimated $200 Million Valuation, Aiming to be the First Nasdaq-Listed Pure-Play Robotics Ecosystem Company",
     "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation",
-    "Dollar Shave Club Exit Strategy: $1B Acquisition"
+    "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -269,7 +269,6 @@
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
     "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
     "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
-    "6739a1dd7cdb43e060c957b545971eafab9a33ed8a3a8aa21fd8ab0461c797b1": 1788716800.5563352,
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
@@ -287,6 +286,7 @@
     "7508171905e7f806d54cbfc1c9fecbb11fe41776bb5443ccffef493d5e5a3417": 1791402924.448929,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
+    "78f18069a4e318d3cb44eff70380769ea9428784dc29222b2b00559de5bc27f0": 1792613674.9690444,
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
@@ -374,7 +374,6 @@
     "d060941f1c061335c10e207f35496d713e75cf9737392a0982ff496790078585": 1791301947.5576448,
     "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
-    "d2fea19e2bfb86bfb12ba2e0eb3c31150e7b438992ce21b8cc22ce1db18caf41": 1788723443.0701444,
     "d4b5fab89678a7e205b2ba7134d5dd3a54c67e9590396e2ca0fbe44dc67ccb73": 1788881009.0021195,
     "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
