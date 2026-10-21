@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792613674.9690444,
-  "last_urgent_at": 1792613674.9690444,
+  "last_post_at": 1792625232.7979548,
+  "last_urgent_at": 1792625232.7979548,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Web3 & Digital Assets",
-    "Cybersecurity & Cloud"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "TechCrunch Startups",
     "TechCrunch Startups",
     "Reuters",
     "Fortune",
@@ -38,10 +39,10 @@
     "The Economic Times",
     "TradingKey",
     "PR Newswire",
-    "Crowdfund Insider",
-    "Accountants Daily"
+    "Crowdfund Insider"
   ],
   "recent_titles": [
+    "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
     "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
     "Legal AI startup Legora valued at $8.8 billion in new $550 million funding round",
     "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
@@ -160,8 +161,7 @@
     "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
     "Apple patches CoreGraphics zero-day flaw exploited in attacks",
     "AIxCrypto Holdings (NASDAQ: AIXC soon to be traded under FFR), Signs Term Sheet with Faraday Future to Acquire its Robotics Business at an Estimated $200 Million Valuation, Aiming to be the First Nasdaq-Listed Pure-Play Robotics Ecosystem Company",
-    "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation"
+    "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -169,7 +169,6 @@
     "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
-    "0555cbd48c8ec56232bed29e8cb4203d43c6bda9d6ed41b72758428fefa35d57": 1788730979.7348585,
     "061352ea0d712106d5bedf24358328364e3a699f8ad6d33480752b78880d1656": 1790251311.5224128,
     "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
@@ -274,6 +273,7 @@
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
     "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
+    "6b957367631364704afe2dd67c486803e6d67b28989ec1fcc05f86095711d810": 1792625232.7979548,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
     "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
@@ -414,7 +414,6 @@
     "f5d17e7eef96088bb2a4001e6a97a2dcaa64f083321d5b459985fe7edc317dbe": 1791875054.5598104,
     "f72d0e79f7400cf7362403c27ca6ce498f8328c6135bffc5206cb1db6670ea81": 1792234633.799072,
     "f8e154c54f7f1eaf8647e9161d1d2c9cb30603d67066807d7513fb02437b2175": 1789854168.2326117,
-    "fa15059728cc88d28b4843ff6b3f7620a74640ad375158012256f4d27c793b0e": 1788736625.1635957,
     "fa81f4e367bed57ffa1c9bcb6854de6a2512eea927fd80f3eb7674150b7b3e6c": 1789797669.7651966,
     "faabdeb4b4e763fb8c2a4db5ce376664130ecca013cdb756c897127bb648e5a7": 1792582783.7837272,
     "fb45296fee2fe492a4a3318386d3f8b08f317739258e75b1d014bdaef703668f": 1790204805.5973039,
