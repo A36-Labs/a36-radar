@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792535781.706405,
+  "last_post_at": 1792544122.1313202,
   "last_urgent_at": 1792535781.706405,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Builder Ecosystem",
-    "Web3 & Digital Assets"
+    "Builder Ecosystem"
   ],
   "recent_sources": [
+    "The Hacker News",
     "Business Insider",
     "The Global Legal Post",
     "The Tech Buzz",
@@ -38,10 +39,10 @@
     "PYMNTS.com",
     "Business Standard",
     "Startup Fortune",
-    "The Manila Times",
-    "CoinDesk"
+    "The Manila Times"
   ],
   "recent_titles": [
+    "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
     "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
     "Wachtell, Covington, Davis Polk in for Salesforce's $5.7bn Braze acquisition",
     "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda",
@@ -160,8 +161,7 @@
     "Dollar Shave Club Exit Strategy: $1B Acquisition",
     "Sequoia Partner Pat Grady Releases 15-Minute Video on AI Prepared for Boston College Investment Committee",
     "Short-sellers circle as Firmus gears up for $7b IPO",
-    "Between September 21 and September 26, 2026, as many as 19 Indian startups from diverse sectors raised over $397 million in funding from investors. These sectors include EV, Foodtech, Cleantech, Healthtech, Defencetech, Footwear, Fintech, AI, Cleantec",
-    "Citrix admins warned to shut down NetScalers over 2 exploited zero-days"
+    "Between September 21 and September 26, 2026, as many as 19 Indian startups from diverse sectors raised over $397 million in funding from investors. These sectors include EV, Foodtech, Cleantech, Healthtech, Defencetech, Footwear, Fintech, AI, Cleantec"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -199,7 +199,6 @@
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
-    "25fc10aee2c5ae0f79a6884bc08db7c1285f2d5c28ceb27b233a8c72d9377c57": 1788652785.2680454,
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
@@ -350,6 +349,7 @@
     "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
     "ba82ad37767d5a01582bccf58650bea8824e5be426c8c7fa8d22e90ae46f6f0f": 1790799402.2137806,
     "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
+    "bc9f646ca822e5a7f1cb9abdf109057e44f7e3eb8e046adbb409a83fbecd6d20": 1792544122.1313202,
     "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
     "bea7a393ec873392ecd4f5d9a5927ac23c045faf97996edb80304f71c8482d38": 1788816449.761818,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
