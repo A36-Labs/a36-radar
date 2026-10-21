@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792544122.1313202,
+  "last_post_at": 1792562262.0020888,
   "last_urgent_at": 1792535781.706405,
   "recent_categories": [
+    "Frontier Tech",
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Builder Ecosystem"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "WFRV Local 5",
     "The Hacker News",
     "Business Insider",
     "The Global Legal Post",
@@ -38,10 +39,10 @@
     "Accountants Daily",
     "PYMNTS.com",
     "Business Standard",
-    "Startup Fortune",
-    "The Manila Times"
+    "Startup Fortune"
   ],
   "recent_titles": [
+    "New funding will provide more 4-H robotics kits in Brown County",
     "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
     "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
     "Wachtell, Covington, Davis Polk in for Salesforce's $5.7bn Braze acquisition",
@@ -160,8 +161,7 @@
     "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation",
     "Dollar Shave Club Exit Strategy: $1B Acquisition",
     "Sequoia Partner Pat Grady Releases 15-Minute Video on AI Prepared for Boston College Investment Committee",
-    "Short-sellers circle as Firmus gears up for $7b IPO",
-    "Between September 21 and September 26, 2026, as many as 19 Indian startups from diverse sectors raised over $397 million in funding from investors. These sectors include EV, Foodtech, Cleantech, Healthtech, Defencetech, Footwear, Fintech, AI, Cleantec"
+    "Short-sellers circle as Firmus gears up for $7b IPO"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -393,7 +393,6 @@
     "de1b99a9a37142ccb51bd10268da93192d24c7c3be7a2dcf24dc3d7db2bab801": 1789382844.7358165,
     "dec058fa83cc84823dec588e645dbf9eae4022603778468180670d9f96e306a0": 1789016072.4957483,
     "df164476c5461aafcdb8f03046d285dbe562a41437293ccee8dcabf1732a249c": 1789663983.0280683,
-    "dfd8bf8d52d112f4ace11024da4fd9cedbb5acc8fe02b303cf8dfbf6686968f8": 1788668905.1946037,
     "e17cb56c3fdae139cf2d14f77ee5be367f5eb478f6b8da2ffdfe86bf9f3fa89f": 1790580962.408113,
     "e1be9598f180fdc6500e4f7ea41bfb59338bacb912804ea682c01edf15970ea9": 1788803612.206538,
     "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
@@ -401,6 +400,7 @@
     "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
     "e90743776d0c7c70aad91342f31f735a86ff05a6d9421a73ec2d4645100be2b7": 1788684678.974887,
+    "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
     "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
     "e9765a30d5035b2faa3529dfd310115a0c5715923d2b1e466a1dce44f0a15f4d": 1789645946.910035,
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
