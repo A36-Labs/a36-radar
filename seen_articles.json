@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792651205.5287669,
-  "last_urgent_at": 1792625232.7979548,
+  "last_post_at": 1792672305.4816089,
+  "last_urgent_at": 1792672305.4816089,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "VC & Accelerators",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "AI Magazine",
     "CoinDesk",
     "GrepBeat",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "TechCrunch AI",
     "Reuters",
-    "The Economic Times",
-    "TradingKey"
+    "The Economic Times"
   ],
   "recent_titles": [
+    "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value",
     "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
     "Launch Powered by KPMG Accelerator Holds Demo Day For 4th Cohort",
     "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
@@ -160,8 +161,7 @@
     "Watch AI Safety Debate Deepens as Trump Backs Self-Regulation",
     "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
     "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
-    "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-    "Apple patches CoreGraphics zero-day flaw exploited in attacks"
+    "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -277,6 +277,7 @@
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
     "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
+    "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
@@ -394,7 +395,6 @@
     "e17cb56c3fdae139cf2d14f77ee5be367f5eb478f6b8da2ffdfe86bf9f3fa89f": 1790580962.408113,
     "e1be9598f180fdc6500e4f7ea41bfb59338bacb912804ea682c01edf15970ea9": 1788803612.206538,
     "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
-    "e60df6ffca717f4c008db454c12f16e1886254003024504fd9f93cd414460951": 1788783767.3784025,
     "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
