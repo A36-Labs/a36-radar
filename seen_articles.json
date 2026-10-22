@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792625232.7979548,
+  "last_post_at": 1792633663.7461088,
   "last_urgent_at": 1792625232.7979548,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Web3 & Digital Assets"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "GrepBeat",
     "TechCrunch Startups",
     "TechCrunch Startups",
     "Reuters",
@@ -38,10 +39,10 @@
     "Reuters",
     "The Economic Times",
     "TradingKey",
-    "PR Newswire",
-    "Crowdfund Insider"
+    "PR Newswire"
   ],
   "recent_titles": [
+    "Launch Powered by KPMG Accelerator Holds Demo Day For 4th Cohort",
     "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
     "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
     "Legal AI startup Legora valued at $8.8 billion in new $550 million funding round",
@@ -160,8 +161,7 @@
     "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
     "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
     "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-    "AIxCrypto Holdings (NASDAQ: AIXC soon to be traded under FFR), Signs Term Sheet with Faraday Future to Acquire its Robotics Business at an Estimated $200 Million Valuation, Aiming to be the First Nasdaq-Listed Pure-Play Robotics Ecosystem Company",
-    "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation"
+    "AIxCrypto Holdings (NASDAQ: AIXC soon to be traded under FFR), Signs Term Sheet with Faraday Future to Acquire its Robotics Business at an Estimated $200 Million Valuation, Aiming to be the First Nasdaq-Listed Pure-Play Robotics Ecosystem Company"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -211,6 +211,7 @@
     "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
     "3541858a058cca11f964728d33dbeb512202784f6517500de66881de367678e1": 1789921048.8828669,
     "35a878254db473a1c59936ddcb2835e949776ab99ad11c9120ef190caff972f4": 1792598900.1513186,
+    "373b1080daa5e098329381fc6e17fcc15ca1715c2ccff3e68ade0ef4943a2dcc": 1792633663.7461088,
     "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
     "379db88f208995fa49b3c857a26d7f0b9d5434737937f4405bac68e21e5ac613": 1792457077.826608,
     "38ad4cde37dddbf635d898f37fe7db85cb17efb3e400289844802c48ef7de780": 1791381250.6339288,
@@ -279,7 +280,6 @@
     "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
-    "71df71105db73e29e072f1e29efc0ad076b5fdb16abe1e4a03cee2dd3ded3340": 1788743233.4245145,
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "73f6622e69607796c4cb01fdd7b63053ebe8466c1264fcfbccff5d9c332a4efe": 1791159266.7586284,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
