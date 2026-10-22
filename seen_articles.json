@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792690525.175634,
+  "last_post_at": 1792701999.920217,
   "last_urgent_at": 1792690525.175634,
   "recent_categories": [
+    "Frontier Tech",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "AI & Agents",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "Pulse 2.0",
     "BleepingComputer",
     "AI Magazine",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "CryptoRank",
     "TechCrunch AI",
-    "TechCrunch AI",
-    "Reuters"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies",
     "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
     "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value",
     "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
@@ -160,8 +161,7 @@
     "Cisco warns of new SD-WAN zero-day exploited in attacks",
     "HSBC prepares RedCoin stablecoin launch with payments in focus",
     "Watch AI Safety Debate Deepens as Trump Backs Self-Regulation",
-    "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-    "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions"
+    "a16z-backed EliseAI raises $350M, doubles valuation to $4B"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -317,6 +317,7 @@
     "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
     "97b5beca77e182a7ccab6a0054b38200051a67f20a8988c261ea475ae514160a": 1791758943.230541,
+    "986dc6e0ef5764582c555fba74b465a37bcc3e8a3837b4a991eaddafca3f30fc": 1792701999.920217,
     "996fd72e547a900a15038af4ed60cf112496a9bc5552d97e5d533a5cf1707fd6": 1791643737.4364736,
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
     "9c8bba905fc4de85e98a6d2e9c28fabc7cf26a5fab36fdef25f90d9693d4f124": 1791571913.6474025,
@@ -394,7 +395,6 @@
     "dec058fa83cc84823dec588e645dbf9eae4022603778468180670d9f96e306a0": 1789016072.4957483,
     "df164476c5461aafcdb8f03046d285dbe562a41437293ccee8dcabf1732a249c": 1789663983.0280683,
     "e17cb56c3fdae139cf2d14f77ee5be367f5eb478f6b8da2ffdfe86bf9f3fa89f": 1790580962.408113,
-    "e1be9598f180fdc6500e4f7ea41bfb59338bacb912804ea682c01edf15970ea9": 1788803612.206538,
     "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
     "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
