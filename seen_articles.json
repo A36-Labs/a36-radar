@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792720919.3015091,
+  "last_post_at": 1792740176.2554495,
   "last_urgent_at": 1792712440.0177536,
   "recent_categories": [
+    "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Wowtale",
     "OneSafe",
     "TechCrunch Startups",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "Business Insider",
     "The Global Legal Post",
     "The Tech Buzz",
-    "Cointelegraph",
-    "CryptoRank"
+    "Cointelegraph"
   ],
   "recent_titles": [
+    "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation",
     "Senate's Tether Probe Shifts Stablecoin Regulation Focus",
     "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies",
@@ -160,8 +161,7 @@
     "AsiaFIN's Partner D'Voyager and Faysal Bank Sign Strategic Partnership to Accelerate Digital Banking in Pakistan",
     "Jam Packd Wins Blueberry Boost Accelerator, Aims at the $13B Jam Category",
     "AI voice startup ElevenLabs doubles valuation to $22B",
-    "Cisco warns of new SD-WAN zero-day exploited in attacks",
-    "HSBC prepares RedCoin stablecoin launch with payments in focus"
+    "Cisco warns of new SD-WAN zero-day exploited in attacks"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -199,6 +199,7 @@
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "2867c8e0b944923be839ce41ed66ddaa6264e6a0a56714ea67026e53a93fcadf": 1788910963.4933987,
+    "293559f2386ad9b6df5daea2ff1dbb85cdafc720b9826f3ec5ccaa7b288e8010": 1792740176.2554495,
     "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
@@ -406,7 +407,6 @@
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
-    "ecb756c3ee5b4341b1e22dbe07d750d27ebca3a5420616f477d4d57ba79842d6": 1788849042.7788188,
     "efae4015e10bebe0a12c6197e24b48417923236c0fbd6f52fa58136b48197f64": 1791598572.30811,
     "f025972615a45462921fa4aa3b5fca7b04f53575f9cb0ac99d930b02da55710a": 1791418106.4219954,
     "f47e8120452d11a071875718cce284acd0a82bd967dd121685748c9a8f60c4c6": 1791503723.4834254,
