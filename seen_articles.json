@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792776789.9036853,
+  "last_post_at": 1792787843.980366,
   "last_urgent_at": 1792776789.9036853,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Hacker News",
     "CryptoRank",
     "Yahoo Finance",
     "Wowtale",
@@ -38,10 +39,10 @@
     "Fortune",
     "WFRV Local 5",
     "The Hacker News",
-    "Business Insider",
-    "The Global Legal Post"
+    "Business Insider"
   ],
   "recent_titles": [
+    "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
     "Fireblocks Denies Report of $2.5B Visa Acquisition Talks",
     "Hi3D V1.0 Goes Open Source: The First Production-Validated Open-Source AI 3D Model",
     "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation",
@@ -160,8 +161,7 @@
     "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
     "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety",
     "AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round",
-    "AsiaFIN's Partner D'Voyager and Faysal Bank Sign Strategic Partnership to Accelerate Digital Banking in Pakistan",
-    "Jam Packd Wins Blueberry Boost Accelerator, Aims at the $13B Jam Category"
+    "AsiaFIN's Partner D'Voyager and Faysal Bank Sign Strategic Partnership to Accelerate Digital Banking in Pakistan"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -225,6 +225,7 @@
     "429def63f2e1fcf1a12d8f7a873c79dd7e7b851e628ff18fda6c10f21d0dadaa": 1792362891.6880653,
     "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
     "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
+    "45245adb93bfaf0bfa1da4296b719cd8e04dfbe196afc9f6fd87485386555113": 1792787843.980366,
     "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
     "46433255a5367ef8b4c502c435e29212db4dff38d81922265eb69025a26b7924": 1792143698.4854188,
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
@@ -272,7 +273,6 @@
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
-    "6b89216898d4cb52a0a81b39e2a4a6776e5b94439b79256ec9bac91328ec0cf0": 1788893835.7060037,
     "6b957367631364704afe2dd67c486803e6d67b28989ec1fcc05f86095711d810": 1792625232.7979548,
     "6c6cd38e4116be20f49d9dfc7aaf23010d35befc12b507c3de89e5edd07b617a": 1792776789.9036853,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
