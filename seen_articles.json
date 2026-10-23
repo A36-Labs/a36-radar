@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792740176.2554495,
+  "last_post_at": 1792759822.3872793,
   "last_urgent_at": 1792712440.0177536,
   "recent_categories": [
+    "Open Source & DevTools",
     "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Yahoo Finance",
     "Wowtale",
     "OneSafe",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "Business Insider",
     "The Global Legal Post",
-    "The Tech Buzz",
-    "Cointelegraph"
+    "The Tech Buzz"
   ],
   "recent_titles": [
+    "Hi3D V1.0 Goes Open Source: The First Production-Validated Open-Source AI 3D Model",
     "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation",
     "Senate's Tether Probe Shifts Stablecoin Regulation Focus",
     "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -160,8 +161,7 @@
     "AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round",
     "AsiaFIN's Partner D'Voyager and Faysal Bank Sign Strategic Partnership to Accelerate Digital Banking in Pakistan",
     "Jam Packd Wins Blueberry Boost Accelerator, Aims at the $13B Jam Category",
-    "AI voice startup ElevenLabs doubles valuation to $22B",
-    "Cisco warns of new SD-WAN zero-day exploited in attacks"
+    "AI voice startup ElevenLabs doubles valuation to $22B"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -188,7 +188,6 @@
     "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
     "163f3707c051939ca671ac9106238575d7be4a0a6cc6ee6284a522dd3c13bb23": 1788904080.8143208,
-    "1832e9ea54e13abcb46083dd1bcfa2d73b8fc78d5e39de80ab0ee0cc8e527779": 1788867749.7841842,
     "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
@@ -312,6 +311,7 @@
     "913d2408ff63ee55aaa6add2ce1abe16ef3e7b250d4939ccc8408558c0b544e4": 1789338180.563906,
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
+    "941c00ca718c9118e86fa4eaf8ec82168687c5ac289b786fd1f170a50bf0f1fc": 1792759822.3872793,
     "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
     "95f8189eee050a4d237009a0eab401b87da6f9463968b0f2c62f4fb52e033ebc": 1792690525.175634,
     "96525dfd21814cc6ca5948f1289c585d4c175ad83ef9f8c7fba2b805dce8c4e1": 1792524302.2708457,
