@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792825989.936368,
+  "last_post_at": 1792843495.23797,
   "last_urgent_at": 1792776789.9036853,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "VC & Accelerators",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
     "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "The Daily Star",
     "Grit Daily News",
     "Dallas News",
@@ -38,10 +39,10 @@
     "GrepBeat",
     "TechCrunch Startups",
     "TechCrunch Startups",
-    "Reuters",
-    "Fortune"
+    "Reuters"
   ],
   "recent_titles": [
+    "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
     "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
     "Whop Lands $200 Million From Sequoia and Shopify Ventures at a $5.1 Billion Valuation",
     "Texoma Semiconductor Tech Hub lands $29 million in new funding",
@@ -160,8 +161,7 @@
     "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
     "OpenClaw Launches Free Open-source Enterprise Agent Platform for AI Agents",
     "SBI Holdings Finalizes Acquisition of Crypto Firm Bitbank",
-    "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-    "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation"
+    "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -283,7 +283,6 @@
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
     "7508171905e7f806d54cbfc1c9fecbb11fe41776bb5443ccffef493d5e5a3417": 1791402924.448929,
     "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
-    "76941394bf0ba1798b6480eef7061822ba3c14d5b4175e327ace4347175fde84": 1788955154.276019,
     "78f18069a4e318d3cb44eff70380769ea9428784dc29222b2b00559de5bc27f0": 1792613674.9690444,
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
     "7b8ef00a669668a8c31a0421be1c373630f244025cc081b9d0f363bd4ed6c274": 1789259252.603763,
@@ -373,6 +372,7 @@
     "cec03ed81e3a65712681476bc86b725b5ebab6ff23debce3cff694457b1d7909": 1789457929.5818737,
     "cf300a8228a03ccc3de73fbcbe954738a967d0f22290fc3ac09a4c040b94096d": 1791081873.6254995,
     "d060941f1c061335c10e207f35496d713e75cf9737392a0982ff496790078585": 1791301947.5576448,
+    "d1143723fa5c96488ea7bc4775fb3b782db4da6831246741ced9dd696f9d6d7e": 1792843495.23797,
     "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
     "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
