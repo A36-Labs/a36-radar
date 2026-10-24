@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792876118.2056336,
+  "last_post_at": 1792884240.1905084,
   "last_urgent_at": 1792776789.9036853,
   "recent_categories": [
+    "VC & Accelerators",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "VC & Accelerators"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Motilal Oswal",
     "Hoodline",
     "Yahoo Finance",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Pulse 2.0",
     "BleepingComputer",
     "AI Magazine",
-    "CoinDesk",
-    "GrepBeat"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO",
     "Ohio Labor Groups Back AI Regulation Bill HB 1032",
     "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?",
     "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
@@ -160,8 +161,7 @@
     "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report",
     "Crypto Regulation: Absa Secures Regulatory Approval for Digital Asset Custody Services",
     "Robotics AI developer FieldAI reportedly raising $700M in funding",
-    "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-    "The Week’s 10 Biggest Funding Rounds: Almost All About AI"
+    "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -246,6 +246,7 @@
     "50bdf3fa0ff95a40b76266aad0772ed3e525e1629f3b14b661ee02c0a41d1a13": 1789773300.5285013,
     "522dba463a194f29d162d4f36238a40607cbb720843d55b6adef3d43ab7eccbf": 1790019382.5158012,
     "52bb09a4f6ae3af58b7e4b5e8523ea9bc1d0434abf469e9ae18dbd5df528eeb1": 1790183689.0464597,
+    "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
     "54dfcafccab5c62c586496f3b959a4ebb0194b54e2aebf3add674cf3302fd754": 1789476883.0519447,
     "54e300a894d57b600db50bbf1472a143894f1b8abf0013f260fd9b005459495c": 1790812678.071006,
     "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
@@ -328,7 +329,6 @@
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a26e2162b0329e452a6286321dcc02a45130c537dd2eb404bb2a1453e84a2ead": 1789228400.0895278,
     "a326c716d233aee2c16496737f553e7f205f2bb66b58fcb68af5b11689efce6f": 1789060773.891368,
-    "a34aa0dbb18939f5a299f26cb29877763d2f088c975ebd5cad41bd740a269b06": 1788990945.1269774,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
     "a8ab8860cef40bbda987c31e27e0911174cfa0742aad2ad6e7edd4e7747e4770": 1790892064.9304628,
