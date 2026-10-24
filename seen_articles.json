@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792806951.9100459,
+  "last_post_at": 1792825989.936368,
   "last_urgent_at": 1792776789.9036853,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Frontier Tech",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Daily Star",
     "Grit Daily News",
     "Dallas News",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "TechCrunch Startups",
     "Reuters",
-    "Fortune",
-    "WFRV Local 5"
+    "Fortune"
   ],
   "recent_titles": [
+    "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
     "Whop Lands $200 Million From Sequoia and Shopify Ventures at a $5.1 Billion Valuation",
     "Texoma Semiconductor Tech Hub lands $29 million in new funding",
     "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
@@ -160,8 +161,7 @@
     "OpenClaw Launches Free Open-source Enterprise Agent Platform for AI Agents",
     "SBI Holdings Finalizes Acquisition of Crypto Firm Bitbank",
     "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-    "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-    "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety"
+    "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -232,7 +232,6 @@
     "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
     "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
-    "4a1a5bda90e05eb8866f4f3e0fd4b9ca1e7ca04db5a6edf831c930b39810956f": 1788936370.1359289,
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
     "4c39d2185587e19ab3f6b0c9230c93ed915b3e5b9ee312c53f563f599cf4d366": 1791525566.4402003,
@@ -394,6 +393,7 @@
     "df164476c5461aafcdb8f03046d285dbe562a41437293ccee8dcabf1732a249c": 1789663983.0280683,
     "e17cb56c3fdae139cf2d14f77ee5be367f5eb478f6b8da2ffdfe86bf9f3fa89f": 1790580962.408113,
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
+    "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
     "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
     "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
