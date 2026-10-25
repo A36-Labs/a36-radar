@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792930004.9996612,
+  "last_post_at": 1792944590.1993873,
   "last_urgent_at": 1792776789.9036853,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Startups & Funding",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Frontier Tech"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "24/7 Wall St.",
     "The Hacker News",
     "OneSafe.io",
     "Techeconomy",
@@ -38,10 +39,10 @@
     "Yahoo Finance",
     "Wowtale",
     "OneSafe",
-    "TechCrunch Startups",
-    "Pulse 2.0"
+    "TechCrunch Startups"
   ],
   "recent_titles": [
+    "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?",
     "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
     "Stablecoin Regulation: OCC Rule and $850B Lending Impact",
     "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
@@ -160,8 +161,7 @@
     "Cosmos Partners with Blockdaemon, Securing Over $110B",
     "Standard Chartered Foundation Women in Tech Accelerator winners in Nigeria Announced",
     "Clay raises $115M in Series D funding round at $7.1B valuation",
-    "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-    "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report"
+    "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -273,6 +273,7 @@
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
     "6b0edd5a8ea4777ac1b32d7cd73917989e85dba879129cf4f269860ff5a3a782": 1789252735.2042747,
     "6b957367631364704afe2dd67c486803e6d67b28989ec1fcc05f86095711d810": 1792625232.7979548,
+    "6c2c1f60622abaad33c0f7ba576425ac37a674026da5da431db16cfbaccf3384": 1792944590.1993873,
     "6c6cd38e4116be20f49d9dfc7aaf23010d35befc12b507c3de89e5edd07b617a": 1792776789.9036853,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
@@ -396,7 +397,6 @@
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
     "e46a04afa11c35f606c7b0c12178d976bda90b89cd983ba8549ee6074a3d4456": 1789156239.2228677,
-    "e69876a6a15c66f7ee006de15311149a9631a0b5671198af0f38039372f544a5": 1789048135.3702185,
     "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
     "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
