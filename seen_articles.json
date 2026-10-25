@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792910834.3145518,
+  "last_post_at": 1792930004.9996612,
   "last_urgent_at": 1792776789.9036853,
   "recent_categories": [
+    "AI & Agents",
     "Policy & Regulation",
     "Startups & Funding",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
-    "Frontier Tech",
-    "Cybersecurity & Cloud"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "The Hacker News",
     "OneSafe.io",
     "Techeconomy",
     "Motilal Oswal",
@@ -38,10 +39,10 @@
     "Wowtale",
     "OneSafe",
     "TechCrunch Startups",
-    "Pulse 2.0",
-    "BleepingComputer"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
     "Stablecoin Regulation: OCC Rule and $850B Lending Impact",
     "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
     "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO",
@@ -160,8 +161,7 @@
     "Standard Chartered Foundation Women in Tech Accelerator winners in Nigeria Announced",
     "Clay raises $115M in Series D funding round at $7.1B valuation",
     "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-    "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report",
-    "Crypto Regulation: Absa Secures Regulatory Approval for Digital Asset Custody Services"
+    "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -190,6 +190,7 @@
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
+    "207a51b492b88eeebcf6622dc78a157a488a4a50c962bbe0df34810e97c49156": 1792930004.9996612,
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
@@ -236,7 +237,6 @@
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
     "4c39d2185587e19ab3f6b0c9230c93ed915b3e5b9ee312c53f563f599cf4d366": 1791525566.4402003,
-    "4cae668a4427417fc0d2a471305d3b5656e1831094d13ebbb4cc23be4c718745": 1789033011.2115119,
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
     "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
