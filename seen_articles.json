@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792955268.3864894,
-  "last_urgent_at": 1792776789.9036853,
+  "last_post_at": 1792965248.3070855,
+  "last_urgent_at": 1792965248.3070855,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Startup Fortune",
     "Decrypt",
     "24/7 Wall St.",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "CryptoRank",
     "Yahoo Finance",
-    "Wowtale",
-    "OneSafe"
+    "Wowtale"
   ],
   "recent_titles": [
+    "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
     "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
     "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?",
     "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
@@ -160,8 +161,7 @@
     "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
     "Pizza Bot: Open-Source Inbox for Background AI Agents",
     "Cosmos Partners with Blockdaemon, Securing Over $110B",
-    "Standard Chartered Foundation Women in Tech Accelerator winners in Nigeria Announced",
-    "Clay raises $115M in Series D funding round at $7.1B valuation"
+    "Standard Chartered Foundation Women in Tech Accelerator winners in Nigeria Announced"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -201,7 +201,6 @@
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
-    "2f0ea7c12f15e68459d223e0ef6ccb947a0da21e2fc954690c7d8647141c942a": 1789069864.1156232,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
@@ -241,6 +240,7 @@
     "4d7a6b92a18929109be133087cbf6adee076198caf4eedf25b52e2ed65c82698": 1790165315.5182762,
     "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
     "4f1eee3433eb221c61ef3f9a71fd8cbcb0faf236e5c802d0444aca6a6df54c2f": 1789493933.9223053,
+    "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
     "4f593279d082018b2ee7fb316005ede8b098c7f8805042699fee9118ad411415": 1790301115.4319355,
     "50bdf3fa0ff95a40b76266aad0772ed3e525e1629f3b14b661ee02c0a41d1a13": 1789773300.5285013,
     "522dba463a194f29d162d4f36238a40607cbb720843d55b6adef3d43ab7eccbf": 1790019382.5158012,
