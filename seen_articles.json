@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792884240.1905084,
+  "last_post_at": 1792891997.331911,
   "last_urgent_at": 1792776789.9036853,
   "recent_categories": [
+    "Startups & Funding",
     "VC & Accelerators",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Frontier Tech",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Techeconomy",
     "Motilal Oswal",
     "Hoodline",
     "Yahoo Finance",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "Pulse 2.0",
     "BleepingComputer",
-    "AI Magazine",
-    "CoinDesk"
+    "AI Magazine"
   ],
   "recent_titles": [
+    "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
     "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO",
     "Ohio Labor Groups Back AI Regulation Bill HB 1032",
     "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?",
@@ -160,8 +161,7 @@
     "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
     "Anthropic says its AI models pose ‘existential risk to humanity’ in leaked IPO filing: report",
     "Crypto Regulation: Absa Secures Regulatory Approval for Digital Asset Custody Services",
-    "Robotics AI developer FieldAI reportedly raising $700M in funding",
-    "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%"
+    "Robotics AI developer FieldAI reportedly raising $700M in funding"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -190,7 +190,6 @@
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
-    "1e7c46e21271e17c5747763cbe3b474b61160bf3f4c17436f269538738beabc6": 1788998869.3288267,
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
     "24c63ec94ddf0d6f290b131dda0dcca2677beb4ea5561b18d2c78d9364d09e54": 1789203175.3773015,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
@@ -281,6 +280,7 @@
     "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
+    "71b86eddc90cd1888ab6e52b7584743d59f2710301d45a38de0c70b6bbcf409c": 1792891997.331911,
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "73f6622e69607796c4cb01fdd7b63053ebe8466c1264fcfbccff5d9c332a4efe": 1791159266.7586284,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
