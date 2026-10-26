@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792965248.3070855,
+  "last_post_at": 1792973549.422616,
   "last_urgent_at": 1792965248.3070855,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "AI & Agents",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Startups & Funding"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "The Daily Star",
     "Startup Fortune",
     "Decrypt",
     "24/7 Wall St.",
@@ -38,10 +39,10 @@
     "Dallas News",
     "The Hacker News",
     "CryptoRank",
-    "Yahoo Finance",
-    "Wowtale"
+    "Yahoo Finance"
   ],
   "recent_titles": [
+    "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding",
     "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
     "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
     "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?",
@@ -160,8 +161,7 @@
     "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products",
     "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
     "Pizza Bot: Open-Source Inbox for Background AI Agents",
-    "Cosmos Partners with Blockdaemon, Securing Over $110B",
-    "Standard Chartered Foundation Women in Tech Accelerator winners in Nigeria Announced"
+    "Cosmos Partners with Blockdaemon, Securing Over $110B"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -184,7 +184,6 @@
     "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
     "13047ca1e5e59982fca4bb447862a3417cc0679157f3886d8f2a3a2d25399ce9": 1792407382.5333972,
     "140949f8e2fb0f96d7471619b2f11b326b39718362efde96f227cb1f718f105d": 1789329250.6655872,
-    "150e74f774c4e269b1ee49113c3147454191c020a39dc086a2acdaed6c2078a1": 1789085127.2736948,
     "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
     "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
@@ -204,7 +203,6 @@
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
-    "335d3eeeadec2d10030b89cc7fbceb7e978b136838a9959ef6239866ac3197e1": 1789077837.485604,
     "3520b8ec407d32d007bd8488c7ee3ab8e546a6578a7c75cf1deae2b8c7b506b8": 1792876118.2056336,
     "3541858a058cca11f964728d33dbeb512202784f6517500de66881de367678e1": 1789921048.8828669,
     "35a878254db473a1c59936ddcb2835e949776ab99ad11c9120ef190caff972f4": 1792598900.1513186,
@@ -356,6 +354,7 @@
     "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
+    "bfaa1d722dec46a1e35157a18f7525b75ee6845711cd2bae045c96fa3a2a1c70": 1792973549.422616,
     "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
     "c10453039d70a4b0b4666a3b7f38f33fce8d25f48dee2792d7a723db5d2dc4ab": 1789837989.5193324,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
