@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792973549.422616,
+  "last_post_at": 1792990774.9603872,
   "last_urgent_at": 1792965248.3070855,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Frontier Tech",
     "AI & Agents",
-    "Markets, IPOs & M&A",
-    "Open Source & DevTools"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "조선일보",
     "The Daily Star",
     "Startup Fortune",
     "Decrypt",
@@ -38,10 +39,10 @@
     "Grit Daily News",
     "Dallas News",
     "The Hacker News",
-    "CryptoRank",
-    "Yahoo Finance"
+    "CryptoRank"
   ],
   "recent_titles": [
+    "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch",
     "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding",
     "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
     "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
@@ -160,8 +161,7 @@
     "Nvidia-Yotta’s GPU money trail, Snapdeal’s IPO plan, Go Digit’s silver lining, India’s $12B startup fund, and more",
     "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products",
     "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-    "Pizza Bot: Open-Source Inbox for Background AI Agents",
-    "Cosmos Partners with Blockdaemon, Securing Over $110B"
+    "Pizza Bot: Open-Source Inbox for Background AI Agents"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -275,7 +275,6 @@
     "6c2c1f60622abaad33c0f7ba576425ac37a674026da5da431db16cfbaccf3384": 1792944590.1993873,
     "6c6cd38e4116be20f49d9dfc7aaf23010d35befc12b507c3de89e5edd07b617a": 1792776789.9036853,
     "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
-    "6ec5ed2276f0cbf537a51cdb0ef79e1d8cd3cadd4a7ac5a3868aa3fe4a541a6e": 1789101132.195211,
     "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
     "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
@@ -352,6 +351,7 @@
     "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
     "bc9f646ca822e5a7f1cb9abdf109057e44f7e3eb8e046adbb409a83fbecd6d20": 1792544122.1313202,
     "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
+    "bd628be1f6ba05442357a3215a5f0b85bf29a7df4c072078a338e807d63f1dea": 1792990774.9603872,
     "bf3c76f395698e7fc983fa0f2186e528ab72ff1fd8fdb23d845addadfe32841d": 1790195420.8148146,
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "bfaa1d722dec46a1e35157a18f7525b75ee6845711cd2bae045c96fa3a2a1c70": 1792973549.422616,
