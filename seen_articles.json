@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793012360.6838863,
-  "last_urgent_at": 1792965248.3070855,
+  "last_post_at": 1793035062.3406851,
+  "last_urgent_at": 1793035062.3406851,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "VC & Accelerators",
-    "Frontier Tech",
-    "AI & Agents"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Rescana",
     "조선일보",
     "The Daily Star",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "The Daily Star",
     "Grit Daily News",
-    "Dallas News",
-    "The Hacker News"
+    "Dallas News"
   ],
   "recent_titles": [
+    "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
     "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)",
     "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch",
     "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding",
@@ -160,8 +161,7 @@
     "OKX joint venture files with SEC to launch tokenized trading platform",
     "Broadcom's Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
     "Nvidia-Yotta’s GPU money trail, Snapdeal’s IPO plan, Go Digit’s silver lining, India’s $12B startup fund, and more",
-    "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products",
-    "El Salvador receives $138 million from IMF after Bitcoin waivers granted"
+    "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -291,7 +291,6 @@
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
     "7d99552e7fd313aa0e484f5f00557be2aa56cdafd39a313bd415f9e6f39358cf": 1791124350.6112869,
     "7eb50f9a589aa1a875e6f77cb53899cb505ad9d4cd29a594b1b92054e5eeb32c": 1789276782.6728384,
-    "7f53ebaadd828baee0cd80bd41419c25cd8bf14b0171a67bd1196cd87dba1050": 1789146616.1236134,
     "7f678ce2eaaf83ff716c37f695863adca867d904b6e66577dc91fe10244b1391": 1792102300.788147,
     "7fd990c0b6603d12f49820d4b2197cc4b2ed46adb4b9d3a4d5309c16efe8da64": 1792265511.633425,
     "804f130984ddc5c47c2f999173ea3ccfb0c85a458d064853654dfc39bff3d4bd": 1792286957.4591024,
@@ -310,7 +309,7 @@
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
     "941c00ca718c9118e86fa4eaf8ec82168687c5ac289b786fd1f170a50bf0f1fc": 1792759822.3872793,
-    "954a1c71c37a668758c1fbdfaebe8d550533e6385c712123c1a6a376bccac2d8": 1789133497.0002685,
+    "94cd1eebf82b8e61db327eec0b56a829c8b5bf0822a3c8ae8d9c9ea370659895": 1793035062.3406851,
     "95f8189eee050a4d237009a0eab401b87da6f9463968b0f2c62f4fb52e033ebc": 1792690525.175634,
     "96525dfd21814cc6ca5948f1289c585d4c175ad83ef9f8c7fba2b805dce8c4e1": 1792524302.2708457,
     "96b3eb649ff73ad0d3ed28bf7f60c1738d28b4f188a49fe2a39e5c334aa583c8": 1791014405.9573197,
