@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1792990774.9603872,
+  "last_post_at": 1793012360.6838863,
   "last_urgent_at": 1792965248.3070855,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Frontier Tech",
     "Startups & Funding",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "VC & Accelerators",
     "Frontier Tech",
-    "AI & Agents",
-    "Markets, IPOs & M&A"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Rescana",
     "조선일보",
     "The Daily Star",
     "Startup Fortune",
@@ -38,10 +39,10 @@
     "The Daily Star",
     "Grit Daily News",
     "Dallas News",
-    "The Hacker News",
-    "CryptoRank"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)",
     "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch",
     "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding",
     "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
@@ -160,8 +161,7 @@
     "Broadcom's Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
     "Nvidia-Yotta’s GPU money trail, Snapdeal’s IPO plan, Go Digit’s silver lining, India’s $12B startup fund, and more",
     "Bitget Cryptocurrency Exchange Breach: $387.5M Stolen via Zero-Day Exploit in Third-Party Security Products",
-    "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-    "Pizza Bot: Open-Source Inbox for Background AI Agents"
+    "El Salvador receives $138 million from IMF after Bitcoin waivers granted"
   ],
   "seen": {
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
@@ -256,7 +256,6 @@
     "5ba54aefbc89fb7f2a05401e2a7fbd78900e3ae58cc99be0922810e7ab9c0a4e": 1789743468.9803452,
     "5c7800e5a7deae479dd939e4bd7fee17e1fe406bf176fa5a62e967012093365f": 1792806951.9100459,
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
-    "5d49df2e53f6cee0118b263d1f891ab3a9d0f04bd089fc1e25260f43146e7b89": 1789117556.3588347,
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
@@ -344,6 +343,7 @@
     "b53c3a938e5cd75af31f97bca7715aade1240156efe5246f5d6c65de4796596e": 1792446220.4691248,
     "b594f873c2599ea4a9bb03781d3678a33c91225c014aa7663ca3d5e523909ffd": 1792355646.941615,
     "b6b3144f3ce8c06a9c3f78aed995250a95086b258f7f316575c3dd99fe5b3909": 1792201752.1225312,
+    "b6cfeee8ed312bd9cf0ed3bb651d141d94a181b0813a8a5d5bc73b6174e200fe": 1793012360.6838863,
     "ba2542e73d9f336bd7ddb1a17094d4a3f6f1452f398a63e280366ca810b41c6d": 1792024576.893949,
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
     "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
