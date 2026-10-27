@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793124796.497333,
-  "last_urgent_at": 1793124796.497333,
+  "last_post_at": 1793139903.3406265,
+  "last_urgent_at": 1793139903.3406265,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "VC & Accelerators",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Channel Insider",
     "Decrypt",
     "Tech in Asia",
@@ -38,10 +39,10 @@
     "OneSafe.io",
     "Techeconomy",
     "Motilal Oswal",
-    "Hoodline",
-    "Yahoo Finance"
+    "Hoodline"
   ],
   "recent_titles": [
+    "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
     "Anthropic Files for IPO With $16.3B Revenue and Massive AI Spending",
     "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
     "US robotics startup Bedrock raises $600m at $4.1b valuation",
@@ -160,8 +161,7 @@
     "AI computing startup Lambda to raise $4B ahead of planned IPO",
     "Crypto exchange OKX valued at $25B in funding round, including Circle, Stanchart",
     "Software startup Vinci raises $250 million at a $1.5 billion valuation",
-    "Schneider Expands in AI With Record $23 Billion Acquisition",
-    "Deliveroo and Coco Robotics announce exclusive partnership to scale robot deliveries across the UK - 05.10.26"
+    "Schneider Expands in AI With Record $23 Billion Acquisition"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -197,7 +197,6 @@
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
     "293559f2386ad9b6df5daea2ff1dbb85cdafc720b9826f3ec5ccaa7b288e8010": 1792740176.2554495,
-    "2b137d908bcfca9c0907a2c9335109052ebd7c5d3d3117718ede919cd6e2d0be": 1789237133.3487499,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
@@ -283,7 +282,6 @@
     "73f6622e69607796c4cb01fdd7b63053ebe8466c1264fcfbccff5d9c332a4efe": 1791159266.7586284,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
     "7508171905e7f806d54cbfc1c9fecbb11fe41776bb5443ccffef493d5e5a3417": 1791402924.448929,
-    "75ac1e687299df14fafdbf20a70a819499aade338003dce2dc2d7f248a65f3fc": 1789245992.7097592,
     "769a2806f74afff99776c1ba727aef161d71966af67f1111d05e462baa560228": 1792910834.3145518,
     "78f18069a4e318d3cb44eff70380769ea9428784dc29222b2b00559de5bc27f0": 1792613674.9690444,
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
@@ -332,6 +330,7 @@
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
+    "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
     "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
