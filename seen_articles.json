@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793050847.7677867,
+  "last_post_at": 1793062474.5348248,
   "last_urgent_at": 1793035062.3406851,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "VC & Accelerators"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Reuters",
     "巴士的報",
     "BleepingComputer",
     "Rescana",
@@ -38,10 +39,10 @@
     "Yahoo Finance",
     "BleepingComputer",
     "CoinDesk",
-    "The Daily Star",
-    "Grit Daily News"
+    "The Daily Star"
   ],
   "recent_titles": [
+    "Equities end higher as Anthropic's IPO filing buoys AI stocks",
     "Faraday Future Announces Completion of FFR’s Acquisition of FF Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform; October Robot Sales to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots",
     "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
     "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)",
@@ -160,8 +161,7 @@
     "Deliveroo and Coco Robotics announce exclusive partnership to scale robot deliveries across the UK - 05.10.26",
     "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
     "OKX joint venture files with SEC to launch tokenized trading platform",
-    "Broadcom's Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
-    "Nvidia-Yotta’s GPU money trail, Snapdeal’s IPO plan, Go Digit’s silver lining, India’s $12B startup fund, and more"
+    "Broadcom's Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -260,7 +260,6 @@
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
     "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
-    "60e1efacd6adc07e4042b6cf38a525f3fb9bfff768bb8f208f78a2e94b0b327a": 1789172036.5319514,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
@@ -308,6 +307,7 @@
     "8e7fd0505ce61006647bc7715a1032c3e912358c72d9b852d24244e2057fbcaf": 1789608071.8224158,
     "913d2408ff63ee55aaa6add2ce1abe16ef3e7b250d4939ccc8408558c0b544e4": 1789338180.563906,
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
+    "92f99353874983e3b9233bcacf2685030b39b8b4967240c5746eb909280b6c8c": 1793062474.5348248,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
     "941c00ca718c9118e86fa4eaf8ec82168687c5ac289b786fd1f170a50bf0f1fc": 1792759822.3872793,
     "94cd1eebf82b8e61db327eec0b56a829c8b5bf0822a3c8ae8d9c9ea370659895": 1793035062.3406851,
@@ -400,7 +400,6 @@
     "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
     "e9765a30d5035b2faa3529dfd310115a0c5715923d2b1e466a1dce44f0a15f4d": 1789645946.910035,
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
-    "ea546e5e71354e81b88034ff729b004f0a839c75ae909fcc2ca355d607cf9445": 1789164282.4555843,
     "ea5d3790ab74a03cafe493d90854e875a3a384633c9b0fe718739f73cfbd1048": 1789868622.4103997,
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
     "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
