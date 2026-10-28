@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793197633.8157816,
+  "last_post_at": 1793217001.8224165,
   "last_urgent_at": 1793197633.8157816,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "AI & Agents",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Policy & Regulation"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Business Insider",
     "Central Oregon Daily",
     "صوت الإمارات",
     "UA.NEWS",
@@ -38,10 +39,10 @@
     "Startup Fortune",
     "Decrypt",
     "24/7 Wall St.",
-    "The Hacker News",
-    "OneSafe.io"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
     "Cloud security startup Upwind raises $400 million, valued at $3.8 billion",
     "Ahead of its public launch in November, Anthropic unveils its future vision for artificial intelligence",
     "Manufacturing accelerator Re:Build raises $2.1 billion — TechCrunch",
@@ -160,8 +161,7 @@
     "Autonomous freight rail startup Parallel raises $100M Series C",
     "Acquisition Lets AI and Operators Learn From Nearly $2 Billion in Annual Aesthetics Transactions",
     "Andrew Cuomo on crypto regulation: Clarity fails, ambiguity prevails",
-    "Fujitsu launches four AI agents: what it means for Fujitsu stock",
-    "AI computing startup Lambda to raise $4B ahead of planned IPO"
+    "Fujitsu launches four AI agents: what it means for Fujitsu stock"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -193,6 +193,7 @@
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "207a51b492b88eeebcf6622dc78a157a488a4a50c962bbe0df34810e97c49156": 1792930004.9996612,
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
+    "22809a7680f3032a04376986a84d032bfc4296c89e8f23f64cfa114320b3e675": 1793217001.8224165,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
@@ -212,7 +213,6 @@
     "379db88f208995fa49b3c857a26d7f0b9d5434737937f4405bac68e21e5ac613": 1792457077.826608,
     "38ad4cde37dddbf635d898f37fe7db85cb17efb3e400289844802c48ef7de780": 1791381250.6339288,
     "39575ee5a140e52a5e76fa442a55a1a01c66d7a3a212b81488dae60935c1efa3": 1791333451.8385212,
-    "39b2a6ba30bb3f7bd2a07a54348af7b7d084b63b5acf5a77e93789310f4bb4cd": 1789310327.8867402,
     "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
     "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
@@ -344,7 +344,6 @@
     "ba66748ef10838d8d14a2d99b5cb63ae5a77157d23239d2048b93fcf199d00e4": 1790469752.3256779,
     "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
     "ba82ad37767d5a01582bccf58650bea8824e5be426c8c7fa8d22e90ae46f6f0f": 1790799402.2137806,
-    "bc38f63971b87bd0625cca692ba5f5628cf7ae1fb3e5b77daf162587c55d7da4": 1789321473.7455816,
     "bc9f646ca822e5a7f1cb9abdf109057e44f7e3eb8e046adbb409a83fbecd6d20": 1792544122.1313202,
     "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
     "bd628be1f6ba05442357a3215a5f0b85bf29a7df4c072078a338e807d63f1dea": 1792990774.9603872,
