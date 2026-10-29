@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793230822.0322297,
+  "last_post_at": 1793242594.0476427,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Markets, IPOs & M&A"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "The Morning Call",
     "TechCrunch Startups",
     "Business Insider",
     "Central Oregon Daily",
@@ -38,10 +39,10 @@
     "조선일보",
     "The Daily Star",
     "Startup Fortune",
-    "Decrypt",
-    "24/7 Wall St."
+    "Decrypt"
   ],
   "recent_titles": [
+    "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries",
     "Upwind raises $400M after walking away from Datadog acquisition offer",
     "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
     "Cloud security startup Upwind raises $400 million, valued at $3.8 billion",
@@ -160,8 +161,7 @@
     "Breakingviews - COMMENTARY: Shaky $4 bln neocloud IPO pricks AI bubble",
     "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
     "Autonomous freight rail startup Parallel raises $100M Series C",
-    "Acquisition Lets AI and Operators Learn From Nearly $2 Billion in Annual Aesthetics Transactions",
-    "Andrew Cuomo on crypto regulation: Clarity fails, ambiguity prevails"
+    "Acquisition Lets AI and Operators Learn From Nearly $2 Billion in Annual Aesthetics Transactions"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -264,6 +264,7 @@
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
     "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
     "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
+    "66b1712b5c98c86c95957a7f7a70bb90754867821f99c11ecc28088033493245": 1793242594.0476427,
     "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
@@ -318,7 +319,6 @@
     "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
     "a07663565d841dccfbc375cedaacd3f2a7c6203e5ac7c3860bb4333aa4bb7bad": 1790058102.1831868,
     "a0b15426f63900bad93ffa7548d6dcc358063be1176ff526a19a43bd57f33c23": 1789676056.6748195,
-    "a10225f8255c19fac2239a7d9b4e20fb887d9db87e602c6da0045774507a6e1b": 1789345121.9856682,
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
