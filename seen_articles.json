@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793242594.0476427,
+  "last_post_at": 1793267366.3250353,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Policy & Regulation",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Frontier Tech",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "The Hacker News",
     "The Morning Call",
     "TechCrunch Startups",
     "Business Insider",
@@ -38,10 +39,10 @@
     "Rescana",
     "조선일보",
     "The Daily Star",
-    "Startup Fortune",
-    "Decrypt"
+    "Startup Fortune"
   ],
   "recent_titles": [
+    "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
     "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries",
     "Upwind raises $400M after walking away from Datadog acquisition offer",
     "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
@@ -160,8 +161,7 @@
     "China’s Manus raises over $500M in first funding round since split with Meta",
     "Breakingviews - COMMENTARY: Shaky $4 bln neocloud IPO pricks AI bubble",
     "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "Autonomous freight rail startup Parallel raises $100M Series C",
-    "Acquisition Lets AI and Operators Learn From Nearly $2 Billion in Annual Aesthetics Transactions"
+    "Autonomous freight rail startup Parallel raises $100M Series C"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -311,6 +311,7 @@
     "9748f5c99892754f0414933b27de9b09274a4aa1e0b45d35332e2eda324747fc": 1790833336.3062165,
     "97704259d1dd6c863f2bf47682782c0374a1ad06659e89063361660291ef831c": 1790646636.5100975,
     "97b5beca77e182a7ccab6a0054b38200051a67f20a8988c261ea475ae514160a": 1791758943.230541,
+    "980bd436986d4c3c7d339e476d6324cbc96efb255fbf9b9afd139a374d1943db": 1793267366.3250353,
     "986dc6e0ef5764582c555fba74b465a37bcc3e8a3837b4a991eaddafca3f30fc": 1792701999.920217,
     "996fd72e547a900a15038af4ed60cf112496a9bc5552d97e5d533a5cf1707fd6": 1791643737.4364736,
     "9a8427db0c38eabbe3748a04575ae585c8a46d9fab9f08cb428986feed4f21fa": 1793230822.0322297,
