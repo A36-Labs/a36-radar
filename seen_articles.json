@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793291230.7865224,
+  "last_post_at": 1793309010.6811535,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Cybersecurity & Cloud",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Decrypt",
     "Automotive News",
     "The Hacker News",
     "The Morning Call",
@@ -38,10 +39,10 @@
     "巴士的報",
     "BleepingComputer",
     "Rescana",
-    "조선일보",
-    "The Daily Star"
+    "조선일보"
   ],
   "recent_titles": [
+    "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
     "Pinewood.AI goes private as Ridgeview Partners closes $725 million acquisition",
     "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
     "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries",
@@ -160,8 +161,7 @@
     "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
     "Asurion finalizes acquisition of U.K. company with $1.63B in revenue",
     "China’s Manus raises over $500M in first funding round since split with Meta",
-    "Breakingviews - COMMENTARY: Shaky $4 bln neocloud IPO pricks AI bubble",
-    "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users"
+    "Breakingviews - COMMENTARY: Shaky $4 bln neocloud IPO pricks AI bubble"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -218,9 +218,9 @@
     "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
     "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
     "3e157c154cc538daa3f5e01a00aa55690723b14f87d09df34eb1d43c530546e2": 1790691661.1928234,
+    "3eb583be53fac35f3e8f038802b42790b105b32d855305664193eea4747748ad": 1793309010.6811535,
     "429def63f2e1fcf1a12d8f7a873c79dd7e7b851e628ff18fda6c10f21d0dadaa": 1792362891.6880653,
     "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
-    "44a01bc605684592c9649c54812324aadac61f5857cd453f8bb1db588a758b34": 1789403936.9645634,
     "45245adb93bfaf0bfa1da4296b719cd8e04dfbe196afc9f6fd87485386555113": 1792787843.980366,
     "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
     "46433255a5367ef8b4c502c435e29212db4dff38d81922265eb69025a26b7924": 1792143698.4854188,
@@ -390,7 +390,6 @@
     "e17cb56c3fdae139cf2d14f77ee5be367f5eb478f6b8da2ffdfe86bf9f3fa89f": 1790580962.408113,
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
-    "e803e725d6de946b10b2375baca0a61a8ece3ec76d07086110aa19f20f963e67": 1789418334.3878849,
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
     "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
     "e9765a30d5035b2faa3529dfd310115a0c5715923d2b1e466a1dce44f0a15f4d": 1789645946.910035,
