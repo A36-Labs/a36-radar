@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793323166.0973525,
+  "last_post_at": 1793344700.5681689,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Startups & Funding",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Frontier Tech",
-    "Cybersecurity & Cloud",
     "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Reuters",
     "The Economic Times",
     "Decrypt",
     "Automotive News",
@@ -38,10 +39,10 @@
     "Tech in Asia",
     "Reuters",
     "巴士的報",
-    "BleepingComputer",
-    "Rescana"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets",
     "AI’s 3-week blitz digs up 14,000 security flaws in open-source software",
     "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
     "Pinewood.AI goes private as Ridgeview Partners closes $725 million acquisition",
@@ -160,13 +161,11 @@
     "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
     "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
     "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-    "Asurion finalizes acquisition of U.K. company with $1.63B in revenue",
-    "China’s Manus raises over $500M in first funding round since split with Meta"
+    "Asurion finalizes acquisition of U.K. company with $1.63B in revenue"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
     "0198d52a3313c79e4081cd525e37201d0685fe2796032d93c626bc144d9d673f": 1789625628.7670014,
-    "03bfd54133e8f198f1054669f02786e36d28373043518839b1e968ee8d2a79c0": 1789437160.6432672,
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
     "061352ea0d712106d5bedf24358328364e3a699f8ad6d33480752b78880d1656": 1790251311.5224128,
@@ -323,6 +322,7 @@
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
+    "a6c48ae206a22ee68a8da763a8044c18f68ea9033cb9e12ae7ebcc4a4ef816d9": 1793344700.5681689,
     "a8ab8860cef40bbda987c31e27e0911174cfa0742aad2ad6e7edd4e7747e4770": 1790892064.9304628,
     "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
