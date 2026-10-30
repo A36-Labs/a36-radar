@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793388707.715155,
+  "last_post_at": 1793401824.860062,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Reuters",
     "Manufacturing Dive",
     "AI Insider",
     "Reuters",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Channel Insider",
     "Decrypt",
-    "Tech in Asia",
-    "Reuters"
+    "Tech in Asia"
   ],
   "recent_titles": [
+    "SoftBank-backed OPay raises $304 million in US IPO",
     "Manufacturing accelerator Re:Build raises $2.1B to scale hard tech",
     "Bleu Robotics Raises €5M in Funding to Speed Humanoid Robot Deployment in Factories",
     "Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets",
@@ -160,8 +161,7 @@
     "Stablecoin Regulation: $1B Card Spending Surge Explained",
     "EXCLUSIVE: Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
     "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions Unveiled, Top Single Deal Hits $11 Billion Valuation",
-    "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-    "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush"
+    "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -186,6 +186,7 @@
     "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
     "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "19988cda11d90962ca35515118962df0d078c50e2daafe994257bb866e822298": 1789522139.6168242,
+    "1a30f9456fdeac6a405cb40e98c7bf672cc5d9055d224e74f82895747da4bce1": 1793401824.860062,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "207a51b492b88eeebcf6622dc78a157a488a4a50c962bbe0df34810e97c49156": 1792930004.9996612,
@@ -254,7 +255,6 @@
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
-    "609b6e91dd7a0cfc20e994475975bd7b23335ca84b3d401139c4e0293ed4bff4": 1789504139.248583,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
     "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
@@ -357,7 +357,6 @@
     "c5e25a534fc0888e516ed1967b5ce9d59ad80081c078d160f2f7768b05310401": 1790095856.757123,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
     "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
-    "c919d6ede00ca172f6ac7659aee7c2484a033a749ece525739792ff14afc66a7": 1789513763.8527327,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
     "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
     "cb8bea62f179f67ed5d50a656f0b965fddd6e4aea13c9a88da6993b7c4b0bfb8": 1792509647.0929923,
