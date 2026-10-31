@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793458282.1225288,
+  "last_post_at": 1793472925.8483772,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "AI & Agents",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "AI & Agents",
-    "VC & Accelerators",
-    "Frontier Tech"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "BBC",
     "shattered.io",
     "Moneycontrol.com",
     "OneSafe",
@@ -38,10 +39,10 @@
     "Business Insider",
     "Central Oregon Daily",
     "صوت الإمارات",
-    "UA.NEWS",
-    "Bloomberg.com"
+    "UA.NEWS"
   ],
   "recent_titles": [
+    "Crypto firm Binance covers 90% of losses after $6.3bn hack",
     "Infisical Raises $40M Series B at $600M Valuation [2026]",
     "OpenAI funding target cut by $10 billion as AI slumps, report says",
     "Stablecoin Regulation: Ripple’s OCC Approval Impact",
@@ -160,8 +161,7 @@
     "OpenAI’s revenue climbs again as the company pursues $30 billion in new funding",
     "How to Structure an AI Agent Data Breach Notification Clause Before You Sign",
     "ONE Bank launches Bangla QR payments at UIU",
-    "Lightspeed Launches $250 Million India AI-First Fund, Betting Technology Will Outpace Internet Growth",
-    "Stablecoin Regulation: $1B Card Spending Surge Explained"
+    "Lightspeed Launches $250 Million India AI-First Fund, Betting Technology Will Outpace Internet Growth"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -323,7 +323,6 @@
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
     "a6c48ae206a22ee68a8da763a8044c18f68ea9033cb9e12ae7ebcc4a4ef816d9": 1793344700.5681689,
     "a8ab8860cef40bbda987c31e27e0911174cfa0742aad2ad6e7edd4e7747e4770": 1790892064.9304628,
-    "a8e18a62573d5ba17799355ada8c5e162dd2c47201402be5cb617d4938a699ec": 1789578478.2605371,
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a97babfb366725bd8fa47513b3c7f6df9117c2494c092fbbb6d6e5fbed9b023e": 1790078080.0022545,
     "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
@@ -369,6 +368,7 @@
     "d1143723fa5c96488ea7bc4775fb3b782db4da6831246741ced9dd696f9d6d7e": 1792843495.23797,
     "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
     "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
+    "d328667e5f11c99cc1fb9c350ff233667630df2cdcf0fb8475f58a6d71ad03f2": 1793472925.8483772,
     "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
