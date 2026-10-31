@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793436586.8508682,
+  "last_post_at": 1793458282.1225288,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Startups & Funding",
     "AI & Agents",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "AI & Agents",
     "VC & Accelerators",
-    "Frontier Tech",
-    "Markets, IPOs & M&A"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "shattered.io",
     "Moneycontrol.com",
     "OneSafe",
     "Reuters",
@@ -38,10 +39,10 @@
     "Central Oregon Daily",
     "صوت الإمارات",
     "UA.NEWS",
-    "Bloomberg.com",
-    "Channel Insider"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Infisical Raises $40M Series B at $600M Valuation [2026]",
     "OpenAI funding target cut by $10 billion as AI slumps, report says",
     "Stablecoin Regulation: Ripple’s OCC Approval Impact",
     "SoftBank-backed OPay raises $304 million in US IPO",
@@ -160,8 +161,7 @@
     "How to Structure an AI Agent Data Breach Notification Clause Before You Sign",
     "ONE Bank launches Bangla QR payments at UIU",
     "Lightspeed Launches $250 Million India AI-First Fund, Betting Technology Will Outpace Internet Growth",
-    "Stablecoin Regulation: $1B Card Spending Surge Explained",
-    "EXCLUSIVE: Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say"
+    "Stablecoin Regulation: $1B Card Spending Surge Explained"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -185,6 +185,7 @@
     "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
     "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "1a30f9456fdeac6a405cb40e98c7bf672cc5d9055d224e74f82895747da4bce1": 1793401824.860062,
+    "1b6575f934bdc19130e90ecddd9ccf6122b74970276ac0d162aef0d3bd3670b3": 1793458282.1225288,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "207a51b492b88eeebcf6622dc78a157a488a4a50c962bbe0df34810e97c49156": 1792930004.9996612,
@@ -329,7 +330,6 @@
     "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
-    "b17d70823cbec4d1b686a5fc86753b572ccb1043d14eb76e84b19db735b1b215": 1789560746.0741222,
     "b383e4dd2d0fdc332f7884ad91c54c7ecb8f992d0752b14d259c5138e0aea47a": 1792651205.5287669,
     "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
