@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793472925.8483772,
+  "last_post_at": 1793485528.2249863,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Startups & Funding",
-    "AI & Agents",
-    "VC & Accelerators"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "BBC",
     "shattered.io",
     "Moneycontrol.com",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "Business Insider",
     "Central Oregon Daily",
-    "صوت الإمارات",
-    "UA.NEWS"
+    "صوت الإمارات"
   ],
   "recent_titles": [
+    "New Android SMS of Death exploit can remotely crash unpatched phones",
     "Crypto firm Binance covers 90% of losses after $6.3bn hack",
     "Infisical Raises $40M Series B at $600M Valuation [2026]",
     "OpenAI funding target cut by $10 billion as AI slumps, report says",
@@ -160,8 +161,7 @@
     "Nvidia Weighs Acquisition of $25 Billion-Valued Reflection AI",
     "OpenAI’s revenue climbs again as the company pursues $30 billion in new funding",
     "How to Structure an AI Agent Data Breach Notification Clause Before You Sign",
-    "ONE Bank launches Bangla QR payments at UIU",
-    "Lightspeed Launches $250 Million India AI-First Fund, Betting Technology Will Outpace Internet Growth"
+    "ONE Bank launches Bangla QR payments at UIU"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -216,7 +216,6 @@
     "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
     "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
     "3d378af6a437cfcd74dbf8a21e57f922aac23eb028a927c338be3218dd9d9b7b": 1793323166.0973525,
-    "3daa8e2c589beece8b506697b1a5c8c45d1299e9b71bcfb01e5a735ad69166cf": 1789589704.9161088,
     "3e157c154cc538daa3f5e01a00aa55690723b14f87d09df34eb1d43c530546e2": 1790691661.1928234,
     "3eb583be53fac35f3e8f038802b42790b105b32d855305664193eea4747748ad": 1793309010.6811535,
     "429def63f2e1fcf1a12d8f7a873c79dd7e7b851e628ff18fda6c10f21d0dadaa": 1792362891.6880653,
@@ -329,6 +328,7 @@
     "ab2c8890be049c92042c1d6c905b2cc6b66648ebd482dd940a087cfd4ede4554": 1790230906.728705,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
+    "b16cd5b31916a112ee6601994dc2c041e53af167e4ea2b4ac8b08b338b4542cf": 1793485528.2249863,
     "b383e4dd2d0fdc332f7884ad91c54c7ecb8f992d0752b14d259c5138e0aea47a": 1792651205.5287669,
     "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
