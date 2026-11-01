@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793561651.27666,
+  "last_post_at": 1793574108.4757452,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Web3 & Digital Assets",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "Policy & Regulation"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "THE ELEC, Korea Electronics Industry Media",
     "CTech",
     "PYMNTS.com",
     "AFR",
@@ -38,10 +39,10 @@
     "The Economic Times",
     "Decrypt",
     "Automotive News",
-    "The Hacker News",
-    "The Morning Call"
+    "The Hacker News"
   ],
   "recent_titles": [
+    "HD Hyundai Robotics Expands Physical AI Partnership With Palantir",
     "Israeli startups raised at least $872 million in October, led by cybersecurity and AI",
     "CPI | Meta Faces UK Antitrust Investigation Over Publisher Content and AI Terms",
     "Inside the make-or-break AI mega-project behind Nscale’s $50b IPO",
@@ -160,8 +161,7 @@
     "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition",
     "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
     "TypeSafe Raises $870 Million Series A At $7.5 Billion Valuation To Expand Jev’s Capabilities",
-    "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
-    "The US is investing $350 million in defense quantum computing, while Japan is purchasing UAVs to intercept targets in Ukraine."
+    "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -172,7 +172,6 @@
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
     "0936b9ddd91512f1098f19fa8dfc91b3bbe7fd57f36ef21129c42a5e46a7d9c7": 1789711339.938865,
-    "098c258b9d4fa8f2a522698b12905c269cb17c5e2d0456b27b114710e4a8dd07": 1789685671.0554128,
     "09cfe8172b9d66a0a20ccad892fe5403ef4297b588d3bc0087c6c31d5b7dc3d1": 1791276809.4524825,
     "0a5f0c6cd1e5efdfb2f41ee3256a0a158d61988d8682225b0db4b8fbf7b53b07": 1793081537.4299018,
     "0b5351dfcdabf365a5405deac66cf99c8a90626847a30503d5286669bafb51ab": 1790781831.2545953,
@@ -318,7 +317,7 @@
     "9c8bba905fc4de85e98a6d2e9c28fabc7cf26a5fab36fdef25f90d9693d4f124": 1791571913.6474025,
     "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
     "a07663565d841dccfbc375cedaacd3f2a7c6203e5ac7c3860bb4333aa4bb7bad": 1790058102.1831868,
-    "a0b15426f63900bad93ffa7548d6dcc358063be1176ff526a19a43bd57f33c23": 1789676056.6748195,
+    "a140fe2d50951e95a3d46d92bc1bb02846398a41861a4ca2784c0a3be07b0939": 1793574108.4757452,
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
