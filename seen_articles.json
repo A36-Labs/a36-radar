@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793485528.2249863,
+  "last_post_at": 1793496352.190372,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Startups & Funding",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TechTarget",
     "BleepingComputer",
     "BBC",
     "shattered.io",
@@ -38,10 +39,10 @@
     "The Morning Call",
     "TechCrunch Startups",
     "Business Insider",
-    "Central Oregon Daily",
-    "صوت الإمارات"
+    "Central Oregon Daily"
   ],
   "recent_titles": [
+    "Redis Labs looks to grow database with $100M funding",
     "New Android SMS of Death exploit can remotely crash unpatched phones",
     "Crypto firm Binance covers 90% of losses after $6.3bn hack",
     "Infisical Raises $40M Series B at $600M Valuation [2026]",
@@ -160,8 +161,7 @@
     "The US is investing $350 million in defense quantum computing, while Japan is purchasing UAVs to intercept targets in Ukraine.",
     "Nvidia Weighs Acquisition of $25 Billion-Valued Reflection AI",
     "OpenAI’s revenue climbs again as the company pursues $30 billion in new funding",
-    "How to Structure an AI Agent Data Breach Notification Clause Before You Sign",
-    "ONE Bank launches Bangla QR payments at UIU"
+    "How to Structure an AI Agent Data Breach Notification Clause Before You Sign"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -231,6 +231,7 @@
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
     "49ab9078a422c17f464d00557f0c1c8ab954eef949f01a7cd03263ea4df29c02": 1789845856.8775513,
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
+    "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
     "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
     "4c39d2185587e19ab3f6b0c9230c93ed915b3e5b9ee312c53f563f599cf4d366": 1791525566.4402003,
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
@@ -296,7 +297,6 @@
     "8a0a2f7da311d38c1805607f4e5ebd7dab34df83f24a51ad862ca36d4e572e24": 1791033516.1513002,
     "8c3e1d917e67cd10f5e75834402aefbf01f901d201cc4ca6f3610b6e9f363535": 1789815039.9417398,
     "8c5da3e1ced1c5a4415088862918359166039f86f09eabec3efaaef4c2127ec1": 1790388238.6350396,
-    "8e7fd0505ce61006647bc7715a1032c3e912358c72d9b852d24244e2057fbcaf": 1789608071.8224158,
     "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "92f99353874983e3b9233bcacf2685030b39b8b4967240c5746eb909280b6c8c": 1793062474.5348248,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
@@ -375,7 +375,6 @@
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
-    "dad5f85000278f1fce6f7f4a9afad9ffbf8ccbe729acae528fee9a54f0b3e63c": 1789599741.3587873,
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
     "dbbc0074d69b0732a3277f14a0a543fb1ad1afd41a3208796b8f90cbe3a6d04d": 1789906693.5845923,
     "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
