@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793574108.4757452,
+  "last_post_at": 1793586205.861521,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "VC & Accelerators",
     "Frontier Tech",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Traders Union",
     "THE ELEC, Korea Electronics Industry Media",
     "CTech",
     "PYMNTS.com",
@@ -38,10 +39,10 @@
     "Reuters",
     "The Economic Times",
     "Decrypt",
-    "Automotive News",
-    "The Hacker News"
+    "Automotive News"
   ],
   "recent_titles": [
+    "UK launches strategic sites accelerator to unlock investment projects",
     "HD Hyundai Robotics Expands Physical AI Partnership With Palantir",
     "Israeli startups raised at least $872 million in October, led by cybersecurity and AI",
     "CPI | Meta Faces UK Antitrust Investigation Over Publisher Content and AI Terms",
@@ -160,8 +161,7 @@
     "Open-Source Voice AI Runs Entirely On ESP32-S3",
     "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition",
     "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-    "TypeSafe Raises $870 Million Series A At $7.5 Billion Valuation To Expand Jev’s Capabilities",
-    "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains"
+    "TypeSafe Raises $870 Million Series A At $7.5 Billion Valuation To Expand Jev’s Capabilities"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -177,6 +177,7 @@
     "0b5351dfcdabf365a5405deac66cf99c8a90626847a30503d5286669bafb51ab": 1790781831.2545953,
     "0ccdfd2e4cbb20214297574151d0c92cc5ed038a91d289b94716edd7cb83c65e": 1790559279.275614,
     "0d5157a7bb0874e46955c268df81da109aedb24076b6fcc3a02cb981b8af75c1": 1790212893.7010887,
+    "107d5dd04d7c82bda22c7e16ccf0f62ae474436dace71e49f44ea9b2bae70b1c": 1793586205.861521,
     "10bc90874909aa7324ba76ff13af761ff5abf8ee981efa2f1a1d23f406af42b5": 1792857117.925707,
     "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
     "13047ca1e5e59982fca4bb447862a3417cc0679157f3886d8f2a3a2d25399ce9": 1792407382.5333972,
@@ -390,7 +391,6 @@
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
     "ea5d3790ab74a03cafe493d90854e875a3a384633c9b0fe718739f73cfbd1048": 1789868622.4103997,
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
-    "ec7dd6f674fdbdae3d65c4606eaf5c33906235d3dafee4343c3ff3c82ab25ea6": 1789694055.8578749,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ef3a4ab8df2fdd35eab275d94b6947fe46661b14b8910e779f5d4cdf8dcb74bf": 1793172782.241517,
     "efae4015e10bebe0a12c6197e24b48417923236c0fbd6f52fa58136b48197f64": 1791598572.30811,
