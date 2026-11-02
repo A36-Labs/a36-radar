@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793613282.336286,
+  "last_post_at": 1793650646.8856652,
   "last_urgent_at": 1793230822.0322297,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Frontier Tech",
     "Startups & Funding",
-    "Open Source & DevTools",
-    "Web3 & Digital Assets"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Audacy",
     "BleepingComputer",
     "Traders Union",
     "THE ELEC, Korea Electronics Industry Media",
@@ -38,10 +39,10 @@
     "Manufacturing Dive",
     "AI Insider",
     "Reuters",
-    "The Economic Times",
-    "Decrypt"
+    "The Economic Times"
   ],
   "recent_titles": [
+    "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing",
     "Ivanti patches two more Connect Secure zero-days chained in attacks",
     "UK launches strategic sites accelerator to unlock investment projects",
     "HD Hyundai Robotics Expands Physical AI Partnership With Palantir",
@@ -160,8 +161,7 @@
     "IonQ to buy cybersecurity firm Elisity in up to $1.3 billion deal",
     "Amazon reportedly weighs $7B startup acquisition as AI spending accelerates",
     "Open-Source Voice AI Runs Entirely On ESP32-S3",
-    "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition",
-    "Bitcoin, Ethereum and Solana ETFs All in the Red for October"
+    "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -190,7 +190,6 @@
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
     "22809a7680f3032a04376986a84d032bfc4296c89e8f23f64cfa114320b3e675": 1793217001.8224165,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
-    "26b7bb1eff1ea8b65e03ee7b23076b132b6b735c66f09b40050762b7569176b3": 1789729548.6631486,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
     "293559f2386ad9b6df5daea2ff1dbb85cdafc720b9826f3ec5ccaa7b288e8010": 1792740176.2554495,
     "29fe63831b297fa1a8952728a9b0a2e41916783c5667911fbee5373a4680d8c0": 1793151521.8189838,
@@ -248,7 +247,6 @@
     "593d545edd9c17b2c2912b4f1a70e850dc11dc6101885402028fb9bff4e1cbe4": 1792346533.9235616,
     "5989a9659de2d1ecfff00d1c50c1faaab5b1bb16c2b6629a074dd743d9a9b58b": 1791138025.1711354,
     "5a73aa7e366ba8681775aa1f202eb986045729f5c7fdd4a006d985058119022f": 1790357719.232289,
-    "5ba54aefbc89fb7f2a05401e2a7fbd78900e3ae58cc99be0922810e7ab9c0a4e": 1789743468.9803452,
     "5c7800e5a7deae479dd939e4bd7fee17e1fe406bf176fa5a62e967012093365f": 1792806951.9100459,
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
@@ -261,7 +259,6 @@
     "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
     "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
     "66b1712b5c98c86c95957a7f7a70bb90754867821f99c11ecc28088033493245": 1793242594.0476427,
-    "680db037e0de8a05dce524a404c0799386efed2276e69979992a819eaee0f461": 1789755687.299764,
     "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
     "6b957367631364704afe2dd67c486803e6d67b28989ec1fcc05f86095711d810": 1792625232.7979548,
@@ -272,6 +269,7 @@
     "6dd83e65fbe0605bd397599123e18b642cb539e3ea1ad97549e69868c1d42892": 1793520287.555888,
     "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
     "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
+    "6f98170faf57c005b0a9db199ba723581711d2e144314988781d5580aa751820": 1793650646.8856652,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
     "71b86eddc90cd1888ab6e52b7584743d59f2710301d45a38de0c70b6bbcf409c": 1792891997.331911,
