@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793650646.8856652,
-  "last_urgent_at": 1793230822.0322297,
+  "last_post_at": 1793672842.0827549,
+  "last_urgent_at": 1793672842.0827549,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Frontier Tech",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "The Information",
     "Audacy",
     "BleepingComputer",
     "Traders Union",
@@ -38,10 +39,10 @@
     "Reuters",
     "Manufacturing Dive",
     "AI Insider",
-    "Reuters",
-    "The Economic Times"
+    "Reuters"
   ],
   "recent_titles": [
+    "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
     "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing",
     "Ivanti patches two more Connect Secure zero-days chained in attacks",
     "UK launches strategic sites accelerator to unlock investment projects",
@@ -160,8 +161,7 @@
     "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
     "IonQ to buy cybersecurity firm Elisity in up to $1.3 billion deal",
     "Amazon reportedly weighs $7B startup acquisition as AI spending accelerates",
-    "Open-Source Voice AI Runs Entirely On ESP32-S3",
-    "Amazon (AMZN) Explores $7 Billion AI Startup Decart Acquisition"
+    "Open-Source Voice AI Runs Entirely On ESP32-S3"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -236,7 +236,6 @@
     "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
     "4f593279d082018b2ee7fb316005ede8b098c7f8805042699fee9118ad411415": 1790301115.4319355,
-    "50bdf3fa0ff95a40b76266aad0772ed3e525e1629f3b14b661ee02c0a41d1a13": 1789773300.5285013,
     "522dba463a194f29d162d4f36238a40607cbb720843d55b6adef3d43ab7eccbf": 1790019382.5158012,
     "52bb09a4f6ae3af58b7e4b5e8523ea9bc1d0434abf469e9ae18dbd5df528eeb1": 1790183689.0464597,
     "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
@@ -252,7 +251,6 @@
     "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
-    "622420d38d978a87e3489d299fca153dbb2aebca0b68baa020b402160eb9a9f3": 1789780639.4411366,
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
     "65060910eec528f0573a52adcf42c217603e235110696c0a19fa62c63f1c15c7": 1789954500.175478,
     "65ca8ec8b756446b77fad57f98b3dd19367c7393d2fa4ffb1109d2aee56549b9": 1793370069.610423,
@@ -291,12 +289,12 @@
     "848dc66cdd00023b2e554a54fa5adb3b6aaeb28bb5276f268648f32df42c77bc": 1791179671.2097235,
     "8903004e01d1dab222a18476144e126d13d166a93914dd3160639f52abcb9c97": 1792430756.022372,
     "893481eb4bc490b54b7567f30f696f2ace3bd4214c8abaa33974b08adc55ed57": 1793613282.336286,
+    "897131f409d7d56e0a5e84bbdc24dca2ddc39ce89dad28758a7c03daa29ec45c": 1793672842.0827549,
     "89c98d61c52714c1330cc9d036d0cb1b5cd605c3ee528547ad69cc96569937c0": 1789974459.0729573,
     "8a0a2f7da311d38c1805607f4e5ebd7dab34df83f24a51ad862ca36d4e572e24": 1791033516.1513002,
     "8c3e1d917e67cd10f5e75834402aefbf01f901d201cc4ca6f3610b6e9f363535": 1789815039.9417398,
     "8c5da3e1ced1c5a4415088862918359166039f86f09eabec3efaaef4c2127ec1": 1790388238.6350396,
     "8d65195699376029b97b28d63257f6570eb3e9391d35429b873f9a2bebe99881": 1793545301.1824877,
-    "921a1dd4fcec564203d0fc613cd0be58b17fd467907daca71c253ed35c973ec0": 1789765463.5150003,
     "92f99353874983e3b9233bcacf2685030b39b8b4967240c5746eb909280b6c8c": 1793062474.5348248,
     "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
     "941c00ca718c9118e86fa4eaf8ec82168687c5ac289b786fd1f170a50bf0f1fc": 1792759822.3872793,
