@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793815021.087131,
+  "last_post_at": 1793835304.9453182,
   "last_urgent_at": 1793815021.087131,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Frontier Tech",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "CoinDesk",
     "PYMNTS.com",
     "Bloomberg.com",
     "International Business Times",
@@ -38,10 +39,10 @@
     "AFR",
     "TechTarget",
     "BleepingComputer",
-    "BBC",
-    "shattered.io"
+    "BBC"
   ],
   "recent_titles": [
+    "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
     "Revolut’s Valuation Hits $115 Billion With New Funding",
     "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
     "China’s Crypto Ban Pushed $104 Billion in Stablecoin Payments Outside Regulated Firms",
@@ -160,8 +161,7 @@
     "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents",
     "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
     "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
-    "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI",
-    "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources"
+    "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -189,6 +189,7 @@
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "207a51b492b88eeebcf6622dc78a157a488a4a50c962bbe0df34810e97c49156": 1792930004.9996612,
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
+    "21949b592c27f6218311c70299619e19854730a71064779cc22bcfcf34f25867": 1793835304.9453182,
     "22809a7680f3032a04376986a84d032bfc4296c89e8f23f64cfa114320b3e675": 1793217001.8224165,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
@@ -225,7 +226,6 @@
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47273f782007afe04e19d65c976c40e4b16a2fc2234d1cb501a5dd8f467b9ac0": 1792257543.200251,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
-    "490017f318814a91838019839d39601d810b844f194ff5aa9fec50db8ae5a4fd": 1789946913.473035,
     "494a20cb0902e0fdb13db58b9fbe89ff7691f83a9b991d156a50bcb7e0b336a0": 1790145410.601702,
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
@@ -248,7 +248,6 @@
     "5a73aa7e366ba8681775aa1f202eb986045729f5c7fdd4a006d985058119022f": 1790357719.232289,
     "5c7800e5a7deae479dd939e4bd7fee17e1fe406bf176fa5a62e967012093365f": 1792806951.9100459,
     "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
-    "5d556e0e976d339ca6a4438ed088561ae5c840e1abcbf46691bbc3c8ffe1b61d": 1789939746.829448,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
     "60eeb8d5588b217aa38983f04f3b9581b849da2a6d1a7626ebd0bff6a0b39989": 1790340206.7052262,
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
@@ -356,7 +355,6 @@
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
     "cb4db03bf22a1534e72f6975be985bdaa425148805f9616dd05ba8befd25dc01": 1790292266.0337453,
     "cb8bea62f179f67ed5d50a656f0b965fddd6e4aea13c9a88da6993b7c4b0bfb8": 1792509647.0929923,
-    "cc84feb406d8199c457db4a69825b5e37979b70741dc9149af11af7fed01f798": 1789930407.9346542,
     "cd0aed9c49eae32215df2fa5b2cab75b622e1860e17de51101930aa82de45e3e": 1792246222.0068867,
     "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
     "cde3e5399648d36c07fdfe5eedda5772de58fba3c3ebe02f8f075fdf90357cd8": 1790539516.5556958,
