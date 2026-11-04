@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793786279.237595,
-  "last_urgent_at": 1793745286.304965,
+  "last_post_at": 1793815021.087131,
+  "last_urgent_at": 1793815021.087131,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Policy & Regulation",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "AI & Agents"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "PYMNTS.com",
     "Bloomberg.com",
     "International Business Times",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "TechTarget",
     "BleepingComputer",
     "BBC",
-    "shattered.io",
-    "Moneycontrol.com"
+    "shattered.io"
   ],
   "recent_titles": [
+    "Revolut’s Valuation Hits $115 Billion With New Funding",
     "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
     "China’s Crypto Ban Pushed $104 Billion in Stablecoin Payments Outside Regulated Firms",
     "AI inference startup Fal doubles its valuation to $16B as demand surges",
@@ -160,8 +161,7 @@
     "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
     "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
     "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI",
-    "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
-    "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"
+    "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -200,8 +200,8 @@
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
+    "33f8c85b431f66a401c49dbe500a91ce7fdbdac25a3e70645435a5281bf04cc9": 1793815021.087131,
     "3520b8ec407d32d007bd8488c7ee3ab8e546a6578a7c75cf1deae2b8c7b506b8": 1792876118.2056336,
-    "3541858a058cca11f964728d33dbeb512202784f6517500de66881de367678e1": 1789921048.8828669,
     "35a878254db473a1c59936ddcb2835e949776ab99ad11c9120ef190caff972f4": 1792598900.1513186,
     "373b1080daa5e098329381fc6e17fcc15ca1715c2ccff3e68ade0ef4943a2dcc": 1792633663.7461088,
     "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
@@ -374,7 +374,6 @@
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
-    "dbbc0074d69b0732a3277f14a0a543fb1ad1afd41a3208796b8f90cbe3a6d04d": 1789906693.5845923,
     "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
     "ddc4f44b537cf14b8448fad329b8e591356d901883987a694dfba79287c42b8b": 1790876656.755922,
