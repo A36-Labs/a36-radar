@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793745286.304965,
+  "last_post_at": 1793760052.3757792,
   "last_urgent_at": 1793745286.304965,
   "recent_categories": [
+    "Policy & Regulation",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "AI & Agents",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "International Business Times",
     "TechCrunch Startups",
     "Decrypt",
     "ET Enterprise AI",
@@ -38,10 +39,10 @@
     "BBC",
     "shattered.io",
     "Moneycontrol.com",
-    "OneSafe",
-    "Reuters"
+    "OneSafe"
   ],
   "recent_titles": [
+    "China’s Crypto Ban Pushed $104 Billion in Stablecoin Payments Outside Regulated Firms",
     "AI inference startup Fal doubles its valuation to $16B as demand surges",
     "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
     "AI startup Trajectory raises $45 million in Sequoia-led Series A at $300 million valuation",
@@ -160,8 +161,7 @@
     "Hotel OS startup AZOO raises $3.09M Series A to automate lodging operations with AI",
     "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
     "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-    "Horizon Space Acquisition I Corp. and ArcheNova Biotech Finalize $2 Billion Merger Agreement",
-    "Character.AI files for bankruptcy, agrees to sell some assets for $20 million"
+    "Horizon Space Acquisition I Corp. and ArcheNova Biotech Finalize $2 Billion Merger Agreement"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -208,7 +208,6 @@
     "379db88f208995fa49b3c857a26d7f0b9d5434737937f4405bac68e21e5ac613": 1792457077.826608,
     "38ad4cde37dddbf635d898f37fe7db85cb17efb3e400289844802c48ef7de780": 1791381250.6339288,
     "39575ee5a140e52a5e76fa442a55a1a01c66d7a3a212b81488dae60935c1efa3": 1791333451.8385212,
-    "3ab98398414b2ed51325e873751396f1332abe096cf09d804d0fe816004d50ca": 1789861230.982246,
     "3acbbeec9e865413d8ab01fab5c8fd130683785d9af495e9bf5fc83d4e7b0ca1": 1793436586.8508682,
     "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
     "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
@@ -326,6 +325,7 @@
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
     "b16cd5b31916a112ee6601994dc2c041e53af167e4ea2b4ac8b08b338b4542cf": 1793485528.2249863,
+    "b24b586029c91811cf31f24d0a58ae0839854414cb82fe0de0aa54b6276c9ae9": 1793760052.3757792,
     "b383e4dd2d0fdc332f7884ad91c54c7ecb8f992d0752b14d259c5138e0aea47a": 1792651205.5287669,
     "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
     "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
@@ -384,7 +384,6 @@
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
     "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
-    "ea5d3790ab74a03cafe493d90854e875a3a384633c9b0fe718739f73cfbd1048": 1789868622.4103997,
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
     "ecaa83b1991f09f3a9a961d338041a43bd0957f0e223a91ebca81c6dbf8c49fd": 1789887987.3372471,
     "ef3a4ab8df2fdd35eab275d94b6947fe46661b14b8910e779f5d4cdf8dcb74bf": 1793172782.241517,
