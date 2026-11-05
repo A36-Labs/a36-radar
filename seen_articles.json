@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793878709.0041256,
-  "last_urgent_at": 1793815021.087131,
+  "last_post_at": 1793905434.536143,
+  "last_urgent_at": 1793905434.536143,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Fintech & Payments",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "Open Source & DevTools"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "Zee Business",
     "Fintech Singapore",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "THE ELEC, Korea Electronics Industry Media",
     "CTech",
     "PYMNTS.com",
-    "AFR",
-    "TechTarget"
+    "AFR"
   ],
   "recent_titles": [
+    "Shield AI To Hit $28.8 Billion Value With $5.3 Billion Radar Acquisition",
     "VC firm Sequoia Capital raises $10 billion in new funds; aims for faster startup investment decisions",
     "Revolut Confirms US$115 Billion Valuation Amid Global Banking Expansion",
     "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
@@ -160,8 +161,7 @@
     "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
     "Scoop: Bedrock Robotics raising $600M to automate construction",
     "Federated Hermes Targets $14B Tokenized Fund Market With Prometheum Q1 2027 Launch",
-    "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents",
-    "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation"
+    "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -289,6 +289,7 @@
     "8903004e01d1dab222a18476144e126d13d166a93914dd3160639f52abcb9c97": 1792430756.022372,
     "893481eb4bc490b54b7567f30f696f2ace3bd4214c8abaa33974b08adc55ed57": 1793613282.336286,
     "897131f409d7d56e0a5e84bbdc24dca2ddc39ce89dad28758a7c03daa29ec45c": 1793672842.0827549,
+    "899ff0e1471511de193c539da0200b08fd6cec402a987ef531b1f5eea6ccc667": 1793905434.536143,
     "8a0a2f7da311d38c1805607f4e5ebd7dab34df83f24a51ad862ca36d4e572e24": 1791033516.1513002,
     "8c5da3e1ced1c5a4415088862918359166039f86f09eabec3efaaef4c2127ec1": 1790388238.6350396,
     "8d65195699376029b97b28d63257f6570eb3e9391d35429b873f9a2bebe99881": 1793545301.1824877,
@@ -347,7 +348,6 @@
     "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
-    "c49123acfcb972d8f65296e4b444252e216ae57774deca51cd610c1b35c25969": 1790000404.2970216,
     "c5e25a534fc0888e516ed1967b5ce9d59ad80081c078d160f2f7768b05310401": 1790095856.757123,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
     "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
