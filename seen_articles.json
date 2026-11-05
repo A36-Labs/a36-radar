@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793850149.8167017,
+  "last_post_at": 1793878709.0041256,
   "last_urgent_at": 1793815021.087131,
   "recent_categories": [
+    "VC & Accelerators",
     "Fintech & Payments",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
-    "Open Source & DevTools",
-    "Cybersecurity & Cloud"
+    "Open Source & DevTools"
   ],
   "recent_sources": [
+    "Zee Business",
     "Fintech Singapore",
     "CoinDesk",
     "PYMNTS.com",
@@ -38,10 +39,10 @@
     "CTech",
     "PYMNTS.com",
     "AFR",
-    "TechTarget",
-    "BleepingComputer"
+    "TechTarget"
   ],
   "recent_titles": [
+    "VC firm Sequoia Capital raises $10 billion in new funds; aims for faster startup investment decisions",
     "Revolut Confirms US$115 Billion Valuation Amid Global Banking Expansion",
     "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
     "Revolut’s Valuation Hits $115 Billion With New Funding",
@@ -160,8 +161,7 @@
     "Scoop: Bedrock Robotics raising $600M to automate construction",
     "Federated Hermes Targets $14B Tokenized Fund Market With Prometheum Q1 2027 Launch",
     "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents",
-    "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
-    "AI Regulation Needed Now Before Accidents Occur, Mittal Says"
+    "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -289,7 +289,6 @@
     "8903004e01d1dab222a18476144e126d13d166a93914dd3160639f52abcb9c97": 1792430756.022372,
     "893481eb4bc490b54b7567f30f696f2ace3bd4214c8abaa33974b08adc55ed57": 1793613282.336286,
     "897131f409d7d56e0a5e84bbdc24dca2ddc39ce89dad28758a7c03daa29ec45c": 1793672842.0827549,
-    "89c98d61c52714c1330cc9d036d0cb1b5cd605c3ee528547ad69cc96569937c0": 1789974459.0729573,
     "8a0a2f7da311d38c1805607f4e5ebd7dab34df83f24a51ad862ca36d4e572e24": 1791033516.1513002,
     "8c5da3e1ced1c5a4415088862918359166039f86f09eabec3efaaef4c2127ec1": 1790388238.6350396,
     "8d65195699376029b97b28d63257f6570eb3e9391d35429b873f9a2bebe99881": 1793545301.1824877,
@@ -367,6 +366,7 @@
     "d328667e5f11c99cc1fb9c350ff233667630df2cdcf0fb8475f58a6d71ad03f2": 1793472925.8483772,
     "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
+    "d608f3ba2cf1193cac132b25dfadf35c4304ddbffc90d122e14d8cbd4c759b6d": 1793878709.0041256,
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
