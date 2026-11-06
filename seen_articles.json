@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793977059.4911058,
+  "last_post_at": 1793998203.886525,
   "last_urgent_at": 1793977059.4911058,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "VC & Accelerators",
-    "Frontier Tech"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "TNGlobal",
     "TechCrunch AI",
     "Anadolu Ajansı",
@@ -38,10 +39,10 @@
     "The Information",
     "Audacy",
     "BleepingComputer",
-    "Traders Union",
-    "THE ELEC, Korea Electronics Industry Media"
+    "Traders Union"
   ],
   "recent_titles": [
+    "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
     "Analog Devices completes $1.35B Alif Semiconductor acquisition",
     "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
     "China blocks SoftBank’s acquisition of ABB robotics business in $5.4B deal",
@@ -160,8 +161,7 @@
     "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
     "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
     "Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round",
-    "European Commission unveils Water Resilience Investment Accelerator",
-    "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
+    "European Commission unveils Water Resilience Investment Accelerator"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -257,11 +257,11 @@
     "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
     "66b1712b5c98c86c95957a7f7a70bb90754867821f99c11ecc28088033493245": 1793242594.0476427,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
+    "6b6da74156a9c05c7dcae21ad727ee55dd52d28c70a61758ba54107df2653ae3": 1793998203.886525,
     "6b957367631364704afe2dd67c486803e6d67b28989ec1fcc05f86095711d810": 1792625232.7979548,
     "6c2c1f60622abaad33c0f7ba576425ac37a674026da5da431db16cfbaccf3384": 1792944590.1993873,
     "6c6cd38e4116be20f49d9dfc7aaf23010d35befc12b507c3de89e5edd07b617a": 1792776789.9036853,
     "6cdd76bbdd1ee94a30ee6fd88ec09f72ea3d0e461fab39cb27338df15a44022b": 1793124796.497333,
-    "6db18f56406239111a7c14434d0dc011910bc54b840d4d52717f6d441ddcc305": 1790107035.9716556,
     "6dd83e65fbe0605bd397599123e18b642cb539e3ea1ad97549e69868c1d42892": 1793520287.555888,
     "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
     "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
@@ -346,7 +346,6 @@
     "c08bcde74712f464c334779dd04e831249baabd9cfbd5370e6617f57a25468b7": 1793948410.9601357,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
-    "c5e25a534fc0888e516ed1967b5ce9d59ad80081c078d160f2f7768b05310401": 1790095856.757123,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
     "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
