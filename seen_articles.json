@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793905434.536143,
+  "last_post_at": 1793923737.955749,
   "last_urgent_at": 1793905434.536143,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Fintech & Payments",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Frontier Tech",
     "Startups & Funding",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Anadolu Ajansı",
     "Bloomberg.com",
     "Zee Business",
     "Fintech Singapore",
@@ -38,10 +39,10 @@
     "Traders Union",
     "THE ELEC, Korea Electronics Industry Media",
     "CTech",
-    "PYMNTS.com",
-    "AFR"
+    "PYMNTS.com"
   ],
   "recent_titles": [
+    "China blocks SoftBank’s acquisition of ABB robotics business in $5.4B deal",
     "Shield AI To Hit $28.8 Billion Value With $5.3 Billion Radar Acquisition",
     "VC firm Sequoia Capital raises $10 billion in new funds; aims for faster startup investment decisions",
     "Revolut Confirms US$115 Billion Valuation Amid Global Banking Expansion",
@@ -160,8 +161,7 @@
     "European Commission unveils Water Resilience Investment Accelerator",
     "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
     "Scoop: Bedrock Robotics raising $600M to automate construction",
-    "Federated Hermes Targets $14B Tokenized Fund Market With Prometheum Q1 2027 Launch",
-    "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents"
+    "Federated Hermes Targets $14B Tokenized Fund Market With Prometheum Q1 2027 Launch"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -191,6 +191,7 @@
     "207a51b492b88eeebcf6622dc78a157a488a4a50c962bbe0df34810e97c49156": 1792930004.9996612,
     "216975addec254e8b75a46359c49d2f8e0bae1a9b63a2ec7d15b018949060a11": 1791745215.6124213,
     "21949b592c27f6218311c70299619e19854730a71064779cc22bcfcf34f25867": 1793835304.9453182,
+    "220cbc15441ca2a6e7aa104e99a6505cd8fabc7e3d3be4dba2c054941e90971f": 1793923737.955749,
     "22809a7680f3032a04376986a84d032bfc4296c89e8f23f64cfa114320b3e675": 1793217001.8224165,
     "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
@@ -206,7 +207,6 @@
     "3520b8ec407d32d007bd8488c7ee3ab8e546a6578a7c75cf1deae2b8c7b506b8": 1792876118.2056336,
     "35a878254db473a1c59936ddcb2835e949776ab99ad11c9120ef190caff972f4": 1792598900.1513186,
     "373b1080daa5e098329381fc6e17fcc15ca1715c2ccff3e68ade0ef4943a2dcc": 1792633663.7461088,
-    "3767e7f8a679f291951570230e51a6186b4553e1470d9b89d551cf443401ade0": 1790030929.4867043,
     "3787fde16f821d3c467c6b7104f84214dccefca6df944e90b4f4549dca2485b1": 1793727909.03469,
     "379db88f208995fa49b3c857a26d7f0b9d5434737937f4405bac68e21e5ac613": 1792457077.826608,
     "38ad4cde37dddbf635d898f37fe7db85cb17efb3e400289844802c48ef7de780": 1791381250.6339288,
@@ -237,7 +237,6 @@
     "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
     "4f593279d082018b2ee7fb316005ede8b098c7f8805042699fee9118ad411415": 1790301115.4319355,
-    "522dba463a194f29d162d4f36238a40607cbb720843d55b6adef3d43ab7eccbf": 1790019382.5158012,
     "52bb09a4f6ae3af58b7e4b5e8523ea9bc1d0434abf469e9ae18dbd5df528eeb1": 1790183689.0464597,
     "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
     "54e300a894d57b600db50bbf1472a143894f1b8abf0013f260fd9b005459495c": 1790812678.071006,
