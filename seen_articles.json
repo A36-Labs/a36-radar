@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793923737.955749,
-  "last_urgent_at": 1793905434.536143,
+  "last_post_at": 1793948410.9601357,
+  "last_urgent_at": 1793948410.9601357,
   "recent_categories": [
+    "AI & Agents",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Frontier Tech",
-    "Startups & Funding",
-    "Policy & Regulation"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Anadolu Ajansı",
     "Bloomberg.com",
     "Zee Business",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Traders Union",
     "THE ELEC, Korea Electronics Industry Media",
-    "CTech",
-    "PYMNTS.com"
+    "CTech"
   ],
   "recent_titles": [
+    "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
     "China blocks SoftBank’s acquisition of ABB robotics business in $5.4B deal",
     "Shield AI To Hit $28.8 Billion Value With $5.3 Billion Radar Acquisition",
     "VC firm Sequoia Capital raises $10 billion in new funds; aims for faster startup investment decisions",
@@ -160,8 +161,7 @@
     "Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round",
     "European Commission unveils Water Resilience Investment Accelerator",
     "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-    "Scoop: Bedrock Robotics raising $600M to automate construction",
-    "Federated Hermes Targets $14B Tokenized Fund Market With Prometheum Q1 2027 Launch"
+    "Scoop: Bedrock Robotics raising $600M to automate construction"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -255,7 +255,6 @@
     "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
     "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
     "66b1712b5c98c86c95957a7f7a70bb90754867821f99c11ecc28088033493245": 1793242594.0476427,
-    "6840f79275ed4cb54e25a6409e9bcb5bbe4d39000abfd066ee0dfdbf5da831e4": 1790039796.226397,
     "6890b0fac9af8b0101ead73c53764bf2841b51d21f462174fc35d3005769ec52": 1790982258.8012402,
     "6b957367631364704afe2dd67c486803e6d67b28989ec1fcc05f86095711d810": 1792625232.7979548,
     "6c2c1f60622abaad33c0f7ba576425ac37a674026da5da431db16cfbaccf3384": 1792944590.1993873,
@@ -310,7 +309,6 @@
     "9b6c7ac62d11429a604a3eb912970dd09e3ba5dd946a2576668053e89bb7d47a": 1790126790.280994,
     "9c8bba905fc4de85e98a6d2e9c28fabc7cf26a5fab36fdef25f90d9693d4f124": 1791571913.6474025,
     "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
-    "a07663565d841dccfbc375cedaacd3f2a7c6203e5ac7c3860bb4333aa4bb7bad": 1790058102.1831868,
     "a140fe2d50951e95a3d46d92bc1bb02846398a41861a4ca2784c0a3be07b0939": 1793574108.4757452,
     "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
@@ -345,6 +343,7 @@
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "bfaa1d722dec46a1e35157a18f7525b75ee6845711cd2bae045c96fa3a2a1c70": 1792973549.422616,
     "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
+    "c08bcde74712f464c334779dd04e831249baabd9cfbd5370e6617f57a25468b7": 1793948410.9601357,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
     "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
     "c5e25a534fc0888e516ed1967b5ce9d59ad80081c078d160f2f7768b05310401": 1790095856.757123,
