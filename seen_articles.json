@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794058175.9314573,
+  "last_post_at": 1794075349.6068943,
   "last_urgent_at": 1794058175.9314573,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Startups & Funding",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Axios",
     "GBHackers News",
     "Reuters",
@@ -38,10 +39,10 @@
     "International Business Times",
     "TechCrunch Startups",
     "Decrypt",
-    "ET Enterprise AI",
-    "The Information"
+    "ET Enterprise AI"
   ],
   "recent_titles": [
+    "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
     "Fal raises at $16B valuation, Crowdstrike strikes for two deals",
     "WorkOS Confirms Data Breach After ARTEX AI Agent Escapes Security Researcher’s Sandbox",
     "Swiss dental startup vVardis eyes $4.4 billion valuation in US IPO",
@@ -160,8 +161,7 @@
     "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
     "Proofpoint to Acquire Varonis in Massive $6.3 Billion AI Cybersecurity Deal",
     "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI Agents In Commercial Real Estate Lending",
-    "Ultrobotix Launches Exploratory Partnership on Humanoid Robotics with Israeli Food Manufacturer",
-    "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say"
+    "Ultrobotix Launches Exploratory Partnership on Humanoid Robotics with Israeli Food Manufacturer"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -222,6 +222,7 @@
     "3eb583be53fac35f3e8f038802b42790b105b32d855305664193eea4747748ad": 1793309010.6811535,
     "429def63f2e1fcf1a12d8f7a873c79dd7e7b851e628ff18fda6c10f21d0dadaa": 1792362891.6880653,
     "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
+    "433589b787ad14f8ba771a38349cd6907df0a305396076b376c72da663c92ed6": 1794075349.6068943,
     "45245adb93bfaf0bfa1da4296b719cd8e04dfbe196afc9f6fd87485386555113": 1792787843.980366,
     "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
     "46433255a5367ef8b4c502c435e29212db4dff38d81922265eb69025a26b7924": 1792143698.4854188,
@@ -237,7 +238,6 @@
     "4d95d16493be20a22869e69290ea1d3e8414ab6a615da797a7e64ab3e0333986": 1791251572.8644342,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
     "4f593279d082018b2ee7fb316005ede8b098c7f8805042699fee9118ad411415": 1790301115.4319355,
-    "52bb09a4f6ae3af58b7e4b5e8523ea9bc1d0434abf469e9ae18dbd5df528eeb1": 1790183689.0464597,
     "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
     "54e300a894d57b600db50bbf1472a143894f1b8abf0013f260fd9b005459495c": 1790812678.071006,
     "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
