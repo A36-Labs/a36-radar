@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1793998203.886525,
-  "last_urgent_at": 1793977059.4911058,
+  "last_post_at": 1794011251.659204,
+  "last_urgent_at": 1794011251.659204,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud",
-    "VC & Accelerators"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Reuters",
     "Crunchbase News",
     "TNGlobal",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "ET Enterprise AI",
     "The Information",
     "Audacy",
-    "BleepingComputer",
-    "Traders Union"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Swiss dental startup vVardis eyes $4.4 billion valuation in US IPO",
     "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
     "Analog Devices completes $1.35B Alif Semiconductor acquisition",
     "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -160,8 +161,7 @@
     "Ultrobotix Launches Exploratory Partnership on Humanoid Robotics with Israeli Food Manufacturer",
     "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
     "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-    "Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round",
-    "European Commission unveils Water Resilience Investment Accelerator"
+    "Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -267,7 +267,6 @@
     "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
     "6f98170faf57c005b0a9db199ba723581711d2e144314988781d5580aa751820": 1793650646.8856652,
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
-    "71a19d5d1bfe7fdbcaf62e27549e3534151cbc9ec62f2c690a3231a8395e5955": 1790117650.2674227,
     "71b86eddc90cd1888ab6e52b7584743d59f2710301d45a38de0c70b6bbcf409c": 1792891997.331911,
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "73f6622e69607796c4cb01fdd7b63053ebe8466c1264fcfbccff5d9c332a4efe": 1791159266.7586284,
@@ -278,6 +277,7 @@
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
     "7d99552e7fd313aa0e484f5f00557be2aa56cdafd39a313bd415f9e6f39358cf": 1791124350.6112869,
+    "7e32f740e3b97f0eb899658cf7c144dcf4473093c34b00ed6416d45bf0012365": 1794011251.659204,
     "7f678ce2eaaf83ff716c37f695863adca867d904b6e66577dc91fe10244b1391": 1792102300.788147,
     "7fd990c0b6603d12f49820d4b2197cc4b2ed46adb4b9d3a4d5309c16efe8da64": 1792265511.633425,
     "804f130984ddc5c47c2f999173ea3ccfb0c85a458d064853654dfc39bff3d4bd": 1792286957.4591024,
