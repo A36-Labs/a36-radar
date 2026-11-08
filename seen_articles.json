@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794148181.5241337,
+  "last_post_at": 1794164658.425728,
   "last_urgent_at": 1794148181.5241337,
   "recent_categories": [
+    "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Fintech & Payments",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Pulse 2.0",
     "Brave New Coin",
     "BankInfoSecurity",
     "OneSafe",
@@ -38,10 +39,10 @@
     "Zee Business",
     "Fintech Singapore",
     "CoinDesk",
-    "PYMNTS.com",
-    "Bloomberg.com"
+    "PYMNTS.com"
   ],
   "recent_titles": [
+    "Traversal Raises $120 Million In Series B Funding At $1 Billion Valuation To Expand AI-Powered Software Reliability Platform",
     "Anthropic Secures $3.4B Gas Power Deal to Fuel AI Data Centers, IPO Valuation Drops to $1.2T",
     "Sentra Raises $150M to Link AI Agents, Data and Identity",
     "Nigeria Stablecoin Regulation: Inside the New Capital Rules",
@@ -160,8 +161,7 @@
     "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
     "Coinbase and Marqeta Expand Partnership with Corporate Stablecoin Payment Cards",
     "FinTech funding tops $2.8bn as Ramp leads with $1.85bn raise",
-    "SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports",
-    "Deal Dispatch: Ithaca Holdings Buys Bumble for $1.3B, The Knot Acquires Zola, Character.ai Bankruptcy"
+    "SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -200,6 +200,7 @@
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
+    "2fc7d8d0784d7aa7ab397aa06991fd7da6e279d986f75bf5e0d11d36b38f3135": 1794164658.425728,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
@@ -216,7 +217,6 @@
     "3acbbeec9e865413d8ab01fab5c8fd130683785d9af495e9bf5fc83d4e7b0ca1": 1793436586.8508682,
     "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
     "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
-    "3ba866632e9ff55a4fdb8947496ace2f7f44877b1ec10d31faa12aae7f8096bf": 1790269449.8409107,
     "3d378af6a437cfcd74dbf8a21e57f922aac23eb028a927c338be3218dd9d9b7b": 1793323166.0973525,
     "3e157c154cc538daa3f5e01a00aa55690723b14f87d09df34eb1d43c530546e2": 1790691661.1928234,
     "3eb583be53fac35f3e8f038802b42790b105b32d855305664193eea4747748ad": 1793309010.6811535,
