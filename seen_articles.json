@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794164658.425728,
-  "last_urgent_at": 1794148181.5241337,
+  "last_post_at": 1794178183.9795177,
+  "last_urgent_at": 1794178183.9795177,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "VC & Accelerators",
     "Fintech & Payments",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "조선일보",
     "Pulse 2.0",
     "Brave New Coin",
     "BankInfoSecurity",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "Zee Business",
     "Fintech Singapore",
-    "CoinDesk",
-    "PYMNTS.com"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "AstraZeneca Proposes $10 Billion Acquisition of Rhythm Pharmaceuticals",
     "Traversal Raises $120 Million In Series B Funding At $1 Billion Valuation To Expand AI-Powered Software Reliability Platform",
     "Anthropic Secures $3.4B Gas Power Deal to Fuel AI Data Centers, IPO Valuation Drops to $1.2T",
     "Sentra Raises $150M to Link AI Agents, Data and Identity",
@@ -160,8 +161,7 @@
     "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
     "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
     "Coinbase and Marqeta Expand Partnership with Corporate Stablecoin Payment Cards",
-    "FinTech funding tops $2.8bn as Ramp leads with $1.85bn raise",
-    "SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports"
+    "FinTech funding tops $2.8bn as Ramp leads with $1.85bn raise"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -335,6 +335,7 @@
     "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
     "ba7c3e4d7ab3a3ca21ef7934f3c4ee38624158b26d9206771752d4ca901751b2": 1793745286.304965,
     "ba82ad37767d5a01582bccf58650bea8824e5be426c8c7fa8d22e90ae46f6f0f": 1790799402.2137806,
+    "bc576f826ef0ac9e7eb4bbcdc55ce2c3d54b1a3baa01a04c5db7ba65586fc76f": 1794178183.9795177,
     "bc9f646ca822e5a7f1cb9abdf109057e44f7e3eb8e046adbb409a83fbecd6d20": 1792544122.1313202,
     "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
     "bd628be1f6ba05442357a3215a5f0b85bf29a7df4c072078a338e807d63f1dea": 1792990774.9603872,
@@ -357,7 +358,6 @@
     "d060941f1c061335c10e207f35496d713e75cf9737392a0982ff496790078585": 1791301947.5576448,
     "d1143723fa5c96488ea7bc4775fb3b782db4da6831246741ced9dd696f9d6d7e": 1792843495.23797,
     "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
-    "d251a66dfce78e88e78c4b78fe6b4a4e4398183543675a9f7eaaa7a6ba45710a": 1790281586.6222003,
     "d328667e5f11c99cc1fb9c350ff233667630df2cdcf0fb8475f58a6d71ad03f2": 1793472925.8483772,
     "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
