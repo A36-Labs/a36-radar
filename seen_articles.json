@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794123164.3969402,
-  "last_urgent_at": 1794058175.9314573,
+  "last_post_at": 1794148181.5241337,
+  "last_urgent_at": 1794148181.5241337,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Policy & Regulation",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Fintech & Payments",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Frontier Tech",
-    "Policy & Regulation"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Brave New Coin",
     "BankInfoSecurity",
     "OneSafe",
     "TradingView",
@@ -38,10 +39,10 @@
     "Fintech Singapore",
     "CoinDesk",
     "PYMNTS.com",
-    "Bloomberg.com",
-    "International Business Times"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Anthropic Secures $3.4B Gas Power Deal to Fuel AI Data Centers, IPO Valuation Drops to $1.2T",
     "Sentra Raises $150M to Link AI Agents, Data and Identity",
     "Nigeria Stablecoin Regulation: Inside the New Capital Rules",
     "Why Beijing blocked SoftBank's $5.4 billion ABB Robotics deal? Setback for Masayoshi Son's physical AI ambitions",
@@ -160,15 +161,13 @@
     "Coinbase and Marqeta Expand Partnership with Corporate Stablecoin Payment Cards",
     "FinTech funding tops $2.8bn as Ramp leads with $1.85bn raise",
     "SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports",
-    "Deal Dispatch: Ithaca Holdings Buys Bumble for $1.3B, The Knot Acquires Zola, Character.ai Bankruptcy",
-    "Asia’s Startup Funding At Near Record High In Q3, Driven By AI"
+    "Deal Dispatch: Ithaca Holdings Buys Bumble for $1.3B, The Knot Acquires Zola, Character.ai Bankruptcy"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
     "043237a7d0bcd47f460b47196891896893ecdf5b1b590cb74e969d176375d384": 1793977059.4911058,
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
-    "061352ea0d712106d5bedf24358328364e3a699f8ad6d33480752b78880d1656": 1790251311.5224128,
     "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
@@ -231,6 +230,7 @@
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47273f782007afe04e19d65c976c40e4b16a2fc2234d1cb501a5dd8f467b9ac0": 1792257543.200251,
     "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
+    "495b585a752db231d0d8c970e95efdea7c15dd2a6399fb31ca902950276f5bb9": 1794148181.5241337,
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
     "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
