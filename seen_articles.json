@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794190032.5867636,
+  "last_post_at": 1794217435.546218,
   "last_urgent_at": 1794178183.9795177,
   "recent_categories": [
+    "Policy & Regulation",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "VC & Accelerators",
-    "Fintech & Payments"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Pluang",
     "ad-hoc-news.de",
     "조선일보",
     "Pulse 2.0",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "Anadolu Ajansı",
     "Bloomberg.com",
-    "Zee Business",
-    "Fintech Singapore"
+    "Zee Business"
   ],
   "recent_titles": [
+    "Bitcoin ETFs see $1.28B outflows amid strong US jobs data and crypto regulation uncertainty",
     "Accel Entertainment stock: record Q3 revenue reaches $364 million",
     "AstraZeneca Proposes $10 Billion Acquisition of Rhythm Pharmaceuticals",
     "Traversal Raises $120 Million In Series B Funding At $1 Billion Valuation To Expand AI-Powered Software Reliability Platform",
@@ -160,14 +161,14 @@
     "Drupal patches critical RCE flaws, warns exploits may emerge soon",
     "Anthropic’s Dario Amodei is steering a possible $2 trillion IPO—but he says up to 40% of his time goes to making sure company culture is good",
     "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
-    "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
-    "Coinbase and Marqeta Expand Partnership with Corporate Stablecoin Payment Cards"
+    "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
     "043237a7d0bcd47f460b47196891896893ecdf5b1b590cb74e969d176375d384": 1793977059.4911058,
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
+    "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
     "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
@@ -344,7 +345,6 @@
     "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
     "c08bcde74712f464c334779dd04e831249baabd9cfbd5370e6617f57a25468b7": 1793948410.9601357,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
-    "c32effb4160c810d63eca92ac847a0f1a4e5ff3d465be14ff113b89658659ba4": 1790319249.673358,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
     "c8f2639818438b2b7bba81c40f4da2f148e4412710fd76d6ccae97d965611586": 1790369054.3457315,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
