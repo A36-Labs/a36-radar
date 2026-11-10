@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794306633.6580493,
-  "last_urgent_at": 1794255134.0916662,
+  "last_post_at": 1794334301.8177402,
+  "last_urgent_at": 1794334301.8177402,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Startups & Funding",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "AI & Agents"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Mashable",
     "BleepingComputer",
     "Reuters",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "GBHackers News",
     "Reuters",
     "Crunchbase News",
-    "TNGlobal",
-    "TechCrunch AI"
+    "TNGlobal"
   ],
   "recent_titles": [
+    "Anthropic forges ahead with IPO roadshow, eyes $1.4 trillion valuation",
     "Google patches eighth Chrome zero-day exploited in attacks this year",
     "PNC to offer stablecoin payments to clients in Coinbase partnership",
     "AI hardware startup Nominal triples valuation to $3B in 8 months",
@@ -160,8 +161,7 @@
     "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "India’s CERT-In Issues First Incident-Driven Advisory Categorizing AI Agents as an Active Attack Surface",
-    "AiMOGA launches Mobo, a home companion humanoid robot, with global pre-orders starting at 2026 Chery Summit",
-    "Drupal patches critical RCE flaws, warns exploits may emerge soon"
+    "AiMOGA launches Mobo, a home companion humanoid robot, with global pre-orders starting at 2026 Chery Summit"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -200,6 +200,7 @@
     "29fe63831b297fa1a8952728a9b0a2e41916783c5667911fbee5373a4680d8c0": 1793151521.8189838,
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
+    "2e07ffc610ce2c555e9f27c2ea57a8e49e56e481d66a2b58485b52ea8cbf2adc": 1794334301.8177402,
     "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
     "2fc7d8d0784d7aa7ab397aa06991fd7da6e279d986f75bf5e0d11d36b38f3135": 1794164658.425728,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
@@ -230,7 +231,6 @@
     "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47273f782007afe04e19d65c976c40e4b16a2fc2234d1cb501a5dd8f467b9ac0": 1792257543.200251,
-    "48ade8010ea25a1b3f724a7870be66fed69dfc7b465d45985cf085e3166cf97b": 1790441023.476095,
     "495b585a752db231d0d8c970e95efdea7c15dd2a6399fb31ca902950276f5bb9": 1794148181.5241337,
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
@@ -335,7 +335,6 @@
     "ba82ad37767d5a01582bccf58650bea8824e5be426c8c7fa8d22e90ae46f6f0f": 1790799402.2137806,
     "bc576f826ef0ac9e7eb4bbcdc55ce2c3d54b1a3baa01a04c5db7ba65586fc76f": 1794178183.9795177,
     "bc9f646ca822e5a7f1cb9abdf109057e44f7e3eb8e046adbb409a83fbecd6d20": 1792544122.1313202,
-    "bcfadbd820700f3629138b711d582ff41ee3f62dc3a051d2ce3c438e038a023f": 1790425569.591966,
     "bd628be1f6ba05442357a3215a5f0b85bf29a7df4c072078a338e807d63f1dea": 1792990774.9603872,
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "bfaa1d722dec46a1e35157a18f7525b75ee6845711cd2bae045c96fa3a2a1c70": 1792973549.422616,
