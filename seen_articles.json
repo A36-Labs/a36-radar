@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794278880.9929214,
+  "last_post_at": 1794306633.6580493,
   "last_urgent_at": 1794255134.0916662,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Frontier Tech"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Reuters",
     "TechCrunch Startups",
     "Pluang",
@@ -38,10 +39,10 @@
     "Reuters",
     "Crunchbase News",
     "TNGlobal",
-    "TechCrunch AI",
-    "Anadolu Ajansı"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Google patches eighth Chrome zero-day exploited in attacks this year",
     "PNC to offer stablecoin payments to clients in Coinbase partnership",
     "AI hardware startup Nominal triples valuation to $3B in 8 months",
     "Bitcoin ETFs see $1.28B outflows amid strong US jobs data and crypto regulation uncertainty",
@@ -160,8 +161,7 @@
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "India’s CERT-In Issues First Incident-Driven Advisory Categorizing AI Agents as an Active Attack Surface",
     "AiMOGA launches Mobo, a home companion humanoid robot, with global pre-orders starting at 2026 Chery Summit",
-    "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-    "Anthropic’s Dario Amodei is steering a possible $2 trillion IPO—but he says up to 40% of his time goes to making sure company culture is good"
+    "Drupal patches critical RCE flaws, warns exploits may emerge soon"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -169,7 +169,6 @@
     "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
     "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
-    "07a0de0ebed896f85c616c2831c43467fa4cf38586d7e32a6d490fed6b73129a": 1790408133.697823,
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
     "09281ad66a3999f68b16b3ae372900bd0f9da93c1b1bfdb675dcbc75856569cb": 1790855489.2175236,
     "09cfe8172b9d66a0a20ccad892fe5403ef4297b588d3bc0087c6c31d5b7dc3d1": 1791276809.4524825,
@@ -345,6 +344,7 @@
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
+    "cb1533fede4e6f45993c716df3b65ef78e8e885302a96f773351fe936882ed0e": 1794306633.6580493,
     "cb8bea62f179f67ed5d50a656f0b965fddd6e4aea13c9a88da6993b7c4b0bfb8": 1792509647.0929923,
     "cd0aed9c49eae32215df2fa5b2cab75b622e1860e17de51101930aa82de45e3e": 1792246222.0068867,
     "cd7588e34c77ebf72c890ead68803097d4642a1f52b073f5ef54b0a399d1f6e0": 1790460640.5314872,
