@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794365914.9129372,
+  "last_post_at": 1794393917.488697,
   "last_urgent_at": 1794353571.42743,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "FinSMEs",
     "Ars Technica",
     "Reuters",
     "Mashable",
@@ -38,10 +39,10 @@
     "TradingView",
     "CoinDesk",
     "Axios",
-    "GBHackers News",
-    "Reuters"
+    "GBHackers News"
   ],
   "recent_titles": [
+    "EnVision Endoscopy Raises $11.5M in Series A Funding",
     "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
     "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
     "Anthropic forges ahead with IPO roadshow, eyes $1.4 trillion valuation",
@@ -160,13 +161,11 @@
     "India's VC funding for startups stays flat at $10.9 billion in 2026 so far",
     "Revolut hits a $121.2 billion valuation mark as IPO talk turns serious",
     "U-topia Launches Public Beta as Global Builders Gather for U-Hackathon",
-    "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-    "Node.js creator ditches Deno to work on open source Cloudflare Workers"
+    "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
     "043237a7d0bcd47f460b47196891896893ecdf5b1b590cb74e969d176375d384": 1793977059.4911058,
-    "04cebf1e9f65929e15c159097ea959ff742fcef89aa9868451d959a450b6ca86": 1790488344.3827167,
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
     "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
@@ -317,6 +316,7 @@
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
     "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
+    "ac7f4e88525ef989d4b6b08df9e8b43eb141586ef18d75005c5a33c3c20394a2": 1794393917.488697,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
     "b16cd5b31916a112ee6601994dc2c041e53af167e4ea2b4ac8b08b338b4542cf": 1793485528.2249863,
     "b24b586029c91811cf31f24d0a58ae0839854414cb82fe0de0aa54b6276c9ae9": 1793760052.3757792,
