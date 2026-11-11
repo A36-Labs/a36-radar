@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794393917.488697,
-  "last_urgent_at": 1794353571.42743,
+  "last_post_at": 1794420531.4425526,
+  "last_urgent_at": 1794420531.4425526,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Frontier Tech",
     "Web3 & Digital Assets",
-    "Startups & Funding",
-    "Cybersecurity & Cloud"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "FinSMEs",
     "Ars Technica",
     "Reuters",
@@ -38,10 +39,10 @@
     "OneSafe",
     "TradingView",
     "CoinDesk",
-    "Axios",
-    "GBHackers News"
+    "Axios"
   ],
   "recent_titles": [
+    "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
     "EnVision Endoscopy Raises $11.5M in Series A Funding",
     "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
     "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
@@ -160,8 +161,7 @@
     "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance",
     "India's VC funding for startups stays flat at $10.9 billion in 2026 so far",
     "Revolut hits a $121.2 billion valuation mark as IPO talk turns serious",
-    "U-topia Launches Public Beta as Global Builders Gather for U-Hackathon",
-    "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut"
+    "U-topia Launches Public Beta as Global Builders Gather for U-Hackathon"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -275,6 +275,7 @@
     "78f18069a4e318d3cb44eff70380769ea9428784dc29222b2b00559de5bc27f0": 1792613674.9690444,
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
+    "7ca26d08c4a4539986b7cd64a776c446772a20b058d995e4ca827ee2f87bc744": 1794420531.4425526,
     "7d99552e7fd313aa0e484f5f00557be2aa56cdafd39a313bd415f9e6f39358cf": 1791124350.6112869,
     "7e32f740e3b97f0eb899658cf7c144dcf4473093c34b00ed6416d45bf0012365": 1794011251.659204,
     "7f678ce2eaaf83ff716c37f695863adca867d904b6e66577dc91fe10244b1391": 1792102300.788147,
@@ -307,7 +308,6 @@
     "9c8bba905fc4de85e98a6d2e9c28fabc7cf26a5fab36fdef25f90d9693d4f124": 1791571913.6474025,
     "9d78264988a67be5944c8bf5dd8ee76feb597069d582d7f077b96ab02bc269ae": 1790549992.3663523,
     "a140fe2d50951e95a3d46d92bc1bb02846398a41861a4ca2784c0a3be07b0939": 1793574108.4757452,
-    "a1d2d72ca2d365d8c7400d944196ca9ccea5d9e5bececbd170a3c6f4a5b8f0fd": 1790510160.2882934,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
     "a4e145970df7415baa1e3280bfb40ad766972b414d3ae5f9e0c0a199aaf8b078": 1794033094.4670005,
@@ -329,7 +329,6 @@
     "b6b3144f3ce8c06a9c3f78aed995250a95086b258f7f316575c3dd99fe5b3909": 1792201752.1225312,
     "b6cfeee8ed312bd9cf0ed3bb651d141d94a181b0813a8a5d5bc73b6174e200fe": 1793012360.6838863,
     "ba2542e73d9f336bd7ddb1a17094d4a3f6f1452f398a63e280366ca810b41c6d": 1792024576.893949,
-    "ba74ebe2c7c1ed1d4a7bf2b1cc1129fef5f0db76267cbf9c8e184967c1289afd": 1790528053.4651978,
     "ba7c3e4d7ab3a3ca21ef7934f3c4ee38624158b26d9206771752d4ca901751b2": 1793745286.304965,
     "ba82ad37767d5a01582bccf58650bea8824e5be426c8c7fa8d22e90ae46f6f0f": 1790799402.2137806,
     "bc576f826ef0ac9e7eb4bbcdc55ce2c3d54b1a3baa01a04c5db7ba65586fc76f": 1794178183.9795177,
