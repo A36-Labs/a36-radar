@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794444662.5858984,
+  "last_post_at": 1794469855.0916612,
   "last_urgent_at": 1794420531.4425526,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Policy & Regulation",
-    "Frontier Tech",
-    "Web3 & Digital Assets"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "Tech Funding News",
     "Decrypt",
     "BleepingComputer",
     "FinSMEs",
@@ -38,10 +39,10 @@
     "Brave New Coin",
     "BankInfoSecurity",
     "OneSafe",
-    "TradingView",
-    "CoinDesk"
+    "TradingView"
   ],
   "recent_titles": [
+    "Fractile’s $7B valuation: UK chip startup raises $720M from Thrive and Founders Fund six months after $1B",
     "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
     "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
     "EnVision Endoscopy Raises $11.5M in Series A Funding",
@@ -160,8 +161,7 @@
     "Tokenization, Regulation And Crypto Investing: Digital Assets Thoughts Of The Week",
     "Accounting firm investigating ransomware attack",
     "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance",
-    "India's VC funding for startups stays flat at $10.9 billion in 2026 so far",
-    "Revolut hits a $121.2 billion valuation mark as IPO talk turns serious"
+    "India's VC funding for startups stays flat at $10.9 billion in 2026 so far"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -174,7 +174,6 @@
     "0a0f1d2b456a5be9b0514d34af504117204aaf3b52fb754f8b82beb0d6d352cb": 1794058175.9314573,
     "0a5f0c6cd1e5efdfb2f41ee3256a0a158d61988d8682225b0db4b8fbf7b53b07": 1793081537.4299018,
     "0b5351dfcdabf365a5405deac66cf99c8a90626847a30503d5286669bafb51ab": 1790781831.2545953,
-    "0ccdfd2e4cbb20214297574151d0c92cc5ed038a91d289b94716edd7cb83c65e": 1790559279.275614,
     "107d5dd04d7c82bda22c7e16ccf0f62ae474436dace71e49f44ea9b2bae70b1c": 1793586205.861521,
     "10bc90874909aa7324ba76ff13af761ff5abf8ee981efa2f1a1d23f406af42b5": 1792857117.925707,
     "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
@@ -210,6 +209,7 @@
     "3520b8ec407d32d007bd8488c7ee3ab8e546a6578a7c75cf1deae2b8c7b506b8": 1792876118.2056336,
     "357bc294af89a7c8eb99a71c7f229432caed7daf3e5c2a2d43be03fb387e0a56": 1794088870.4329169,
     "35a878254db473a1c59936ddcb2835e949776ab99ad11c9120ef190caff972f4": 1792598900.1513186,
+    "35d2eadb2ac912bc1ad6cbd275607bc5209cbaa0d6c0d317c4471743024d6cc2": 1794469855.0916612,
     "373b1080daa5e098329381fc6e17fcc15ca1715c2ccff3e68ade0ef4943a2dcc": 1792633663.7461088,
     "3787fde16f821d3c467c6b7104f84214dccefca6df944e90b4f4549dca2485b1": 1793727909.03469,
     "378c661511818b8879d7d6d38eaa9df888dc0dfa01db0a761c0fb20fd52cf0fb": 1794353571.42743,
@@ -361,7 +361,6 @@
     "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
     "ddc4f44b537cf14b8448fad329b8e591356d901883987a694dfba79287c42b8b": 1790876656.755922,
-    "e17cb56c3fdae139cf2d14f77ee5be367f5eb478f6b8da2ffdfe86bf9f3fa89f": 1790580962.408113,
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
     "e60b732787c9097b3e81016c6406fe57a39f2b93d8e5e428869276f94888110f": 1793699950.6905324,
