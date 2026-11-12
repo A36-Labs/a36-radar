@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794500747.0360098,
-  "last_urgent_at": 1794420531.4425526,
+  "last_post_at": 1794522360.2778854,
+  "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Startups & Funding",
     "Open Source & DevTools",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "AI & Agents",
-    "Policy & Regulation"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Startup Daily",
     "Help Net Security",
     "Tech Funding News",
     "Decrypt",
@@ -38,10 +39,10 @@
     "조선일보",
     "Pulse 2.0",
     "Brave New Coin",
-    "BankInfoSecurity",
-    "OneSafe"
+    "BankInfoSecurity"
   ],
   "recent_titles": [
+    "Quantum of unicorn: Q-CTRL hits $1.4 billion valuation from $425m Series C",
     "Attackers breached 10 organizations with an open-source AI pentest framework",
     "Fractile’s $7B valuation: UK chip startup raises $720M from Thrive and Founders Fund six months after $1B",
     "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
@@ -160,8 +161,7 @@
     "SoftBank Said to Consider $18 Billion Acquisition of Allied Universal: What Does AI Security Strategy Mean for SoftBank?",
     "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listin",
     "Tokenization, Regulation And Crypto Investing: Digital Assets Thoughts Of The Week",
-    "Accounting firm investigating ransomware attack",
-    "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance"
+    "Accounting firm investigating ransomware attack"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -185,6 +185,7 @@
     "1a30f9456fdeac6a405cb40e98c7bf672cc5d9055d224e74f82895747da4bce1": 1793401824.860062,
     "1b0deeb9931be8effb737603685f65cbaadd27a7a8ecc911699a72aef96543fe": 1793850149.8167017,
     "1b6575f934bdc19130e90ecddd9ccf6122b74970276ac0d162aef0d3bd3670b3": 1793458282.1225288,
+    "1b8330ddbfde10788f46752345fd83c60efb6060cf12eae3fe15e9ef3143eed2": 1794522360.2778854,
     "1e1b09a117c04ed3ee19693cc510c1f44b1189acd02ec9a3d6c67152d7db125e": 1792016084.7165427,
     "1e74b1615fb604fe8f83bc2b6ab73ffdc633f7c27ae3244aaf110a146a944946": 1792217796.4742599,
     "207a51b492b88eeebcf6622dc78a157a488a4a50c962bbe0df34810e97c49156": 1792930004.9996612,
@@ -247,7 +248,6 @@
     "593d545edd9c17b2c2912b4f1a70e850dc11dc6101885402028fb9bff4e1cbe4": 1792346533.9235616,
     "5989a9659de2d1ecfff00d1c50c1faaab5b1bb16c2b6629a074dd743d9a9b58b": 1791138025.1711354,
     "5c7800e5a7deae479dd939e4bd7fee17e1fe406bf176fa5a62e967012093365f": 1792806951.9100459,
-    "5ce19102082d045699a3c92d26da4bc2764b82996b81fb1f8fb6ec6ae63538b3": 1790632364.8270416,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
     "65ca8ec8b756446b77fad57f98b3dd19367c7393d2fa4ffb1109d2aee56549b9": 1793370069.610423,
