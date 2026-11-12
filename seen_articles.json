@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794469855.0916612,
+  "last_post_at": 1794500747.0360098,
   "last_urgent_at": 1794420531.4425526,
   "recent_categories": [
+    "Open Source & DevTools",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
-    "Policy & Regulation",
-    "Frontier Tech"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Help Net Security",
     "Tech Funding News",
     "Decrypt",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Pulse 2.0",
     "Brave New Coin",
     "BankInfoSecurity",
-    "OneSafe",
-    "TradingView"
+    "OneSafe"
   ],
   "recent_titles": [
+    "Attackers breached 10 organizations with an open-source AI pentest framework",
     "Fractile’s $7B valuation: UK chip startup raises $720M from Thrive and Founders Fund six months after $1B",
     "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
     "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
@@ -160,8 +161,7 @@
     "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listin",
     "Tokenization, Regulation And Crypto Investing: Digital Assets Thoughts Of The Week",
     "Accounting firm investigating ransomware attack",
-    "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance",
-    "India's VC funding for startups stays flat at $10.9 billion in 2026 so far"
+    "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -228,7 +228,6 @@
     "45245adb93bfaf0bfa1da4296b719cd8e04dfbe196afc9f6fd87485386555113": 1792787843.980366,
     "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
     "46433255a5367ef8b4c502c435e29212db4dff38d81922265eb69025a26b7924": 1792143698.4854188,
-    "465fee3ecacce10488709def66ab560c5c096d3aeec97a504273ac2eba032329": 1790610983.6704018,
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47273f782007afe04e19d65c976c40e4b16a2fc2234d1cb501a5dd8f467b9ac0": 1792257543.200251,
     "495b585a752db231d0d8c970e95efdea7c15dd2a6399fb31ca902950276f5bb9": 1794148181.5241337,
@@ -358,6 +357,7 @@
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
+    "dc13f6ece9d9247f9b489b4f99ecefc801bbc58a2fde640319e93451bd067b7b": 1794500747.0360098,
     "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
     "ddc4f44b537cf14b8448fad329b8e591356d901883987a694dfba79287c42b8b": 1790876656.755922,
