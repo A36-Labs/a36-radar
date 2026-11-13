@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794593688.0243146,
+  "last_post_at": 1794613335.6965163,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Startups & Funding",
     "Policy & Regulation",
-    "VC & Accelerators",
-    "Markets, IPOs & M&A"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Cryptonews.net",
     "digitimes",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Reuters",
     "TechCrunch Startups",
     "Pluang",
-    "ad-hoc-news.de",
-    "조선일보"
+    "ad-hoc-news.de"
   ],
   "recent_titles": [
+    "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
     "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation?",
     "Huawei spin-off xFusion seeks US$1.2 billion IPO, capitalizing on China's AI server boom",
     "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
@@ -160,8 +161,7 @@
     "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
     "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
     "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
-    "Even Healthcare raises $50 million, triples Series A valuation",
-    "SoftBank Said to Consider $18 Billion Acquisition of Allied Universal: What Does AI Security Strategy Mean for SoftBank?"
+    "Even Healthcare raises $50 million, triples Series A valuation"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -194,7 +194,6 @@
     "21949b592c27f6218311c70299619e19854730a71064779cc22bcfcf34f25867": 1793835304.9453182,
     "220cbc15441ca2a6e7aa104e99a6505cd8fabc7e3d3be4dba2c054941e90971f": 1793923737.955749,
     "22809a7680f3032a04376986a84d032bfc4296c89e8f23f64cfa114320b3e675": 1793217001.8224165,
-    "2582222e215c55902acc3d4ea64edf7da54f61be1ea80ccc29c5264a2292756a": 1790710236.1695037,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
     "293559f2386ad9b6df5daea2ff1dbb85cdafc720b9826f3ec5ccaa7b288e8010": 1792740176.2554495,
     "29fe63831b297fa1a8952728a9b0a2e41916783c5667911fbee5373a4680d8c0": 1793151521.8189838,
@@ -347,6 +346,7 @@
     "d060941f1c061335c10e207f35496d713e75cf9737392a0982ff496790078585": 1791301947.5576448,
     "d1143723fa5c96488ea7bc4775fb3b782db4da6831246741ced9dd696f9d6d7e": 1792843495.23797,
     "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
+    "d239b133d3b1e0075e02e529ebfd883f7082d53a4541700cc0b19a23a0c239b0": 1794613335.6965163,
     "d328667e5f11c99cc1fb9c350ff233667630df2cdcf0fb8475f58a6d71ad03f2": 1793472925.8483772,
     "d3b1511ab44ff500555edcf155c61b88e7108ab426f286b6df1a22d88a5f9c4d": 1794365914.9129372,
     "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
@@ -373,7 +373,6 @@
     "efffcdcf80fe72f08d08bf3907ded26c07e9e0d3ac8e1965786080a027216b7c": 1793413851.9807076,
     "f025972615a45462921fa4aa3b5fca7b04f53575f9cb0ac99d930b02da55710a": 1791418106.4219954,
     "f47e8120452d11a071875718cce284acd0a82bd967dd121685748c9a8f60c4c6": 1791503723.4834254,
-    "f5c293af621de0cbf03df68110f958385d8a9a2cea3f0cdaca92edc6edbc11a3": 1790723407.2034397,
     "f5d17e7eef96088bb2a4001e6a97a2dcaa64f083321d5b459985fe7edc317dbe": 1791875054.5598104,
     "f5eb3aedecaa8913ac7d04bdb3177f0d1114bd1de8bc08fcce76c529640caa1e": 1794444662.5858984,
     "f72d0e79f7400cf7362403c27ca6ce498f8328c6135bffc5206cb1db6670ea81": 1792234633.799072,
