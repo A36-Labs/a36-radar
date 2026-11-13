@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794538381.0162427,
+  "last_post_at": 1794567034.4804716,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "VC & Accelerators",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "digitimes",
     "TechCrunch AI",
     "Startup Daily",
     "Help Net Security",
@@ -38,10 +39,10 @@
     "Pluang",
     "ad-hoc-news.de",
     "조선일보",
-    "Pulse 2.0",
-    "Brave New Coin"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "Huawei spin-off xFusion seeks US$1.2 billion IPO, capitalizing on China's AI server boom",
     "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
     "Quantum of unicorn: Q-CTRL hits $1.4 billion valuation from $425m Series C",
     "Attackers breached 10 organizations with an open-source AI pentest framework",
@@ -160,8 +161,7 @@
     "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
     "Even Healthcare raises $50 million, triples Series A valuation",
     "SoftBank Said to Consider $18 Billion Acquisition of Allied Universal: What Does AI Security Strategy Mean for SoftBank?",
-    "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listin",
-    "Tokenization, Regulation And Crypto Investing: Digital Assets Thoughts Of The Week"
+    "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listin"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -250,6 +250,7 @@
     "5989a9659de2d1ecfff00d1c50c1faaab5b1bb16c2b6629a074dd743d9a9b58b": 1791138025.1711354,
     "5c7800e5a7deae479dd939e4bd7fee17e1fe406bf176fa5a62e967012093365f": 1792806951.9100459,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
+    "62413c010d1f8948d5d7e99873a91fe8fa24b8be22b7fd093be66ef6985a4fe9": 1794567034.4804716,
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
     "65ca8ec8b756446b77fad57f98b3dd19367c7393d2fa4ffb1109d2aee56549b9": 1793370069.610423,
     "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
@@ -313,7 +314,6 @@
     "a8ab8860cef40bbda987c31e27e0911174cfa0742aad2ad6e7edd4e7747e4770": 1790892064.9304628,
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
-    "abd2cedb4e58688f1085717720afa7e3401c7d63af20c9f6b4b2c4c611ebd497": 1790667432.7985723,
     "ac7f4e88525ef989d4b6b08df9e8b43eb141586ef18d75005c5a33c3c20394a2": 1794393917.488697,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
     "b16cd5b31916a112ee6601994dc2c041e53af167e4ea2b4ac8b08b338b4542cf": 1793485528.2249863,
