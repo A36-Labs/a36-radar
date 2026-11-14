@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794613335.6965163,
+  "last_post_at": 1794627494.02203,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Policy & Regulation",
-    "VC & Accelerators"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Financial Times",
     "CoinDesk",
     "Cryptonews.net",
     "digitimes",
@@ -38,10 +39,10 @@
     "BleepingComputer",
     "Reuters",
     "TechCrunch Startups",
-    "Pluang",
-    "ad-hoc-news.de"
+    "Pluang"
   ],
   "recent_titles": [
+    "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
     "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
     "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation?",
     "Huawei spin-off xFusion seeks US$1.2 billion IPO, capitalizing on China's AI server boom",
@@ -160,8 +161,7 @@
     "US SEC Faces Crypto Regulation Push From Hyperliquid Policy Center",
     "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
     "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
-    "Even Healthcare raises $50 million, triples Series A valuation"
+    "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -218,7 +218,6 @@
     "38ad4cde37dddbf635d898f37fe7db85cb17efb3e400289844802c48ef7de780": 1791381250.6339288,
     "39575ee5a140e52a5e76fa442a55a1a01c66d7a3a212b81488dae60935c1efa3": 1791333451.8385212,
     "3acbbeec9e865413d8ab01fab5c8fd130683785d9af495e9bf5fc83d4e7b0ca1": 1793436586.8508682,
-    "3b4895d04048a34884e0343e8d207c2291419db1f9c34fa474e8a0cebdb15262": 1790734302.7479858,
     "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
     "3d378af6a437cfcd74dbf8a21e57f922aac23eb028a927c338be3218dd9d9b7b": 1793323166.0973525,
     "3eb583be53fac35f3e8f038802b42790b105b32d855305664193eea4747748ad": 1793309010.6811535,
@@ -368,6 +367,7 @@
     "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
     "e9afb80941fd7251280fd9d7e5bb044bc94952757c247fa542507a717898678e": 1790757788.1759346,
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
+    "ede8a90f17f3bbf0e38515ce36caa91b6ecf7a359868916645932a78544fc867": 1794627494.02203,
     "ef3a4ab8df2fdd35eab275d94b6947fe46661b14b8910e779f5d4cdf8dcb74bf": 1793172782.241517,
     "efae4015e10bebe0a12c6197e24b48417923236c0fbd6f52fa58136b48197f64": 1791598572.30811,
     "efffcdcf80fe72f08d08bf3907ded26c07e9e0d3ac8e1965786080a027216b7c": 1793413851.9807076,
