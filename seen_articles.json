@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794653964.743016,
+  "last_post_at": 1794675575.2127373,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Frontier Tech",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Cybersecurity & Cloud",
-    "Web3 & Digital Assets",
-    "Startups & Funding"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Hindustan Times",
     "CASRAI",
     "Financial Times",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Reuters",
     "Mashable",
     "BleepingComputer",
-    "Reuters",
-    "TechCrunch Startups"
+    "Reuters"
   ],
   "recent_titles": [
+    "US founder rejected by over 70 investors builds $1 billion robotics startup | Trending",
     "LangChain hits $3B valuation in Series C funding",
     "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
     "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
@@ -160,8 +161,7 @@
     "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda",
     "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
     "US SEC Faces Crypto Regulation Push From Hyperliquid Policy Center",
-    "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-    "Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
+    "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -173,7 +173,6 @@
     "09cfe8172b9d66a0a20ccad892fe5403ef4297b588d3bc0087c6c31d5b7dc3d1": 1791276809.4524825,
     "0a0f1d2b456a5be9b0514d34af504117204aaf3b52fb754f8b82beb0d6d352cb": 1794058175.9314573,
     "0a5f0c6cd1e5efdfb2f41ee3256a0a158d61988d8682225b0db4b8fbf7b53b07": 1793081537.4299018,
-    "0b5351dfcdabf365a5405deac66cf99c8a90626847a30503d5286669bafb51ab": 1790781831.2545953,
     "0d479f9ff9a1e6a6c053e9a5bf80d317ebe2f9b8be19343243d224f3c09a2a20": 1794653964.743016,
     "107d5dd04d7c82bda22c7e16ccf0f62ae474436dace71e49f44ea9b2bae70b1c": 1793586205.861521,
     "10bc90874909aa7324ba76ff13af761ff5abf8ee981efa2f1a1d23f406af42b5": 1792857117.925707,
@@ -380,6 +379,7 @@
     "fb6e04f88a26c54e4b6839cdc577b2c93574cbbd8a281a8c01484034af809963": 1792185780.3649104,
     "fc91fdf5729628696c644b0521e4ac6cff2ae8c76064ee076c4a7d22c65c4bb1": 1793388707.715155,
     "fce61908dedfcf7b14065505bbc6f0946e92b94c337a1f22c438ad73688183e7": 1792126592.6519156,
+    "fda633a48690b5d14b213794640f209d3790b3f211d1c8d68551b59436cf0dde": 1794675575.2127373,
     "fdb2d2c00fe2c60899f50e486aa670925a76feb1dbec1c78f900b65096b17bf9": 1791048385.919296,
     "fe23069b25d4ece92eb774bc60d40ede904ec4028acab4ecb3f933a06715ba9d": 1794100790.5946603,
     "fe44a950d2426be348169e7d02deaff221e6c6924398561b48703cb6c2e169e7": 1793291230.7865224
