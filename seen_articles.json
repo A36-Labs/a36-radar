@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794757000.325957,
+  "last_post_at": 1794774793.711382,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Instagram",
     "Decrypt",
     "Cryptonews.net",
     "Slowtwitch News",
@@ -38,10 +39,10 @@
     "Tech Funding News",
     "Decrypt",
     "BleepingComputer",
-    "FinSMEs",
-    "Ars Technica"
+    "FinSMEs"
   ],
   "recent_titles": [
+    "Between November 09 and November 14, 2026, as many as 9 Indian startups from diverse sectors raised over $63 million in funding from investors. These sectors include Climatetech, Foodtech, Manufacturing, Sportstech, AI, Renewable Energy, and Fashion.",
     "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
     "DOJ Secures Court Approval Targeting $1.2B in Stolen Binance Crypto",
     "World Triathlon Data Breach Exposed Athlete Medical Information and More",
@@ -160,8 +161,7 @@
     "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
     "New funding will provide more 4-H robotics kits in Brown County",
     "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-    "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
-    "Wachtell, Covington, Davis Polk in for Salesforce's $5.7bn Braze acquisition"
+    "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -348,6 +348,7 @@
     "d328667e5f11c99cc1fb9c350ff233667630df2cdcf0fb8475f58a6d71ad03f2": 1793472925.8483772,
     "d3b1511ab44ff500555edcf155c61b88e7108ab426f286b6df1a22d88a5f9c4d": 1794365914.9129372,
     "d4cd58a20dae9a8ed3e76cba6795e9e0055721a5767dedeae89086780979797e": 1792386880.9582958,
+    "d5bca27c4bb817cd784506604835ccfd8b756cf5df3a879576f6eca4cb23d260": 1794774793.711382,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d608f3ba2cf1193cac132b25dfadf35c4304ddbffc90d122e14d8cbd4c759b6d": 1793878709.0041256,
     "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
@@ -358,7 +359,6 @@
     "dc13f6ece9d9247f9b489b4f99ecefc801bbc58a2fde640319e93451bd067b7b": 1794500747.0360098,
     "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
-    "ddc4f44b537cf14b8448fad329b8e591356d901883987a694dfba79287c42b8b": 1790876656.755922,
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
     "e60b732787c9097b3e81016c6406fe57a39f2b93d8e5e428869276f94888110f": 1793699950.6905324,
