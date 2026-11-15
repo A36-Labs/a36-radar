@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794691410.2229948,
+  "last_post_at": 1794705379.5069556,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Frontier Tech",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Cybersecurity & Cloud"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Slowtwitch News",
     "Pulse 2.0",
     "Hindustan Times",
     "CASRAI",
@@ -38,10 +39,10 @@
     "FinSMEs",
     "Ars Technica",
     "Reuters",
-    "Mashable",
-    "BleepingComputer"
+    "Mashable"
   ],
   "recent_titles": [
+    "World Triathlon Data Breach Exposed Athlete Medical Information and More",
     "Fractile: $720 Million Series C Funding Led By Thrive Capital, Lightspeed, Redpoint, And Founders Fund To Develop Next-Generation AI Chips",
     "US founder rejected by over 70 investors builds $1 billion robotics startup | Trending",
     "LangChain hits $3B valuation in Series C funding",
@@ -160,8 +161,7 @@
     "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
     "Wachtell, Covington, Davis Polk in for Salesforce's $5.7bn Braze acquisition",
     "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda",
-    "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-    "US SEC Faces Crypto Regulation Push From Hyperliquid Policy Center"
+    "Bitget plans Thai crypto exchange acquisition weeks after $388M hack"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -241,7 +241,6 @@
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
     "51125a17309b39eec3240b8930d8569563c69ea97644d881eca128c5d322cb60": 1794255134.0916662,
     "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
-    "54e300a894d57b600db50bbf1472a143894f1b8abf0013f260fd9b005459495c": 1790812678.071006,
     "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
     "580313dd9361042dcca4e9a410fa5939fc1a4cf7935959d46b068c4972a8cbf0": 1792955268.3864894,
     "586845c3fe89407a98dde4782994ba742629fe3ceb685eca4a28a0536e3654b9": 1791935586.5446475,
@@ -365,6 +364,7 @@
     "e60b732787c9097b3e81016c6406fe57a39f2b93d8e5e428869276f94888110f": 1793699950.6905324,
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
     "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
+    "e987ad63e7b18f5ba929ccbdd4a1432d7874df8d55e747230b241c6886a3ceed": 1794705379.5069556,
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
     "ede8a90f17f3bbf0e38515ce36caa91b6ecf7a359868916645932a78544fc867": 1794627494.02203,
     "ef3a4ab8df2fdd35eab275d94b6947fe46661b14b8910e779f5d4cdf8dcb74bf": 1793172782.241517,
