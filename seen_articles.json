@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794774793.711382,
+  "last_post_at": 1794788399.0900428,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "BigGo Finance",
     "Instagram",
     "Decrypt",
     "Cryptonews.net",
@@ -38,10 +39,10 @@
     "Help Net Security",
     "Tech Funding News",
     "Decrypt",
-    "BleepingComputer",
-    "FinSMEs"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Nvidia Earnings and Anthropic's Record IPO Debut to Test Wall Street's AI Faith",
     "Between November 09 and November 14, 2026, as many as 9 Indian startups from diverse sectors raised over $63 million in funding from investors. These sectors include Climatetech, Foodtech, Manufacturing, Sportstech, AI, Renewable Energy, and Fashion.",
     "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
     "DOJ Secures Court Approval Targeting $1.2B in Stolen Binance Crypto",
@@ -160,8 +161,7 @@
     "Legal AI startup Legora valued at $8.8 billion in new $550 million funding round",
     "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
     "New funding will provide more 4-H robotics kits in Brown County",
-    "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-    "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion"
+    "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -309,7 +309,6 @@
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
     "a4e145970df7415baa1e3280bfb40ad766972b414d3ae5f9e0c0a199aaf8b078": 1794033094.4670005,
     "a6c48ae206a22ee68a8da763a8044c18f68ea9033cb9e12ae7ebcc4a4ef816d9": 1793344700.5681689,
-    "a8ab8860cef40bbda987c31e27e0911174cfa0742aad2ad6e7edd4e7747e4770": 1790892064.9304628,
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
     "ac7f4e88525ef989d4b6b08df9e8b43eb141586ef18d75005c5a33c3c20394a2": 1794393917.488697,
@@ -356,6 +355,7 @@
     "d75e367e3df6936b79d4a569ae1c7272569f53591b6fbe5d0e6971e87d08bd45": 1790968525.3624153,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
+    "db970abe59f32935ff57b681a844dbfad6f92fdd7a846066bb1d7ff74a7a12c6": 1794788399.0900428,
     "dc13f6ece9d9247f9b489b4f99ecefc801bbc58a2fde640319e93451bd067b7b": 1794500747.0360098,
     "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
