@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794788399.0900428,
+  "last_post_at": 1794811924.8174958,
   "last_urgent_at": 1794522360.2778854,
   "recent_categories": [
+    "AI & Agents",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Open Source & DevTools",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Cybersecurity & Cloud"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "news.lavx.hu",
     "BigGo Finance",
     "Instagram",
     "Decrypt",
@@ -38,10 +39,10 @@
     "Startup Daily",
     "Help Net Security",
     "Tech Funding News",
-    "Decrypt",
-    "BleepingComputer"
+    "Decrypt"
   ],
   "recent_titles": [
+    "Kindo raises $30 million to govern enterprise AI agents",
     "Nvidia Earnings and Anthropic's Record IPO Debut to Test Wall Street's AI Faith",
     "Between November 09 and November 14, 2026, as many as 9 Indian startups from diverse sectors raised over $63 million in funding from investors. These sectors include Climatetech, Foodtech, Manufacturing, Sportstech, AI, Renewable Energy, and Fashion.",
     "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
@@ -160,8 +161,7 @@
     "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
     "Legal AI startup Legora valued at $8.8 billion in new $550 million funding round",
     "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
-    "New funding will provide more 4-H robotics kits in Brown County",
-    "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution"
+    "New funding will provide more 4-H robotics kits in Brown County"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -193,6 +193,7 @@
     "21949b592c27f6218311c70299619e19854730a71064779cc22bcfcf34f25867": 1793835304.9453182,
     "220cbc15441ca2a6e7aa104e99a6505cd8fabc7e3d3be4dba2c054941e90971f": 1793923737.955749,
     "22809a7680f3032a04376986a84d032bfc4296c89e8f23f64cfa114320b3e675": 1793217001.8224165,
+    "28c0644890f86701d1a884f2b880ac083d83de543b5f2408133e763d839440ea": 1794811924.8174958,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
     "293559f2386ad9b6df5daea2ff1dbb85cdafc720b9826f3ec5ccaa7b288e8010": 1792740176.2554495,
     "29fe63831b297fa1a8952728a9b0a2e41916783c5667911fbee5373a4680d8c0": 1793151521.8189838,
@@ -357,7 +358,6 @@
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
     "db970abe59f32935ff57b681a844dbfad6f92fdd7a846066bb1d7ff74a7a12c6": 1794788399.0900428,
     "dc13f6ece9d9247f9b489b4f99ecefc801bbc58a2fde640319e93451bd067b7b": 1794500747.0360098,
-    "dc6df198785b45ef56f61faad71a8f61b3bf0461398b499fa84c019086705b54": 1790905035.689581,
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
