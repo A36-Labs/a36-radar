@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794811924.8174958,
-  "last_urgent_at": 1794522360.2778854,
+  "last_post_at": 1794847191.6596754,
+  "last_urgent_at": 1794847191.6596754,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Startups & Funding",
     "Open Source & DevTools",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "ForkLog",
     "news.lavx.hu",
     "BigGo Finance",
     "Instagram",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "Startup Daily",
     "Help Net Security",
-    "Tech Funding News",
-    "Decrypt"
+    "Tech Funding News"
   ],
   "recent_titles": [
+    "AMD Completes Acquisition of AI Startup World Labs for $8.2 Billion",
     "Kindo raises $30 million to govern enterprise AI agents",
     "Nvidia Earnings and Anthropic's Record IPO Debut to Test Wall Street's AI Faith",
     "Between November 09 and November 14, 2026, as many as 9 Indian startups from diverse sectors raised over $63 million in funding from investors. These sectors include Climatetech, Foodtech, Manufacturing, Sportstech, AI, Renewable Energy, and Fashion.",
@@ -160,8 +161,7 @@
     "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
     "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
     "Legal AI startup Legora valued at $8.8 billion in new $550 million funding round",
-    "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
-    "New funding will provide more 4-H robotics kits in Brown County"
+    "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -292,7 +292,6 @@
     "8cd7f972a31a93a249041b1250f486015bcc626b78c622a3802221bdd13917d5": 1794278880.9929214,
     "8d65195699376029b97b28d63257f6570eb3e9391d35429b873f9a2bebe99881": 1793545301.1824877,
     "92f99353874983e3b9233bcacf2685030b39b8b4967240c5746eb909280b6c8c": 1793062474.5348248,
-    "9338d62ef3229106b14cc84fb8f7cd3edbf6ce7be19e4b76c09019b44bd8835c": 1790926259.2284045,
     "941c00ca718c9118e86fa4eaf8ec82168687c5ac289b786fd1f170a50bf0f1fc": 1792759822.3872793,
     "94cd1eebf82b8e61db327eec0b56a829c8b5bf0822a3c8ae8d9c9ea370659895": 1793035062.3406851,
     "95f8189eee050a4d237009a0eab401b87da6f9463968b0f2c62f4fb52e033ebc": 1792690525.175634,
@@ -318,7 +317,6 @@
     "b24b586029c91811cf31f24d0a58ae0839854414cb82fe0de0aa54b6276c9ae9": 1793760052.3757792,
     "b383e4dd2d0fdc332f7884ad91c54c7ecb8f992d0752b14d259c5138e0aea47a": 1792651205.5287669,
     "b3eff819b79de0d4cba570b7b9af8a10c0077a4dfca344e6bad3586d20edcc80": 1792194621.052178,
-    "b4cdb4c755aad50fab56c2126d36ab46ea57d3dafe13a9ef4551978806326771": 1790949975.6659448,
     "b53c3a938e5cd75af31f97bca7715aade1240156efe5246f5d6c65de4796596e": 1792446220.4691248,
     "b594f873c2599ea4a9bb03781d3678a33c91225c014aa7663ca3d5e523909ffd": 1792355646.941615,
     "b6aaae61709446a82cd0867f75e7fb0945be040bd6de11754a3f288f811dc260": 1793197633.8157816,
@@ -332,6 +330,7 @@
     "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "bfaa1d722dec46a1e35157a18f7525b75ee6845711cd2bae045c96fa3a2a1c70": 1792973549.422616,
     "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
+    "c0546abf8e3cc1946e522ecf5051137c50531311493bc97f6d63a1b538f405cd": 1794847191.6596754,
     "c08bcde74712f464c334779dd04e831249baabd9cfbd5370e6617f57a25468b7": 1793948410.9601357,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
