@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794875458.9383368,
+  "last_post_at": 1794903946.75314,
   "last_urgent_at": 1794875458.9383368,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "AI & Agents",
-    "Startups & Funding",
-    "Open Source & DevTools"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "CoinDesk",
     "TechCrunch Startups",
     "ForkLog",
     "news.lavx.hu",
@@ -38,10 +39,10 @@
     "Cryptonews.net",
     "digitimes",
     "TechCrunch AI",
-    "Startup Daily",
-    "Help Net Security"
+    "Startup Daily"
   ],
   "recent_titles": [
+    "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
     "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
     "AMD Completes Acquisition of AI Startup World Labs for $8.2 Billion",
     "Kindo raises $30 million to govern enterprise AI agents",
@@ -160,8 +161,7 @@
     "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
     "Launch Powered by KPMG Accelerator Holds Demo Day For 4th Cohort",
     "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-    "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-    "Legal AI startup Legora valued at $8.8 billion in new $550 million funding round"
+    "Legal AI startup Legora raises $550M Series E at $8.8B valuation"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -205,7 +205,6 @@
     "2fc7d8d0784d7aa7ab397aa06991fd7da6e279d986f75bf5e0d11d36b38f3135": 1794164658.425728,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
-    "331ab9bc1ebd85fcf9e4cf0087042dd5b451cf4f0c60f593ba94fedc4b91e6ab": 1790992413.3035684,
     "33e758b5d9ac80e071857dccd9447f7cf1cba196906d1d1567ba126420f1080d": 1794123164.3969402,
     "33f8c85b431f66a401c49dbe500a91ce7fdbdac25a3e70645435a5281bf04cc9": 1793815021.087131,
     "3520b8ec407d32d007bd8488c7ee3ab8e546a6578a7c75cf1deae2b8c7b506b8": 1792876118.2056336,
@@ -256,6 +255,7 @@
     "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
     "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
     "66b1712b5c98c86c95957a7f7a70bb90754867821f99c11ecc28088033493245": 1793242594.0476427,
+    "692b39412797ce134cb031ee6ef2650c024aadefe17fdccc5ac4407163fb7fe8": 1794903946.75314,
     "6b6da74156a9c05c7dcae21ad727ee55dd52d28c70a61758ba54107df2653ae3": 1793998203.886525,
     "6b957367631364704afe2dd67c486803e6d67b28989ec1fcc05f86095711d810": 1792625232.7979548,
     "6c2c1f60622abaad33c0f7ba576425ac37a674026da5da431db16cfbaccf3384": 1792944590.1993873,
@@ -296,7 +296,6 @@
     "94cd1eebf82b8e61db327eec0b56a829c8b5bf0822a3c8ae8d9c9ea370659895": 1793035062.3406851,
     "95f8189eee050a4d237009a0eab401b87da6f9463968b0f2c62f4fb52e033ebc": 1792690525.175634,
     "96525dfd21814cc6ca5948f1289c585d4c175ad83ef9f8c7fba2b805dce8c4e1": 1792524302.2708457,
-    "96b3eb649ff73ad0d3ed28bf7f60c1738d28b4f188a49fe2a39e5c334aa583c8": 1791014405.9573197,
     "97b5beca77e182a7ccab6a0054b38200051a67f20a8988c261ea475ae514160a": 1791758943.230541,
     "980bd436986d4c3c7d339e476d6324cbc96efb255fbf9b9afd139a374d1943db": 1793267366.3250353,
     "98346e1a627246a63b1c8e6c31dce82df5b67e0d59b9bbd4452f50b98ea8bc71": 1793561651.27666,
