@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794987780.089219,
-  "last_urgent_at": 1794960623.9675758,
+  "last_post_at": 1795020239.9798598,
+  "last_urgent_at": 1795020239.9798598,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Cybersecurity & Cloud",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Frontier Tech",
     "Startups & Funding",
     "Markets, IPOs & M&A",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "BW Disrupt",
     "BleepingComputer",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "Hindustan Times",
     "CASRAI",
     "Financial Times",
-    "CoinDesk",
-    "Cryptonews.net"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "Ex-Junior Bankers’ AI Startup Leaps to $3.75 Billion Valuation",
     "Singapore-headquartered Robotics Company Botsync Raises $11 Mn In Latest Funding",
     "Critical Java4Shell flaw allows RCE attacks on major Java applications",
     "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
@@ -160,8 +161,7 @@
     "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies",
     "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-    "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value",
-    "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally"
+    "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -277,7 +277,7 @@
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
     "7ca26d08c4a4539986b7cd64a776c446772a20b058d995e4ca827ee2f87bc744": 1794420531.4425526,
-    "7d99552e7fd313aa0e484f5f00557be2aa56cdafd39a313bd415f9e6f39358cf": 1791124350.6112869,
+    "7e178112431626b6ffd14bc5924255d79f593469ae68e4105a1d27f46856a50b": 1795020239.9798598,
     "7e32f740e3b97f0eb899658cf7c144dcf4473093c34b00ed6416d45bf0012365": 1794011251.659204,
     "7f678ce2eaaf83ff716c37f695863adca867d904b6e66577dc91fe10244b1391": 1792102300.788147,
     "7fd990c0b6603d12f49820d4b2197cc4b2ed46adb4b9d3a4d5309c16efe8da64": 1792265511.633425,
@@ -348,7 +348,6 @@
     "d5bca27c4bb817cd784506604835ccfd8b756cf5df3a879576f6eca4cb23d260": 1794774793.711382,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d608f3ba2cf1193cac132b25dfadf35c4304ddbffc90d122e14d8cbd4c759b6d": 1793878709.0041256,
-    "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
     "d9820c7847e89d6894615054ae6d6e325e83bcd4a1981e06344030c213d039f3": 1794960623.9675758,
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
