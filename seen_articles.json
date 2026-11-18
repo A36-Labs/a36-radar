@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1794937854.6620944,
-  "last_urgent_at": 1794875458.9383368,
+  "last_post_at": 1794960623.9675758,
+  "last_urgent_at": 1794960623.9675758,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Web3 & Digital Assets",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
-    "AI & Agents"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "BleepingComputer",
     "Crunchbase News",
     "CoinDesk",
     "TechCrunch Startups",
@@ -38,10 +39,10 @@
     "Financial Times",
     "CoinDesk",
     "Cryptonews.net",
-    "digitimes",
-    "TechCrunch AI"
+    "digitimes"
   ],
   "recent_titles": [
+    "Critical Java4Shell flaw allows RCE attacks on major Java applications",
     "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
     "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
     "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -160,8 +161,7 @@
     "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
     "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value",
     "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-    "Launch Powered by KPMG Accelerator Holds Demo Day For 4th Cohort",
-    "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation"
+    "Launch Powered by KPMG Accelerator Holds Demo Day For 4th Cohort"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -201,7 +201,6 @@
     "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
     "2e07ffc610ce2c555e9f27c2ea57a8e49e56e481d66a2b58485b52ea8cbf2adc": 1794334301.8177402,
-    "2e74cc6ba9bf50fb2a6380c91477655ebb3394291d911994216c82267effd563": 1791058193.2141578,
     "2fc7d8d0784d7aa7ab397aa06991fd7da6e279d986f75bf5e0d11d36b38f3135": 1794164658.425728,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
@@ -349,9 +348,9 @@
     "d5bca27c4bb817cd784506604835ccfd8b756cf5df3a879576f6eca4cb23d260": 1794774793.711382,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d608f3ba2cf1193cac132b25dfadf35c4304ddbffc90d122e14d8cbd4c759b6d": 1793878709.0041256,
-    "d70321271ba3f4d7df052b25216daf354469962cdb6ca16a1863a8cfa5380985": 1791068981.858395,
     "d718882f276b523fd44c2c20470d137b3f3789c185e6672d3e892d462b6bb881": 1791103899.7334464,
     "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
+    "d9820c7847e89d6894615054ae6d6e325e83bcd4a1981e06344030c213d039f3": 1794960623.9675758,
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
     "db970abe59f32935ff57b681a844dbfad6f92fdd7a846066bb1d7ff74a7a12c6": 1794788399.0900428,
     "dc13f6ece9d9247f9b489b4f99ecefc801bbc58a2fde640319e93451bd067b7b": 1794500747.0360098,
