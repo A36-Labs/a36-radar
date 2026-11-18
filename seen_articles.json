@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795020239.9798598,
-  "last_urgent_at": 1795020239.9798598,
+  "last_post_at": 1795043405.177483,
+  "last_urgent_at": 1795043405.177483,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "VC & Accelerators",
     "Frontier Tech",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "Web3 & Digital Assets"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Crunchbase News",
     "Bloomberg.com",
     "BW Disrupt",
     "BleepingComputer",
@@ -38,10 +39,10 @@
     "Pulse 2.0",
     "Hindustan Times",
     "CASRAI",
-    "Financial Times",
-    "CoinDesk"
+    "Financial Times"
   ],
   "recent_titles": [
+    "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
     "Ex-Junior Bankers’ AI Startup Leaps to $3.75 Billion Valuation",
     "Singapore-headquartered Robotics Company Botsync Raises $11 Mn In Latest Funding",
     "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -160,8 +161,7 @@
     "Senate's Tether Probe Shifts Stablecoin Regulation Focus",
     "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies",
-    "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-    "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value"
+    "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -247,7 +247,6 @@
     "580313dd9361042dcca4e9a410fa5939fc1a4cf7935959d46b068c4972a8cbf0": 1792955268.3864894,
     "586845c3fe89407a98dde4782994ba742629fe3ceb685eca4a28a0536e3654b9": 1791935586.5446475,
     "593d545edd9c17b2c2912b4f1a70e850dc11dc6101885402028fb9bff4e1cbe4": 1792346533.9235616,
-    "5989a9659de2d1ecfff00d1c50c1faaab5b1bb16c2b6629a074dd743d9a9b58b": 1791138025.1711354,
     "5c7800e5a7deae479dd939e4bd7fee17e1fe406bf176fa5a62e967012093365f": 1792806951.9100459,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
     "62413c010d1f8948d5d7e99873a91fe8fa24b8be22b7fd093be66ef6985a4fe9": 1794567034.4804716,
@@ -289,6 +288,7 @@
     "897131f409d7d56e0a5e84bbdc24dca2ddc39ce89dad28758a7c03daa29ec45c": 1793672842.0827549,
     "899ff0e1471511de193c539da0200b08fd6cec402a987ef531b1f5eea6ccc667": 1793905434.536143,
     "8a6fc47b6a0d2eb5c732fcd3ae29331cee7af061380f543997a9d5a80dc87cd8": 1794875458.9383368,
+    "8b9f743756fcd5ababf59682ea6d2b546999aa9b323c95bc5210a825475d8d4a": 1795043405.177483,
     "8cd7f972a31a93a249041b1250f486015bcc626b78c622a3802221bdd13917d5": 1794278880.9929214,
     "8d65195699376029b97b28d63257f6570eb3e9391d35429b873f9a2bebe99881": 1793545301.1824877,
     "92f99353874983e3b9233bcacf2685030b39b8b4967240c5746eb909280b6c8c": 1793062474.5348248,
@@ -358,7 +358,6 @@
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
     "e60b732787c9097b3e81016c6406fe57a39f2b93d8e5e428869276f94888110f": 1793699950.6905324,
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
-    "e96da04a2d9690a536852ae225bcc0f22213dbef2fdb3af343e2483a9e6b0507": 1791150093.3790064,
     "e987ad63e7b18f5ba929ccbdd4a1432d7874df8d55e747230b241c6886a3ceed": 1794705379.5069556,
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
     "ede8a90f17f3bbf0e38515ce36caa91b6ecf7a359868916645932a78544fc867": 1794627494.02203,
