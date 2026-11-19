@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795095064.4450512,
+  "last_post_at": 1795124767.0676663,
   "last_urgent_at": 1795095064.4450512,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "Cybersecurity & Cloud",
-    "VC & Accelerators",
-    "Frontier Tech"
+    "VC & Accelerators"
   ],
   "recent_sources": [
+    "Dealroom",
     "CTech",
     "PYMNTS.com",
     "Crunchbase News",
@@ -38,10 +39,10 @@
     "Decrypt",
     "Cryptonews.net",
     "Slowtwitch News",
-    "Pulse 2.0",
-    "Hindustan Times"
+    "Pulse 2.0"
   ],
   "recent_titles": [
+    "Korea's $14.9B Naver-Dunamu crypto deal nears final antitrust verdict",
     "Palo Alto's $4.5 billion acquisition exposes a missed opportunity for Israeli AI startups",
     "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute",
     "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
@@ -160,11 +161,11 @@
     "Fireblocks Denies Report of $2.5B Visa Acquisition Talks",
     "Hi3D V1.0 Goes Open Source: The First Production-Validated Open-Source AI 3D Model",
     "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation",
-    "Senate's Tether Probe Shifts Stablecoin Regulation Focus",
-    "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+    "Senate's Tether Probe Shifts Stablecoin Regulation Focus"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
+    "01f740422f9c2e00f36dc33aecadfe6a890ab9df26e0a46484c5cdeca35b6270": 1795124767.0676663,
     "043237a7d0bcd47f460b47196891896893ecdf5b1b590cb74e969d176375d384": 1793977059.4911058,
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
     "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
@@ -199,7 +200,6 @@
     "293559f2386ad9b6df5daea2ff1dbb85cdafc720b9826f3ec5ccaa7b288e8010": 1792740176.2554495,
     "29fe63831b297fa1a8952728a9b0a2e41916783c5667911fbee5373a4680d8c0": 1793151521.8189838,
     "2a9cd20d0f3e5f393b8253914d32209bf4759056f837bcc1a776b38ce8ec75a7": 1794691410.2229948,
-    "2ba5bd3652fb972d6da4da49bcfd867cac3ee6c93222c35f1eb7771e4ec8409d": 1791236179.595158,
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
     "2e07ffc610ce2c555e9f27c2ea57a8e49e56e481d66a2b58485b52ea8cbf2adc": 1794334301.8177402,
     "2fc7d8d0784d7aa7ab397aa06991fd7da6e279d986f75bf5e0d11d36b38f3135": 1794164658.425728,
@@ -266,7 +266,6 @@
     "6ed7c316436844d98b7abf170637c45efb6c38d0af07208f9285f2635739c625": 1792323572.8118434,
     "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
     "6f98170faf57c005b0a9db199ba723581711d2e144314988781d5580aa751820": 1793650646.8856652,
-    "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "71b86eddc90cd1888ab6e52b7584743d59f2710301d45a38de0c70b6bbcf409c": 1792891997.331911,
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
