@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795061731.5887141,
-  "last_urgent_at": 1795061731.5887141,
+  "last_post_at": 1795095064.4450512,
+  "last_urgent_at": 1795095064.4450512,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
-    "Frontier Tech",
-    "Startups & Funding"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "CTech",
     "PYMNTS.com",
     "Crunchbase News",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "Cryptonews.net",
     "Slowtwitch News",
     "Pulse 2.0",
-    "Hindustan Times",
-    "CASRAI"
+    "Hindustan Times"
   ],
   "recent_titles": [
+    "Palo Alto's $4.5 billion acquisition exposes a missed opportunity for Israeli AI startups",
     "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute",
     "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
     "Ex-Junior Bankers’ AI Startup Leaps to $3.75 Billion Valuation",
@@ -160,8 +161,7 @@
     "Hi3D V1.0 Goes Open Source: The First Production-Validated Open-Source AI 3D Model",
     "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation",
     "Senate's Tether Probe Shifts Stablecoin Regulation Focus",
-    "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies"
+    "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -244,6 +244,7 @@
     "51125a17309b39eec3240b8930d8569563c69ea97644d881eca128c5d322cb60": 1794255134.0916662,
     "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
     "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
+    "557e419a89a9306e1b9fbda114768c446ab2c5a88014d7d5c2761a32f49dc760": 1795095064.4450512,
     "580313dd9361042dcca4e9a410fa5939fc1a4cf7935959d46b068c4972a8cbf0": 1792955268.3864894,
     "586845c3fe89407a98dde4782994ba742629fe3ceb685eca4a28a0536e3654b9": 1791935586.5446475,
     "593d545edd9c17b2c2912b4f1a70e850dc11dc6101885402028fb9bff4e1cbe4": 1792346533.9235616,
@@ -281,7 +282,6 @@
     "7fd990c0b6603d12f49820d4b2197cc4b2ed46adb4b9d3a4d5309c16efe8da64": 1792265511.633425,
     "804f130984ddc5c47c2f999173ea3ccfb0c85a458d064853654dfc39bff3d4bd": 1792286957.4591024,
     "8270f38a3aad494138371ca5011cdd77a62104ff31e92ec42a3a666b605ad8b9": 1792712440.0177536,
-    "848dc66cdd00023b2e554a54fa5adb3b6aaeb28bb5276f268648f32df42c77bc": 1791179671.2097235,
     "8903004e01d1dab222a18476144e126d13d166a93914dd3160639f52abcb9c97": 1792430756.022372,
     "893481eb4bc490b54b7567f30f696f2ace3bd4214c8abaa33974b08adc55ed57": 1793613282.336286,
     "897131f409d7d56e0a5e84bbdc24dca2ddc39ce89dad28758a7c03daa29ec45c": 1793672842.0827549,
