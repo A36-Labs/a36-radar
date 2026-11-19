@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795043405.177483,
-  "last_urgent_at": 1795043405.177483,
+  "last_post_at": 1795061731.5887141,
+  "last_urgent_at": 1795061731.5887141,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Frontier Tech",
-    "Startups & Funding",
-    "Markets, IPOs & M&A"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "PYMNTS.com",
     "Crunchbase News",
     "Bloomberg.com",
     "BW Disrupt",
@@ -38,10 +39,10 @@
     "Slowtwitch News",
     "Pulse 2.0",
     "Hindustan Times",
-    "CASRAI",
-    "Financial Times"
+    "CASRAI"
   ],
   "recent_titles": [
+    "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute",
     "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
     "Ex-Junior Bankers’ AI Startup Leaps to $3.75 Billion Valuation",
     "Singapore-headquartered Robotics Company Botsync Raises $11 Mn In Latest Funding",
@@ -160,8 +161,7 @@
     "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation",
     "Senate's Tether Probe Shifts Stablecoin Regulation Focus",
     "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies",
-    "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks"
+    "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -268,7 +268,6 @@
     "6fa76d8769a20c811ec33604648b0e8ce5e555c92703b520ee84c2906a259950": 1791210391.0002651,
     "71b86eddc90cd1888ab6e52b7584743d59f2710301d45a38de0c70b6bbcf409c": 1792891997.331911,
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
-    "73f6622e69607796c4cb01fdd7b63053ebe8466c1264fcfbccff5d9c332a4efe": 1791159266.7586284,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
     "7508171905e7f806d54cbfc1c9fecbb11fe41776bb5443ccffef493d5e5a3417": 1791402924.448929,
     "769a2806f74afff99776c1ba727aef161d71966af67f1111d05e462baa560228": 1792910834.3145518,
@@ -356,6 +355,7 @@
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
+    "e5e753e53547db85c5ae0e1d95f2a15a1da876ac4cc9dd9ddb77330c68c29b83": 1795061731.5887141,
     "e60b732787c9097b3e81016c6406fe57a39f2b93d8e5e428869276f94888110f": 1793699950.6905324,
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
     "e987ad63e7b18f5ba929ccbdd4a1432d7874df8d55e747230b241c6886a3ceed": 1794705379.5069556,
