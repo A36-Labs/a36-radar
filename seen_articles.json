@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795142469.5191538,
-  "last_urgent_at": 1795142469.5191538,
+  "last_post_at": 1795171003.5076215,
+  "last_urgent_at": 1795171003.5076215,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "Cybersecurity & Cloud"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "The Hacker News",
     "TechCrunch AI",
     "Dealroom",
     "CTech",
@@ -38,10 +39,10 @@
     "BigGo Finance",
     "Instagram",
     "Decrypt",
-    "Cryptonews.net",
-    "Slowtwitch News"
+    "Cryptonews.net"
   ],
   "recent_titles": [
+    "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
     "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
     "Korea's $14.9B Naver-Dunamu crypto deal nears final antitrust verdict",
     "Palo Alto's $4.5 billion acquisition exposes a missed opportunity for Israeli AI startups",
@@ -160,8 +161,7 @@
     "Texoma Semiconductor Tech Hub lands $29 million in new funding",
     "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
     "Fireblocks Denies Report of $2.5B Visa Acquisition Talks",
-    "Hi3D V1.0 Goes Open Source: The First Production-Validated Open-Source AI 3D Model",
-    "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation"
+    "Hi3D V1.0 Goes Open Source: The First Production-Validated Open-Source AI 3D Model"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -170,7 +170,6 @@
     "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
     "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
-    "09cfe8172b9d66a0a20ccad892fe5403ef4297b588d3bc0087c6c31d5b7dc3d1": 1791276809.4524825,
     "0a0f1d2b456a5be9b0514d34af504117204aaf3b52fb754f8b82beb0d6d352cb": 1794058175.9314573,
     "0a5f0c6cd1e5efdfb2f41ee3256a0a158d61988d8682225b0db4b8fbf7b53b07": 1793081537.4299018,
     "0d479f9ff9a1e6a6c053e9a5bf80d317ebe2f9b8be19343243d224f3c09a2a20": 1794653964.743016,
@@ -287,6 +286,7 @@
     "899ff0e1471511de193c539da0200b08fd6cec402a987ef531b1f5eea6ccc667": 1793905434.536143,
     "8a6fc47b6a0d2eb5c732fcd3ae29331cee7af061380f543997a9d5a80dc87cd8": 1794875458.9383368,
     "8b9f743756fcd5ababf59682ea6d2b546999aa9b323c95bc5210a825475d8d4a": 1795043405.177483,
+    "8c0876bca33c1cbfd08dbecab9d3b0ce694be96b8cf4799e4b3232682f9b3aad": 1795171003.5076215,
     "8cd7f972a31a93a249041b1250f486015bcc626b78c622a3802221bdd13917d5": 1794278880.9929214,
     "8d65195699376029b97b28d63257f6570eb3e9391d35429b873f9a2bebe99881": 1793545301.1824877,
     "92f99353874983e3b9233bcacf2685030b39b8b4967240c5746eb909280b6c8c": 1793062474.5348248,
