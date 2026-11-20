@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795171003.5076215,
+  "last_post_at": 1795200530.3842638,
   "last_urgent_at": 1795171003.5076215,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "AI & Agents",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "Cointelegraph",
     "The Hacker News",
     "TechCrunch AI",
     "Dealroom",
@@ -38,10 +39,10 @@
     "news.lavx.hu",
     "BigGo Finance",
     "Instagram",
-    "Decrypt",
-    "Cryptonews.net"
+    "Decrypt"
   ],
   "recent_titles": [
+    "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
     "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
     "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
     "Korea's $14.9B Naver-Dunamu crypto deal nears final antitrust verdict",
@@ -160,8 +161,7 @@
     "Whop Lands $200 Million From Sequoia and Shopify Ventures at a $5.1 Billion Valuation",
     "Texoma Semiconductor Tech Hub lands $29 million in new funding",
     "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-    "Fireblocks Denies Report of $2.5B Visa Acquisition Talks",
-    "Hi3D V1.0 Goes Open Source: The First Production-Validated Open-Source AI 3D Model"
+    "Fireblocks Denies Report of $2.5B Visa Acquisition Talks"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -331,12 +331,12 @@
     "c08bcde74712f464c334779dd04e831249baabd9cfbd5370e6617f57a25468b7": 1793948410.9601357,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
     "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
+    "c816793452603f9e3436a722af5e0a5d1e35ffb70b8bf9ba48d800b26e5213d9": 1795200530.3842638,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
     "cb1533fede4e6f45993c716df3b65ef78e8e885302a96f773351fe936882ed0e": 1794306633.6580493,
     "cb8bea62f179f67ed5d50a656f0b965fddd6e4aea13c9a88da6993b7c4b0bfb8": 1792509647.0929923,
     "cd0aed9c49eae32215df2fa5b2cab75b622e1860e17de51101930aa82de45e3e": 1792246222.0068867,
     "d059fed9e375af814b4043fa83c02213884f8a265e2a202b6065bfac11fdf879": 1793104012.5258741,
-    "d060941f1c061335c10e207f35496d713e75cf9737392a0982ff496790078585": 1791301947.5576448,
     "d1143723fa5c96488ea7bc4775fb3b782db4da6831246741ced9dd696f9d6d7e": 1792843495.23797,
     "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
     "d239b133d3b1e0075e02e529ebfd883f7082d53a4541700cc0b19a23a0c239b0": 1794613335.6965163,
