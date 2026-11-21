@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795275270.701308,
+  "last_post_at": 1795295188.1442556,
   "last_urgent_at": 1795220503.971402,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Policy & Regulation",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Startups & Funding",
-    "Markets, IPOs & M&A",
-    "AI & Agents"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "CoinDesk",
     "Arabian Business",
     "VentureBeat",
     "Reuters",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "CoinDesk",
     "TechCrunch Startups",
-    "ForkLog",
-    "news.lavx.hu"
+    "ForkLog"
   ],
   "recent_titles": [
+    "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
     "$6.3bn Binance heist shows how regulation matters in crypto",
     "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
     "Cognition in talks for new funding at $75 billion valuation, Bloomberg News reports",
@@ -160,8 +161,7 @@
     "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?",
     "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
     "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-    "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
-    "Whop Lands $200 Million From Sequoia and Shopify Ventures at a $5.1 Billion Valuation"
+    "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -266,7 +266,6 @@
     "71b86eddc90cd1888ab6e52b7584743d59f2710301d45a38de0c70b6bbcf409c": 1792891997.331911,
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
-    "7508171905e7f806d54cbfc1c9fecbb11fe41776bb5443ccffef493d5e5a3417": 1791402924.448929,
     "769a2806f74afff99776c1ba727aef161d71966af67f1111d05e462baa560228": 1792910834.3145518,
     "78f18069a4e318d3cb44eff70380769ea9428784dc29222b2b00559de5bc27f0": 1792613674.9690444,
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
@@ -308,6 +307,7 @@
     "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
     "ac7f4e88525ef989d4b6b08df9e8b43eb141586ef18d75005c5a33c3c20394a2": 1794393917.488697,
     "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
+    "ae8e4c8854f876a88bf412ebfb90b7a8532fa7e8b1697399a986ab05f195a084": 1795295188.1442556,
     "b16cd5b31916a112ee6601994dc2c041e53af167e4ea2b4ac8b08b338b4542cf": 1793485528.2249863,
     "b24b586029c91811cf31f24d0a58ae0839854414cb82fe0de0aa54b6276c9ae9": 1793760052.3757792,
     "b383e4dd2d0fdc332f7884ad91c54c7ecb8f992d0752b14d259c5138e0aea47a": 1792651205.5287669,
