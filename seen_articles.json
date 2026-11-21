@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795200530.3842638,
-  "last_urgent_at": 1795171003.5076215,
+  "last_post_at": 1795220503.971402,
+  "last_urgent_at": 1795220503.971402,
   "recent_categories": [
+    "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Reuters",
     "Cointelegraph",
     "The Hacker News",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "ForkLog",
     "news.lavx.hu",
     "BigGo Finance",
-    "Instagram",
-    "Decrypt"
+    "Instagram"
   ],
   "recent_titles": [
+    "Cognition in talks for new funding at $75 billion valuation, Bloomberg News reports",
     "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
     "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
     "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
@@ -160,8 +161,7 @@
     "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
     "Whop Lands $200 Million From Sequoia and Shopify Ventures at a $5.1 Billion Valuation",
     "Texoma Semiconductor Tech Hub lands $29 million in new funding",
-    "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-    "Fireblocks Denies Report of $2.5B Visa Acquisition Talks"
+    "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -233,10 +233,10 @@
     "468e699b47d8ae08acdbda0f6a94ff0a4270bbbad5edb219ee4de6fdeb00c719": 1792058699.4834464,
     "47273f782007afe04e19d65c976c40e4b16a2fc2234d1cb501a5dd8f467b9ac0": 1792257543.200251,
     "47cff51dbeacf154db47b2078e0e2c9594922149e49cdb108fa41eaf440829ec": 1794729379.9367487,
+    "4800f0a769adc19efa4664297fbda72e45ccc304d42ae10c8affdfe066ec9090": 1795220503.971402,
     "495b585a752db231d0d8c970e95efdea7c15dd2a6399fb31ca902950276f5bb9": 1794148181.5241337,
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
-    "4c0079f4c20caf98ba0f528e092c82030dba6a39d7476e62bc08061d168487fb": 1791320132.3284938,
     "4c39d2185587e19ab3f6b0c9230c93ed915b3e5b9ee312c53f563f599cf4d366": 1791525566.4402003,
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
