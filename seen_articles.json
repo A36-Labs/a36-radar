@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795220503.971402,
+  "last_post_at": 1795246207.5382621,
   "last_urgent_at": 1795220503.971402,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Markets, IPOs & M&A",
     "AI & Agents",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "VentureBeat",
     "Reuters",
     "Cointelegraph",
     "The Hacker News",
@@ -38,10 +39,10 @@
     "TechCrunch Startups",
     "ForkLog",
     "news.lavx.hu",
-    "BigGo Finance",
-    "Instagram"
+    "BigGo Finance"
   ],
   "recent_titles": [
+    "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
     "Cognition in talks for new funding at $75 billion valuation, Bloomberg News reports",
     "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
     "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
@@ -160,14 +161,12 @@
     "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
     "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
     "Whop Lands $200 Million From Sequoia and Shopify Ventures at a $5.1 Billion Valuation",
-    "Texoma Semiconductor Tech Hub lands $29 million in new funding",
-    "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions"
+    "Texoma Semiconductor Tech Hub lands $29 million in new funding"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
     "01f740422f9c2e00f36dc33aecadfe6a890ab9df26e0a46484c5cdeca35b6270": 1795124767.0676663,
     "043237a7d0bcd47f460b47196891896893ecdf5b1b590cb74e969d176375d384": 1793977059.4911058,
-    "04e991e0dce2d2b6f8af7de51b507f06e82825dafd00c512806405d062188694": 1791354960.854151,
     "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
     "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
     "0a0f1d2b456a5be9b0514d34af504117204aaf3b52fb754f8b82beb0d6d352cb": 1794058175.9314573,
@@ -203,6 +202,7 @@
     "2de14b8dddbc396946b547c5cd2d1b2b6c2a33d715f93cd0df3d5dea46cb16a1": 1792305180.2677822,
     "2e07ffc610ce2c555e9f27c2ea57a8e49e56e481d66a2b58485b52ea8cbf2adc": 1794334301.8177402,
     "2fc7d8d0784d7aa7ab397aa06991fd7da6e279d986f75bf5e0d11d36b38f3135": 1794164658.425728,
+    "30cb9db4881edd6ffa24949298895531146db8e1b2519d4fae1dd2ce11c11210": 1795246207.5382621,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
     "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "33e758b5d9ac80e071857dccd9447f7cf1cba196906d1d1567ba126420f1080d": 1794123164.3969402,
@@ -216,7 +216,6 @@
     "378c661511818b8879d7d6d38eaa9df888dc0dfa01db0a761c0fb20fd52cf0fb": 1794353571.42743,
     "379db88f208995fa49b3c857a26d7f0b9d5434737937f4405bac68e21e5ac613": 1792457077.826608,
     "38ad4cde37dddbf635d898f37fe7db85cb17efb3e400289844802c48ef7de780": 1791381250.6339288,
-    "39575ee5a140e52a5e76fa442a55a1a01c66d7a3a212b81488dae60935c1efa3": 1791333451.8385212,
     "3acbbeec9e865413d8ab01fab5c8fd130683785d9af495e9bf5fc83d4e7b0ca1": 1793436586.8508682,
     "3aff6d85c6cf055804f155b1454496a707c90da8d0cd88f4153a44a46fa98d8b": 1794757000.325957,
     "3b946a611a21b2cb8c77279d5dbd693c14724a2f6805e4e0f68ec2d6aa761d86": 1791440338.2195764,
