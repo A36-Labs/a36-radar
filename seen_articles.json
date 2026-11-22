@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795335123.57533,
-  "last_urgent_at": 1795220503.971402,
+  "last_post_at": 1795364794.8011332,
+  "last_urgent_at": 1795364794.8011332,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Frontier Tech",
     "Cybersecurity & Cloud",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "GuruFocus",
     "BigGo Finance",
     "Gistmania",
     "CoinDesk",
@@ -38,10 +39,10 @@
     "Bloomberg.com",
     "BW Disrupt",
     "BleepingComputer",
-    "Crunchbase News",
-    "CoinDesk"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Amazon (AMZN) Nears $7.5 Billion Acquisition of AI Startup Decar",
     "Anthropic's $93.5 Billion IPO Marks Record Debut, Then US Stocks Plunge; Nasdaq Drops 5.28% in a Single Day, Erasing Year-to-Date Gains",
     "Hackers Breach FBI’s National Crime Database, Raising Fresh Security Concerns",
     "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
@@ -160,8 +161,7 @@
     "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
     "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO",
     "Ohio Labor Groups Back AI Regulation Bill HB 1032",
-    "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?",
-    "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
+    "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -238,6 +238,7 @@
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
     "51125a17309b39eec3240b8930d8569563c69ea97644d881eca128c5d322cb60": 1794255134.0916662,
+    "527bb007597d97e37660d6e197317d8672d4aae9bf4e7222f3c38527a1555c2e": 1795364794.8011332,
     "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
     "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
     "557e419a89a9306e1b9fbda114768c446ab2c5a88014d7d5c2761a32f49dc760": 1795095064.4450512,
@@ -346,7 +347,6 @@
     "d5bca27c4bb817cd784506604835ccfd8b756cf5df3a879576f6eca4cb23d260": 1794774793.711382,
     "d5fd906aae0266e7044d42bc42c3d037ae4a578b6c1ab80b5f802f7b49af5d44": 1791988947.5217628,
     "d608f3ba2cf1193cac132b25dfadf35c4304ddbffc90d122e14d8cbd4c759b6d": 1793878709.0041256,
-    "d957b30c25a7b45cb6de01e5d4ef1da0a9c890fb7cae2ba4ee3e37b1d3097999": 1791467083.767731,
     "d9820c7847e89d6894615054ae6d6e325e83bcd4a1981e06344030c213d039f3": 1794960623.9675758,
     "db1ca17d1bf137054634e29287afff44bcfd79f0d370638b5638a1363094af6d": 1792473963.3665793,
     "db970abe59f32935ff57b681a844dbfad6f92fdd7a846066bb1d7ff74a7a12c6": 1794788399.0900428,
