@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795364794.8011332,
+  "last_post_at": 1795384731.7243233,
   "last_urgent_at": 1795364794.8011332,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Frontier Tech",
-    "Cybersecurity & Cloud",
-    "Startups & Funding"
+    "Cybersecurity & Cloud"
   ],
   "recent_sources": [
+    "Robotics & Automation News",
     "GuruFocus",
     "BigGo Finance",
     "Gistmania",
@@ -38,10 +39,10 @@
     "Crunchbase News",
     "Bloomberg.com",
     "BW Disrupt",
-    "BleepingComputer",
-    "Crunchbase News"
+    "BleepingComputer"
   ],
   "recent_titles": [
+    "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
     "Amazon (AMZN) Nears $7.5 Billion Acquisition of AI Startup Decar",
     "Anthropic's $93.5 Billion IPO Marks Record Debut, Then US Stocks Plunge; Nasdaq Drops 5.28% in a Single Day, Erasing Year-to-Date Gains",
     "Hackers Breach FBI’s National Crime Database, Raising Fresh Security Concerns",
@@ -160,8 +161,7 @@
     "Stablecoin Regulation: OCC Rule and $850B Lending Impact",
     "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
     "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO",
-    "Ohio Labor Groups Back AI Regulation Bill HB 1032",
-    "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?"
+    "Ohio Labor Groups Back AI Regulation Bill HB 1032"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -172,6 +172,7 @@
     "0a0f1d2b456a5be9b0514d34af504117204aaf3b52fb754f8b82beb0d6d352cb": 1794058175.9314573,
     "0a5f0c6cd1e5efdfb2f41ee3256a0a158d61988d8682225b0db4b8fbf7b53b07": 1793081537.4299018,
     "0d479f9ff9a1e6a6c053e9a5bf80d317ebe2f9b8be19343243d224f3c09a2a20": 1794653964.743016,
+    "0f09467ea39ce52aba44494a147ee17a8e57c05888d050fe4e1da369c9764f3f": 1795384731.7243233,
     "107d5dd04d7c82bda22c7e16ccf0f62ae474436dace71e49f44ea9b2bae70b1c": 1793586205.861521,
     "10bc90874909aa7324ba76ff13af761ff5abf8ee981efa2f1a1d23f406af42b5": 1792857117.925707,
     "1144c5615666ba46f8afb21f5052d9e7ee93a6aac13395ca5536b25a338179f1": 1794987780.089219,
@@ -331,7 +332,6 @@
     "c0546abf8e3cc1946e522ecf5051137c50531311493bc97f6d63a1b538f405cd": 1794847191.6596754,
     "c08bcde74712f464c334779dd04e831249baabd9cfbd5370e6617f57a25468b7": 1793948410.9601357,
     "c127fb81370228c2c8a7e032eb80579987c1ec05d4accce125213d065eb8d896": 1792535781.706405,
-    "c5f5ecafb1bf08c92d096eca3b10b22db129fa80d1e7719baae2b24bffa4bad5": 1791487870.4561458,
     "c816793452603f9e3436a722af5e0a5d1e35ffb70b8bf9ba48d800b26e5213d9": 1795200530.3842638,
     "ca169d9b8c61c3062b1cfa2222025f199c9f5ff7ef5ae1f29c2cf3d9eada5dd6": 1792091043.4185154,
     "cb1533fede4e6f45993c716df3b65ef78e8e885302a96f773351fe936882ed0e": 1794306633.6580493,
