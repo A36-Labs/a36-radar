@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795384731.7243233,
+  "last_post_at": 1795401334.6417677,
   "last_urgent_at": 1795364794.8011332,
   "recent_categories": [
+    "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Startups & Funding",
-    "Frontier Tech",
-    "Cybersecurity & Cloud"
+    "Frontier Tech"
   ],
   "recent_sources": [
+    "YourStory.com",
     "Robotics & Automation News",
     "GuruFocus",
     "BigGo Finance",
@@ -38,10 +39,10 @@
     "PYMNTS.com",
     "Crunchbase News",
     "Bloomberg.com",
-    "BW Disrupt",
-    "BleepingComputer"
+    "BW Disrupt"
   ],
   "recent_titles": [
+    "VC funding rebounds as startups raise $255M; Women founders driving social change",
     "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
     "Amazon (AMZN) Nears $7.5 Billion Acquisition of AI Startup Decar",
     "Anthropic's $93.5 Billion IPO Marks Record Debut, Then US Stocks Plunge; Nasdaq Drops 5.28% in a Single Day, Erasing Year-to-Date Gains",
@@ -160,8 +161,7 @@
     "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
     "Stablecoin Regulation: OCC Rule and $850B Lending Impact",
     "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
-    "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO",
-    "Ohio Labor Groups Back AI Regulation Bill HB 1032"
+    "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -354,6 +354,7 @@
     "dd69e28d2db5c7b5143a957f52d22bd8a321aa5e19fe0a3115ef1da34d0b5503": 1791727950.99479,
     "e1d54b3724ab31c09cf3fd03e2ddaefd1f1f81b22c24f59fe0bee463fcf93fe8": 1792798178.8257933,
     "e2ddab94a23589de0ac0c0247f01f14da78e7e866b1cc31755efcf489cac7bbe": 1792825989.936368,
+    "e5863821a17c104e3c08c23d18e320da9534cd6133707aa7920ccdc544cb8438": 1795401334.6417677,
     "e5e753e53547db85c5ae0e1d95f2a15a1da876ac4cc9dd9ddb77330c68c29b83": 1795061731.5887141,
     "e60b732787c9097b3e81016c6406fe57a39f2b93d8e5e428869276f94888110f": 1793699950.6905324,
     "e960c849702c80bfe0fc163f78c61117b283ae7acbc3ead6194fa0741d82893f": 1792562262.0020888,
@@ -363,7 +364,6 @@
     "ef3a4ab8df2fdd35eab275d94b6947fe46661b14b8910e779f5d4cdf8dcb74bf": 1793172782.241517,
     "efae4015e10bebe0a12c6197e24b48417923236c0fbd6f52fa58136b48197f64": 1791598572.30811,
     "efffcdcf80fe72f08d08bf3907ded26c07e9e0d3ac8e1965786080a027216b7c": 1793413851.9807076,
-    "f47e8120452d11a071875718cce284acd0a82bd967dd121685748c9a8f60c4c6": 1791503723.4834254,
     "f5d17e7eef96088bb2a4001e6a97a2dcaa64f083321d5b459985fe7edc317dbe": 1791875054.5598104,
     "f5eb3aedecaa8913ac7d04bdb3177f0d1114bd1de8bc08fcce76c529640caa1e": 1794444662.5858984,
     "f72d0e79f7400cf7362403c27ca6ce498f8328c6135bffc5206cb1db6670ea81": 1792234633.799072,
