@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795401334.6417677,
+  "last_post_at": 1795432489.468079,
   "last_urgent_at": 1795364794.8011332,
   "recent_categories": [
+    "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Startups & Funding",
-    "Frontier Tech"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Dealroom",
     "YourStory.com",
     "Robotics & Automation News",
     "GuruFocus",
@@ -38,10 +39,10 @@
     "CTech",
     "PYMNTS.com",
     "Crunchbase News",
-    "Bloomberg.com",
-    "BW Disrupt"
+    "Bloomberg.com"
   ],
   "recent_titles": [
+    "Defense AI startup Agon raises $70M Series A at $450M valuation",
     "VC funding rebounds as startups raise $255M; Women founders driving social change",
     "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
     "Amazon (AMZN) Nears $7.5 Billion Acquisition of AI Startup Decar",
@@ -160,8 +161,7 @@
     "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?",
     "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
     "Stablecoin Regulation: OCC Rule and $850B Lending Impact",
-    "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
-    "Kae, Accel, Peak XV, and Lightspeed to gain ₹1,215 crore from Zetwerk IPO"
+    "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -235,7 +235,6 @@
     "495b585a752db231d0d8c970e95efdea7c15dd2a6399fb31ca902950276f5bb9": 1794148181.5241337,
     "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
-    "4c39d2185587e19ab3f6b0c9230c93ed915b3e5b9ee312c53f563f599cf4d366": 1791525566.4402003,
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
     "51125a17309b39eec3240b8930d8569563c69ea97644d881eca128c5d322cb60": 1794255134.0916662,
@@ -366,6 +365,7 @@
     "efffcdcf80fe72f08d08bf3907ded26c07e9e0d3ac8e1965786080a027216b7c": 1793413851.9807076,
     "f5d17e7eef96088bb2a4001e6a97a2dcaa64f083321d5b459985fe7edc317dbe": 1791875054.5598104,
     "f5eb3aedecaa8913ac7d04bdb3177f0d1114bd1de8bc08fcce76c529640caa1e": 1794444662.5858984,
+    "f72632a453e14dc8ccdf82f5662523f7d3f2344d7a70b51952c6ab9dcbe25d7b": 1795432489.468079,
     "f72d0e79f7400cf7362403c27ca6ce498f8328c6135bffc5206cb1db6670ea81": 1792234633.799072,
     "faabdeb4b4e763fb8c2a4db5ce376664130ecca013cdb756c897127bb648e5a7": 1792582783.7837272,
     "fb6e04f88a26c54e4b6839cdc577b2c93574cbbd8a281a8c01484034af809963": 1792185780.3649104,
