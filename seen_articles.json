@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795432489.468079,
+  "last_post_at": 1795473884.0890334,
   "last_urgent_at": 1795364794.8011332,
   "recent_categories": [
+    "AI & Agents",
     "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
-    "Startups & Funding"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "Dealroom",
     "YourStory.com",
     "Robotics & Automation News",
@@ -38,10 +39,10 @@
     "Dealroom",
     "CTech",
     "PYMNTS.com",
-    "Crunchbase News",
-    "Bloomberg.com"
+    "Crunchbase News"
   ],
   "recent_titles": [
+    "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "Defense AI startup Agon raises $70M Series A at $450M valuation",
     "VC funding rebounds as startups raise $255M; Women founders driving social change",
     "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
@@ -160,8 +161,7 @@
     "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
     "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?",
     "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-    "Stablecoin Regulation: OCC Rule and $850B Lending Impact",
-    "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC"
+    "Stablecoin Regulation: OCC Rule and $850B Lending Impact"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -237,10 +237,10 @@
     "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
+    "50de2e5d7b9a6d24b6edcb9948c7a8a8c2c6aa03c57818140931fbfd4eb85feb": 1795473884.0890334,
     "51125a17309b39eec3240b8930d8569563c69ea97644d881eca128c5d322cb60": 1794255134.0916662,
     "527bb007597d97e37660d6e197317d8672d4aae9bf4e7222f3c38527a1555c2e": 1795364794.8011332,
     "53bc6328fc8da0827776af126662846a96721fbb4c2fe73f9d5dd6dca744d778": 1792884240.1905084,
-    "54eff4d20d2e89bce1e64065e300654c8ef90677c3647bc282a89ae935024fa7": 1791551243.275132,
     "557e419a89a9306e1b9fbda114768c446ab2c5a88014d7d5c2761a32f49dc760": 1795095064.4450512,
     "580313dd9361042dcca4e9a410fa5939fc1a4cf7935959d46b068c4972a8cbf0": 1792955268.3864894,
     "586845c3fe89407a98dde4782994ba742629fe3ceb685eca4a28a0536e3654b9": 1791935586.5446475,
@@ -299,7 +299,6 @@
     "986dc6e0ef5764582c555fba74b465a37bcc3e8a3837b4a991eaddafca3f30fc": 1792701999.920217,
     "996fd72e547a900a15038af4ed60cf112496a9bc5552d97e5d533a5cf1707fd6": 1791643737.4364736,
     "9a8427db0c38eabbe3748a04575ae585c8a46d9fab9f08cb428986feed4f21fa": 1793230822.0322297,
-    "9c8bba905fc4de85e98a6d2e9c28fabc7cf26a5fab36fdef25f90d9693d4f124": 1791571913.6474025,
     "a140fe2d50951e95a3d46d92bc1bb02846398a41861a4ca2784c0a3be07b0939": 1793574108.4757452,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
