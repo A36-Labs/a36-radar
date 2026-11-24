@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795501844.8854241,
-  "last_urgent_at": 1795501844.8854241,
+  "last_post_at": 1795544049.9012647,
+  "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
     "Policy & Regulation",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "TechCrunch AI",
     "JNS",
     "TechCrunch AI",
     "Dealroom",
@@ -38,10 +39,10 @@
     "The Hacker News",
     "TechCrunch AI",
     "Dealroom",
-    "CTech",
-    "PYMNTS.com"
+    "CTech"
   ],
   "recent_titles": [
+    "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
     "Amazon announces acquisition of Israeli AI startup Decart for $7.5 billion",
     "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "Defense AI startup Agon raises $70M Series A at $450M valuation",
@@ -160,8 +161,7 @@
     "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding",
     "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
     "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
-    "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?",
-    "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication"
+    "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -223,7 +223,6 @@
     "3eb583be53fac35f3e8f038802b42790b105b32d855305664193eea4747748ad": 1793309010.6811535,
     "429def63f2e1fcf1a12d8f7a873c79dd7e7b851e628ff18fda6c10f21d0dadaa": 1792362891.6880653,
     "42a04e80bbae3a84110a7d3d664ca45e46827c0cde907a391a9c0c2e61e4fe01": 1794937854.6620944,
-    "431a5da50ceccaab7098c611558246021e15f0df8916677631b03f96e1c8bb45": 1791621571.38435,
     "433589b787ad14f8ba771a38349cd6907df0a305396076b376c72da663c92ed6": 1794075349.6068943,
     "45245adb93bfaf0bfa1da4296b719cd8e04dfbe196afc9f6fd87485386555113": 1792787843.980366,
     "4596eb216649dba51f01f61d7cdbd03175206c9efd2267c01b44da1970da7e96": 1792041026.388876,
@@ -270,6 +269,7 @@
     "769a2806f74afff99776c1ba727aef161d71966af67f1111d05e462baa560228": 1792910834.3145518,
     "78f18069a4e318d3cb44eff70380769ea9428784dc29222b2b00559de5bc27f0": 1792613674.9690444,
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
+    "79feb33d963499c4562a067fbdca1d08d57b5375bef475a5a6947b24d16369db": 1795544049.9012647,
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
     "7ca26d08c4a4539986b7cd64a776c446772a20b058d995e4ca827ee2f87bc744": 1794420531.4425526,
     "7e178112431626b6ffd14bc5924255d79f593469ae68e4105a1d27f46856a50b": 1795020239.9798598,
@@ -297,7 +297,6 @@
     "980bd436986d4c3c7d339e476d6324cbc96efb255fbf9b9afd139a374d1943db": 1793267366.3250353,
     "98346e1a627246a63b1c8e6c31dce82df5b67e0d59b9bbd4452f50b98ea8bc71": 1793561651.27666,
     "986dc6e0ef5764582c555fba74b465a37bcc3e8a3837b4a991eaddafca3f30fc": 1792701999.920217,
-    "996fd72e547a900a15038af4ed60cf112496a9bc5552d97e5d533a5cf1707fd6": 1791643737.4364736,
     "9a8427db0c38eabbe3748a04575ae585c8a46d9fab9f08cb428986feed4f21fa": 1793230822.0322297,
     "a140fe2d50951e95a3d46d92bc1bb02846398a41861a4ca2784c0a3be07b0939": 1793574108.4757452,
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
