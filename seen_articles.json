@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795473884.0890334,
-  "last_urgent_at": 1795364794.8011332,
+  "last_post_at": 1795501844.8854241,
+  "last_urgent_at": 1795501844.8854241,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "AI & Agents",
     "Startups & Funding",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "JNS",
     "TechCrunch AI",
     "Dealroom",
     "YourStory.com",
@@ -38,10 +39,10 @@
     "TechCrunch AI",
     "Dealroom",
     "CTech",
-    "PYMNTS.com",
-    "Crunchbase News"
+    "PYMNTS.com"
   ],
   "recent_titles": [
+    "Amazon announces acquisition of Israeli AI startup Decart for $7.5 billion",
     "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "Defense AI startup Agon raises $70M Series A at $450M valuation",
     "VC funding rebounds as startups raise $255M; Women founders driving social change",
@@ -160,8 +161,7 @@
     "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
     "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
     "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?",
-    "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-    "Stablecoin Regulation: OCC Rule and $850B Lending Impact"
+    "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -173,6 +173,7 @@
     "0a5f0c6cd1e5efdfb2f41ee3256a0a158d61988d8682225b0db4b8fbf7b53b07": 1793081537.4299018,
     "0d479f9ff9a1e6a6c053e9a5bf80d317ebe2f9b8be19343243d224f3c09a2a20": 1794653964.743016,
     "0f09467ea39ce52aba44494a147ee17a8e57c05888d050fe4e1da369c9764f3f": 1795384731.7243233,
+    "105f402ce2b2f649ecbe4b497ae2155b9776a6ca33dae705625edf9d2e2756f6": 1795501844.8854241,
     "107d5dd04d7c82bda22c7e16ccf0f62ae474436dace71e49f44ea9b2bae70b1c": 1793586205.861521,
     "10bc90874909aa7324ba76ff13af761ff5abf8ee981efa2f1a1d23f406af42b5": 1792857117.925707,
     "1144c5615666ba46f8afb21f5052d9e7ee93a6aac13395ca5536b25a338179f1": 1794987780.089219,
@@ -233,7 +234,6 @@
     "47cff51dbeacf154db47b2078e0e2c9594922149e49cdb108fa41eaf440829ec": 1794729379.9367487,
     "4800f0a769adc19efa4664297fbda72e45ccc304d42ae10c8affdfe066ec9090": 1795220503.971402,
     "495b585a752db231d0d8c970e95efdea7c15dd2a6399fb31ca902950276f5bb9": 1794148181.5241337,
-    "4acc08906cffcab2d3861d6b7a83b5052a593c8509d2d13cca063111a153bdd0": 1791586747.552866,
     "4b2adfa4da5cd2d23de9ffa890c08a18f7cad97e45667a42a89d211aea4a55b8": 1793496352.190372,
     "4d79c82327cbe5a7f859fa37dbf5d711b24a7840f87573a31782b8ccec23a228": 1792160480.299889,
     "4f3ac79b26aecda486b449c00f135891dd2bdc73fd20ecf651c6917adbc2503c": 1792965248.3070855,
@@ -360,7 +360,6 @@
     "ea731ab3ee6beef27f3f4246b02bf7b2be8aed43b28a74c4c66167eec0374df6": 1792174409.6254666,
     "ede8a90f17f3bbf0e38515ce36caa91b6ecf7a359868916645932a78544fc867": 1794627494.02203,
     "ef3a4ab8df2fdd35eab275d94b6947fe46661b14b8910e779f5d4cdf8dcb74bf": 1793172782.241517,
-    "efae4015e10bebe0a12c6197e24b48417923236c0fbd6f52fa58136b48197f64": 1791598572.30811,
     "efffcdcf80fe72f08d08bf3907ded26c07e9e0d3ac8e1965786080a027216b7c": 1793413851.9807076,
     "f5d17e7eef96088bb2a4001e6a97a2dcaa64f083321d5b459985fe7edc317dbe": 1791875054.5598104,
     "f5eb3aedecaa8913ac7d04bdb3177f0d1114bd1de8bc08fcce76c529640caa1e": 1794444662.5858984,
