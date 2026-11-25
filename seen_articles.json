@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795544049.9012647,
+  "last_post_at": 1795574204.9317727,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "AI & Agents",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
     "Markets, IPOs & M&A",
-    "Policy & Regulation",
-    "Markets, IPOs & M&A"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "McGuireWoods",
     "TechCrunch AI",
     "JNS",
     "TechCrunch AI",
@@ -38,10 +39,10 @@
     "Cointelegraph",
     "The Hacker News",
     "TechCrunch AI",
-    "Dealroom",
-    "CTech"
+    "Dealroom"
   ],
   "recent_titles": [
+    "Antitrust after the Midterms: Merger Enforcement, AI Safety Coordination and College Sports Take Center Stage",
     "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
     "Amazon announces acquisition of Israeli AI startup Decart for $7.5 billion",
     "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -160,15 +161,13 @@
     "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch",
     "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding",
     "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
-    "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
-    "Ares Management Q3 Earnings Preview: Can A $114B Secret Weapon Save The Stock on Oct. 29?"
+    "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
     "01f740422f9c2e00f36dc33aecadfe6a890ab9df26e0a46484c5cdeca35b6270": 1795124767.0676663,
     "043237a7d0bcd47f460b47196891896893ecdf5b1b590cb74e969d176375d384": 1793977059.4911058,
     "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
-    "087539ee616d1a26dabdae3e8f6153cb24f44df22bd97d9e35dfca6a03b05799": 1791681159.0360405,
     "0a0f1d2b456a5be9b0514d34af504117204aaf3b52fb754f8b82beb0d6d352cb": 1794058175.9314573,
     "0a5f0c6cd1e5efdfb2f41ee3256a0a158d61988d8682225b0db4b8fbf7b53b07": 1793081537.4299018,
     "0d479f9ff9a1e6a6c053e9a5bf80d317ebe2f9b8be19343243d224f3c09a2a20": 1794653964.743016,
@@ -251,7 +250,6 @@
     "63348169caef9f275586e4feececaf03ab2d127be1c2d956575e11fd7fef58b8": 1791903511.0003948,
     "65ca8ec8b756446b77fad57f98b3dd19367c7393d2fa4ffb1109d2aee56549b9": 1793370069.610423,
     "661d355669e75a0e6f60c2c86f81a19ef4eda83ab59262f694aab5b5b3050182": 1792004357.6278722,
-    "66793d51353ce413244c3d0ceb2419d60a71b36c022763551a1181ef56161f88": 1791671194.5859864,
     "66b1712b5c98c86c95957a7f7a70bb90754867821f99c11ecc28088033493245": 1793242594.0476427,
     "692b39412797ce134cb031ee6ef2650c024aadefe17fdccc5ac4407163fb7fe8": 1794903946.75314,
     "6b6da74156a9c05c7dcae21ad727ee55dd52d28c70a61758ba54107df2653ae3": 1793998203.886525,
@@ -302,6 +300,7 @@
     "a3996b07de93a7768f7e2c2abf47c7941e23556fe3a2aabe49efa5da1ecac6ee": 1792076259.7834842,
     "a3ebd45c551ccac3c8082372d06c04191b8948925790d88870f20905791aee90": 1792720919.3015091,
     "a4e145970df7415baa1e3280bfb40ad766972b414d3ae5f9e0c0a199aaf8b078": 1794033094.4670005,
+    "a61066cdea1534edc22f30461bb6775aab975894e38f28004be868ceeff52752": 1795574204.9317727,
     "a6c48ae206a22ee68a8da763a8044c18f68ea9033cb9e12ae7ebcc4a4ef816d9": 1793344700.5681689,
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
@@ -336,7 +335,6 @@
     "cd0aed9c49eae32215df2fa5b2cab75b622e1860e17de51101930aa82de45e3e": 1792246222.0068867,
     "d059fed9e375af814b4043fa83c02213884f8a265e2a202b6065bfac11fdf879": 1793104012.5258741,
     "d1143723fa5c96488ea7bc4775fb3b782db4da6831246741ced9dd696f9d6d7e": 1792843495.23797,
-    "d21088aa64f96fc97f57bec3cd0dbf51ad28bec1ce280c0276e2dd101b20169f": 1791658673.827221,
     "d239b133d3b1e0075e02e529ebfd883f7082d53a4541700cc0b19a23a0c239b0": 1794613335.6965163,
     "d328667e5f11c99cc1fb9c350ff233667630df2cdcf0fb8475f58a6d71ad03f2": 1793472925.8483772,
     "d3b1511ab44ff500555edcf155c61b88e7108ab426f286b6df1a22d88a5f9c4d": 1794365914.9129372,
