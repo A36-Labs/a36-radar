@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795574204.9317727,
+  "last_post_at": 1795606967.476446,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Web3 & Digital Assets",
     "Policy & Regulation",
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Cybersecurity & Cloud",
-    "Markets, IPOs & M&A",
-    "Policy & Regulation"
+    "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "Decrypt",
     "McGuireWoods",
     "TechCrunch AI",
     "JNS",
@@ -38,10 +39,10 @@
     "Reuters",
     "Cointelegraph",
     "The Hacker News",
-    "TechCrunch AI",
-    "Dealroom"
+    "TechCrunch AI"
   ],
   "recent_titles": [
+    "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
     "Antitrust after the Midterms: Merger Enforcement, AI Safety Coordination and College Sports Take Center Stage",
     "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
     "Amazon announces acquisition of Israeli AI startup Decart for $7.5 billion",
@@ -160,8 +161,7 @@
     "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)",
     "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch",
     "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding",
-    "Revolut Targets US Listing and $200 Billion Valuation for Its IPO",
-    "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide"
+    "Revolut Targets US Listing and $200 Billion Valuation for Its IPO"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -176,7 +176,6 @@
     "107d5dd04d7c82bda22c7e16ccf0f62ae474436dace71e49f44ea9b2bae70b1c": 1793586205.861521,
     "10bc90874909aa7324ba76ff13af761ff5abf8ee981efa2f1a1d23f406af42b5": 1792857117.925707,
     "1144c5615666ba46f8afb21f5052d9e7ee93a6aac13395ca5536b25a338179f1": 1794987780.089219,
-    "1247e0f0d1f40225c16dc6938727de2f45aa33b46bc0e41e784752d761c89254": 1791703181.4858701,
     "13047ca1e5e59982fca4bb447862a3417cc0679157f3886d8f2a3a2d25399ce9": 1792407382.5333972,
     "1444471a83348c34aa1cb41b191f49f005814f1e7e50f06c15f962bfebdb9acd": 1793786279.237595,
     "14e672de6042975d56ace5d0d564ebba6ff3f0c585763f53b05591231990d717": 1794190032.5867636,
@@ -270,6 +269,7 @@
     "79feb33d963499c4562a067fbdca1d08d57b5375bef475a5a6947b24d16369db": 1795544049.9012647,
     "7c77c89f9aa532c2f5d279b902371bba9f13d571d3d5778f3677abb8a1234c58": 1792369673.4230442,
     "7ca26d08c4a4539986b7cd64a776c446772a20b058d995e4ca827ee2f87bc744": 1794420531.4425526,
+    "7cd6d189841ef59dfbd9099ddb91bd11d2f82429e16709000faed00d6449ad16": 1795606967.476446,
     "7e178112431626b6ffd14bc5924255d79f593469ae68e4105a1d27f46856a50b": 1795020239.9798598,
     "7e32f740e3b97f0eb899658cf7c144dcf4473093c34b00ed6416d45bf0012365": 1794011251.659204,
     "7f678ce2eaaf83ff716c37f695863adca867d904b6e66577dc91fe10244b1391": 1792102300.788147,
