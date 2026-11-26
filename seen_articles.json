@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795697577.7947404,
+  "last_post_at": 1795731324.2004461,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Startups & Funding",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Startups & Funding",
@@ -18,10 +19,10 @@
     "Open Source & DevTools",
     "Web3 & Digital Assets",
     "Policy & Regulation",
-    "AI & Agents",
-    "Startups & Funding"
+    "AI & Agents"
   ],
   "recent_sources": [
+    "Wowtale",
     "Bloomberg.com",
     "매일경제",
     "Yahoo",
@@ -38,10 +39,10 @@
     "Gistmania",
     "CoinDesk",
     "Arabian Business",
-    "VentureBeat",
-    "Reuters"
+    "VentureBeat"
   ],
   "recent_titles": [
+    "AI Media Startup Every Raises $17.5M Series A at $110M Valuation",
     "StanChart’s Crypto Custody Unit Suffers Data Breach",
     "Deep Tech Accelerator Blue Point Partners announced on the 26th that it will hold the first seminar",
     "Pentagon’s Reported $15B Loan to Trump-Tied Startup Raises Questions",
@@ -160,8 +161,7 @@
     "US robotics startup Bedrock raises $600m at $4.1b valuation",
     "Equities end higher as Anthropic's IPO filing buoys AI stocks",
     "Faraday Future Announces Completion of FFR’s Acquisition of FF Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform; October Robot Sales to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots",
-    "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-    "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)"
+    "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -240,6 +240,7 @@
     "557e419a89a9306e1b9fbda114768c446ab2c5a88014d7d5c2761a32f49dc760": 1795095064.4450512,
     "580313dd9361042dcca4e9a410fa5939fc1a4cf7935959d46b068c4972a8cbf0": 1792955268.3864894,
     "586845c3fe89407a98dde4782994ba742629fe3ceb685eca4a28a0536e3654b9": 1791935586.5446475,
+    "586de11ade1da6ecf961cb4729cc74a44eab108e27d533845fc4fc354b40327a": 1795731324.2004461,
     "593d545edd9c17b2c2912b4f1a70e850dc11dc6101885402028fb9bff4e1cbe4": 1792346533.9235616,
     "5c7800e5a7deae479dd939e4bd7fee17e1fe406bf176fa5a62e967012093365f": 1792806951.9100459,
     "5e8dd9eaafc96b97cd3a846e3bde3487916470bb60fd32c9542160b7b34925df": 1792335246.6637492,
@@ -303,7 +304,6 @@
     "a9582e9d0a109b6935d7bd53986391bef7a908f5b0a43d135e75b072401de986": 1792279862.4287822,
     "a9ec5a8727c08bb049fa3838bd0761958eb1e5d5e2ee6c949f2ed16f1d7ecdc2": 1793139903.3406265,
     "ac7f4e88525ef989d4b6b08df9e8b43eb141586ef18d75005c5a33c3c20394a2": 1794393917.488697,
-    "acf9242fe3bda80aaa4ab3e5f66cb560fdacbd8d26e381f48eaa0d0d436d7293": 1791828209.4570048,
     "ae8e4c8854f876a88bf412ebfb90b7a8532fa7e8b1697399a986ab05f195a084": 1795295188.1442556,
     "b16cd5b31916a112ee6601994dc2c041e53af167e4ea2b4ac8b08b338b4542cf": 1793485528.2249863,
     "b24b586029c91811cf31f24d0a58ae0839854414cb82fe0de0aa54b6276c9ae9": 1793760052.3757792,
