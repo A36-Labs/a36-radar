@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795639364.0805013,
+  "last_post_at": 1795662822.124207,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "VC & Accelerators",
     "Startups & Funding",
     "Web3 & Digital Assets",
     "Policy & Regulation",
@@ -18,10 +19,10 @@
     "Policy & Regulation",
     "AI & Agents",
     "Startups & Funding",
-    "Web3 & Digital Assets",
-    "Cybersecurity & Cloud"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "매일경제",
     "Yahoo",
     "Decrypt",
     "McGuireWoods",
@@ -38,10 +39,10 @@
     "Arabian Business",
     "VentureBeat",
     "Reuters",
-    "Cointelegraph",
-    "The Hacker News"
+    "Cointelegraph"
   ],
   "recent_titles": [
+    "Deep Tech Accelerator Blue Point Partners announced on the 26th that it will hold the first seminar",
     "Pentagon’s Reported $15B Loan to Trump-Tied Startup Raises Questions",
     "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
     "Antitrust after the Midterms: Merger Enforcement, AI Safety Coordination and College Sports Take Center Stage",
@@ -160,8 +161,7 @@
     "Faraday Future Announces Completion of FFR’s Acquisition of FF Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform; October Robot Sales to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots",
     "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
     "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)",
-    "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch",
-    "Year-old AI startup Flapping Airplanes raises $1 billion in Series A funding"
+    "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -179,7 +179,6 @@
     "13047ca1e5e59982fca4bb447862a3417cc0679157f3886d8f2a3a2d25399ce9": 1792407382.5333972,
     "1444471a83348c34aa1cb41b191f49f005814f1e7e50f06c15f962bfebdb9acd": 1793786279.237595,
     "14e672de6042975d56ace5d0d564ebba6ff3f0c585763f53b05591231990d717": 1794190032.5867636,
-    "15f308c4d9a50879d0e9e24b2153233017b07c6523beb5ef3ac2f6958d6beb80": 1791769898.0330148,
     "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "1a30f9456fdeac6a405cb40e98c7bf672cc5d9055d224e74f82895747da4bce1": 1793401824.860062,
     "1b0deeb9931be8effb737603685f65cbaadd27a7a8ecc911699a72aef96543fe": 1793850149.8167017,
@@ -291,7 +290,6 @@
     "94cd1eebf82b8e61db327eec0b56a829c8b5bf0822a3c8ae8d9c9ea370659895": 1793035062.3406851,
     "95f8189eee050a4d237009a0eab401b87da6f9463968b0f2c62f4fb52e033ebc": 1792690525.175634,
     "96525dfd21814cc6ca5948f1289c585d4c175ad83ef9f8c7fba2b805dce8c4e1": 1792524302.2708457,
-    "97b5beca77e182a7ccab6a0054b38200051a67f20a8988c261ea475ae514160a": 1791758943.230541,
     "980bd436986d4c3c7d339e476d6324cbc96efb255fbf9b9afd139a374d1943db": 1793267366.3250353,
     "98346e1a627246a63b1c8e6c31dce82df5b67e0d59b9bbd4452f50b98ea8bc71": 1793561651.27666,
     "986dc6e0ef5764582c555fba74b465a37bcc3e8a3837b4a991eaddafca3f30fc": 1792701999.920217,
@@ -361,6 +359,7 @@
     "f5eb3aedecaa8913ac7d04bdb3177f0d1114bd1de8bc08fcce76c529640caa1e": 1794444662.5858984,
     "f72632a453e14dc8ccdf82f5662523f7d3f2344d7a70b51952c6ab9dcbe25d7b": 1795432489.468079,
     "f72d0e79f7400cf7362403c27ca6ce498f8328c6135bffc5206cb1db6670ea81": 1792234633.799072,
+    "fa45712d9d3eebe16f61b224edfb603e75bdd5da4b203b3b1a75bfed77adc9e5": 1795662822.124207,
     "faabdeb4b4e763fb8c2a4db5ce376664130ecca013cdb756c897127bb648e5a7": 1792582783.7837272,
     "fb6e04f88a26c54e4b6839cdc577b2c93574cbbd8a281a8c01484034af809963": 1792185780.3649104,
     "fc91fdf5729628696c644b0521e4ac6cff2ae8c76064ee076c4a7d22c65c4bb1": 1793388707.715155,
