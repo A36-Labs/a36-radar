@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795662822.124207,
+  "last_post_at": 1795697577.7947404,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Cybersecurity & Cloud",
     "VC & Accelerators",
     "Startups & Funding",
     "Web3 & Digital Assets",
@@ -18,10 +19,10 @@
     "Web3 & Digital Assets",
     "Policy & Regulation",
     "AI & Agents",
-    "Startups & Funding",
-    "Web3 & Digital Assets"
+    "Startups & Funding"
   ],
   "recent_sources": [
+    "Bloomberg.com",
     "매일경제",
     "Yahoo",
     "Decrypt",
@@ -38,10 +39,10 @@
     "CoinDesk",
     "Arabian Business",
     "VentureBeat",
-    "Reuters",
-    "Cointelegraph"
+    "Reuters"
   ],
   "recent_titles": [
+    "StanChart’s Crypto Custody Unit Suffers Data Breach",
     "Deep Tech Accelerator Blue Point Partners announced on the 26th that it will hold the first seminar",
     "Pentagon’s Reported $15B Loan to Trump-Tied Startup Raises Questions",
     "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
@@ -160,11 +161,11 @@
     "Equities end higher as Anthropic's IPO filing buoys AI stocks",
     "Faraday Future Announces Completion of FFR’s Acquisition of FF Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform; October Robot Sales to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots",
     "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-    "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)",
-    "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch"
+    "Emperador Ransomware Attack Analysis: AB InBev Azure Cloud Data Breach and PKI Certificate Exposure (October 2026)"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
+    "00bdd6c14a1af52e3b0f100ac905401bf19a0f363ce1f353d1a34192cfbbb778": 1795697577.7947404,
     "01f740422f9c2e00f36dc33aecadfe6a890ab9df26e0a46484c5cdeca35b6270": 1795124767.0676663,
     "043237a7d0bcd47f460b47196891896893ecdf5b1b590cb74e969d176375d384": 1793977059.4911058,
     "058802929387c80483a37f42f32fbc04d64c1f6e4abd3f895d1426b6b1d35a20": 1794217435.546218,
@@ -202,7 +203,6 @@
     "2fc7d8d0784d7aa7ab397aa06991fd7da6e279d986f75bf5e0d11d36b38f3135": 1794164658.425728,
     "30cb9db4881edd6ffa24949298895531146db8e1b2519d4fae1dd2ce11c11210": 1795246207.5382621,
     "3177a2102baa1ba26fd6cb0d82c29a4a84b1b906139e25cb3a42dcd37fd3d7ff": 1791923833.17859,
-    "31c7862ffbb4950d913fd1b9f57332f65e9e452a8a3c7fb23aaba2eaa7778d36": 1791793156.1848714,
     "33e758b5d9ac80e071857dccd9447f7cf1cba196906d1d1567ba126420f1080d": 1794123164.3969402,
     "33f8c85b431f66a401c49dbe500a91ce7fdbdac25a3e70645435a5281bf04cc9": 1793815021.087131,
     "3520b8ec407d32d007bd8488c7ee3ab8e546a6578a7c75cf1deae2b8c7b506b8": 1792876118.2056336,
