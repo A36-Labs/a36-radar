@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795753170.4975512,
+  "last_post_at": 1795788109.4382613,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Frontier Tech",
     "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
-    "Web3 & Digital Assets",
-    "Policy & Regulation"
+    "Web3 & Digital Assets"
   ],
   "recent_sources": [
+    "TradingView",
     "Scripps News",
     "Wowtale",
     "Bloomberg.com",
@@ -38,10 +39,10 @@
     "GuruFocus",
     "BigGo Finance",
     "Gistmania",
-    "CoinDesk",
-    "Arabian Business"
+    "CoinDesk"
   ],
   "recent_titles": [
+    "FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity",
     "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
     "AI Media Startup Every Raises $17.5M Series A at $110M Valuation",
     "StanChart’s Crypto Custody Unit Suffers Data Breach",
@@ -160,8 +161,7 @@
     "Anthropic Files for IPO With $16.3B Revenue and Massive AI Spending",
     "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
     "US robotics startup Bedrock raises $600m at $4.1b valuation",
-    "Equities end higher as Anthropic's IPO filing buoys AI stocks",
-    "Faraday Future Announces Completion of FFR’s Acquisition of FF Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform; October Robot Sales to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots"
+    "Equities end higher as Anthropic's IPO filing buoys AI stocks"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -213,6 +213,7 @@
     "3787fde16f821d3c467c6b7104f84214dccefca6df944e90b4f4549dca2485b1": 1793727909.03469,
     "378c661511818b8879d7d6d38eaa9df888dc0dfa01db0a761c0fb20fd52cf0fb": 1794353571.42743,
     "379db88f208995fa49b3c857a26d7f0b9d5434737937f4405bac68e21e5ac613": 1792457077.826608,
+    "38152a214d33a9d4a263bd5aa1d5d5285dd41f4c0990f0232b8a3adeb87db7da": 1795788109.4382613,
     "3acbbeec9e865413d8ab01fab5c8fd130683785d9af495e9bf5fc83d4e7b0ca1": 1793436586.8508682,
     "3aff6d85c6cf055804f155b1454496a707c90da8d0cd88f4153a44a46fa98d8b": 1794757000.325957,
     "3d378af6a437cfcd74dbf8a21e57f922aac23eb028a927c338be3218dd9d9b7b": 1793323166.0973525,
@@ -355,7 +356,6 @@
     "ede8a90f17f3bbf0e38515ce36caa91b6ecf7a359868916645932a78544fc867": 1794627494.02203,
     "ef3a4ab8df2fdd35eab275d94b6947fe46661b14b8910e779f5d4cdf8dcb74bf": 1793172782.241517,
     "efffcdcf80fe72f08d08bf3907ded26c07e9e0d3ac8e1965786080a027216b7c": 1793413851.9807076,
-    "f5d17e7eef96088bb2a4001e6a97a2dcaa64f083321d5b459985fe7edc317dbe": 1791875054.5598104,
     "f5eb3aedecaa8913ac7d04bdb3177f0d1114bd1de8bc08fcce76c529640caa1e": 1794444662.5858984,
     "f72632a453e14dc8ccdf82f5662523f7d3f2344d7a70b51952c6ab9dcbe25d7b": 1795432489.468079,
     "f72d0e79f7400cf7362403c27ca6ce498f8328c6135bffc5206cb1db6670ea81": 1792234633.799072,
