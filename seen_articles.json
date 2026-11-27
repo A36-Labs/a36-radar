@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795731324.2004461,
+  "last_post_at": 1795753170.4975512,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Markets, IPOs & M&A",
     "Startups & Funding",
     "Cybersecurity & Cloud",
     "VC & Accelerators",
@@ -18,10 +19,10 @@
     "Markets, IPOs & M&A",
     "Open Source & DevTools",
     "Web3 & Digital Assets",
-    "Policy & Regulation",
-    "AI & Agents"
+    "Policy & Regulation"
   ],
   "recent_sources": [
+    "Scripps News",
     "Wowtale",
     "Bloomberg.com",
     "매일경제",
@@ -38,10 +39,10 @@
     "BigGo Finance",
     "Gistmania",
     "CoinDesk",
-    "Arabian Business",
-    "VentureBeat"
+    "Arabian Business"
   ],
   "recent_titles": [
+    "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
     "AI Media Startup Every Raises $17.5M Series A at $110M Valuation",
     "StanChart’s Crypto Custody Unit Suffers Data Breach",
     "Deep Tech Accelerator Blue Point Partners announced on the 26th that it will hold the first seminar",
@@ -160,8 +161,7 @@
     "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
     "US robotics startup Bedrock raises $600m at $4.1b valuation",
     "Equities end higher as Anthropic's IPO filing buoys AI stocks",
-    "Faraday Future Announces Completion of FFR’s Acquisition of FF Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform; October Robot Sales to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots",
-    "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches"
+    "Faraday Future Announces Completion of FFR’s Acquisition of FF Robotics Business, Establishing a Nasdaq-Listed Humanoid and Bionic Robotics Platform; October Robot Sales to Exceed 300 Units; Unveils FF OmniMind, a Unified AI Brain for All Robots"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -264,6 +264,7 @@
     "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
     "769a2806f74afff99776c1ba727aef161d71966af67f1111d05e462baa560228": 1792910834.3145518,
+    "779ac66419d089d60b2614fc36cf9bd7c320a9118c37a8a0c2c6fee410271a55": 1795753170.4975512,
     "78f18069a4e318d3cb44eff70380769ea9428784dc29222b2b00559de5bc27f0": 1792613674.9690444,
     "791003e7255721150ff172513f7addd4545ed922d67df218fa9bf0f2ef08aa90": 1792491785.7440207,
     "79feb33d963499c4562a067fbdca1d08d57b5375bef475a5a6947b24d16369db": 1795544049.9012647,
@@ -320,7 +321,6 @@
     "bc576f826ef0ac9e7eb4bbcdc55ce2c3d54b1a3baa01a04c5db7ba65586fc76f": 1794178183.9795177,
     "bc9f646ca822e5a7f1cb9abdf109057e44f7e3eb8e046adbb409a83fbecd6d20": 1792544122.1313202,
     "bd628be1f6ba05442357a3215a5f0b85bf29a7df4c072078a338e807d63f1dea": 1792990774.9603872,
-    "bf538d2bcc7d5f32d5c49943bbc90f11ea7d2d58f4ae817883b9cc48084bbcb4": 1791851638.6394706,
     "bfaa1d722dec46a1e35157a18f7525b75ee6845711cd2bae045c96fa3a2a1c70": 1792973549.422616,
     "c003d13ecc5799f0ac4bd833ebb8467facef6bc74951f3325859f82859995d95": 1792273336.4715807,
     "c0546abf8e3cc1946e522ecf5051137c50531311493bc97f6d63a1b538f405cd": 1794847191.6596754,
