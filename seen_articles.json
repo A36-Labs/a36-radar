@@ -1,7 +1,8 @@
 {
-  "last_post_at": 1795839600.7400699,
+  "last_post_at": 1795872017.3767755,
   "last_urgent_at": 1795544049.9012647,
   "recent_categories": [
+    "Fintech & Payments",
     "Open Source & DevTools",
     "Policy & Regulation",
     "Frontier Tech",
@@ -18,10 +19,10 @@
     "Startups & Funding",
     "Startups & Funding",
     "Frontier Tech",
-    "Markets, IPOs & M&A",
     "Markets, IPOs & M&A"
   ],
   "recent_sources": [
+    "bloomingbit",
     "Bioengineer.org",
     "Reuters",
     "TradingView",
@@ -38,10 +39,10 @@
     "Dealroom",
     "YourStory.com",
     "Robotics & Automation News",
-    "GuruFocus",
-    "BigGo Finance"
+    "GuruFocus"
   ],
   "recent_titles": [
+    "BNB Chain, Woori Bank and BPN to Launch Pilot for Cross-Border Stablecoin Payments",
     "German Leaders Link Public Sector Open Source Adoption to National Security",
     "Chile's antitrust authority seeks $80 million Apple fine over iOS",
     "FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity",
@@ -160,8 +161,7 @@
     "Ahead of its public launch in November, Anthropic unveils its future vision for artificial intelligence",
     "Manufacturing accelerator Re:Build raises $2.1 billion — TechCrunch",
     "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-    "Anthropic Files for IPO With $16.3B Revenue and Massive AI Spending",
-    "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin"
+    "Anthropic Files for IPO With $16.3B Revenue and Massive AI Spending"
   ],
   "seen": {
     "00484015a20eb75f53aee901a1562258d71da3e550c2ab9078a4d69fa87fbc93": 1793050847.7677867,
@@ -180,7 +180,6 @@
     "13047ca1e5e59982fca4bb447862a3417cc0679157f3886d8f2a3a2d25399ce9": 1792407382.5333972,
     "1444471a83348c34aa1cb41b191f49f005814f1e7e50f06c15f962bfebdb9acd": 1793786279.237595,
     "14e672de6042975d56ace5d0d564ebba6ff3f0c585763f53b05591231990d717": 1794190032.5867636,
-    "190f4e5d3e5ace559d8e3f4e9c56a71236d1428601efbb42eb56a8315920db38": 1791953078.458353,
     "1a30f9456fdeac6a405cb40e98c7bf672cc5d9055d224e74f82895747da4bce1": 1793401824.860062,
     "1b0deeb9931be8effb737603685f65cbaadd27a7a8ecc911699a72aef96543fe": 1793850149.8167017,
     "1b6575f934bdc19130e90ecddd9ccf6122b74970276ac0d162aef0d3bd3670b3": 1793458282.1225288,
@@ -193,6 +192,7 @@
     "21949b592c27f6218311c70299619e19854730a71064779cc22bcfcf34f25867": 1793835304.9453182,
     "220cbc15441ca2a6e7aa104e99a6505cd8fabc7e3d3be4dba2c054941e90971f": 1793923737.955749,
     "22809a7680f3032a04376986a84d032bfc4296c89e8f23f64cfa114320b3e675": 1793217001.8224165,
+    "255f12aec88fa01bb6e5ef33f8c0f07468ee5192ee516df65c4444b2311db58c": 1795872017.3767755,
     "28c0644890f86701d1a884f2b880ac083d83de543b5f2408133e763d839440ea": 1794811924.8174958,
     "28c7fc0c347a4143fc17258a28a3ab63a218ad990a1729ece5dff35b997b64a2": 1792866534.7918925,
     "293559f2386ad9b6df5daea2ff1dbb85cdafc720b9826f3ec5ccaa7b288e8010": 1792740176.2554495,
@@ -260,7 +260,6 @@
     "6f0ff45298dab80990beb270aa232e0ec8a57d9daae96d7a1f4b3e5b0fd81803": 1792672305.4816089,
     "6f98170faf57c005b0a9db199ba723581711d2e144314988781d5580aa751820": 1793650646.8856652,
     "71b86eddc90cd1888ab6e52b7584743d59f2710301d45a38de0c70b6bbcf409c": 1792891997.331911,
-    "72e282ea19b052de0d1909e1e71ecb2efb64d130fe2961275cc8944c39258a9e": 1791971227.1800022,
     "749f5d7918c2d22b344d0ffce14cee4f8b3d6461e759ccde8d4937ba9a43f67b": 1792110572.9384494,
     "769a2806f74afff99776c1ba727aef161d71966af67f1111d05e462baa560228": 1792910834.3145518,
     "779ac66419d089d60b2614fc36cf9bd7c320a9118c37a8a0c2c6fee410271a55": 1795753170.4975512,
